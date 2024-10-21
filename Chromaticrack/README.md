@@ -1,0 +1,1 @@
+A configured 1.7 modsoup of a pack with a couple custom tweaks, intended to try out Chromaticraft alongside some other, potentially equally strong mods.
