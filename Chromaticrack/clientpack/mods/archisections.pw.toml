@@ -1,0 +1,13 @@
+name = "ArchiSections"
+filename = "ArchiSections 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "781bfe6e1dcb453c4876a5c0939b32554cd1be4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721197
+project-id = 355669
