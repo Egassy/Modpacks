@@ -1462,6 +1462,11 @@ hash = "a961f4745299a1b16ba7ea3d697c704b2fb1170bd4507dd56f646aafade7afa2"
 metafile = true
 
 [[files]]
+file = "mods/foxlib.pw.toml"
+hash = "6887a03bd972f2602e3215940db01af3316d23749ecf94b7a6eacc990a1a0e20"
+metafile = true
+
+[[files]]
 file = "mods/gadomancy.pw.toml"
 hash = "5a6d06ba2fa59f2fc680feba2a4e5999036f9ca07ba353d1133c3cfae082bcab"
 metafile = true
@@ -1654,6 +1659,11 @@ metafile = true
 [[files]]
 file = "mods/secretroomsmod.pw.toml"
 hash = "c94a12ea37153c35f337bfc66adcb658fc331b82758f7a9948ac356ca54b8fea"
+metafile = true
+
+[[files]]
+file = "mods/tails.pw.toml"
+hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
 metafile = true
 
 [[files]]

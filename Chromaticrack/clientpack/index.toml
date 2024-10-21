@@ -1357,6 +1357,11 @@ hash = "a6d69db5937964e1b895382deb25b9dcd500cf48e78debf3a5b279556a6d7f24"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2d8979b5daa642fbc61126aa3dd68387e6e8cbaef875a8aa9d9a470b7f8fe698"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "a979cfe0c5da4983086182892d7e4ffebddbdf053d3e531482c92a8340e8dace"
 metafile = true
@@ -1384,6 +1389,11 @@ metafile = true
 [[files]]
 file = "mods/dual-hotbar.pw.toml"
 hash = "05f68431d21ce77c1426026a8e261790b0facedbce26552e25fa015e9071c8ae"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "e273df70c0bd78211cac815228761b6a59a8829ecbb0e3f057ea407fd00fa008"
 metafile = true
 
 [[files]]
@@ -1459,6 +1469,11 @@ metafile = true
 [[files]]
 file = "mods/forge-relocation.pw.toml"
 hash = "a961f4745299a1b16ba7ea3d697c704b2fb1170bd4507dd56f646aafade7afa2"
+metafile = true
+
+[[files]]
+file = "mods/foxlib.pw.toml"
+hash = "6887a03bd972f2602e3215940db01af3316d23749ecf94b7a6eacc990a1a0e20"
 metafile = true
 
 [[files]]
@@ -1549,6 +1564,11 @@ metafile = true
 [[files]]
 file = "mods/morpheus.pw.toml"
 hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
 metafile = true
 
 [[files]]
@@ -1654,6 +1674,11 @@ metafile = true
 [[files]]
 file = "mods/secretroomsmod.pw.toml"
 hash = "c94a12ea37153c35f337bfc66adcb658fc331b82758f7a9948ac356ca54b8fea"
+metafile = true
+
+[[files]]
+file = "mods/tails.pw.toml"
+hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
 metafile = true
 
 [[files]]
