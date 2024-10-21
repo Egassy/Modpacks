@@ -1418,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-siege-mod.pw.toml"
-hash = "8fe2050928c6cf93b569236b041fb57b4418f55881cb5c814e18de675c1974c1"
+hash = "dfb84a3e045fdc52f29189d773bca73663b16795e1f75820dd6f0a2d6bf6bc15"
 metafile = true
 
 [[files]]
