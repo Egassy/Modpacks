@@ -1654,6 +1654,21 @@ hash = "549d81e68e9ffc1c09a9402e1bb3a5879d914757518017180dc12fb95a9f8ba6"
 metafile = true
 
 [[files]]
+file = "mods/tc4tweaks.pw.toml"
+hash = "101aa655a872db14174195933dc2594fcf83e0b8d6f2ee8e6b3e5c36b4cc4ed6"
+metafile = true
+
+[[files]]
+file = "mods/tcneiadditionsgtnh.pw.toml"
+hash = "891b8bcc5c8c1a7ec32fe06e6dce3a9b5df8473d5ff7259a6911b1c105f1a6d4"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-nei-plugin.pw.toml"
+hash = "f753f59a399e3dc7e7d9c1884965b32f2ccf5cce394dd0918ac7e9ab1029e787"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
 metafile = true
