@@ -1342,13 +1342,8 @@ hash = "4c1b847104b8e4e47637f06c299c71fe965204ade377dc5f0e6ca7946e2b8d58"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore-unofficial.pw.toml"
-hash = "11a84cd34078a2173cb72a96d16197d5e24ac557ca06c29f525cc3c0f1073744"
-metafile = true
-
-[[files]]
-file = "mods/codechickencore.pw.toml"
-hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
+file = "mods/codechickencore-gtnh.pw.toml"
+hash = "73a848f32e06c9ff2e9e85410886ff6281f7f07b72884db591cd6fd8f9d4bd44"
 metafile = true
 
 [[files]]
