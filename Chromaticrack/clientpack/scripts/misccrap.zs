@@ -7,9 +7,11 @@ mods.thaumcraft.Crucible.addRecipe("ASPECTS", <RandomThings:bloodStone>, <Random
 <RandomThings:bloodStone>.addTooltip("Charge outside during a Blood Moon");
 <RandomThings:bloodStone>.withTag({charges: 400}).addTooltip("Gives high regeneration without potion effect");
 
-
+Research.moveResearch("RC_Crowbar", "ARTIFICE", -9 as int, 3);
+Research.moveResearch("RC_Crowbar_Void", "ARTIFICE", -9 as int, 4);
 Research.moveResearch("PUREORE", "ALCHEMY", -1 as int, 7);
 Research.removeTab("AOBD");
+Research.removeTab("RAILCRAFT");
 
 #Remove Wand Focus: Liquefaction as it is redundant and I don't want to remove WF: Efreet's Flame because of how other many other researches depend on it.
 Research.orphanResearch("focusLiquefaction");

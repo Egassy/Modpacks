@@ -1647,6 +1647,11 @@ hash = "993efa16ab9ca4b7f03db8373d8e8114c039f73e5d4d4fb1dff13fb9b61e003e"
 metafile = true
 
 [[files]]
+file = "mods/railcraft.pw.toml"
+hash = "5614fb3ab583f05339d85c124289c167ee3f7b761fed208a30fc7e8a3d26441a"
+metafile = true
+
+[[files]]
 file = "mods/random-things.pw.toml"
 hash = "f29717f7ce683382cdf389d88b8a5700ef3573f708a2c7a24a52d40b1c22c505"
 metafile = true
