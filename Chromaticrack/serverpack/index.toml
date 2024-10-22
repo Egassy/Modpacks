@@ -1126,7 +1126,7 @@ hash = "5ac40021f3fbdba5538c2a1807effe4fe1bec96b46b16fcc0d75afd2a6ae281e"
 
 [[files]]
 file = "config/etfuturum/world.cfg"
-hash = "f18eee973ffbb10ff68a6251a8e96c16fae6210d7410f29d00583db0a39486ff"
+hash = "ba59326a0021e098e675f40428d4430b74b563a0c7f1f46f059d2e6e3fa70f32"
 
 [[files]]
 file = "config/fastcraft.ini"
