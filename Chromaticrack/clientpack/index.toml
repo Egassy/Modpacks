@@ -3043,6 +3043,11 @@ hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
 metafile = true
 
 [[files]]
+file = "mods/treecapitator.pw.toml"
+hash = "548becfe83371f2af2a3eb0918ac4f8a19e82a3f16c316ed11382b6caa807440"
+metafile = true
+
+[[files]]
 file = "mods/treeclimbing.pw.toml"
 hash = "ecc2f7e425e9ccfd2ab93fa3a3a875626434960cf270a2781f654346ad7ecab0"
 metafile = true
