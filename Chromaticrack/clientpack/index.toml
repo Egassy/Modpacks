@@ -550,7 +550,7 @@ hash = "497544417be08803b9ee618091b94afac1f838d7dd968e5d0f53dd58b1b40f3b"
 
 [[files]]
 file = "config/RandomThings.cfg"
-hash = "5eb5205f27cd8f45d30c037a165277a9b35cf5acd9ee0158068a877c7f23b88a"
+hash = "65a3bb0449cfd26bb12cfe8fc3833ca62a1c9ab107067f496f8103350c681683"
 
 [[files]]
 file = "config/Reika/ArchiSections.cfg"
@@ -3103,7 +3103,7 @@ hash = "4fd692be2a1a890dc041f802508ffcc16fdf0a35aaceb1cab9c433c6bb676a16"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "479bc764b4c7cd87765949d66a409d14449021877bcacf6c1c69c74de0b67656"
+hash = "61e5097753b6908ecd6f6d279b7fcd7e0fb0c82767f20250148dc2565df39a8d"
 
 [[files]]
 file = "scripts/tardis.zs"
