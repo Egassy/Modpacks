@@ -1,0 +1,13 @@
+name = "DiscordIntegrationUnofficial"
+filename = "DiscordIntegrationUnoffical-mc1.7.10-3.1.1_3.8.3_464.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d613d53334d30b5d31da6a8e0f61c71437ccdaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3147365
+project-id = 430684
