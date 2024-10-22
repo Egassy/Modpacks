@@ -1182,7 +1182,7 @@ hash = "2a4391302d9dce1023400d90a243da0d2327b8d66c157d303b52ea353492a729"
 
 [[files]]
 file = "config/iChunUtil_KeyBinds.cfg"
-hash = "cc70b9de251c369dd7e13b89fc82951f47a2b5fcbe9fc632bdd3921bc182f8aa"
+hash = "aceced0c3c1d75292609ec7890e08c7ff70638db2278f30a0e9866f43ee0afc0"
 
 [[files]]
 file = "config/machinemuse/custominstallcosts.json"
