@@ -661,6 +661,14 @@ file = "config/TinkersModules.cfg"
 hash = "fcb6b643f3645f5938a4b5c7b0d8e3a3e0e3299c432ee494bbc0e6fbf35dc253"
 
 [[files]]
+file = "config/TravellersGear.cfg"
+hash = "e8518a3d67043e7f6074e707f7a75fbd0d1a1b68238890c8379fc511a94a3292"
+
+[[files]]
+file = "config/TravellersGear_inv.cfg"
+hash = "d4556abb51467e569681b4cccb3059caf6043378c921afffa0d8ea31d2bd82d1"
+
+[[files]]
 file = "config/TwilightForest.cfg"
 hash = "d058e64de492306d0ea3d43d34288534efed949f1c9c406198d95bb4c06e38c5"
 
@@ -671,6 +679,10 @@ hash = "955e05d90d8036fdf39ed47d78868d5c6dcd9a42e08db8f208b6e728d0b9f7e6"
 [[files]]
 file = "config/Waila.cfg"
 hash = "ab625216f9857cc9ef43cabd0a8696fb262bd663152dc5e684d34a7be2f233f4"
+
+[[files]]
+file = "config/WitchingGadgets.cfg"
+hash = "ecbc0da90db48457b34e1fd0f33acb5013ac5f10fd9011c0b457f9b5ea1e426a"
 
 [[files]]
 file = "config/aobd.cfg"
