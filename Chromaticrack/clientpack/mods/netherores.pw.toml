@@ -1,0 +1,13 @@
+name = "NetherOres"
+filename = "NetherOres-[1.7.10]2.3.1-22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c189d6c1d531b1991fe72ed18a819d7bd049835a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2277488
+project-id = 66675

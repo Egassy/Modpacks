@@ -642,7 +642,7 @@ hash = "2adaefcd1f92762539e8e60bcc2ba0b75ecba5ed8a6a6637b971231568755617"
 
 [[files]]
 file = "config/ThaumicConcilium.cfg"
-hash = "d76d7be8e382b7c7311b858b5145dcf38a31b64cf18c1587722e74ba3069f177"
+hash = "ac76d2eac1afd5dc71b76e3cfa43a6bb8773f1e66094ccdd06f43cdda056cb4b"
 
 [[files]]
 file = "config/ThaumicHorizons.cfg"
@@ -2648,6 +2648,11 @@ hash = "73a848f32e06c9ff2e9e85410886ff6281f7f07b72884db591cd6fd8f9d4bd44"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
 file = "mods/computercraft.pw.toml"
 hash = "a6d69db5937964e1b895382deb25b9dcd500cf48e78debf3a5b279556a6d7f24"
 metafile = true
@@ -2875,6 +2880,11 @@ metafile = true
 [[files]]
 file = "mods/nei-addons.pw.toml"
 hash = "1f1b9809a0e8a144ea2428a67144256fbc9816f4a29a1878b4720558952ad391"
+metafile = true
+
+[[files]]
+file = "mods/netherores.pw.toml"
+hash = "d41e16c888f3d1e2425ff6981287e18f384d19099b2ed5fb408b5b1113271822"
 metafile = true
 
 [[files]]
