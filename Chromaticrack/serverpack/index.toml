@@ -1245,6 +1245,22 @@ file = "config/qCraft.cfg"
 hash = "d483c8e7671b0ff44600e0dea266f82675c139fe2606c4b31a1fdd5dd7683789"
 
 [[files]]
+file = "config/railcraft/blocks.cfg"
+hash = "ce9f9eb3f4e8ecc7098976b8624e8087e74b1cb38cf5ba62109d071a347e3f85"
+
+[[files]]
+file = "config/railcraft/items.cfg"
+hash = "404eea9aba721fb0acce831d8c49e122c9ee6d20123afb9179be39333dfe91d3"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "c95bad32fb0f769bf8040be6d8dd86ad33fb55678e05b27385585ea1210e4cf8"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "59abf88d046e0d8886331018d2b15f8009e49a1e17689b96b57a932ab8c7cc0f"
+
+[[files]]
 file = "config/secretroomsmod.cfg"
 hash = "f9834d231653a967ef47c07317e28701d0a732890800eff2f0e1178dfb0a3299"
 
@@ -1782,7 +1798,7 @@ hash = "4fd692be2a1a890dc041f802508ffcc16fdf0a35aaceb1cab9c433c6bb676a16"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "500e62544237a63927f09ad40507192813da2746e1223ff35cfc560c094abe9d"
+hash = "479bc764b4c7cd87765949d66a409d14449021877bcacf6c1c69c74de0b67656"
 
 [[files]]
 file = "scripts/tardis.zs"
