@@ -1748,6 +1748,11 @@ hash = "d5851efec1ffd8b3a51d23d820731b7517d3913984c35009f260cd1d4185b9bf"
 metafile = true
 
 [[files]]
+file = "mods/travellers-gear.pw.toml"
+hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
+metafile = true
+
+[[files]]
 file = "mods/treeclimbing.pw.toml"
 hash = "ecc2f7e425e9ccfd2ab93fa3a3a875626434960cf270a2781f654346ad7ecab0"
 metafile = true
@@ -1790,6 +1795,11 @@ metafile = true
 [[files]]
 file = "mods/witchery.pw.toml"
 hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
+metafile = true
+
+[[files]]
+file = "mods/witching-gadgets.pw.toml"
+hash = "6cd1221de5da803dd806670b14bc35238fc1bc3207d41b3f114ed4e3bb7060d5"
 metafile = true
 
 [[files]]
