@@ -1382,11 +1382,6 @@ hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
 
 [[files]]
-file = "mods/dual-hotbar.pw.toml"
-hash = "05f68431d21ce77c1426026a8e261790b0facedbce26552e25fa015e9071c8ae"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "e273df70c0bd78211cac815228761b6a59a8829ecbb0e3f057ea407fd00fa008"
 metafile = true

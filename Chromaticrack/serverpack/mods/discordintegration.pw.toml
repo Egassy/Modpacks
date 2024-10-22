@@ -1,0 +1,13 @@
+name = "DiscordIntegration"
+filename = "DiscordIntegration-mc1.7.10-3.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43a2fb731f4ae8760e8c02b448f6cb9b12ccaee1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2542338
+project-id = 245288

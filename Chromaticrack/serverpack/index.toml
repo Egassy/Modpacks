@@ -1327,6 +1327,11 @@ hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
 metafile = true
 
 [[files]]
+file = "mods/chickenshed.pw.toml"
+hash = "8c3bad8a115ac452f48873f30bce050340a1993f4c42361eb139e7c6859b22a8"
+metafile = true
+
+[[files]]
 file = "mods/chisel.pw.toml"
 hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
@@ -1369,6 +1374,11 @@ metafile = true
 [[files]]
 file = "mods/dense-ores.pw.toml"
 hash = "c26b4a222af45f806db6ecce0a0d8fab516bf4f634097bc74ad7ce65e04b6560"
+metafile = true
+
+[[files]]
+file = "mods/discordintegration.pw.toml"
+hash = "586cafe53efd156c3b0bdacdc76ab3906e89d904348ae7f8fc351ee10b3a7a48"
 metafile = true
 
 [[files]]
