@@ -2638,11 +2638,6 @@ hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
 
 [[files]]
-file = "mods/chromaticraft.pw.toml"
-hash = "daf0ff4b3d079735e85b423ade2e4992a7c39c9892047808eac614e40fe7fb89"
-metafile = true
-
-[[files]]
 file = "mods/clockwork-phase.pw.toml"
 hash = "4c1b847104b8e4e47637f06c299c71fe965204ade377dc5f0e6ca7946e2b8d58"
 metafile = true
@@ -2975,11 +2970,6 @@ metafile = true
 [[files]]
 file = "mods/reactorcraft.pw.toml"
 hash = "f1b528464e00cc8849d3c4729485662cf1fcb36017b03def78bf360dfb0fc804"
-metafile = true
-
-[[files]]
-file = "mods/rotarycraft.pw.toml"
-hash = "d70eea85e5d4de6addb4e8987990ddb021ca66b5b68f0457c991bf04693ee17c"
 metafile = true
 
 [[files]]
