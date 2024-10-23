@@ -2613,6 +2613,11 @@ hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
 
 [[files]]
+file = "mods/bspkrscore.pw.toml"
+hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
+metafile = true
+
+[[files]]
 file = "mods/bugtorch.pw.toml"
 hash = "ffe150e7f44feed5dcdb72b70b0e6393813e69607f18e6053b180e62ae8ae838"
 metafile = true
