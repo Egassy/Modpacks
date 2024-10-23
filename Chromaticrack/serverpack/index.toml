@@ -2998,6 +2998,11 @@ hash = "891b8bcc5c8c1a7ec32fe06e6dce3a9b5df8473d5ff7259a6911b1c105f1a6d4"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "143713d7d920db4f018fd9f1bc71f183822cbd06009cac5e8878e7d922e7c1fa"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-nei-plugin.pw.toml"
 hash = "f753f59a399e3dc7e7d9c1884965b32f2ccf5cce394dd0918ac7e9ab1029e787"
 metafile = true
