@@ -114,3 +114,5 @@ recipes.addShaped(<minecraft:wool:12>*8, [[<ore:wool>, <ore:wool>, <ore:wool>,],
 recipes.addShaped(<minecraft:wool:13>*8, [[<ore:wool>, <ore:wool>, <ore:wool>,], [<ore:wool>, <ore:dyeGreen>, <ore:wool>], [<ore:wool>, <ore:wool>, <ore:wool>]]);
 recipes.addShaped(<minecraft:wool:14>*8, [[<ore:wool>, <ore:wool>, <ore:wool>,], [<ore:wool>, <ore:dyeRed>, <ore:wool>], [<ore:wool>, <ore:wool>, <ore:wool>]]);
 recipes.addShaped(<minecraft:wool:15>*8, [[<ore:wool>, <ore:wool>, <ore:wool>,], [<ore:wool>, <ore:dyeBlack>, <ore:wool>], [<ore:wool>, <ore:wool>, <ore:wool>]]);
+recipes.addShaped(<minecraft:wool:0>*1, [[<minecraft:string>, <minecraft:string>,], [<minecraft:string>, <minecraft:string>]]);
+recipes.addShaped(<minecraft:wool:0>*1, [[<Natura:barleyFood:3>, <Natura:barleyFood:3>,], [<Natura:barleyFood:3>, <Natura:barleyFood:3>]]);
