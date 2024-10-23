@@ -642,7 +642,7 @@ hash = "2adaefcd1f92762539e8e60bcc2ba0b75ecba5ed8a6a6637b971231568755617"
 
 [[files]]
 file = "config/ThaumicConcilium.cfg"
-hash = "66c0ce736fb091b7d885771e316f4afc89a3b54bcfed49e3016139ce01ec95af"
+hash = "5e667bed330b6dc0b0b2cb8e07d0266968e2ded2f97086d3e88265318fa08ee8"
 
 [[files]]
 file = "config/ThaumicHorizons.cfg"
@@ -2578,6 +2578,11 @@ hash = "f68992e48026f90b4ce8fffe536f22fb5ffef9127c28b42001d440ad51ef0f76"
 metafile = true
 
 [[files]]
+file = "mods/applecore.pw.toml"
+hash = "a5836f08783eccabdf1f9fb42b5270b2cdd23dd8c1effba2ad6748da2b706f2d"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "91ae906fdee0530042e62efe5104ef6e91c7af88428fafef9d09bce04ab36133"
 metafile = true
@@ -3113,7 +3118,7 @@ hash = "4fd692be2a1a890dc041f802508ffcc16fdf0a35aaceb1cab9c433c6bb676a16"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "61e5097753b6908ecd6f6d279b7fcd7e0fb0c82767f20250148dc2565df39a8d"
+hash = "b63195575bcec268b4e63e36fea7a1c64af95e19d6131dd673d8efb8d7d0b114"
 
 [[files]]
 file = "scripts/tardis.zs"

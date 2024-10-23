@@ -19,6 +19,7 @@ Research.removeResearch("focusLiquefaction");
 mods.thaumcraft.Infusion.removeRecipe(<ThaumicHorizons:focusLiquefaction>);
 
 game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomnomnomnomnomicon");
+game.setLocalization("en_US", "entity.ThaumicConcilium.Dissolved.name", "Hek");
 
 #allow you to turn AE2 presses into each other
 val press = <ore:press>;
