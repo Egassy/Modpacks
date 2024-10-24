@@ -2623,6 +2623,11 @@ hash = "ffe150e7f44feed5dcdb72b70b0e6393813e69607f18e6053b180e62ae8ae838"
 metafile = true
 
 [[files]]
+file = "mods/buildcraft-compat.pw.toml"
+hash = "f1f8e280ed55bbc1133c73e7184727247d5e4c12a6aadabd4dc0f9692df64026"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
 metafile = true
@@ -3110,6 +3115,10 @@ metafile = true
 [[files]]
 file = "scripts/clockworkphase.zs"
 hash = "4fd692be2a1a890dc041f802508ffcc16fdf0a35aaceb1cab9c433c6bb676a16"
+
+[[files]]
+file = "scripts/matteroverdrive.zs"
+hash = "96400a6aa6c5e095dcc614a9e77bb74ad23e88d9433b2e89c4edd2366e81b204"
 
 [[files]]
 file = "scripts/misccrap.zs"
