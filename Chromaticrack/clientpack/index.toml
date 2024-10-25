@@ -3132,7 +3132,7 @@ hash = "525a796bc9f7b9b422e1039a59dba205725ada4c411725e859fda0079fe6222e"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "811f6f366fa068663da05399fa4d1a5d71f0b634ba256305c60375900287a521"
+hash = "9dda751189caea0a4d1b2bf79a56b6536d56151742177414473ee3de15095f11"
 
 [[files]]
 file = "scripts/tardis.zs"
