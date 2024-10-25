@@ -7,6 +7,9 @@ mods.thaumcraft.Crucible.addRecipe("ASPECTS", <RandomThings:bloodStone>, <Random
 <RandomThings:bloodStone>.addTooltip("Charge outside during a Blood Moon");
 <RandomThings:bloodStone>.withTag({charges: 400}).addTooltip("Gives high regeneration without potion effect");
 
+#EFR Tcon fix
+mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_ore>, <liquid:copper.molten> * 288, 550, <etfuturum:copper_ore>);
+
 Research.moveResearch("RC_Crowbar", "ARTIFICE", -9 as int, 3);
 Research.moveResearch("RC_Crowbar_Void", "ARTIFICE", -9 as int, 4);
 Research.moveResearch("PUREORE", "ALCHEMY", -1 as int, 7);

@@ -3,7 +3,7 @@ recipes.addShaped(<mo:rouge_android_part:0>, [[<mo:tritanium_ingot>, <mo:tritani
 recipes.addShaped(<mo:rouge_android_part:3>, [[<mo:tritanium_ingot>, <mo:isolinear_circuit:3>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, <mo:tritanium_ingot>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, <mo:tritanium_ingot>, <mo:tritanium_ingot>]]);
 recipes.addShaped(<mo:rouge_android_part:2>, [[<mo:tritanium_ingot>, <mo:tritanium_ingot>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, <mo:isolinear_circuit:3>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, null, <mo:tritanium_ingot>]]);
 recipes.addShaped(<mo:rouge_android_part:0>, [[<mo:tritanium_ingot>, null, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, <mo:isolinear_circuit:3>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, null, <mo:tritanium_ingot>]]);
-recipes.addShaped(<mo:tritanium_spine>, [[<mo:tritanium_ingot>, <mo:tritanium_ingot>, null], [<mo:tritanium_ingot>, <mo:isolinear_circuit:3>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, <mo:tritanium_ingot>, null]]);
+recipes.addShaped(<mo:tritainum_spine>, [[<mo:tritanium_ingot>, <mo:tritanium_ingot>, null], [<mo:tritanium_ingot>, <mo:isolinear_circuit:3>, <mo:tritanium_ingot>], [<mo:tritanium_ingot>, <mo:tritanium_ingot>, null]]);
 #Pills
 recipes.addShaped(<mo:android_pill:0>, [[<minecraft:sugar>, <mo:tritanium_plate>, <minecraft:sugar>], [<minecraft:paper>,<mo:isolinear_circuit:3>, <ore:blockGlassColorless>], [<minecraft:sugar>, <mo:tritanium_plate>, <minecraft:sugar>]]);
 recipes.addShaped(<mo:android_pill:2>, [[<minecraft:sugar>, <minecraft:experience_bottle>, <minecraft:sugar>], [<minecraft:paper>,<mo:isolinear_circuit:0>, <ore:stickWood>], [<minecraft:sugar>, <minecraft:experience_bottle>, <minecraft:sugar>]]);

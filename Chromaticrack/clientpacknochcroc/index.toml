@@ -382,7 +382,7 @@ hash = "ab9e453ec7a282991a9405ed34331d9fd378023211454b293d7835441ed36047"
 
 [[files]]
 file = "config/ESM.cfg"
-hash = "05d827562f78dd2b76f40ab050ec4e31defb22e915309b6f6eff3a74934e78e0"
+hash = "b39f7736184dab3fe3b46ddb77eedf2e37f7705ff982b914b23171ac929ebb20"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -3118,11 +3118,11 @@ hash = "4fd692be2a1a890dc041f802508ffcc16fdf0a35aaceb1cab9c433c6bb676a16"
 
 [[files]]
 file = "scripts/matteroverdrive.zs"
-hash = "96400a6aa6c5e095dcc614a9e77bb74ad23e88d9433b2e89c4edd2366e81b204"
+hash = "525a796bc9f7b9b422e1039a59dba205725ada4c411725e859fda0079fe6222e"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "1b3caa1c2f1b8d21104163a066abba83efe764347c30b4bd7bfa5ef9af00d62c"
+hash = "811f6f366fa068663da05399fa4d1a5d71f0b634ba256305c60375900287a521"
 
 [[files]]
 file = "scripts/tardis.zs"
