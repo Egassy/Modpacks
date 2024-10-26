@@ -9,6 +9,11 @@ mods.thaumcraft.Crucible.addRecipe("ASPECTS", <RandomThings:bloodStone>, <Random
 
 #EFR Tcon fix
 mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_ore>, <liquid:copper.molten> * 288, 550, <etfuturum:copper_ore>);
+mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_ingot>, <liquid:copper.molten> * 144, 550, <etfuturum:copper_block>);
+mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_block>, <liquid:copper.molten> * 1296, 550, <etfuturum:copper_block>);
+
+#EFR table "fix"
+recipes.addShapeless(<minecraft:enchanting_table>, [<etfuturum:enchantment_table>]);
 
 Research.moveResearch("RC_Crowbar", "ARTIFICE", -9 as int, 3);
 Research.moveResearch("RC_Crowbar_Void", "ARTIFICE", -9 as int, 4);
