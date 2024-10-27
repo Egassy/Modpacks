@@ -534,7 +534,7 @@ hash = "70879e40957a457303cf34152b9fd01447062ea5a36a759ebe638f87021f4786"
 
 [[files]]
 file = "config/OpenBlocks.cfg"
-hash = "d5413a2216280a66b558768856ca64cc1b34ec62a8168ec80e58fed1edcb8c03"
+hash = "ee216e5b0653a68ee1ef87ecf104bde7490628e5c213d15a5f3b88350259c9ba"
 
 [[files]]
 file = "config/OpenMods.cfg"
