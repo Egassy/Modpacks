@@ -1,19 +1,19 @@
-recipes.remove(<ProjRed|Core:projectred.core.part:19>)
-recipes.remove(<ProjRed|Core:projectred.core.part:20>)
-recipes.remove(<ProjRed|Core:projectred.core.part:21>)
-recipes.remove(<ProjRed|Core:projectred.core.part:22>)
-recipes.remove(<ProjRed|Core:projectred.core.part:23>)
-recipes.remove(<ProjRed|Core:projectred.core.part:24>)
-recipes.remove(<ProjRed|Core:projectred.core.part:25>)
-recipes.remove(<ProjRed|Core:projectred.core.part:26>)
-recipes.remove(<ProjRed|Core:projectred.core.part:27>)
-recipes.remove(<ProjRed|Core:projectred.core.part:28>)
-recipes.remove(<ProjRed|Core:projectred.core.part:29>)
-recipes.remove(<ProjRed|Core:projectred.core.part:30>)
-recipes.remove(<ProjRed|Core:projectred.core.part:31>)
-recipes.remove(<ProjRed|Core:projectred.core.part:32>)
-recipes.remove(<ProjRed|Core:projectred.core.part:33>)
-recipes.remove(<ProjRed|Core:projectred.core.part:34>)
+recipes.remove(<ProjRed|Core:projectred.core.part:19>);
+recipes.remove(<ProjRed|Core:projectred.core.part:20>);
+recipes.remove(<ProjRed|Core:projectred.core.part:21>);
+recipes.remove(<ProjRed|Core:projectred.core.part:22>);
+recipes.remove(<ProjRed|Core:projectred.core.part:23>);
+recipes.remove(<ProjRed|Core:projectred.core.part:24>);
+recipes.remove(<ProjRed|Core:projectred.core.part:25>);
+recipes.remove(<ProjRed|Core:projectred.core.part:26>);
+recipes.remove(<ProjRed|Core:projectred.core.part:27>);
+recipes.remove(<ProjRed|Core:projectred.core.part:28>);
+recipes.remove(<ProjRed|Core:projectred.core.part:29>);
+recipes.remove(<ProjRed|Core:projectred.core.part:30>);
+recipes.remove(<ProjRed|Core:projectred.core.part:31>);
+recipes.remove(<ProjRed|Core:projectred.core.part:32>);
+recipes.remove(<ProjRed|Core:projectred.core.part:33>);
+recipes.remove(<ProjRed|Core:projectred.core.part:34>);
 
 recipes.addShapeless(<ProjRed|Core:projectred.core.part:19>*4, [<ore:dustGlowstone>, <ore:dustGlowstone>, <ore:dyeWhite>, <ore:dyeWhite>]);
 recipes.addShapeless(<ProjRed|Core:projectred.core.part:20>*4, [<ore:dustGlowstone>, <ore:dustGlowstone>, <ore:dyeOrange>, <ore:dyeOrange>]);

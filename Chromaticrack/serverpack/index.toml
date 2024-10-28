@@ -3131,7 +3131,7 @@ hash = "1a8db6b4d605e6172864fba5bdfead39915da8f3241f74dab6ecd8ad80cc87eb"
 
 [[files]]
 file = "scripts/projectred.zs"
-hash = "e6d0f9a5e3567fc37c33d54f2f4f7e2a28a2089f26b70fb984256503c65e4798"
+hash = "dc668bdea489ebd2bea4d58d6598c2d6085b8a22c3e7c2d4d865d9326482f108"
 
 [[files]]
 file = "scripts/tardis.zs"
