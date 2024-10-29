@@ -3127,7 +3127,7 @@ hash = "525a796bc9f7b9b422e1039a59dba205725ada4c411725e859fda0079fe6222e"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "1a8db6b4d605e6172864fba5bdfead39915da8f3241f74dab6ecd8ad80cc87eb"
+hash = "4c6dc189cd997587d6b4ed03712f594879fa111db460d135acd3e3db098c6399"
 
 [[files]]
 file = "scripts/projectred.zs"
