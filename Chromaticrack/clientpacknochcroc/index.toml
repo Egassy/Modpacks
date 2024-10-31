@@ -486,7 +486,7 @@ hash = "641e7fddff123b00ea7f58ce3b8310451a1adba7e3712a3d6e5a0064ab8247ec"
 
 [[files]]
 file = "config/MatterOverdrive/Registry.matter"
-hash = "d5e285a9129f85c57792ddd8937e6b0e9b65506b5ff04cc0382251140e25201c"
+hash = "cbbd4fb33db3e38f9e1812a368433496d327b1396907b018bb1b6cdaf1b4cb18"
 
 [[files]]
 file = "config/Morph.cfg"
