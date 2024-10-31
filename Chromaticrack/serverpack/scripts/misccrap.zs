@@ -4,7 +4,7 @@ recipes.addShaped(<RandomThings:whitestone>, [[null, <witchery:poppet:6>, null],
 mods.thaumcraft.Crucible.addRecipe("ASPECTS", <RandomThings:bloodStone>, <RandomThings:whitestone:1>, "sano 20, victus 15");
 <RandomThings:whitestone:0>.addTooltip("Charge outside during a full moon");
 <RandomThings:whitestone:1>.addTooltip("Stops death and gives buffs");
-<RandomThings:bloodStone>.addTooltip("Charge outside during a Blood Moon");
+<RandomThings:bloodStone>.addTooltip("Charge by killing mobs");
 <RandomThings:bloodStone>.withTag({charges: 400}).addTooltip("Gives high regeneration without potion effect");
 
 #EFR Tcon fix
@@ -28,6 +28,7 @@ mods.thaumcraft.Infusion.removeRecipe(<ThaumicHorizons:focusLiquefaction>);
 
 game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomnomnomnomnomicon");
 game.setLocalization("en_US", "entity.ThaumicConcilium.Dissolved.name", "Hek");
+game.setLocalization("en_US", "entity.Natura.NitroCreeper.name", "Loser that paid for Discord Nitro");
 
 #allow you to turn AE2 presses into each other
 val press = <ore:press>;
