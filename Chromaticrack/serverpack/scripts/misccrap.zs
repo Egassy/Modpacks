@@ -26,8 +26,10 @@ Research.orphanResearch("focusLiquefaction");
 Research.removeResearch("focusLiquefaction");
 mods.thaumcraft.Infusion.removeRecipe(<ThaumicHorizons:focusLiquefaction>);
 
-game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomnomnomnomnomicon");
+game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomnomnomnomnomnomicon");
 game.setLocalization("en_US", "entity.ThaumicConcilium.Dissolved.name", "Hek");
+game.setLocalization("en_US", "entity.ThaumicConcilium.QuicksilverElemental.name", "Glooper");
+game.setLocalization("en_US", "entity.ThaumicConcilium.MadThaumaturge.name", "Cray");
 game.setLocalization("en_US", "entity.Natura.NitroCreeper.name", "Loser that paid for Discord Nitro");
 
 #allow you to turn AE2 presses into each other

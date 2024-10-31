@@ -1,13 +1,13 @@
 name = "Thaumic Concilium"
-filename = "ThaumicConcilium-1.0.9.jar"
+filename = "ThaumicConcilium-1.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0de906387573959bfbec7c4104be71b9d4749c55"
+hash = "5f97e2954c056571011be131083538b5a0d8458f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5696404
+file-id = 5853628
 project-id = 1056309

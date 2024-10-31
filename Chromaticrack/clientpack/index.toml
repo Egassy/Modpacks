@@ -642,7 +642,7 @@ hash = "2adaefcd1f92762539e8e60bcc2ba0b75ecba5ed8a6a6637b971231568755617"
 
 [[files]]
 file = "config/ThaumicConcilium.cfg"
-hash = "153ac16abd2ebee298362afeb851efc96a27c7228d151428efc2e7bfb6576a01"
+hash = "5bfdd0c2b3aaf4a2f8b590d4208bb6094154ba4a8604a675c910769babfac301"
 
 [[files]]
 file = "config/ThaumicHorizons.cfg"
@@ -3034,7 +3034,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-concilium.pw.toml"
-hash = "52d122ff2abf33dcc01efe840e456818a1f64a005c88b8f674e91df9c3190a53"
+hash = "a15ec851dd3d93bb318cc1420aa69f38e42b02814a70c6f4a9f36e7552bd55dc"
 metafile = true
 
 [[files]]
