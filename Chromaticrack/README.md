@@ -4,23 +4,31 @@ Current list of mods is:
 
 AOBD
 
+AppleCore
+
 Applied Energistics 2
 
 ArchiSections
 
 Automagy
 
-Baubles
+Baubles Expanded
 
 Better Builder's Wands
 
 BiblioCraft
 
+bspkrsCore
+
 BugTorch
 
 Buildcraft
 
+Buildcraft Compat
+
 Carpenter's Blocks
+
+ChickenShed
 
 Chisel
 
@@ -28,11 +36,13 @@ ChromatiCraft
 
 Clockwork Phase
 
-CodeChickenCore
+codechickencore-gtnh
 
-CodeChickenCore Unofficial 1.7.10
+CoFH Core
 
 ComputerCraft
+
+Controlling
 
 Cosmetic Armor Reworked
 
@@ -44,7 +54,7 @@ Dense Ores
 
 DragonAPI
 
-Dual Hotbar
+Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
 
 ElectriCraft
 
@@ -54,7 +64,7 @@ Ender Storage
 
 EnderCore
 
-Epic Siege Mod
+epic-siege-mod
 
 Et Futurum Requiem
 
@@ -75,6 +85,8 @@ Forge Multi Part
 Forge Relocation
 
 Forge Relocation - FMP Plugin
+
+FoxLib
 
 Gadomancy
 
@@ -112,11 +124,15 @@ Morph
 
 Morpheus
 
+Mouse Tweaks
+
 MrTJPCore
 
 Natura
 
 NEI Addons
+
+NetherOres
 
 NetherPortalFix
 
@@ -142,12 +158,13 @@ Project Red - Illumination
 
 Project Red - Integration
 
-
 Project Red - Transportation
 
 ProjectRed - Thaumcraft
 
 qcraft
+
+Railcraft
 
 Random Things
 
@@ -157,15 +174,23 @@ RotaryCraft
 
 SecretRoomsMod
 
+Tails
+
 TARDIS Mod
 
+TCNEIAdditionsGTNH
+
 Thaumcraft
+
+Thaumcraft 4 Tweaks
+
+Thaumcraft NEI Plugin
 
 Thaumic Concilium
 
 Thaumic Horizons
 
-Thaumic Tinkerer
+Thaumic Inventory Scanning (Thaumcraft Addon)
 
 The Twilight Forest
 
@@ -173,7 +198,13 @@ Tinkers Construct
 
 Tinkers' Mechworks
 
+Traveller's Gear
+
+Treecapitator
+
 TreeClimbing
+
+TTinkerer-GTNH
 
 UniDict
 
@@ -186,4 +217,7 @@ Waila
 WAILA Plugins
 
 WanionLib
+
 Witchery
+
+Witching Gadgets
