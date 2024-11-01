@@ -14,6 +14,9 @@ mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_block>, <liquid:copper.mol
 
 #EFR table "fix"
 recipes.addShapeless(<minecraft:enchanting_table>, [<etfuturum:enchantment_table>]);
+#EFR Circuit plate fix
+furnace.remove(<ProjRed|Core:projectred.core.part:0>);
+furnace.addRecipe(<ProjRed|Core:projectred.core.part:0>*2, <etfuturum:smooth_stone>, 0.5);
 
 Research.moveResearch("RC_Crowbar", "ARTIFICE", -9 as int, 3);
 Research.moveResearch("RC_Crowbar_Void", "ARTIFICE", -9 as int, 4);
