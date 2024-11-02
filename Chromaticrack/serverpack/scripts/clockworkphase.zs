@@ -8,7 +8,7 @@ recipes.remove(<clockworkphase:brassIngot>);
 
 game.setLocalization("en_US", "item.clockworkphase:chipTemporal.name", "Temporal Chip");
 game.setLocalization("en_US", "item.clockworkphase:nuggetTemporal.name", "Temporal Nugget");
-game.setLocalization("en_US", "item.clockworkphase:temporalCoreActive.nam", "Active Temporal Core");
+game.setLocalization("en_US", "item.clockworkphase:temporalCoreActive.name", "Active Temporal Core");
 game.setLocalization("en_US", "item.clockworkphase:temporalCoreSedate.name", "Sedate Temporal Core");
 game.setLocalization("en_US", "item.clockworkphase:ingotTemporal.name", "Temporal Ingot");
 game.setLocalization("en_US", "item.clockworkphase:ingotTemporalLife.name", "Temporal Ingot of Life");

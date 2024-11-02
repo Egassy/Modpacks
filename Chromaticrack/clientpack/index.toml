@@ -478,7 +478,7 @@ hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 
 [[files]]
 file = "config/MagicBees.cfg"
-hash = "4bacd700854870f5c0fb8db1d5829931fc0c16b13dede356ab36567672b7f8ce"
+hash = "50ec2598810c83a66718e420df3c1640f9794153b06683f537ef4cf0b5258f5c"
 
 [[files]]
 file = "config/MatterOverdrive/Matter Overdrive.cfg"
@@ -1134,23 +1134,43 @@ hash = "e7a59ec5a8496f4d5e496ceb2d2250c5c8c4729dcd5edda4d12e4e5237b5e405"
 
 [[files]]
 file = "config/forestry/apiculture.cfg"
-hash = "c6ee536a8863efee697bcd4869123a18366e064464f2b47c9fc53ecd9dcfc24f"
+hash = "4c116ed56ff460bffea0e9198c3ea4b5d78f44403d3e9f27123a104fb36cdb38"
 
 [[files]]
 file = "config/forestry/backpacks.cfg"
 hash = "3d97ba40561eb6c8eddd150558cf64b7c7a7b4b250f22f1a885346503af6bf6a"
 
 [[files]]
+file = "config/forestry/binnie-mods.conf"
+hash = "6e712a44d0a593ecf317c5e6bc3368be14371e23537014e310bee68d9a7b2ea3"
+
+[[files]]
+file = "config/forestry/binniecore/main.conf"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
+
+[[files]]
 file = "config/forestry/common.cfg"
-hash = "e1f679b957ec9c3c4226a1e5958a693d0c3e944d0ca4fe5f71e1b205c5380517"
+hash = "e1bad802b9c85c21e2f6ce6373f27aa18d6ff30b2571cc0f649e99e6c197b331"
+
+[[files]]
+file = "config/forestry/extrabees/machines.conf"
+hash = "e5bf138c84dd404809767f87eb7cb37f12f6ebdb56f0808bc7499069df1bcf03"
+
+[[files]]
+file = "config/forestry/extrabees/main.conf"
+hash = "69421060de38255ad5bb25cbb950fa5aa06a3031b68f742bae474c28092b807b"
+
+[[files]]
+file = "config/forestry/extratrees/main.conf"
+hash = "84154e459d9bbab68d285775feb305bd0d62c2b880418053f639f835cb1cae1b"
 
 [[files]]
 file = "config/forestry/fluids.cfg"
-hash = "44daeb8cdb957dd880079ace41256ae48fe1d837e348ba43e50ebe7514de5bb9"
+hash = "9f41d40ae180203e20017aca3665b0fbf8256e473c96d4842d9698ed05688212"
 
 [[files]]
 file = "config/forestry/gamemodes/EASY.cfg"
-hash = "db7d196c18a31e6ac18004df06be8ed2beae2c1cb71ad53c02179ac0c5d9d63d"
+hash = "e7cbf4092dbe4962c287f5fb9cc003984dc1bec1b4b5a3efef1092737493221d"
 
 [[files]]
 file = "config/forestry/gamemodes/HARD.cfg"
@@ -2610,6 +2630,11 @@ metafile = true
 [[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
+metafile = true
+
+[[files]]
+file = "mods/binnies-mods.pw.toml"
+hash = "d6067b67ac800539b8cb90941fefa3db5e30c60b1e6e50ab9ede4cb977de1a13"
 metafile = true
 
 [[files]]
