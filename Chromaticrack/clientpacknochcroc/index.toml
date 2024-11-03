@@ -478,7 +478,7 @@ hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 
 [[files]]
 file = "config/MagicBees.cfg"
-hash = "50ec2598810c83a66718e420df3c1640f9794153b06683f537ef4cf0b5258f5c"
+hash = "4bacd700854870f5c0fb8db1d5829931fc0c16b13dede356ab36567672b7f8ce"
 
 [[files]]
 file = "config/MatterOverdrive/Matter Overdrive.cfg"
@@ -1142,7 +1142,7 @@ hash = "3d97ba40561eb6c8eddd150558cf64b7c7a7b4b250f22f1a885346503af6bf6a"
 
 [[files]]
 file = "config/forestry/binnie-mods.conf"
-hash = "6e712a44d0a593ecf317c5e6bc3368be14371e23537014e310bee68d9a7b2ea3"
+hash = "5ee2b6176bdae924fd8a0b9d4a7867c9721e747b6b838d6096a867df74aeebec"
 
 [[files]]
 file = "config/forestry/binniecore/main.conf"
