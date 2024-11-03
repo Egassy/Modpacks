@@ -3,7 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-Chromaticrack/serverpack/packwiz.exe
-Chromaticrack/clientpack/packwiz.exe
-Chromaticrack/clientpack/.packwizignore
-Chromaticrack/serverpack/.packwizignore
+#Exclude packwiz and its ignore files
+*.exe
+*.packwizignore
