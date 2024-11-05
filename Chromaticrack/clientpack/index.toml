@@ -1278,7 +1278,7 @@ hash = "d483c8e7671b0ff44600e0dea266f82675c139fe2606c4b31a1fdd5dd7683789"
 
 [[files]]
 file = "config/railcraft/blocks.cfg"
-hash = "ce9f9eb3f4e8ecc7098976b8624e8087e74b1cb38cf5ba62109d071a347e3f85"
+hash = "63e27deff8c10251202dd7a27f9ade1fbac7fe5b739916562e12ea25c6fcdc4b"
 
 [[files]]
 file = "config/railcraft/items.cfg"
