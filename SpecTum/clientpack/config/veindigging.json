@@ -1,0 +1,9 @@
+{
+  "sneakActivation": false,
+  "bindActivation": true,
+  "useGlobalWhitelist": false,
+  "useBindWhitelist": false,
+  "useShiftWhitelist": true,
+  "maxBlocks": 64,
+  "maxRange": 16
+}

@@ -1,0 +1,13 @@
+name = "Mana Visualizer"
+filename = "ManaVisualizer-1.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fbfa1207cf7ac8aa599eec4b9efd27b4dd522c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4960524
+project-id = 917511

@@ -1,0 +1,13 @@
+name = "NEEPMeat"
+filename = "neepmeat-0.6.1-beta+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c06312e8daf07d2b6dd1be02e518c45214636cf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5762987
+project-id = 973778

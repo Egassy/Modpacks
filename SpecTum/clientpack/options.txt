@@ -1,0 +1,2 @@
+resourcePacks:["pfm-asset-resources","vanilla","Fabric Mods","Spectral Decorations Overrides","hexgloop/dyeablestaffs","Immersive Weathering Generated Pack","Supplementaries Generated Pack","file/terraria_accurate_botania_swords.zip"]
+incompatibleResourcePacks:["file/terraria_accurate_botania_swords.zip"]

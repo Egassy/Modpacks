@@ -1,0 +1,13 @@
+name = "Legacy: [Let's Do] Bakery"
+filename = "letsdo-bakery-fabric-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c120b3a5e044662eef11d519eac8f91a2f2401c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4680975
+project-id = 886559
