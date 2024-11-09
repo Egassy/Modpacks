@@ -1,8 +1,4 @@
-# Exclude exported CurseForge zip files
-*.zip
 
-# Exclude exported Modrinth modpacks
-*.mrpack
 #Exclude packwiz and its ignore files
 *.exe
 *.packwizignore
