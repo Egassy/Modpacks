@@ -606,7 +606,7 @@ hash = "af9d0953690792c289203f23dc4041f6c9b4030720f2bdeef64e6e80c7bf850b"
 
 [[files]]
 file = "config/Reika/ROTARYCRAFT_PackModifications.cfg"
-hash = "7384d5611e055e74cee5e4b0163964c6698738851486d16e5f60578e7f0e44c0"
+hash = "2a08d9bc7d9794b51236d4b2a5b056c3826e9e2bf4ba1a547c52b240d1a3e4e1"
 
 [[files]]
 file = "config/Reika/ReactorCraft.cfg"
@@ -3136,6 +3136,10 @@ metafile = true
 file = "resourcepacks/projectred-thaumcraft.pw.toml"
 hash = "aaf3394c46c2728699a83a49a5e44e91349813ba4ab3bc4bc8786f6d08d5c14e"
 metafile = true
+
+[[files]]
+file = "scripts/bunnybone.zs"
+hash = "4ce4f3be79779af4bda8221ac234dde4691c0bf80d27d867ca9a4cae6cd5b102"
 
 [[files]]
 file = "scripts/clockworkphase.zs"
