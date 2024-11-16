@@ -40,3 +40,10 @@ game.setLocalization("en_US", "tile.chisel.templemossy.name", "Mossy Temple Ston
 game.setLocalization("en_US", "tile.chisel.energizedVoidstone.name", "Energized Voidstone");
 game.setLocalization("en_US", "tile.chisel.woolenClay.name", "Woolen Clay");
 game.setLocalization("en_US", "tile.chisel.roofing.name", "Clay Shingles");
+game.setLocalization("options.key", "Key");
+game.setLocalization("options.category", "Category");
+game.setLocalization("options.search", "Search");
+game.setLocalization("options.sort", "Sort");
+game.setLocalization("options.showConflicts", "Conflicts");
+game.setLocalization("options.showNone", "None");
+game.setLocalization("en_US", "key.categories.item", "Factorization");

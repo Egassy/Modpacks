@@ -769,7 +769,7 @@ hash = "4ce32969122d924fe0d0bd1d0e17f468b5f2db4227734e79e94e32f6d884aaf1"
 
 [[files]]
 file = "scripts/locfixes.zs"
-hash = "492cdd21c8e11c4ef88474a86890bef8018433e83269279f2ee2e13022217698"
+hash = "584b487a92748ce7deaa35de9670cd54b713578ad966dd47adf9d7a0bbc5debc"
 
 [[files]]
 file = "scripts/storagedrawers.zs"
