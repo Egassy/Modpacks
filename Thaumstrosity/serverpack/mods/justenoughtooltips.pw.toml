@@ -1,0 +1,13 @@
+name = "JustEnoughTooltips"
+filename = "RecipeTooltips-1.8.9-1.1.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77245f18381459ecb0831a7193e68c161fbbfbf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2278876
+project-id = 240735

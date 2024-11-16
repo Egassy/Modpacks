@@ -1,0 +1,13 @@
+name = "Intangible"
+filename = "intangible-1.8.9-0.0.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95278082dbc3925b706ae44b9fe6be8ca586363a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2284654
+project-id = 241350

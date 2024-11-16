@@ -1,0 +1,13 @@
+name = "Dense Ores"
+filename = "denseores-1.8-alpha-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b40df5bd3a08506a7a49ff1f32cfebce11c6302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2288253
+project-id = 224942

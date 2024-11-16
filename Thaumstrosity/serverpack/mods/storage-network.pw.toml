@@ -1,0 +1,13 @@
+name = "Storage Network"
+filename = "StorageNetwork-1.8.9-1.11.1-final.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d26aa46086f54fac861f86eaeb1d7a7b68fab8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2308275
+project-id = 241064

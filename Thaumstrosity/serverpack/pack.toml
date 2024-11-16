@@ -1,0 +1,13 @@
+name = "Thaumstrostity"
+author = "Egassy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2981cf236f4fee9ce1fd0b41737925a4883ded38249c513347e0e22c4892bcfc"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"

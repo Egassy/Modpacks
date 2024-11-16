@@ -1,0 +1,13 @@
+name = "Foam​Fix"
+filename = "foamfix-0.6.3a-anarchy-1.8.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58f4f9165f1c91222e33493175c805879e75db6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4856293
+project-id = 278494

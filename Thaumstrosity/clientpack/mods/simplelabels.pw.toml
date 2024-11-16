@@ -1,0 +1,13 @@
+name = "SimpleLabels"
+filename = "simplelabels-1.8.9-0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b465eff578369a321b5962db6adb7b86e24e32ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2278943
+project-id = 232134

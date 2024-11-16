@@ -1,0 +1,13 @@
+name = "Backlytra"
+filename = "Backlytra-1.8.9-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09db5a2c921005c6577ba652501debb4fa5a6b95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2296361
+project-id = 244337

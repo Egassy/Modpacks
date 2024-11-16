@@ -1,0 +1,13 @@
+name = "Wither Charging Fix"
+filename = "witherchargingfix-1.8.9-1.0.0-0-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ed3823cd8d1bf2a897e06ac21848ac2eeb8e6ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2280070
+project-id = 241474

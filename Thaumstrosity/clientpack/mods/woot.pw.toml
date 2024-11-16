@@ -1,0 +1,13 @@
+name = "Woot"
+filename = "woot-1.8.9-0.3.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef971ed19d1a05b123ad482b885c65299c70b846"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2296162
+project-id = 244049

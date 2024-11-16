@@ -1,0 +1,11 @@
+print("drawers");
+recipes.remove(<storagedrawers:basicDrawers:3>);
+recipes.remove(<storagedrawers:basicDrawers:4>);
+recipes.remove(<storagedrawers:compDrawers>);
+recipes.remove(<storagedrawers:controller>);
+recipes.remove(<storagedrawers:controllerSlave>);
+recipes.remove(<storagedrawers:trim:*>);
+recipes.remove(<storagedrawers:customDrawers:3>);
+recipes.remove(<storagedrawers:customDrawers:4>);
+recipes.remove(<storagedrawers:customTrim>);
+print("drawers done");

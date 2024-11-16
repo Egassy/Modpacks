@@ -1,0 +1,13 @@
+name = "Nether Metals"
+filename = "NetherMetals_1.8.9-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef16e75cdb2aff31214ffaebcc0cef8241fad3af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2306075
+project-id = 243277

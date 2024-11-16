@@ -1,0 +1,13 @@
+name = "Faster Ladder Climbing"
+filename = "FasterLadderClimbing-1.8.8-0.1-104.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "135f8579684b9f91ca98dc8e531ddbf5345f7ed3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2378236
+project-id = 258881

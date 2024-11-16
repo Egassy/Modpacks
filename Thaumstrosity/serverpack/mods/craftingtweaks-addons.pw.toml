@@ -1,0 +1,13 @@
+name = "CraftingTweaks Addons"
+filename = "craftingtweaksaddons-mc1.8.9-3.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2f110663883aedbbcf7b0478755893fea9ed2f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2277462
+project-id = 241144

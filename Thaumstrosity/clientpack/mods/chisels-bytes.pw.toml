@@ -1,0 +1,13 @@
+name = "Chisels & Bytes"
+filename = "ChiselsBytes-1.8.9-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4748474f9184100224b3a2d0e9af5f070fc00e82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2284836
+project-id = 242390

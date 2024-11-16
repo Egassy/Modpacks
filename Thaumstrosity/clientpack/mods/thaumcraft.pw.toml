@@ -1,0 +1,13 @@
+name = "Thaumcraft"
+filename = "Thaumcraft-1.8.9-5.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e35f8428b3becafadc805663a39a1a2ccbf9b941"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2287496
+project-id = 223628

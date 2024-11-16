@@ -1,0 +1,13 @@
+name = "Practicalities"
+filename = "practicalities-1.8.9-2.0.0-b6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9dc6254611f9e16341791c61cf0a2be07ecea0cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2275248
+project-id = 231935

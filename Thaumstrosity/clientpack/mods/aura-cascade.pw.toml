@@ -1,0 +1,13 @@
+name = "Aura Cascade"
+filename = "AuraCascade-592.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae6e71ebc4889df9463ee0a39857a05d8c86d224"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2283802
+project-id = 227099

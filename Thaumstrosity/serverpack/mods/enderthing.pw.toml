@@ -1,0 +1,13 @@
+name = "Enderthing"
+filename = "enderthing-1.8.9-0.6.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7be839ab12f999aa4209c1acfcdfa125b74cb5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2308989
+project-id = 244421

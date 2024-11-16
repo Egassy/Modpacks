@@ -1,0 +1,13 @@
+name = "Psi"
+filename = "Psi-beta-23.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fb8a6c644d837fd8b8d3ab7f7999d1d9c8e88ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2286979
+project-id = 241665

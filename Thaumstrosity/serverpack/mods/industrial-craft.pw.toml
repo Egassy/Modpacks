@@ -1,0 +1,13 @@
+name = "Industrial Craft"
+filename = "industrialcraft-2-2.3.262-ex18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f08244c01c65fd5b8740558dd99133407d7508a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2319486
+project-id = 242638

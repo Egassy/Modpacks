@@ -1,0 +1,13 @@
+name = "Dynamic Surroundings"
+filename = "DynamicSurroundings-1.8.9-2.0.5.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65438d58c76e2578dc5940439ba3269d987d8400"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2290471
+project-id = 238891

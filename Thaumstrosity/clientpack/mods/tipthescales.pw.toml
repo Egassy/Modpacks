@@ -1,0 +1,13 @@
+name = "TipTheScales"
+filename = "TipTheScales-1.8.9-3.0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c708ecca6597c7818dc6c8e7b963761bf48b86b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3069977
+project-id = 282313
