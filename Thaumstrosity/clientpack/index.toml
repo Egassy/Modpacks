@@ -377,11 +377,6 @@ hash = "e3f562a7f02cf4d8794dfc57fedcf36e96ea851f335a101eff48608c206d67e7"
 metafile = true
 
 [[files]]
-file = "mods/better-records.pw.toml"
-hash = "268ec05b9d7c6b2484ff10d1b544287e99ea6bb016c46c11b3e4e4d0714c3e4e"
-metafile = true
-
-[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "c9934f3b18dd0c8f5e96d144cade69c502fdbe37324290849a24a96728c39cc9"
 metafile = true
