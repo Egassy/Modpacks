@@ -63,7 +63,7 @@ recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:21>, [[<etfuturum:
 
 #x3 Scented Paneling
 mods.forestry.Carpenter.removeRecipe(<Forestry:craftingMaterial:6>);
-mods.forestry.Carpenter.addRecipe(<Forestry:craftingMaterial:6>*3, [[null, <ore:dropRoyalJelly>, null], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:itemBeeswax>, <ore:itemPollen>, <ore:itemBeeswax>]], <liquid:honey> * 50, 60);
+mods.forestry.Carpenter.addRecipe(<Forestry:craftingMaterial:6>*3, [[null, <ore:dropRoyalJelly>, null], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:itemBeeswax>, <ore:itemPollen>, <ore:itemBeeswax>]], <liquid:for.honey> * 50, 60);
 
 #The enwoolification. Yes there's better ways to do this, I've had this chunk of script for a while and I'm attached to it
 
