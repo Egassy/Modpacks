@@ -61,6 +61,10 @@ recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:15>, [[<etfuturum:
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:19>, [[<etfuturum:anvil>], [<ore:itemSilicon>], [<minecraft:iron_ingot>]]);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:21>, [[<etfuturum:anvil>], [<minecraft:name_tag>], [<minecraft:iron_ingot>]]);
 
+#x3 Scented Paneling
+mods.forestry.Carpenter.removeRecipe(<Forestry:craftingMaterial:6>);
+mods.forestry.Carpenter.addRecipe(<Forestry:craftingMaterial:6>*3, [[null, <ore:dropRoyalJelly>, null], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:itemBeeswax>, <ore:itemPollen>, <ore:itemBeeswax>]], <liquid:honey> * 50, 60);
+
 #The enwoolification. Yes there's better ways to do this, I've had this chunk of script for a while and I'm attached to it
 
 val wool = <ore:wool>;
