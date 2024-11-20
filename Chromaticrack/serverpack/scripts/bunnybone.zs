@@ -25,7 +25,7 @@ game.setLocalization("en_US", "item.jetchest", "Bunnybone Jetpack");
 game.setLocalization("en_US", "item.bedrockjump", "Bunnybone Spring Boots");
 game.setLocalization("en_US", "item.bedrockhoe", "Bunnybone Hoe");
 game.setLocalization("en_US", "item.bedrocksword", "Bunnybone Sword");
-game.setLocalization("en_US", "Bedrock Shears", "Bunnybone Shears");
+game.setLocalization("en_US", "item.bedrockshears", "Bunnybone Shears");
 game.setLocalization("en_US", "item.bedsickle", "Bunnybone Scythe");
 game.setLocalization("en_US", "item.bedgrafter", "Bunnybone Grafter");
 game.setLocalization("en_US", "item.bedsaw", "Bunnybone Saw");

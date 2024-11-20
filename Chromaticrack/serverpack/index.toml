@@ -3144,7 +3144,7 @@ metafile = true
 
 [[files]]
 file = "scripts/bunnybone.zs"
-hash = "4ce4f3be79779af4bda8221ac234dde4691c0bf80d27d867ca9a4cae6cd5b102"
+hash = "3a38a12a871927c1bb19ab15daceac92ea7248dade7bde67232d506981f72af5"
 
 [[files]]
 file = "scripts/clockworkphase.zs"
