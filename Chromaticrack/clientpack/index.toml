@@ -482,11 +482,11 @@ hash = "4bacd700854870f5c0fb8db1d5829931fc0c16b13dede356ab36567672b7f8ce"
 
 [[files]]
 file = "config/MatterOverdrive/Matter Overdrive.cfg"
-hash = "641e7fddff123b00ea7f58ce3b8310451a1adba7e3712a3d6e5a0064ab8247ec"
+hash = "cd36f818fce33f8cde97d1023b90ffced92713e7c7dbc874e427ea7887a4fbbb"
 
 [[files]]
 file = "config/MatterOverdrive/Registry.matter"
-hash = "cbbd4fb33db3e38f9e1812a368433496d327b1396907b018bb1b6cdaf1b4cb18"
+hash = "7be45f9cd06fd19109f5008dc77c6febc16d2d62e1578699a6a1e49217a95312"
 
 [[files]]
 file = "config/Morph.cfg"
