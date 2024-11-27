@@ -382,7 +382,7 @@ hash = "ab9e453ec7a282991a9405ed34331d9fd378023211454b293d7835441ed36047"
 
 [[files]]
 file = "config/ESM.cfg"
-hash = "5d16cedb2f563a20929fb1ba24e8781033f1457fec6368ff33527958ba7fc56d"
+hash = "fb47b9c34f749ff4bd58e9d7933d666ab74d9dce4557029af3780030a9633304"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -3156,7 +3156,7 @@ hash = "525a796bc9f7b9b422e1039a59dba205725ada4c411725e859fda0079fe6222e"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "3b062537af7cab66a27c80799ef287aed69cec5edad79d661f08b96858d79904"
+hash = "f4ea2b7b56d16078b268c32aedc5653d4dd99d5411586cb5dda157be8543d9c2"
 
 [[files]]
 file = "scripts/projectred.zs"

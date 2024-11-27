@@ -19,8 +19,7 @@ recipes.addShapeless(<minecraft:anvil>, [<etfuturum:anvil>]);
 #recipes.addShapeless(<minecraft:anvil:2>, [<etfuturum:anvil:1>]);
 #recipes.addShapeless(<minecraft:anvil:2>, [<etfuturum:anvil:2>]);
 #EFR Circuit plate fix
-furnace.remove(<ProjRed|Core:projectred.core.part:0>);
-furnace.addRecipe(<ProjRed|Core:projectred.core.part:0>*2, <etfuturum:smooth_stone>, 0.5);
+recipes.addShapeless(<etfuturum:smooth_stone>, [<ProjRed|Core:projectred.core.part:0>, <ProjRed|Core:projectred.core.part:0>]);
 
 Research.moveResearch("RC_Crowbar", "ARTIFICE", -9 as int, 3);
 Research.moveResearch("RC_Crowbar_Void", "ARTIFICE", -9 as int, 4);
