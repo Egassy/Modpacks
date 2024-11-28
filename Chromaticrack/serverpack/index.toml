@@ -490,7 +490,7 @@ hash = "7be45f9cd06fd19109f5008dc77c6febc16d2d62e1578699a6a1e49217a95312"
 
 [[files]]
 file = "config/Morph.cfg"
-hash = "86bca6086442e7e6b1596e728b44c5341330bf9b3ad02fcfcc1ad80aaaa746c1"
+hash = "f9d8f466b733cc5e0377220a79cf32e04ce976dcac240809580ed7bd49991bad"
 
 [[files]]
 file = "config/Morpheus.cfg"
