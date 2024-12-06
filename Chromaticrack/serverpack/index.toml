@@ -3013,6 +3013,11 @@ hash = "d70eea85e5d4de6addb4e8987990ddb021ca66b5b68f0457c991bf04693ee17c"
 metafile = true
 
 [[files]]
+file = "mods/sampler.pw.toml"
+hash = "4a919938712abfbcd1e38cc3f102df8cf5e5faf29a40959d6b8f9d5d1fe291c7"
+metafile = true
+
+[[files]]
 file = "mods/secretroomsmod.pw.toml"
 hash = "c94a12ea37153c35f337bfc66adcb658fc331b82758f7a9948ac356ca54b8fea"
 metafile = true
