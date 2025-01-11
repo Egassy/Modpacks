@@ -350,6 +350,11 @@ hash = "d104c40d585e06303a47ebc1f61d07f5fe9670d857008d56cd6a35f8440c4d3f"
 metafile = true
 
 [[files]]
+file = "mods/databank.pw.toml"
+hash = "c0e23d791cc8734a7e1be6313b5f99ca8c52bb8dea594b215b65350b2be44807"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "e76c5c5a3d7654cb1a3947122422a86ead5b77e371acd8446d0a781d8389dc6f"
 metafile = true
@@ -387,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "3ccf016fa179f4006a58b4af5412f130e41deaf04586c33fe917641ec2fbaaa7"
 metafile = true
 
 [[files]]
@@ -522,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
+metafile = true
+
+[[files]]
+file = "mods/runology.pw.toml"
+hash = "8ceaa8f9a19cfedd284749b9eb1e3696659c2b8c6321353fcddcdd66a5a16076"
 metafile = true
 
 [[files]]

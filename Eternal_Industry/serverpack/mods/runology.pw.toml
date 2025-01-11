@@ -1,0 +1,7 @@
+name = "Runology"
+filename = "runology-2.0.0.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/runology-2.0.0.jar"
+hash-format = "sha256"
+hash = "423e47b40aef635610754907be03a13c68db98bf9fa069b4ace85353fac86d65"
