@@ -1,0 +1,13 @@
+name = "Eternal Industry"
+author = "Egassy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d74ea298771f3fd7a17620499b358788f59c89655f305787ca04c4492e374871"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.82"

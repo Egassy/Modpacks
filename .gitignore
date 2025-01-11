@@ -2,3 +2,4 @@
 #Exclude packwiz and its ignore files
 *.exe
 *.packwizignore
+*.bat

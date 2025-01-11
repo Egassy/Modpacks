@@ -1,0 +1,13 @@
+name = "Wings Reborn"
+filename = "wings-2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79a40693ead862a38eda007adbac02b352ef1659"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6017919
+project-id = 1017751

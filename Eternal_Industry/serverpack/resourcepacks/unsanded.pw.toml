@@ -1,0 +1,13 @@
+name = "Unsanded (Font)"
+filename = "Unsanded-1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ed33ae271b63eb63c0e6c90b08ad17bb8f5c4bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3354621
+project-id = 438375

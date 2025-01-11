@@ -194,11 +194,11 @@ hash = "cba1b28a10cc725e6ceb592c60fe91d778a42255f699d70a0cd0212055e1598f"
 
 [[files]]
 file = "config/denseores.cfg"
-hash = "0348ceb531243a965c563f1046912d78251b69444079b4c060b0b577a163dd9b"
+hash = "ba70a20b9fc980655d1400f8598444bb054c43bd953d04dadbccfa98c9838664"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "0df1459d3322dd0d2aa4d5ac05fd552fe9e6a741fd8ecc9ab4449529d66faea4"
+hash = "440f86b764115431410ee7e23f11cc79bb65653fa4be6f84074d5642ee48fb92"
 
 [[files]]
 file = "config/enderthing.cfg"
