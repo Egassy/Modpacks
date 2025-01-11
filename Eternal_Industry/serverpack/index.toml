@@ -390,6 +390,11 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "91bd23dd592b8587d094b5953eba29ec6529c1828bd3c85cf0ef6786f1be9e3b"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
 metafile = true
