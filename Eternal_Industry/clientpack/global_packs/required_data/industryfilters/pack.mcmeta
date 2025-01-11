@@ -14,10 +14,6 @@
         "path": "gold_ingot"
       },
       {
-        "namespace": "oritech",
-        "path": "biosteel_blockblock"
-      },
-      {
         "namespace": "farmersdelight",
         "path": "cake_from_milk_bottle"
       },
@@ -26,88 +22,12 @@
         "path": "awnings/awning_dark_gray"
       },
       {
-        "namespace": "oritech",
-        "path": "raw_platinum_blockblockinv"
-      },
-      {
-        "namespace": "oritech",
-        "path": "nickel_ingot"
-      },
-      {
-        "namespace": "oritech",
-        "path": "silicon_blockblockinv"
-      },
-      {
-        "namespace": "oritech",
-        "path": "platinum_ingot"
-      },
-      {
-        "namespace": "oritech",
-        "path": "raw_nickel_blockblockinv"
-      },
-      {
-        "namespace": "oritech",
-        "path": "copper_ingot"
-      },
-      {
-        "namespace": "oritech",
-        "path": "nickel_ingot_from_smelting_nickel_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "steel_ingot_from_smelting_steel_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "gold_ingot_from_smelting_gold_dust"
-      },
-      {
         "namespace": "integrateddynamics",
         "path": "smelting/menril_log_coal"
       },
 	  {
         "namespace": "integrateddynamics",
         "path": "smelting/menril_log_filled_coal"
-      },
-      {
-        "namespace": "oritech",
-        "path": "copper_ingot_from_smelting_copper_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "iron_ingot_from_smelting_iron_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "electrum_ingot_from_smelting_electrum_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "steel_ingot_from_blasting_steel_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "copper_ingot_from_blasting_copper_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "iron_ingot_from_blasting_iron_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "electrum_ingot_from_blasting_electrum_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "gold_ingot_from_blasting_gold_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "nickel_ingot_from_blasting_nickel_dust"
-      },
-      {
-        "namespace": "oritech",
-        "path": "pulverizer/dust/biosteel"
       }
     ]
   }

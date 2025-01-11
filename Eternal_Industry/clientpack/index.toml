@@ -266,55 +266,7 @@ hash = "d77b15ec6e602863475a7b74085d8b3c903f760766042837cbddf0f86f01c370"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "1c61c9e2a56d9fbf62cbc8f05d79ae489c4c4263813895648a90241b8b32c4fc"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/blasting/platinum_ingot_from_blasting_platinum_dust.json"
-hash = "c55d6eb8bd70d7d6f6b8841da02593d42654ec67eb315de575aca7e59e6c5289"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/blasting/platinum_ingot_from_blasting_platinum_gem.json"
-hash = "744428925bf4bc02f2b9e111898f24926e846b79fe729b8ebddebce3112c1542"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/blasting/platinum_ingot_from_blasting_raw_platinum.json"
-hash = "e9b4346a9d318c88b93d51aa215d42c899c1335da346c5210ffcffa49cd4d773"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/blasting/platinum_nugget_from_blasting_small_platinum_dust.json"
-hash = "d55c75d3e317d59b879bd2cea7e320be5ecac4938983fedba419cc0f59d015c7"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/platinum_ingot_dust.json"
-hash = "73a27727c057bda20477fd7a15a7671ecc237f0ecb4ef0dba4d74b9038fb77f4"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/platinum_ingot_gem.json"
-hash = "59e242fc5d33012a08735853283c1d409a5ce683b852af6f4daacca7431ea727"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/platinum_ingot_raw.json"
-hash = "183d22d3fa52bd6f689e719fccaac5ae51b8f6080e3a3d1009affff2502d8645"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/platinum_nugget_small_dust.json"
-hash = "c20ada6508d991eece21655d65d3c771c004a57810eaa8748c7ace27bf1fb876"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/smelting/platinum_ingot_from_smelting_platinum_dust.json"
-hash = "73a27727c057bda20477fd7a15a7671ecc237f0ecb4ef0dba4d74b9038fb77f4"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/smelting/platinum_ingot_from_smelting_platinum_gem.json"
-hash = "59e242fc5d33012a08735853283c1d409a5ce683b852af6f4daacca7431ea727"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/smelting/platinum_ingot_from_smelting_raw_platinum.json"
-hash = "183d22d3fa52bd6f689e719fccaac5ae51b8f6080e3a3d1009affff2502d8645"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/smelting/platinum_nugget_from_smelting_small_platinum_dust.json"
-hash = "c20ada6508d991eece21655d65d3c771c004a57810eaa8748c7ace27bf1fb876"
+hash = "93ec4bbdd8ce48c1f3fcf205e1ae49b5e178fe274ee7d16ce8ee4183bceb2eb1"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/thaumon/recipe/polished_ancient_stone.json"
