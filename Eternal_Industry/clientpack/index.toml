@@ -325,8 +325,13 @@ hash = "6c30592da65462047683b2801e509e967fbc552158393b05928a703cf5769dae"
 metafile = true
 
 [[files]]
-file = "mods/bosses-of-mass-destruction.pw.toml"
-hash = "fad01ec8fe750cdb84c278965b12132c24111ef40bd99824c00216c409f0526e"
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "8b868c8749f5b646a1ee13e7bc7cd0c18ef354d7dd9effa3a08c7f1c1bc77dcc"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "d8fee9f2beb89a580488afd0fadb4f86273d621c2e1bf84e1d90be31bf6c3eb6"
 metafile = true
 
 [[files]]
