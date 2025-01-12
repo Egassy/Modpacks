@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "c0e23d791cc8734a7e1be6313b5f99ca8c52bb8dea594b215b65350b2be44807"
+hash = "1d78ba040980d91b5a77a7871fe0abcfe2737c0c175d2c8b5f5b0b79a77dcada"
 metafile = true
 
 [[files]]
