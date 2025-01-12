@@ -28,6 +28,10 @@
 	  {
         "namespace": "integrateddynamics",
         "path": "smelting/menril_log_filled_coal"
+      },
+	  {
+        "namespace": "linkingbooks",
+        "path": "relto_book_from_scratch"
       }
     ]
   }

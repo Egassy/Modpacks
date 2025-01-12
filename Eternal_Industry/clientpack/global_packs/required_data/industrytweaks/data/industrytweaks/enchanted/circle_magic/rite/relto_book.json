@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "id": "enchanted:waystone", "count": 1 },
+	{ "id": "enchanted:ender_dew", "count": 1 },
+    { "id": "linkingbooks:blank_linking_book", "count": 1 }
+  ],
+  "shapes": {
+    "industrytweaks:journey_circle": "enchanted:otherwhere_chalk",
+  },
+  "power": 2000,
+  "factory": { "type": "enchanted:create_item", "items": [ { "id": "linkingbooks:relto_book", "count": 1 } ] }
+}

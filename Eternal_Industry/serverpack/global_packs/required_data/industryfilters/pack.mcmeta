@@ -1,6 +1,38 @@
 {
   "pack": {
-    "description": "Fixes and tweaks for Eternal Industry",
+    "description": "Filters for Eternal Industry",
     "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "oritech",
+        "path": "iron_ingot"
+      },
+      {
+        "namespace": "oritech",
+        "path": "gold_ingot"
+      },
+      {
+        "namespace": "farmersdelight",
+        "path": "cake_from_milk_bottle"
+      },
+      {
+        "namespace": "supplementaries",
+        "path": "awnings/awning_dark_gray"
+      },
+      {
+        "namespace": "integrateddynamics",
+        "path": "smelting/menril_log_coal"
+      },
+	  {
+        "namespace": "integrateddynamics",
+        "path": "smelting/menril_log_filled_coal"
+      },
+	  {
+        "namespace": "linkingbooks",
+        "path": "relto_book_from_scratch"
+      }
+    ]
   }
 }

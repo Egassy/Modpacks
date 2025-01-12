@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OVO",
+    "VAV",
+    "OVO"
+  ],
+  "key": {
+    "A": {
+      "item": "eternal_starlight:raw_aethersent"
+    },
+    "V": {
+      "item": "eternal_starlight:voidstone"
+    },
+    "O": {
+      "tag": "c:obsidians"
+    }
+  },
+  "result": {
+    "count": 4,
+    "id": "linkingbooks:nara"
+  }
+}

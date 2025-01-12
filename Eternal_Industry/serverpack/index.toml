@@ -265,8 +265,52 @@ file = "config/yigd.json"
 hash = "d77b15ec6e602863475a7b74085d8b3c903f760766042837cbddf0f86f01c370"
 
 [[files]]
+file = "global_packs/required_data/industryfilters/data/required.document"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "4462498a0fd47a611af6bce2ee210f58ab7da05f011d1119bc9e381d3aa8c9b2"
+hash = "c7b390638ec795ad6f12d88471d4b6972336c75488b956dfac43b2efe49fc636"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
+hash = "508ec28a4b0c4074b86a7840364a8007d84a9ff9116bbba7bd4e4c8db0b08de8"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
+hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/shape/journey_circle.json"
+hash = "a804d24104bd0cacade3a13fc1ce0a0994ff8cdd2ed5d8619c25cefeeccae2a9"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
+hash = "8d9299d76331804a6e653cac1b383ef0e89750aa818f624c0c8868d672710ffe"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/linking_panel.json"
+hash = "73baf7f06dbcfed8ed3ce60c9fbe78b6eb111b2bfb65bade4e5b24836196e872"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/nara.json"
+hash = "11ff78059aebe66673f5949b7068bc1b7294e1f9117b5a5ed269837d454f5690"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/tethered_link_effect.json"
+hash = "2e5f81acead7dd50f6bae646e44273476cf578429471d84cda49f7aa942f0910"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/worldgen/configured_feature/resource_node_common.json"
+hash = "35d6e5e95d7141fcc50a489f397553e5fb6f9c26c8b4cb29e9eddfdfe3cbe994"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/worldgen/configured_feature/resource_node_other.json"
+hash = "f3cbdafe557efbabcaa8b14629392188444ce764d7eb096df1a38f25ee1cb617"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/worldgen/configured_feature/resource_node_rare.json"
+hash = "92516ddd77faba7c1b7702819326b7fb8f4abf74113f72d9886ed70d87221dd0"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/thaumon/recipe/polished_ancient_stone.json"
@@ -345,6 +389,11 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "64b8e30238c0e6f215862256f0efd7aaadb7cfb10924cdb2b4a1b06ed1283254"
+metafile = true
+
+[[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "a630e19d092c8f0d0637338fa5714fa7147e66d9be0e2c10a5f2f0341dd1dd37"
 metafile = true
@@ -361,17 +410,12 @@ metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "1d78ba040980d91b5a77a7871fe0abcfe2737c0c175d2c8b5f5b0b79a77dcada"
+hash = "4cea676de46df91c7962bceb29a3e7cbc0a5f028e5ada6b467e3e2e73d20a2be"
 metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "e76c5c5a3d7654cb1a3947122422a86ead5b77e371acd8446d0a781d8389dc6f"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "f77a2399c34ee245fca609dce1f2379a0f7021bc7e4dd42dce7916573ffbc81c"
 metafile = true
 
 [[files]]
@@ -402,11 +446,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "3ccf016fa179f4006a58b4af5412f130e41deaf04586c33fe917641ec2fbaaa7"
 metafile = true
 
 [[files]]
@@ -546,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/runology.pw.toml"
-hash = "63870b97c6ba22682ec8c3b5002831a728679a174ea8b374534fbdc3963d5f04"
+hash = "4830ab6da1ad1d9a6314f80d5879d7a0ebd10f4955caa1a733d8359dc22e7f94"
 metafile = true
 
 [[files]]
@@ -562,6 +601,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd6d5b32b5998752eedc0f86526567099435f0eb6c891097969583966fb5f303"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "c6a705c6f1c8b9b8179e8d0ef76318aeb73982c59312f5420510207fee62f227"
 metafile = true
 
 [[files]]
@@ -637,9 +681,4 @@ metafile = true
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "d9ee3117eaf6dc74329e302eece0b8ad87c2bfc62bccd383df8cd2545e9206a1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unsanded.pw.toml"
-hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
 metafile = true

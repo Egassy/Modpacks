@@ -1,0 +1,11 @@
+{
+    "type": "linkingbooks:link_effect",
+    "additional_ingredients": [
+        {
+            "item": "minecraft:ender_eye"
+        }
+    ],
+    "link_effects": [
+        "linkingbooks:intraage_linking"
+    ]
+}
