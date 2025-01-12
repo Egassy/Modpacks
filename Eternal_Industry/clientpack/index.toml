@@ -549,11 +549,6 @@ hash = "ba02e961978ec74a41219c7180890c3c9e11d39f556677846ec59b42145c3d67"
 metafile = true
 
 [[files]]
-file = "mods/my-server-is-compatible.pw.toml"
-hash = "9a5ae9bcf4283d92ca21929e5587738e0e26b1b67a0a4416d539777e2f30ec9a"
-metafile = true
-
-[[files]]
 file = "mods/nautec.pw.toml"
 hash = "8cf9d0d94145db59a1ef3cb86c5568235de122d82674daa90ceb0917fca62647"
 metafile = true
