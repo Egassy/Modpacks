@@ -325,6 +325,11 @@ hash = "6c30592da65462047683b2801e509e967fbc552158393b05928a703cf5769dae"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "fad01ec8fe750cdb84c278965b12132c24111ef40bd99824c00216c409f0526e"
+metafile = true
+
+[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "fe58ce8d8e88c67c395d76a0551d38fa59459e24fbb8ba85015f67d8fe2cc0ee"
 metafile = true
@@ -536,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/runology.pw.toml"
-hash = "8ceaa8f9a19cfedd284749b9eb1e3696659c2b8c6321353fcddcdd66a5a16076"
+hash = "63870b97c6ba22682ec8c3b5002831a728679a174ea8b374534fbdc3963d5f04"
 metafile = true
 
 [[files]]

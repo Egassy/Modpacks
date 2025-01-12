@@ -1,7 +1,7 @@
 name = "Runology"
-filename = "runology-2.0.0.jar"
+filename = "runology-2.0.0-alpha-1.jar"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/runology-2.0.0.jar"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/runology-2.0.0-alpha-1.jar"
 hash-format = "sha256"
-hash = "423e47b40aef635610754907be03a13c68db98bf9fa069b4ace85353fac86d65"
+hash = "5ea67318535f8e52a36cccbe650934b2e68f86de907d4c5790a08bab81f8378e"
