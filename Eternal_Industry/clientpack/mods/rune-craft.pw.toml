@@ -1,0 +1,13 @@
+name = "Rune Craft"
+filename = "RuneCraft-1.21-(v.4.0.3-NEO).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f016c41d25babf39dd2cf94fab1224eb662bec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5744699
+project-id = 264936

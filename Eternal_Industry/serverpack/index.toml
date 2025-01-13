@@ -274,15 +274,11 @@ hash = "c7b390638ec795ad6f12d88471d4b6972336c75488b956dfac43b2efe49fc636"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
-hash = "508ec28a4b0c4074b86a7840364a8007d84a9ff9116bbba7bd4e4c8db0b08de8"
+hash = "fcd15d863f85bcef12594fbbdd2f5a2c0cd68c3f677d77217442c93e18597bb9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
 hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/shape/journey_circle.json"
-hash = "a804d24104bd0cacade3a13fc1ce0a0994ff8cdd2ed5d8619c25cefeeccae2a9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
@@ -584,6 +580,11 @@ hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
 metafile = true
 
 [[files]]
+file = "mods/rune-craft.pw.toml"
+hash = "6d277863aa98de85cc959f81b13ebb9d98e6f787698fc975e3d3262e4986fdc6"
+metafile = true
+
+[[files]]
 file = "mods/runology.pw.toml"
 hash = "4830ab6da1ad1d9a6314f80d5879d7a0ebd10f4955caa1a733d8359dc22e7f94"
 metafile = true
@@ -596,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "0993f7e7eec5160e0eeb9253a9f15f228031ec4036aaa39e558922a33a74a161"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "173300643d1ca82b3f2bdb33aadaa60cd9cdef44677dcbc29e58b12c7685db92"
 metafile = true
 
 [[files]]

@@ -274,15 +274,11 @@ hash = "c7b390638ec795ad6f12d88471d4b6972336c75488b956dfac43b2efe49fc636"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
-hash = "508ec28a4b0c4074b86a7840364a8007d84a9ff9116bbba7bd4e4c8db0b08de8"
+hash = "fcd15d863f85bcef12594fbbdd2f5a2c0cd68c3f677d77217442c93e18597bb9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
 hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/shape/journey_circle.json"
-hash = "a804d24104bd0cacade3a13fc1ce0a0994ff8cdd2ed5d8619c25cefeeccae2a9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
@@ -327,6 +323,14 @@ hash = "774868135712f5597ea482138c9a1ee9b968e8b6a91c2f62a07b2091a626ad99"
 [[files]]
 file = "global_packs/required_data/industrytweaks/pack.mcmeta"
 hash = "4462498a0fd47a611af6bce2ee210f58ab7da05f011d1119bc9e381d3aa8c9b2"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
+hash = "d440fac30105a779309ab8fe076a42bd0ccdeed4080452c2e733ba36247257c2"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/pack.mcmeta"
+hash = "f8a6c3f2004eeffe2eeabe8df35aedca74156456d3cb888a382b0fc7771a384d"
 
 [[files]]
 file = "global_packs/required_resources/unsanded.pw.toml"
@@ -596,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
+metafile = true
+
+[[files]]
+file = "mods/rune-craft.pw.toml"
+hash = "6d277863aa98de85cc959f81b13ebb9d98e6f787698fc975e3d3262e4986fdc6"
 metafile = true
 
 [[files]]
