@@ -233,6 +233,10 @@ file = "config/toms_storage-common.toml"
 hash = "7526db9cc2784f1ad0d571e8ea810f607b51c9d981437a21bd75654f3d47045d"
 
 [[files]]
+file = "config/trimseffects-config2.json"
+hash = "35ce78b8bf51039223864d345539a59fabe8a1c081f18fdcff11fe6f71b03c2d"
+
+[[files]]
 file = "config/tropicraft-common.toml"
 hash = "fa2a82b18c539deb0c147c0bded2b81355e6a9e59845a32a8754f10732ae5eaf"
 
@@ -279,6 +283,14 @@ hash = "fcd15d863f85bcef12594fbbdd2f5a2c0cd68c3f677d77217442c93e18597bb9"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
 hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/grinder/amethyst.json"
+hash = "e51e9545c791daa30e9a84e94047dfcce211eedc114f730a1eec545e18bb4b60"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/pulverizer/amethyst.json"
+hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
@@ -581,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/runology.pw.toml"
-hash = "4830ab6da1ad1d9a6314f80d5879d7a0ebd10f4955caa1a733d8359dc22e7f94"
+hash = "418d47dd863b5575d52b36ad6c637a53c1a3a5b60ce50b4415473cb525239fca"
 metafile = true
 
 [[files]]
@@ -662,6 +674,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "50a10b3fc940fbb359061fca4f780239b04262bff7eaa1b1898876d0f695164b"
+metafile = true
+
+[[files]]
+file = "mods/trimseffects.pw.toml"
+hash = "3ce0c32991d9be475577b02ec8d8619bd388ba8477cb1fcfa06fc9ba4d7fb1af"
 metafile = true
 
 [[files]]
