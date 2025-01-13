@@ -674,11 +674,6 @@ hash = "50a10b3fc940fbb359061fca4f780239b04262bff7eaa1b1898876d0f695164b"
 metafile = true
 
 [[files]]
-file = "mods/tropicraft.pw.toml"
-hash = "dce2569e210511439199f529c644e6a74ea2e6ca9d9d63a5c0a701738c11610b"
-metafile = true
-
-[[files]]
 file = "mods/wings-3.pw.toml"
 hash = "3d65d2ff6767f998be11dab40f083d02d186653d89a5048865f28f06451d5801"
 metafile = true
@@ -691,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "34f4cf50c5c1780ceb558de500bddb313e1e09dac4fc5f8f2ef937ea1d682820"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true
 
 [[files]]

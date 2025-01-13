@@ -609,6 +609,11 @@ hash = "c6a705c6f1c8b9b8179e8d0ef76318aeb73982c59312f5420510207fee62f227"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "bad6538333395150a83c1fd50f345adf58a6ab8c1fd7743d67efd65f8572dbd1"
+metafile = true
+
+[[files]]
 file = "mods/stateobserver.pw.toml"
 hash = "3927a786ec18d2c93b5048ef25ff2df75a7eb66c7560439e1a0a2682b624fdbd"
 metafile = true
@@ -659,13 +664,13 @@ hash = "50a10b3fc940fbb359061fca4f780239b04262bff7eaa1b1898876d0f695164b"
 metafile = true
 
 [[files]]
-file = "mods/tropicraft.pw.toml"
-hash = "dce2569e210511439199f529c644e6a74ea2e6ca9d9d63a5c0a701738c11610b"
+file = "mods/wings-3.pw.toml"
+hash = "3d65d2ff6767f998be11dab40f083d02d186653d89a5048865f28f06451d5801"
 metafile = true
 
 [[files]]
-file = "mods/wings-3.pw.toml"
-hash = "3d65d2ff6767f998be11dab40f083d02d186653d89a5048865f28f06451d5801"
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
 
 [[files]]
