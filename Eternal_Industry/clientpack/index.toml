@@ -603,11 +603,6 @@ hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
 metafile = true
 
 [[files]]
-file = "mods/rune-craft.pw.toml"
-hash = "6d277863aa98de85cc959f81b13ebb9d98e6f787698fc975e3d3262e4986fdc6"
-metafile = true
-
-[[files]]
 file = "mods/runology.pw.toml"
 hash = "4830ab6da1ad1d9a6314f80d5879d7a0ebd10f4955caa1a733d8359dc22e7f94"
 metafile = true
