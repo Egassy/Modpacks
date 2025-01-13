@@ -31,10 +31,10 @@
     "host": ["glowing"],
     "flow": ["jump_boost"],
     "bolt": ["dolphins_grace"],
-	"eternal_starlight:keeper" ["reactive:far_reach"],
-	"eternal_starlight:forge" ["reactive:fire_shield"],
-	"eternal_starlight:blooming" ["the_bumblezone:beenergized"],
-	"eternal_starlight:twining" ["wings:wings"]
+	"eternal_starlight:keeper": ["reactive:far_reach"],
+	"eternal_starlight:forge": ["reactive:fire_shield"],
+	"eternal_starlight:blooming": ["the_bumblezone:beenergized"],
+	"eternal_starlight:twining": ["wings:wings"]
   },
 
   // Whether mobs wearing trimmed armor should get the same
