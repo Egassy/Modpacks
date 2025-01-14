@@ -760,6 +760,10 @@ file = "scripts/chisel.zs"
 hash = "e2d3e3bd6b46092728c6b38ecaeb98bd6802f8e49a49b369b36744a7efe94286"
 
 [[files]]
+file = "scripts/debased.zs"
+hash = "b0da284c21e74309efa466ac376d95fff92d8e12e3f0083e941bec944d26f35c"
+
+[[files]]
 file = "scripts/enderutils.zs"
 hash = "fddf9a63ab8066a62e6b54d2bb411f3f1b7c2474a7fd449ed585445ed8d150b5"
 
