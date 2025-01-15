@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickenlib.pw.toml"
-hash = "1cf204d3a804547b83016c5312d70ccd2a7a5baa7f72ab6f74d95ab7b430d1d3"
+hash = "07b36815f6d774a6a3522dd237008a26d14ab009827bf5b7bdd2bc8a86973fe4"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/flat-colored-blocks.pw.toml"
-hash = "f9df74b8c5b81976ac23c89eb235bbda03b253d7dcbc9dd53aa7043cb743fbf0"
+hash = "c1e4efd114875a2b6227df5bbc953a0bb97df9e3ae15bd8abd6491f4cc5c6b2e"
 metafile = true
 
 [[files]]
