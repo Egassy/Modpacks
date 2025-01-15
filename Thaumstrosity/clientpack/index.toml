@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "scripts/JEI.zs"
-hash = "b7b871bc87e09f58f7843e3df0df8125d093c98b13755693baac11db33f50d5f"
+hash = "23b75950c978ce4e62e560e300f761e0c9011c9190cd2aaba3e6d634a68e1c75"
 
 [[files]]
 file = "scripts/chisel.zs"
@@ -761,7 +761,7 @@ hash = "e2d3e3bd6b46092728c6b38ecaeb98bd6802f8e49a49b369b36744a7efe94286"
 
 [[files]]
 file = "scripts/debased.zs"
-hash = "b0da284c21e74309efa466ac376d95fff92d8e12e3f0083e941bec944d26f35c"
+hash = "70a90ba4f613d4ef00cdb057e9727e23441490c61a3fd11efbf99133045b8670"
 
 [[files]]
 file = "scripts/enderutils.zs"
@@ -782,6 +782,10 @@ hash = "697f1ce6c408670071e5e29f68a95c7c907e59f11715d45e914e2b3d0ff24c95"
 [[files]]
 file = "scripts/storagenetwork.zs"
 hash = "44b4744b9f5324beb9c7fee95ad54c42b229ab0bea9981a3c6071723b27f63ad"
+
+[[files]]
+file = "scripts/thaumcraft_lang.zs"
+hash = "c0e71332d2cb6671aa57d9bf5a1875081e5b429f52466e8e323968f56ab12f15"
 
 [[files]]
 file = "scripts/wool.zs"
