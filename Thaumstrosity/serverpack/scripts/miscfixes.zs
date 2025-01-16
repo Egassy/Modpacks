@@ -1,0 +1,2 @@
+recipes.remove(<malisisdoors:rustyLadder>);
+ recipes.addShaped(<malisisdoors:rustyLadder> * 3, [[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>]]);

@@ -776,6 +776,10 @@ file = "scripts/locfixes.zs"
 hash = "584b487a92748ce7deaa35de9670cd54b713578ad966dd47adf9d7a0bbc5debc"
 
 [[files]]
+file = "scripts/miscfixes.zs"
+hash = "9a1d9bd85dc8e15f4f0abc31394d676521c919e6cca1bcab09dceac0ffc0b68c"
+
+[[files]]
 file = "scripts/storagedrawers.zs"
 hash = "697f1ce6c408670071e5e29f68a95c7c907e59f11715d45e914e2b3d0ff24c95"
 

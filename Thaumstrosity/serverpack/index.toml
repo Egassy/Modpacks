@@ -137,6 +137,10 @@ file = "config/backlytra.cfg"
 hash = "c40860ef0c8176100d49e2bd2048eb5b4679f9581624ea36adeb614dae24cabf"
 
 [[files]]
+file = "config/backups.cfg"
+hash = "daecd4f37a34b5622200abac7e4cd3b41ba538c70f215e7e65ed330bb9c89168"
+
+[[files]]
 file = "config/betterbuilderswands.cfg"
 hash = "1ea718c5bc4eda5cea3f420815bae10ae4d0c0baa802d6f3189789b3bfc90a5b"
 
@@ -364,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/backlytra.pw.toml"
 hash = "5b18f294177da07b0a8f81e0f42c8270c947db5418bdc109bdb21249b3f4dd0b"
+metafile = true
+
+[[files]]
+file = "mods/backups.pw.toml"
+hash = "0a6848b413daab9adb61d8c60f39c090bc831adeca2282bc6be56ad491c2c5b2"
 metafile = true
 
 [[files]]
@@ -759,6 +768,10 @@ hash = "4ce32969122d924fe0d0bd1d0e17f468b5f2db4227734e79e94e32f6d884aaf1"
 [[files]]
 file = "scripts/locfixes.zs"
 hash = "584b487a92748ce7deaa35de9670cd54b713578ad966dd47adf9d7a0bbc5debc"
+
+[[files]]
+file = "scripts/miscfixes.zs"
+hash = "9a1d9bd85dc8e15f4f0abc31394d676521c919e6cca1bcab09dceac0ffc0b68c"
 
 [[files]]
 file = "scripts/storagedrawers.zs"
