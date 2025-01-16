@@ -121,6 +121,14 @@ file = "config/aroma1997/Aroma1997Core.cfg"
 hash = "a11eb2d4add00b7bb905634e7ee81755acd2e031821fae9540382acf4959c491"
 
 [[files]]
+file = "config/aroma1997/AromaBackup.cfg"
+hash = "44b1992c053904847aa55bac293776971743a11abff29edb9f1cad79905b85ba"
+
+[[files]]
+file = "config/aroma1997/AromaBackupRecovery.cfg"
+hash = "a83bcf31a00ab992399befb70909647b260551f7ddf136e72b5ac81515284c78"
+
+[[files]]
 file = "config/aroma1997/Uncomplication-Replacement.ini"
 hash = "b3d76eae1e9ba3c222a35a8e4aac27f20461f5a15ce43c1b74c8866edd3ae4ae"
 
@@ -135,10 +143,6 @@ hash = "5ad061c0cc485e3f5b7c5828b7b61142a85c742d2e3cd524bfe36165c418aa55"
 [[files]]
 file = "config/backlytra.cfg"
 hash = "c40860ef0c8176100d49e2bd2048eb5b4679f9581624ea36adeb614dae24cabf"
-
-[[files]]
-file = "config/backups.cfg"
-hash = "daecd4f37a34b5622200abac7e4cd3b41ba538c70f215e7e65ed330bb9c89168"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -356,6 +360,11 @@ hash = "f7f1ab4fd31464ecd5746d41f90399c2fa9f908dbf5b3972cd647fee9708c7cb"
 metafile = true
 
 [[files]]
+file = "mods/aromabackup.pw.toml"
+hash = "4d9db7e6d98fca5e5d2d8ccef33115dc990a46deaa083497184b995f9aa7fea8"
+metafile = true
+
+[[files]]
 file = "mods/aura-cascade.pw.toml"
 hash = "59bb4dc3dba4bd67cc4f3cf821f5381677240bb3305bc94e7251822a812dc38d"
 metafile = true
@@ -368,11 +377,6 @@ metafile = true
 [[files]]
 file = "mods/backlytra.pw.toml"
 hash = "5b18f294177da07b0a8f81e0f42c8270c947db5418bdc109bdb21249b3f4dd0b"
-metafile = true
-
-[[files]]
-file = "mods/backups.pw.toml"
-hash = "0a6848b413daab9adb61d8c60f39c090bc831adeca2282bc6be56ad491c2c5b2"
 metafile = true
 
 [[files]]
