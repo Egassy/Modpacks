@@ -230,7 +230,7 @@ hash = "b53e87f59ab01f6f53700f66cbbf3869ecac01c4491c8ee119728ff9447e5568"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "a498c2a28e71c4cfa69f0fead14695493a290462862234fb2f8e07b7212a29ac"
+hash = "516cc80ed8be5e2441f95ccb95b4779b1dcd258e4b84f564e33a52404ed74181"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
