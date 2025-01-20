@@ -198,7 +198,7 @@ hash = "ba70a20b9fc980655d1400f8598444bb054c43bd953d04dadbccfa98c9838664"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "440f86b764115431410ee7e23f11cc79bb65653fa4be6f84074d5642ee48fb92"
+hash = "0febfe7c7a1723f54795328845c0bb330ae6ef548f132f59a2ba8a1262adf3b1"
 
 [[files]]
 file = "config/enderthing.cfg"
