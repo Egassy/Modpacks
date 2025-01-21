@@ -197,10 +197,6 @@ file = "config/denseores.cfg"
 hash = "ba70a20b9fc980655d1400f8598444bb054c43bd953d04dadbccfa98c9838664"
 
 [[files]]
-file = "config/dsurround/dsurround.cfg"
-hash = "0febfe7c7a1723f54795328845c0bb330ae6ef548f132f59a2ba8a1262adf3b1"
-
-[[files]]
 file = "config/enderthing.cfg"
 hash = "f512dac6712493ae92362eef80379e0c4cf097d6a7212c9ca881a74fadeb6ad2"
 
@@ -459,11 +455,6 @@ metafile = true
 [[files]]
 file = "mods/dummycore.pw.toml"
 hash = "00b23a55d6b02371b16b6d8bb7686149afd6b6e52ca021a55bee15706180a5cf"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-surroundings.pw.toml"
-hash = "c010fa3edffd181429fbc4d6a39bf771b16cc39d8f5bfcb86fee63082dc45fb9"
 metafile = true
 
 [[files]]
