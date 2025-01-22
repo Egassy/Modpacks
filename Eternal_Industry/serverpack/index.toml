@@ -274,7 +274,15 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "c7b390638ec795ad6f12d88471d4b6972336c75488b956dfac43b2efe49fc636"
+hash = "9097ee3d7911422a6eadda06af2564b4eeb418fc71a2ae302b509c767d701e14"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/c/tags/hidden_from_recipe_viewers.json"
+hash = "35fe6e72dca9103c98052056456f75d0d51676be11e1705d972b1e9b269aa9b8"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "e9f9ab8c493d2549c6d86d3cdebc309ab7355368ee650a2cff8935f17bdb4a54"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
@@ -285,11 +293,11 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/
 hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/grinder/amethyst.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/grinder/amethyst.json"
 hash = "e51e9545c791daa30e9a84e94047dfcce211eedc114f730a1eec545e18bb4b60"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/pulverizer/amethyst.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/pulverizer/amethyst.json"
 hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
@@ -334,7 +342,7 @@ hash = "774868135712f5597ea482138c9a1ee9b968e8b6a91c2f62a07b2091a626ad99"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/pack.mcmeta"
-hash = "4462498a0fd47a611af6bce2ee210f58ab7da05f011d1119bc9e381d3aa8c9b2"
+hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -397,6 +405,11 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/cmds-runology.pw.toml"
+hash = "d8831649208674b754d0d956e6f151d950556d9d0b62297a97192ce225bd26d4"
+metafile = true
+
+[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "64b8e30238c0e6f215862256f0efd7aaadb7cfb10924cdb2b4a1b06ed1283254"
 metafile = true
@@ -418,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "4cea676de46df91c7962bceb29a3e7cbc0a5f028e5ada6b467e3e2e73d20a2be"
+hash = "cc6c2ff2a53fcb08240275dc6edf3a1405af2169eecc413b65c6d5480bf4e08a"
 metafile = true
 
 [[files]]
@@ -589,11 +602,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
-metafile = true
-
-[[files]]
-file = "mods/runology.pw.toml"
-hash = "46d74f6fe977f8bd5ebd9b82c8e54761b9443ce1157524fe9a36847c3d440d15"
 metafile = true
 
 [[files]]

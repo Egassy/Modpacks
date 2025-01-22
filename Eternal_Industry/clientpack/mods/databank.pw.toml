@@ -1,7 +1,13 @@
 name = "Databank"
 filename = "databank-1.0.0.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/databank-1.0.0.jar"
-hash-format = "sha256"
-hash = "63e17680604f88167f19f2d184497809a1a7d90475857b83a6d2b07633a01b54"
+url = "https://cdn.modrinth.com/data/2Ct0NAxj/versions/G2EciO5C/databank-1.0.0.jar"
+hash-format = "sha512"
+hash = "8757ee69aa2d9a3841e241525901a2545eb2c3c02e4adebcbca9aa2060b8d5a986d4aa4cd4bcf9014b0b1c92ee5c362c6f6c936d967b15daa8bb4ec54a6a3494"
+
+[update]
+[update.modrinth]
+mod-id = "2Ct0NAxj"
+version = "G2EciO5C"

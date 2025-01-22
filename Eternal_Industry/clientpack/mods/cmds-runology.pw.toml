@@ -1,0 +1,13 @@
+name = "Runology"
+filename = "runology-2.0.0-alpha-6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajdB6MtT/versions/c3FWEECf/runology-2.0.0-alpha-6.jar"
+hash-format = "sha512"
+hash = "951d7665e37aa05a9b913efe48e33b54cfc3ce6f5525313e6c571dec34ff0ed38d53e4d0d1dbaebd6a4d2b8834c2877bbddf9962146556aefc77c5022dd46a82"
+
+[update]
+[update.modrinth]
+mod-id = "ajdB6MtT"
+version = "c3FWEECf"

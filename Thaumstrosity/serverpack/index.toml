@@ -10,7 +10,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/Automagy.cfg"
-hash = "51eb147821718a630f91e205521ba812c3ad0cc45cfcc6adebc3c3e8efc9a766"
+hash = "d548b20e307572ff53ea040a4efda8bdc6f95898c09bf5197105c47a3edebd16"
 
 [[files]]
 file = "config/Baubles.cfg"
@@ -18,7 +18,7 @@ hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
 
 [[files]]
 file = "config/BiblioCraft.cfg"
-hash = "7c7498a2e05677ea78b654f9601755e1d49c077eb583fdef9a72bd622b9820dc"
+hash = "82d26589fee1c8a8e6749d686d1ffda89061ca6fa1be58a0dbc1e9f0f8672835"
 
 [[files]]
 file = "config/DummyCore.cfg"
@@ -118,7 +118,7 @@ hash = "cfb053d18089eab281f4f2c2b4c9ef1b73db046f7270262c18b35e28e8e96727"
 
 [[files]]
 file = "config/aroma1997/Aroma1997Core.cfg"
-hash = "a11eb2d4add00b7bb905634e7ee81755acd2e031821fae9540382acf4959c491"
+hash = "4ed9da531e82a321bd716c3467ae45e3fd792558d412ab190003f1254513d7d5"
 
 [[files]]
 file = "config/aroma1997/AromaBackup.cfg"
@@ -158,7 +158,7 @@ hash = "820a9e4a6ecff8fcb589c1f295f094a31f7d0fb00f152e3f29e8528a3c7f1b8c"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "435d5aa836a9f4932f57901590148cab06ef18b0859e103b4407437c60a84749"
+hash = "1f090f53dc1b79e9c0f444b6c735a1265101dc2b5024e16f2229f41729c6593b"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -234,7 +234,7 @@ hash = "b53e87f59ab01f6f53700f66cbbf3869ecac01c4491c8ee119728ff9447e5568"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "516cc80ed8be5e2441f95ccb95b4779b1dcd258e4b84f564e33a52404ed74181"
+hash = "7350223b463ea5cbd1460215982229be8ae0a5fda8ae02ba14ad43419c941e2a"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
@@ -278,7 +278,7 @@ hash = "3b97cb9d5c9336a241c74ce2f86b1c1ebaf85146e79f41203cbaf0cd202028ff"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "bb6a95b477e848a589b3070c19d2a0b311f723ca63c6b55ee02809dc1db1b9bc"
+hash = "938354ec9d4dba0dbd1dbe47c502f839405922ac66f5e986dc6fe717703fed3f"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
