@@ -281,7 +281,7 @@ file = "global_packs/required_data/industrytweaks/data/c/tags/hidden_from_recipe
 hash = "35fe6e72dca9103c98052056456f75d0d51676be11e1705d972b1e9b269aa9b8"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
+file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "e9f9ab8c493d2549c6d86d3cdebc309ab7355368ee650a2cff8935f17bdb4a54"
 
 [[files]]

@@ -277,7 +277,7 @@ file = "global_packs/required_data/industryfilters/pack.mcmeta"
 hash = "9097ee3d7911422a6eadda06af2564b4eeb418fc71a2ae302b509c767d701e14"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/c/tags/items/hidden_from_recipe_viewers.json"
+file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "e9f9ab8c493d2549c6d86d3cdebc309ab7355368ee650a2cff8935f17bdb4a54"
 
 [[files]]
