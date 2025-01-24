@@ -184,7 +184,7 @@
 	#EnderGuardian's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianDamageCap = 22.0
+	EnderGuardianDamageCap = 44.0
 	#EnderGuardian's Healing with out target
 	# Default: 10.0
 	# Range: 0.0 ~ 1000000.0
@@ -252,7 +252,7 @@
 	#Monstrosity's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MonstrosityHealingMultiplier = 1.0
+	MonstrosityHealingMultiplier = 0.5
 	# Monstrosity's Healing with out target
 	# Default: 10.0
 	# Range: 0.0 ~ 1000000.0
@@ -260,7 +260,7 @@
 	#Monstrosity's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
-	MonstrosityDamageCap = 22.0
+	MonstrosityDamageCap = 44.0
 	#Monstrosity's bodyBlocking verdict
 	NetheritemonstrosityBodyBloking = true
 	#Monstrosity's attack Hp Damage
@@ -306,7 +306,7 @@
 	#Ignis's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisHealingMultiplier = 1.0
+	IgnisHealingMultiplier = 0.5
 	#Ignis's Immune to Long distance attack range.
 	# Default: 15.0
 	# Range: 1.0 ~ 1000000.0
@@ -314,7 +314,7 @@
 	#Ignis's DamageCap
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisDamageCap = 20.0
+	IgnisDamageCap = 40.0
 	#Ignis's cracked block breaking ignore the MobGriefing
 	IgnisBlockBreaking = true
 
@@ -354,7 +354,7 @@
 	#Harbinger's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	HarbingerHealingMultiplier = 1.0
+	HarbingerHealingMultiplier = 0.5
 	#Harbinger's Wither Missile's Damage
 	# Default: 8.0
 	# Range: 0.0 ~ 1000000.0
@@ -370,7 +370,7 @@
 	#Harbinger's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
-	"The Harbinger DamageCap" = 22.0
+	"The Harbinger DamageCap" = 44.0
 	#Harbinger's lasers can light a fire in MobGriefing
 	"The Harbinger Light A Fire" = true
 	#The Harbinger's charge attack Hp Damage
@@ -414,7 +414,7 @@
 	#Leviathan's DamageCap
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
-	LeviathanDamageCap = 20.0
+	LeviathanDamageCap = 40.0
 	#Leviathan's block breaking ignore the MobGriefing
 	LeviathanBlockBreaking = true
 	#Leviathan Immune Out of Water
@@ -480,7 +480,7 @@
 	#Ancient Remnant's DamageCap
 	# Default: 21.0
 	# Range: 0.0 ~ 1000000.0
-	AncientRemnantCap = 21.0
+	AncientRemnantCap = 42.0
 	#Ancient Remnant's block breaking ignore the MobGriefing
 	AncientRemnantBlockBreaking = true
 	#Remnant's Charge Hp Damage
@@ -566,7 +566,7 @@
 	#Maledictus's DamageCap
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusDamageCap = 20.0
+	MaledictusDamageCap = 40.0
 	#Maledictus's melee Hp Damage
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
