@@ -252,6 +252,54 @@
       {
         "namespace": "storagedrawers",
         "path": "warped_trim"
+      },
+      {
+        "namespace": "moderndynamics",
+        "path": "machine_extender"
+      },
+      {
+        "namespace": "oritech",
+        "path": "oritech:crafting/fluidpipe"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/unframe_fluid"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/unduct_fluid"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/item"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/unframe_item"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/unduct_item"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/itemfilter"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/frame_fluid"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/duct_fluid"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/frame_item"
+      },
+      {
+        "namespace": "oritech",
+        "path": "crafting/duct_item"
       }
     ]
   }

@@ -274,11 +274,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "9097ee3d7911422a6eadda06af2564b4eeb418fc71a2ae302b509c767d701e14"
+hash = "3f289dc7f5ed536c96d05c4c448831dbb7ce6167e547246c029f2f10fdfe86fb"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "e9f9ab8c493d2549c6d86d3cdebc309ab7355368ee650a2cff8935f17bdb4a54"
+hash = "f601349e64b735f8c0f7be4592a774f25eaf92c8d4caafe0dd5baa05a850052b"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
@@ -297,16 +297,24 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/pu
 hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
+hash = "690c2cfb720b0dcbc18dd2400b02a441aa67e42fe6d0ee7b75aa4aa7d2e65d2a"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
 hash = "8d9299d76331804a6e653cac1b383ef0e89750aa818f624c0c8868d672710ffe"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/linking_panel.json"
-hash = "73baf7f06dbcfed8ed3ce60c9fbe78b6eb111b2bfb65bade4e5b24836196e872"
+hash = "310ea26c77a5c977a289e82a6baf108b833df3d472c9e69c089cedcb38ce4ffc"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/nara.json"
-hash = "11ff78059aebe66673f5949b7068bc1b7294e1f9117b5a5ed269837d454f5690"
+hash = "89a56c65c3152ba9d57444f13f586cf4767fbd6744b8fcca6305ba77dfe481e0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/poison_200_link_effect.json"
+hash = "7cd95751b0481c1f06e0a13c6ce374a0455bbd699472763f6f9075e82fe48ef2"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/tethered_link_effect.json"
@@ -342,7 +350,15 @@ hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "d440fac30105a779309ab8fe076a42bd0ccdeed4080452c2e733ba36247257c2"
+hash = "487b53a074f2d01029cc8619199ae29021c76a3de0bb8c906e37729d0727dbc9"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"
+hash = "6df5d174a1e6cbe0444de6d0decff5d18d0618fdc3f73d189a21c63476a4d6e7"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/schema.xsd"
+hash = "7b0db9478517b1a675a162170c20f1ae95f8a28b2d5a81fc51d1bd15f262f41d"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/pack.mcmeta"
@@ -391,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "6c30592da65462047683b2801e509e967fbc552158393b05928a703cf5769dae"
-metafile = true
-
-[[files]]
-file = "mods/bosses-of-mass-destruction-forge.pw.toml"
-hash = "8b868c8749f5b646a1ee13e7bc7cd0c18ef354d7dd9effa3a08c7f1c1bc77dcc"
 metafile = true
 
 [[files]]
@@ -549,8 +560,18 @@ hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "029c34966180a24595fd2a6a1f83c51938ec2fcfbc0122c1db43222cf269378c"
+metafile = true
+
+[[files]]
 file = "mods/linkingbooks.pw.toml"
 hash = "060765c5fa24138e016f0916847a66583fdd0d771acc593f7f774c6f241c3822"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "9dc73222ed1b311baeb8ece5c02004da81e1107b8c61743031e481260b1cba07"
 metafile = true
 
 [[files]]

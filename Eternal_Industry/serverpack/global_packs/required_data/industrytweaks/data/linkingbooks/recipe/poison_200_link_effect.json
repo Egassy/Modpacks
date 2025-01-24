@@ -1,0 +1,14 @@
+{
+    "type": "linkingbooks:link_effect",
+    "additional_ingredients": [
+        {
+            "item": "minecraft:nether_wart"
+        },
+        {
+            "item": "minecraft:spider_eye"
+        }
+    ],
+    "link_effects": [
+        "linkingbooks:poison_200"
+    ]
+}
