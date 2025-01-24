@@ -371,12 +371,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
-hash = "d0647ab5d997401109738dc6f1f5f9608156490c8e0ba75de2f5e65f66e5c661"
+hash = "a817744e446b5d59fcb53e53d794bbf74c95a17d3e4b93cf532fba61a42ffdc8"
 metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "b14efa980d108f64bad3e3a1b1303dfee37d8941082d5ae44809ea16b8b1de46"
+hash = "4cad0a71b82e14ea619e12497bee48344bbd45297446b28b2efda4532f5d7651"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6c30592da65462047683b2801e509e967fbc552158393b05928a703cf5769dae"
+hash = "7d3beb01c8698cfc8587666a2f27dd95423d3f3a881a4f706fe162c751ea3c9d"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "64b8e30238c0e6f215862256f0efd7aaadb7cfb10924cdb2b4a1b06ed1283254"
+hash = "2cb17b8e890e81f3f825e34b5e9f15a78f8ee9d200e4183882c774721237bb15"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "c2973bd62002607b48da49ac0ae473d6e720769bcac134622fcb631c93e34d57"
+hash = "c5df6a939b23ea1dc348989e5185d7ad7d7e65557531e1a1ec16cb57ab8f9b29"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8bba135cc6b6a7c70216e312e319016b618ab4e825ec7937ea6107cab637226a"
+hash = "02082a945f5e5ac3f3b2f4b5f7125a0f7a18a032a82874829ebbb46516d614c5"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternal-starlight.pw.toml"
-hash = "2925a7e46f41a475e5ba2b8844f974b6340ee8ab285ac2d232480b4c2b7078a3"
+hash = "a4ee966179fe5b756ca380f9a0f06a272d65948496a0bc679fa868fe98112b2e"
 metafile = true
 
 [[files]]
@@ -516,17 +516,17 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "4ae7f356f5c11b76c8117ef85214796c2d19ca34cd360ae8c7d7cf33adb7bc9f"
+hash = "c798493337f025abd126d8558a8510d81656f9d2ee172386bc03288bc7439b59"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "74c88686691f4d6e217504a677d57f610f1a05eff6f60c756e6b48474b876374"
+hash = "b45fbf14cbe3cef19763722568e04d7f8b56e5499825b2d003fde5e75b8f3b96"
 metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "685b8eedfdbda16972e9ea58e375644a9b827f65a8414c5faa201a30e3183771"
+hash = "f589429ff11da6ca704a9c02891db913aedf2119978de4d98218e16470f6acd1"
 metafile = true
 
 [[files]]
@@ -626,12 +626,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "81ae2d56bce436d8e8579a8da32e4c0aa60063f98903bd275f08c8d26d777915"
+hash = "890affb43553577e1b9ab80420472deb5de735b009b524d48591c901a0c8f57c"
 metafile = true
 
 [[files]]
 file = "mods/reactive.pw.toml"
-hash = "87a6cd3e2184c7f9f6208c99312b70e17d31c8b09f8ad9eeed294dc3109a1330"
+hash = "17fb352ed2bc6936a88aa6f2902bfa1fb9dde1c116e51a6c546490e8b1a3771e"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0993f7e7eec5160e0eeb9253a9f15f228031ec4036aaa39e558922a33a74a161"
+hash = "8a0701575bfad6aeca6d819aa0e864bf8a12bf68a873d11d56e6293aee2d6cfa"
 metafile = true
 
 [[files]]
@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
-hash = "c6a705c6f1c8b9b8179e8d0ef76318aeb73982c59312f5420510207fee62f227"
+hash = "6421625e9408876aa750c8d9bd92b59b8d97bb71142190d4c7a16d9ccbad14ea"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4db8e4a2fbc549683f79898caee4f6ff79ad5b427265a8073a6b535ca2590ad9"
+hash = "7fd3a2b083a687cdeb5732c7c2404a2a90a49fc02a133c853956c46fe490bd81"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-forge.pw.toml"
-hash = "4593fad35b11a807f3ad4981b75279ecc59899821c21fad699054655eae9ef4f"
+hash = "8e51f82f8956b599daa577f5d044abc71105cc4241402df8743b787d8afca0a7"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "50a10b3fc940fbb359061fca4f780239b04262bff7eaa1b1898876d0f695164b"
+hash = "e5b5025862e1d69189a5a2f5897edcb1c9ee3a03d3e4953d8ec92c2b47faf207"
 metafile = true
 
 [[files]]
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c30f3d906645c33269354bc6585139854a8fac66f9dace3c044e185b7f9bb291"
+hash = "23e15ef934b3820a9bbc9cc5f417a8a4a140874d1482c6128642b5d79fe40401"
 metafile = true
 
 [[files]]
@@ -741,5 +741,5 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "d9ee3117eaf6dc74329e302eece0b8ad87c2bfc62bccd383df8cd2545e9206a1"
+hash = "79a971b248eafd4d3d167f69450bb575c36bbda2773f11ab7e6b2cd08c93ed3b"
 metafile = true
