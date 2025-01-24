@@ -449,6 +449,10 @@ file = "global_packs/required_data/industrytweaks/pack.mcmeta"
 hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
 
 [[files]]
+file = "global_packs/required_resources/Industryassets/assets/cataclysm/lang/en_us.json"
+hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
+
+[[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
 hash = "487b53a074f2d01029cc8619199ae29021c76a3de0bb8c906e37729d0727dbc9"
 
