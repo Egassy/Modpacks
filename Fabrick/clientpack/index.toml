@@ -333,6 +333,10 @@ file = "config/yttr.css"
 hash = "bc9acfd4ce5be2b8fc6f838a6a243bffe793a119dc02d6d2c12b77b8b1438705"
 
 [[files]]
+file = "global_packs/required_data/crushing_ores.zip"
+hash = "d2cdc426ef4ac5892528b62421405936dc12a0085aec2d94f8deedc2e6de4dff"
+
+[[files]]
 file = "global_packs/required_data/fabrickfilters/data/required.file"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
