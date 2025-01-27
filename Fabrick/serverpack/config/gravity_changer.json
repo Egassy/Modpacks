@@ -1,0 +1,10 @@
+{
+  "rotationTime": 400,
+  "worldVelocity": false,
+  "gravityStrengthMultiplier": 1.0,
+  "resetGravityOnRespawn": true,
+  "voidDamageAboveWorld": false,
+  "voidDamageOnHorizontalFallTooFar": true,
+  "autoJumpOnGravityPlateInnerCorner": true,
+  "adjustPositionAfterChangingGravity": true
+}

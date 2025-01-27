@@ -1,0 +1,13 @@
+name = "Yttr"
+filename = "yttr-7.761+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCLrWdGm/versions/nBS2aSIm/yttr-7.761%2B1.20.jar"
+hash-format = "sha512"
+hash = "ef685f781ace379047d57a3b35ed7a3051d89f18330849dd063cf3a764a2941d5d3dc28191ffef3dd4b68545cd1c68712d97597e781ee93b1b80387ba042e514"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLrWdGm"
+version = "nBS2aSIm"

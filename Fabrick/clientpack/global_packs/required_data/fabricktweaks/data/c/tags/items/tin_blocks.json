@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+  "create_dd:tin_block",
+    {
+      "id": "mythicmetals:tin_block",
+      "excluded": true
+    }
+  ]
+}

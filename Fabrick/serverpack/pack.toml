@@ -1,0 +1,13 @@
+name = "Fabrick"
+author = "Egassy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "efe6bf8e2654b60c7669a92bd0aa920f5d8b6d0e1ba8746f302c16c6632ffe74"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

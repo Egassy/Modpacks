@@ -1,0 +1,13 @@
+name = "Would"
+filename = "would-1.20.1-0.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2IDbjeu/versions/FQzRahD5/would-1.20.1-0.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "d462e778cf0224643a18e5b04b4bca8464f67c209d892dea21c6d68fc91405af6ecc231281224285d1f4a8b5ba550295045e902c808bcfd1c5936de78d496a27"
+
+[update]
+[update.modrinth]
+mod-id = "D2IDbjeu"
+version = "FQzRahD5"

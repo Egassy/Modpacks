@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+  "create_dd:steel_block",
+    {
+      "id": "mythicmetals:steel_block",
+      "excluded": true
+    }
+  ]
+}

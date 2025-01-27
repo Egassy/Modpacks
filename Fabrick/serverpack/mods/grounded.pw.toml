@@ -1,0 +1,13 @@
+name = "Grounded"
+filename = "grounded-1.20.1-0.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/65WUS6p6/versions/TOo4G5kD/grounded-1.20.1-0.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "fe7440b55935cd5cfe43b267f655b980dfedb479900ffcdfa5bf3669bf02856383c500fd9bb8e8790a7b03e4fa518b6027ae64822de825c75915618a910fc4d5"
+
+[update]
+[update.modrinth]
+mod-id = "65WUS6p6"
+version = "TOo4G5kD"

@@ -1,0 +1,13 @@
+name = "RickRoll Mod [Fabric]"
+filename = "rickrollmodfabric-1.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ugtpabcS/versions/Xf2tUPV6/rickrollmodfabric-1.0.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "8e9e8624c0476df97bbd8a284d81a06f15e493599cc04149cfe9b4e9f493b5a2ffe50a84cf9350bc5e1df8d91950ca7cff1c1c446c315b7a0c9a7c2cba8c1c05"
+
+[update]
+[update.modrinth]
+mod-id = "ugtpabcS"
+version = "Xf2tUPV6"

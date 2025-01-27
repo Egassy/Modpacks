@@ -1,0 +1,13 @@
+name = "Verdant"
+filename = "verdant-1.20.1-0.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MGgL5dVc/versions/4MgPkGcz/verdant-1.20.1-0.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "9aa492fa3c8dce7d585c5e117b31d28f8ee7df3a76519a870db339550a2f394de0ba2606b33b6fcbaa81321f4f3a687eb706b591621e72618d93ee3bd544b15e"
+
+[update]
+[update.modrinth]
+mod-id = "MGgL5dVc"
+version = "4MgPkGcz"

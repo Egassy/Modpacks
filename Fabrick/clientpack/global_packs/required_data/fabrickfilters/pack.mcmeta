@@ -1,0 +1,158 @@
+{
+  "pack": {
+    "description": "Filters for Fabrick",
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "kibe",
+        "path": "angel_ring"
+      },
+      {
+        "namespace": "kibe",
+        "path": "magma_ring"
+      },
+      {
+        "namespace": "kibe",
+        "path": "light_ring"
+      },
+      {
+        "namespace": "kibe",
+        "path": "water_ring"
+      },
+      {
+        "namespace": "kibe",
+        "path": "diamond_ring"
+      },
+      {
+        "namespace": "kibe",
+        "path": "placer"
+      },
+      {
+        "namespace": "kibe",
+        "path": "breaker"
+      },
+      {
+        "namespace": "kibe",
+        "path": "redstone_timer"
+      },
+      {
+        "namespace": "supplementaries",
+        "path": "awnings/awning_dark_gray"
+      },
+      {
+        "namespace": "create_dd",
+        "path": "crafting/steel_ingot_from_compacting"
+      },
+      {
+        "namespace": "create_dd",
+        "path": "crafting/steel_ingot_from_decompacting"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "blocks/steel_block"
+      },
+      {
+        "namespace": "create_dd",
+        "path": "crafting/steel_nugget_from_decompacting"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/alloys/steel_from_ores"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/alloys/steel_from_ingots"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/alloys/steel_from_raw_ores"
+      },
+      {
+        "namespace": "create",
+        "path": "smelting/tin_ingot_compat_mythicmetals"
+      },
+      {
+        "namespace": "create",
+        "path": "blasting/tin_ingot_compat_mythicmetals"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/tin_ingot_from_raw_ores"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/tin_ingot_from_ores"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "smelting/tin_ingot_from_raw_ore"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "smelting/tin_ingot_from_ores"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "blasting/blast_tin_ingot_from_ores"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "blasting/blast_tin_ingot_from_raw_ore"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "ingots/tin_ingot_from_nuggets"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "ingots/tin_ingot_from_block"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "blocks/tin_block"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "crafting/tin_nugget"
+      },
+      {
+        "namespace": "create",
+        "path": "splashing/mythicmetals/crushed_raw_tin"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/alloys/bronze_from_ingots"
+      },
+      {
+        "namespace": "mythicmetals",
+        "path": "alloy_forge/alloy_bronze_from_raw_ores"
+      },
+      {
+        "namespace": "alloy_forgery",
+        "path": "compat/alloys/bronze_from_ores"
+      },
+      {
+        "namespace": "create",
+        "path": "crafting/materials/copper_nugget"
+      },
+      {
+        "namespace": "blockus",
+        "path": "sugar_block"
+      },
+      {
+        "namespace": "blockus",
+        "path": "stone_tiles"
+      },
+      {
+        "namespace": "blockus",
+        "path": "polished_blackstone_tiles"
+      },
+      {
+        "namespace": "create",
+        "path": "crafting/materials/copper_ingot"
+      }
+    ]
+  }
+}
