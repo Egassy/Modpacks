@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "made_pigment_palette": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:midgame/craft_pigment_palette"
+      }
+    },
+    "found_aether_vestiges": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:lategame/collect_aether_vestiges"
+      }
+    }
+  }
+}

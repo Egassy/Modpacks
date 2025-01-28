@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "spectrum:spectral_shard"
+    },
+    "title": "Shame on you",
+    "description": "Break into the private storage of a sleeping woman and steal her most valuable possession. Shame on you",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "spectrum:lategame/find_undergrowth_manor",
+  "criteria": {
+    "stole_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spectrum:spectral_shard"
+            ]
+          }
+        ]
+      }
+    },
+    "found_manor": {
+      "trigger": "revelationary:advancement_gotten",
+      "conditions": {
+        "advancement_identifier": "spectrum:lategame/find_undergrowth_manor"
+      }
+    }
+  },
+  "rewards": {
+    "function": "fabricktweaks:shame"
+  }
+}

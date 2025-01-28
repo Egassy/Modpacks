@@ -397,6 +397,14 @@ file = "global_packs/required_data/fabricktweaks/data/create_dd/recipes/compacti
 hash = "1bc18f2eb1121eb400df86cc79e43cc9f61f900b8b7521ee7ad1426cf7cb2852"
 
 [[files]]
+file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/advancments/shame_on_you.json"
+hash = "c845cf98f6004efea35c92c43848ead070e00926eae2166921c130cef740a822"
+
+[[files]]
+file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/function/shame.mcfunction"
+hash = "e0ca575ab58694d0d93cac86018fc13f5637a23097f569c715119616877e96bb"
+
+[[files]]
 file = "global_packs/required_data/fabricktweaks/data/mythicmetals/recipes/alloy_forge/alloy_steel_from_ingots.json"
 hash = "4d9462468008e51457f0efaea385f64ac55700e747cc2a599a13886003df242e"
 
@@ -423,6 +431,22 @@ hash = "1a7c212af36af422249466530c40a60f5877a7f28dd736c7dfce2d4efb5cbf04"
 [[files]]
 file = "global_packs/required_data/fabricktweaks/data/mythicmetals/recipes/ingots/steel_ingot_from_block.json"
 hash = "f40470e66af888260da23bee32de3f5d2e665d2396a196b21ca0061221fbf3c4"
+
+[[files]]
+file = "global_packs/required_data/fabricktweaks/data/spectrum/advancements/milestones/unlock_overenchanting_with_enchanter.json"
+hash = "b9913e920385cd1dae7dc2b86153cf14c5a70aef5430180e7e12a952f5e40509"
+
+[[files]]
+file = "global_packs/required_data/fabricktweaks/data/spectrum/advancements/unlocks/trinkets/artists_palette.json"
+hash = "d1db9c24fca6bb5963a378334998f6cd5f8dd0084b1acf5fa103c34c5b563a4b"
+
+[[files]]
+file = "global_packs/required_data/fabricktweaks/data/spectrum/recipes/fusion_shrine/trinkets/artists_palette.json"
+hash = "06c6fbbc88fd4264bd2b2b8bf899475c1304c8194abe926c932c17c33a61499e"
+
+[[files]]
+file = "global_packs/required_data/fabricktweaks/data/spectrum/tags/items/coming_soon_tooltip.json"
+hash = "6d2dec497c929eeda1d64ac22ab1118f6a7b2f47faf2e4e3fea54cf744231c52"
 
 [[files]]
 file = "global_packs/required_data/fabricktweaks/data/thaumon/recipes/polished_ancient_stone.json"
