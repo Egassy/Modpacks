@@ -397,12 +397,12 @@ file = "global_packs/required_data/fabricktweaks/data/create_dd/recipes/compacti
 hash = "1bc18f2eb1121eb400df86cc79e43cc9f61f900b8b7521ee7ad1426cf7cb2852"
 
 [[files]]
-file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/advancments/shame_on_you.json"
+file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/advancements/shame_on_you.json"
 hash = "c845cf98f6004efea35c92c43848ead070e00926eae2166921c130cef740a822"
 
 [[files]]
-file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/function/shame.mcfunction"
-hash = "e0ca575ab58694d0d93cac86018fc13f5637a23097f569c715119616877e96bb"
+file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/functions/shame.mcfunction"
+hash = "ce1a0fbd696531e52ae22cca69f236a4fc7393b9f3a04f1216549af388ea24e2"
 
 [[files]]
 file = "global_packs/required_data/fabricktweaks/data/mythicmetals/recipes/alloy_forge/alloy_steel_from_ingots.json"
