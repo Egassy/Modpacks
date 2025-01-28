@@ -3153,7 +3153,7 @@ hash = "3a38a12a871927c1bb19ab15daceac92ea7248dade7bde67232d506981f72af5"
 
 [[files]]
 file = "scripts/clockworkphase.zs"
-hash = "4fd692be2a1a890dc041f802508ffcc16fdf0a35aaceb1cab9c433c6bb676a16"
+hash = "285e8c26a24709f870c5feb6256af6024231d8ccd01b073377b5d9bb81d1ab27"
 
 [[files]]
 file = "scripts/matteroverdrive.zs"
@@ -3161,7 +3161,11 @@ hash = "525a796bc9f7b9b422e1039a59dba205725ada4c411725e859fda0079fe6222e"
 
 [[files]]
 file = "scripts/misccrap.zs"
-hash = "9dda751189caea0a4d1b2bf79a56b6536d56151742177414473ee3de15095f11"
+hash = "f4ea2b7b56d16078b268c32aedc5653d4dd99d5411586cb5dda157be8543d9c2"
+
+[[files]]
+file = "scripts/projectred.zs"
+hash = "dc668bdea489ebd2bea4d58d6598c2d6085b8a22c3e7c2d4d865d9326482f108"
 
 [[files]]
 file = "scripts/tardis.zs"

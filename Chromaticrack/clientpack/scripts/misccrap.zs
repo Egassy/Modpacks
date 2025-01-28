@@ -4,11 +4,22 @@ recipes.addShaped(<RandomThings:whitestone>, [[null, <witchery:poppet:6>, null],
 mods.thaumcraft.Crucible.addRecipe("ASPECTS", <RandomThings:bloodStone>, <RandomThings:whitestone:1>, "sano 20, victus 15");
 <RandomThings:whitestone:0>.addTooltip("Charge outside during a full moon");
 <RandomThings:whitestone:1>.addTooltip("Stops death and gives buffs");
-<RandomThings:bloodStone>.addTooltip("Charge outside during a Blood Moon");
+<RandomThings:bloodStone>.addTooltip("Charge by killing mobs");
 <RandomThings:bloodStone>.withTag({charges: 400}).addTooltip("Gives high regeneration without potion effect");
 
 #EFR Tcon fix
 mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_ore>, <liquid:copper.molten> * 288, 550, <etfuturum:copper_ore>);
+mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_ingot>, <liquid:copper.molten> * 144, 550, <etfuturum:copper_block>);
+mods.tconstruct.Smeltery.addMelting(<etfuturum:copper_block>, <liquid:copper.molten> * 1296, 550, <etfuturum:copper_block>);
+
+#EFR table "fix"
+recipes.addShapeless(<minecraft:enchanting_table>, [<etfuturum:enchantment_table>]);
+#EFR anvil "fix"
+recipes.addShapeless(<minecraft:anvil>, [<etfuturum:anvil>]);
+#recipes.addShapeless(<minecraft:anvil:2>, [<etfuturum:anvil:1>]);
+#recipes.addShapeless(<minecraft:anvil:2>, [<etfuturum:anvil:2>]);
+#EFR Circuit plate fix
+recipes.addShapeless(<etfuturum:smooth_stone>, [<ProjRed|Core:projectred.core.part:0>, <ProjRed|Core:projectred.core.part:0>]);
 
 Research.moveResearch("RC_Crowbar", "ARTIFICE", -9 as int, 3);
 Research.moveResearch("RC_Crowbar_Void", "ARTIFICE", -9 as int, 4);
@@ -21,8 +32,11 @@ Research.orphanResearch("focusLiquefaction");
 Research.removeResearch("focusLiquefaction");
 mods.thaumcraft.Infusion.removeRecipe(<ThaumicHorizons:focusLiquefaction>);
 
-game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomnomnomnomnomicon");
+game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomnomnomnomnomnomicon");
 game.setLocalization("en_US", "entity.ThaumicConcilium.Dissolved.name", "Hek");
+game.setLocalization("en_US", "entity.ThaumicConcilium.QuicksilverElemental.name", "Glooper");
+game.setLocalization("en_US", "entity.ThaumicConcilium.MadThaumaturge.name", "Cray");
+game.setLocalization("en_US", "entity.Natura.NitroCreeper.name", "Loser that paid for Discord Nitro");
 
 #allow you to turn AE2 presses into each other
 val press = <ore:press>;
@@ -45,6 +59,10 @@ recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:14>, [[<etfuturum:
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:15>, [[<etfuturum:anvil>], [<minecraft:gold_ingot>], [<minecraft:iron_ingot>]]);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:19>, [[<etfuturum:anvil>], [<ore:itemSilicon>], [<minecraft:iron_ingot>]]);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:21>, [[<etfuturum:anvil>], [<minecraft:name_tag>], [<minecraft:iron_ingot>]]);
+
+#x3 Scented Paneling
+mods.forestry.Carpenter.removeRecipe(<Forestry:craftingMaterial:6>);
+mods.forestry.Carpenter.addRecipe(<Forestry:craftingMaterial:6>*3, [[null, <ore:dropRoyalJelly>, null], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>], [<ore:itemBeeswax>, <ore:itemPollen>, <ore:itemBeeswax>]], <liquid:for.honey> * 50, 60);
 
 #The enwoolification. Yes there's better ways to do this, I've had this chunk of script for a while and I'm attached to it
 
