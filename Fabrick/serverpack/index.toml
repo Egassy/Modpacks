@@ -458,7 +458,7 @@ hash = "de9f527a2db2cd0278d9d13947f03dc87ec65cca3d1cf30ddeabd53525f0af23"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "4eecb6cfd17a33a69fe3fe8d5eaac2bee1404751f2a760b1a024d0b897c86e56"
+hash = "89dc00fbe6c64c39d01b9a5ffce7664d46f33cfc4d52a05a28b23f64afd78196"
 metafile = true
 
 [[files]]

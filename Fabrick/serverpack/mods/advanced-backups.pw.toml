@@ -1,6 +1,6 @@
 name = "Advanced Backups"
 filename = "AdvancedBackups-fabric-1.20-3.6.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/sKwuadYa/AdvancedBackups-fabric-1.20-3.6.5.jar"
