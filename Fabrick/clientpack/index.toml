@@ -689,6 +689,11 @@ hash = "857f0d685e91d8bf235b1773a5a3308c8821e550e0525f2af696a146bc656ad9"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "4e4d52b9e85c56a0d8327a684e53ece3012664eafc1dde096831a6603a0ad931"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals-decorations.pw.toml"
 hash = "0b9e799ac9640102061b5ae355504c82b34a2f606929cd89f9d71d8988db5d89"
 metafile = true

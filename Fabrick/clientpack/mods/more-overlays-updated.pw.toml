@@ -1,0 +1,13 @@
+name = "More Overlays Updated"
+filename = "moreoverlays-1.22.4.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Thy5Pqut/versions/mXJwWCXu/moreoverlays-1.22.4.2-fabric.jar"
+hash-format = "sha512"
+hash = "90b579d147daec40d6034fd654050bdfeb1c3d4bd32ff909bc7fa09ab9517ecd1fa090d0ce54a2fce36f344dc1d5b82e02307e65d05d7c701f6a71f759f4c7d4"
+
+[update]
+[update.modrinth]
+mod-id = "Thy5Pqut"
+version = "mXJwWCXu"
