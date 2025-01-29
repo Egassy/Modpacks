@@ -71,7 +71,7 @@
 [misc]
 	#.
 	#Allows you to pat entities by shift right-clicking them!
-	entityPatting = true
+	entityPatting = false
 #.
 #Settings for Equippable Items
 [accessory]

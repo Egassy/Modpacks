@@ -86,7 +86,7 @@ hash = "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6"
 
 [[files]]
 file = "config/estrogen-client.toml"
-hash = "015418fc90c9446ede6050d9a3918741ec9f997a39698e724bdbdd38ec1d78ff"
+hash = "dddb2503187f22589748c9963c9af87c7aa94e427afc1feb0ca0611fbb2540c1"
 
 [[files]]
 file = "config/estrogen-common.toml"
@@ -234,7 +234,7 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paucal.json5"
-hash = "fd8dbcd3db695f130b78e5eb763e33669c2b7215edb9d95f55429307cc7b8905"
+hash = "8838620d294f6fa6723e77e2b77da49a64ab3bc27738472d9d60bfee3197cd3c"
 
 [[files]]
 file = "config/pehkui/config.json"
