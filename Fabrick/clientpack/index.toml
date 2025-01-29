@@ -78,7 +78,7 @@ hash = "ffd4da885f218a552262b1e458120688860972d5d52c29aca62d13a9fc635fc6"
 
 [[files]]
 file = "config/emi.css"
-hash = "f1ce0548c409d4b1f8a5491e8167ec20a3958e2635e40c2497cae3b0fe7870c5"
+hash = "6a7cae69cc98717d699fcca45a62a9a6d327b922cf51f2ce44da2025076362eb"
 
 [[files]]
 file = "config/emi_ores-client.json"
