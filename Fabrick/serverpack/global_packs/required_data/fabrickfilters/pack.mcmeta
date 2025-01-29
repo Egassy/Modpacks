@@ -152,7 +152,11 @@
       {
         "namespace": "create",
         "path": "crafting/materials/copper_ingot"
-      }
+      },
+	  {
+	  "namespace": "estrogen"
+	  "path": "thigh_highs"
+	  }
     ]
   }
 }

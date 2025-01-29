@@ -90,7 +90,7 @@ hash = "015418fc90c9446ede6050d9a3918741ec9f997a39698e724bdbdd38ec1d78ff"
 
 [[files]]
 file = "config/estrogen-common.toml"
-hash = "1f02f06f89eb330e86d7cdbf0d0e77e299fbe15e285f39b59c7b41c7feca535d"
+hash = "5b0685154053fa0de0ae7948573a85e45cfb3ca11eb96cf74f2fb12d5b335bc7"
 
 [[files]]
 file = "config/estrogen-server.toml"
@@ -342,7 +342,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/fabrickfilters/pack.mcmeta"
-hash = "f7ece2fa682b82bc2adfdb0f6f4b03e0426d1a7866860235eda7d9bb718eeaeb"
+hash = "1b858f37dd398d5f964506c14fa5365213e96e3c90bd2bc92bcaf877c2b2e2ba"
 
 [[files]]
 file = "global_packs/required_data/fabricktweaks/data/alloy_forgery/recipes/tin_blocks.json"
