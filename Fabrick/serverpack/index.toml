@@ -457,6 +457,11 @@ file = "global_packs/required_data/fabricktweaks/pack.mcmeta"
 hash = "de9f527a2db2cd0278d9d13947f03dc87ec65cca3d1cf30ddeabd53525f0af23"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "4eecb6cfd17a33a69fe3fe8d5eaac2bee1404751f2a760b1a024d0b897c86e56"
+metafile = true
+
+[[files]]
 file = "mods/affinity.pw.toml"
 hash = "a530f6bc8c30c912741e9881a4582354e5a191988aeab0d99e59e042b0a8a21d"
 metafile = true

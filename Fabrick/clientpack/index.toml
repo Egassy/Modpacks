@@ -469,6 +469,11 @@ file = "global_packs/required_resources/fabrickassets/pack.mcmeta"
 hash = "0869d1f063272dff49004f053aa84ad9559b26824c4f69c03849351117999c82"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "4eecb6cfd17a33a69fe3fe8d5eaac2bee1404751f2a760b1a024d0b897c86e56"
+metafile = true
+
+[[files]]
 file = "mods/affinity.pw.toml"
 hash = "a530f6bc8c30c912741e9881a4582354e5a191988aeab0d99e59e042b0a8a21d"
 metafile = true
