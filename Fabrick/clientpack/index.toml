@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "3a07b8da7987f37ff2678d84f69d6bc29d53dfe651fcc354b1743e158c69a9f6"
+
+[[files]]
 file = "config/PaginatedAdvancements.json5"
 hash = "495f56576a47b3da47d3483fefd5bedf4cb88a5460274bed3eb6cb3e64938cfd"
 
