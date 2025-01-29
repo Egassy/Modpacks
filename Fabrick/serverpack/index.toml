@@ -687,6 +687,11 @@ hash = "85d699d076c93e6369972b69b0c95ff9d3427b9ff55a17d5de2ddd8879a3f18f"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -744,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d7ff8a61df74d579bd921e3c09bd2238b38f386a153c3d73ab4115e6131c9c5c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
@@ -814,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "7ef1612adfce02572d20a2a9682f35ff4f2b2da50fa7645b8c73a46c108b12a9"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
