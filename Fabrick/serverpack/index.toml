@@ -675,6 +675,11 @@ hash = "ac014dfa07ca7716893c200aa128062220012441992683c35e6e7ec966d01069"
 metafile = true
 
 [[files]]
+file = "mods/markchat.pw.toml"
+hash = "7a863d016207f3438cb25852744a5c71625a6bccfa810e67548251fbca077c81"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
 metafile = true

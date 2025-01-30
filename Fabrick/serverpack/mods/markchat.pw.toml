@@ -1,0 +1,13 @@
+name = "MarkChat"
+filename = "markchat-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GPiEYzr/versions/OzVKmkZH/markchat-1.0.0.jar"
+hash-format = "sha512"
+hash = "486113d662e617f0f03beb85e744ce350a004bc3e1a6e8338d9d51346a5a7e33b7d088890ce6ffe14f059fd7561fe11d50fe309512a90b23fe73fe4130dcb9df"
+
+[update]
+[update.modrinth]
+mod-id = "3GPiEYzr"
+version = "OzVKmkZH"
