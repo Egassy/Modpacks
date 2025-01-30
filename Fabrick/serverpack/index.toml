@@ -409,6 +409,10 @@ file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/functions/sh
 hash = "ce1a0fbd696531e52ae22cca69f236a4fc7393b9f3a04f1216549af388ea24e2"
 
 [[files]]
+file = "global_packs/required_data/fabricktweaks/data/fabricktweaks/recipes/azalea_converting.json"
+hash = "e7bafc900f07e8fc22ab9eda313e29c08c3c548c736de88b5438914cdb86a4df"
+
+[[files]]
 file = "global_packs/required_data/fabricktweaks/data/mythicmetals/recipes/alloy_forge/alloy_steel_from_ingots.json"
 hash = "4d9462468008e51457f0efaea385f64ac55700e747cc2a599a13886003df242e"
 
