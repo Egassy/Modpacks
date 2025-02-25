@@ -1,13 +1,13 @@
 name = "Cobweb"
-filename = "cobweb-neoforge-1.21-1.3.0.jar"
+filename = "cobweb-neoforge-1.21-1.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bec3a31288ab0744fcfb441d25ecb5abd2889011"
+hash = "6837899f8bfc0c3c996718c293df2f6f2dcddfe4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5991578
+file-id = 6184269
 project-id = 968456

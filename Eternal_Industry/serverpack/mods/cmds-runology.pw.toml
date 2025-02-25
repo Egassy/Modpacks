@@ -1,13 +1,13 @@
 name = "Runology"
-filename = "runology-2.0.0-alpha-6.jar"
+filename = "runology-2.0.0-alpha-7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ajdB6MtT/versions/c3FWEECf/runology-2.0.0-alpha-6.jar"
+url = "https://cdn.modrinth.com/data/ajdB6MtT/versions/vvpLYoas/runology-2.0.0-alpha-7.jar"
 hash-format = "sha512"
-hash = "951d7665e37aa05a9b913efe48e33b54cfc3ce6f5525313e6c571dec34ff0ed38d53e4d0d1dbaebd6a4d2b8834c2877bbddf9962146556aefc77c5022dd46a82"
+hash = "d5fe476aacb150cb43be5e5035e01498cf6df03e79abaed9f7a4ac198d222c69333960b01c51a5d263002c80f5785500d78c9f0d45da707f50eb8dd32c17df09"
 
 [update]
 [update.modrinth]
 mod-id = "ajdB6MtT"
-version = "c3FWEECf"
+version = "vvpLYoas"

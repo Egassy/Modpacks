@@ -1,7 +1,0 @@
-name = "Figura"
-filename = "figura-0.1.5-rc.6+1.21.1-neoforge-mc.jar"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/figura-0.1.5-rc.6+1.21.1-neoforge-mc.jar"
-hash-format = "sha256"
-hash = "3ca5995e1a85c690d4df358dd2d7fa679eabb8ada554781eaba06591f88ed77c"
