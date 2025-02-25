@@ -2,6 +2,6 @@ name = "qcraft"
 filename = "qCraft-1.7.10-1.2.2.jar"
 
 [download]
-url = "https://file.garden/ZrVTRtdKm2u20hWC/Abandoned%20Mods/qCraft-1.7.10-1.2.2.jar"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/qCraft-1.7.10-1.2.2.jar"
 hash-format = "sha256"
 hash = "9e88796a7b32be015dbd699d0f9b39d07c3f22c4bca4b7b44862cb331a8b6414"

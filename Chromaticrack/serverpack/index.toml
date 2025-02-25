@@ -2594,7 +2594,7 @@ hash = "dbffd43e0cdefce759e41ed8023f4725ace065962c03fadc76d43cbb566972fd"
 
 [[files]]
 file = "mods/aobd.pw.toml"
-hash = "f68992e48026f90b4ce8fffe536f22fb5ffef9127c28b42001d440ad51ef0f76"
+hash = "a9471473d1937da66300e6e39781798c9b76cf7527f8517ea0c5284c9e5e0fd0"
 metafile = true
 
 [[files]]
@@ -2754,7 +2754,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-siege-mod.pw.toml"
-hash = "dfb84a3e045fdc52f29189d773bca73663b16795e1f75820dd6f0a2d6bf6bc15"
+hash = "49def43936b3f27c5aa7c4e6207731ffd0a9a73b7e77b18320839e6ccf618045"
 metafile = true
 
 [[files]]
@@ -2849,7 +2849,7 @@ metafile = true
 
 [[files]]
 file = "mods/liteloader.pw.toml"
-hash = "91ae6716a875b3f42c6e50e5a7f76660522a7c3433bcd8ea158960fd55e07999"
+hash = "e7894ff08a68d9ef041be171457ae8562f52fae2c89d31fa0ef9d28d33a750e9"
 metafile = true
 
 [[files]]
@@ -2983,13 +2983,13 @@ hash = "7b9ecd33cd38232420ab71684a943538c8fb04aee92f4fe20d6878d749eaf61b"
 metafile = true
 
 [[files]]
-file = "mods/project-red.pw.toml"
-hash = "361192b1ee1d86eee4b9dd03917b4bae48f302742164ebfab4d9b55df61b43a8"
+file = "mods/project-red-mechanical.pw.toml"
+hash = "270d6d14f2e86cccb65ac1da9c3b79db73d1f51bd0a4e27aab9ed4274ffc11a2"
 metafile = true
 
 [[files]]
 file = "mods/qcraft.pw.toml"
-hash = "993efa16ab9ca4b7f03db8373d8e8114c039f73e5d4d4fb1dff13fb9b61e003e"
+hash = "80a0d07d911ceb7d8df77ba82f17f669a58e6a3d6716e4e10cf3c47c031829f5"
 metafile = true
 
 [[files]]
