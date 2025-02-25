@@ -18,6 +18,8 @@ Better Builder's Wands
 
 BiblioCraft
 
+Binnie's Mods
+
 bspkrsCore
 
 BugTorch
@@ -36,7 +38,7 @@ ChromatiCraft
 
 Clockwork Phase
 
-codechickencore-gtnh
+CodeChickenCore-GTNH
 
 CoFH Core
 
@@ -54,7 +56,9 @@ Dense Ores
 
 DragonAPI
 
-Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+Dual Hotbar (Optional)
+
+Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More) (Optional)
 
 ElectriCraft
 
@@ -124,7 +128,7 @@ Morph
 
 Morpheus
 
-Mouse Tweaks
+Mouse Tweaks (Optional)
 
 MrTJPCore
 
@@ -136,7 +140,7 @@ NetherOres
 
 NetherPortalFix
 
-notenoughitems-gtnh-2.5.28
+NotEnoughItems-GTNH
 
 Numina
 
@@ -158,9 +162,9 @@ Project Red - Illumination
 
 Project Red - Integration
 
-Project Red - Transportation
+Project Red - Mechanical
 
-ProjectRed - Thaumcraft
+ProjectRed - Thaumcraft Resource Pack
 
 qcraft
 
