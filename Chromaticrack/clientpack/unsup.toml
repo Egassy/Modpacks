@@ -1,0 +1,46 @@
+[flavor_groups.dualhotbar]
+name = "Dual Hotbar"
+description = "Makes the top row of your inventory (can be changed) into a fully functional extra hotbar, by default on top of your normal hotbar (9 columns, two rows), but can be configured into an 18-slot long hotbar. Client grants partial functionality (hotbar slot swapping), if on server as well then full functionality."
+side = "both"
+[[flavor_groups.dualhotbar.choices]]
+id = "dualhotbar_on"
+name = "Yes"
+description = "Installs Dual Hotbar."
+[[flavor_groups.dualhotbar.choices]]
+id = "dualhotbar_off"
+name = "No"
+description = "Do not install Dual Hotbar."
+
+[flavor_groups.ears]
+name = "Ears"
+description = "Uses the otherwise-blank space on a modern 64x64 skin to give extra features to your player model, such as ears, wings, a custom cape, breasts, a snout and more, <b>as well as being a modern skin backporter</b>. Client only. No effect (other than backporting 64x skins and seeing other players Ears skins) if you do not have an Ears skin."
+side = "client"
+[[flavor_groups.ears.choices]]
+id = "ears_on"
+name = "Yes"
+description = "Installs Ears."
+[[flavor_groups.ears.choices]]
+id = "ears_off"
+name = "No"
+description = "Do not install Ears."
+
+[flavor_groups.mousetweaks]
+name = "Mouse Tweaks"
+description = "Tweaks mouse click functionality for better QoL. Allows drag-stacking, shift-click-pickupping, shift-click inventory switching and scroll inventory switching. Client only."
+side = "client"
+[[flavor_groups.mousetweaks.choices]]
+id = "mousetweaks_on"
+name = "Yes"
+description = "Installs Mouse Tweaks."
+[[flavor_groups.mousetweaks.choices]]
+id = "mousetweaks_off"
+name = "No"
+description = "Do not install Mouse Tweaks."
+
+
+[metafile.dual-hotbar]
+flavors = "dualhotbar_on"
+[metafile.ears]
+flavors = "ears_on"
+[metafile.mouse-tweaks]
+flavors = "mousetweaks_on"
