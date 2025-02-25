@@ -1,7 +1,0 @@
-name = "TCNEIAdditionsGTNH"
-filename = "tcneiadditions-1.4.1.jar"
-
-[download]
-url = "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.4.1/tcneiadditions-1.4.1.jar"
-hash-format = "sha256"
-hash = "54c86a3ebd562b7fbaa7e97b78121a3beb0fd48d75e924a6822e3b4ed1e6867a"

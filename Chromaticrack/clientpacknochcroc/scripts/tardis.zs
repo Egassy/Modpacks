@@ -1,8 +1,0 @@
-
-
-recipes.addShaped(<TardisMod:item.TardisMod.TardisKey>, [[<EnderIO:blockCapBank:1>, <ore:ingotIron>, <EnderIO:blockCapBank:1>], [<ore:ingotBrass>, <ore:pearlEnder>, <ore:ingotBrass>], [<OpenBlocks:tank>, <IronChest:BlockIronChest>, <OpenBlocks:tank>]]);
-recipes.addShaped(<TardisMod:item.TardisMod.DimUnlock-112>, [[<ore:burntQuartz>.reuse(), <ExtraUtilities:decorativeBlock1:14>.reuse(), <ore:burntQuartz>.reuse()], [<ExtraUtilities:decorativeBlock1:14>.reuse(), <TardisMod:item.TardisMod.CraftingComponent:3>, <ExtraUtilities:decorativeBlock1:14>.reuse()], [<ore:burntQuartz>.reuse(), <ExtraUtilities:decorativeBlock1:14>.reuse(), <ore:burntQuartz>.reuse()]]);
-recipes.addShaped(<TardisMod:item.TardisMod.DimUnlock-100>, [[<ExtraUtilities:cobblestone_compressed:3>.transformReplace(<ExtraUtilities:cobblestone_compressed:2> * 4), <ExtraUtilities:unstableingot>, <ExtraUtilities:cobblestone_compressed:3>.transformReplace(<ExtraUtilities:cobblestone_compressed:2> * 4)], [<ExtraUtilities:unstableingot>, <TardisMod:item.TardisMod.CraftingComponent:3>, <ExtraUtilities:unstableingot>], [<ExtraUtilities:cobblestone_compressed:3>.transformReplace(<ExtraUtilities:cobblestone_compressed:2> * 4), <ExtraUtilities:unstableingot>, <ExtraUtilities:cobblestone_compressed:3>.transformReplace(<ExtraUtilities:cobblestone_compressed:2> * 4)]]);
-
-recipes.addShapeless(<TardisMod:item.TardisMod.DimUnlock1>, [<ChromatiCraft:chromaticraft_item_tiered:8>.reuse(), <TardisMod:item.TardisMod.CraftingComponent:3>]);
-recipes.addShapeless(<TardisMod:item.TardisMod.DimUnlock-19>, [<ThaumicTinkerer:ichorPickGem>.reuse(), <TardisMod:item.TardisMod.CraftingComponent:3>]);
