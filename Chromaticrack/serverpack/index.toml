@@ -2718,11 +2718,6 @@ hash = "c26b4a222af45f806db6ecce0a0d8fab516bf4f634097bc74ad7ce65e04b6560"
 metafile = true
 
 [[files]]
-file = "mods/discordintegrationunofficial.pw.toml"
-hash = "bc41152ea2da34d6e3954c7d2d3afe7fe86de69665ab98c85c1e268c9244ad43"
-metafile = true
-
-[[files]]
 file = "mods/dragonapi.pw.toml"
 hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
