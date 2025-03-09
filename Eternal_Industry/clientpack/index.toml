@@ -679,6 +679,11 @@ hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "96a928197b7cef6a9229ad53c8e784cd5d703f6d9b867d286f80a7a61b44617b"
 metafile = true
@@ -696,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "ba02e961978ec74a41219c7180890c3c9e11d39f556677846ec59b42145c3d67"
+metafile = true
+
+[[files]]
+file = "mods/natural-philosophy.pw.toml"
+hash = "55c6f223e3f5febcb779e1baa8550f13b06046aee77baaa1d07a866aa0a3694a"
 metafile = true
 
 [[files]]
