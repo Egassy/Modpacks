@@ -1,0 +1,13 @@
+name = "Fontolith"
+filename = "[Fontolith] v1.1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ds9wk2Q3/versions/mlZLMB3H/%5BFontolith%5D%20v1.1.2.zip"
+hash-format = "sha512"
+hash = "01bffc510bc94b18921e8b3def0394408f4af88b704513ffa349084ed9d20c23e2d07228a51a0b26c97379ca6ce1e0b62210ef1131d71c04ecbb64c7847f8b22"
+
+[update]
+[update.modrinth]
+mod-id = "ds9wk2Q3"
+version = "mlZLMB3H"

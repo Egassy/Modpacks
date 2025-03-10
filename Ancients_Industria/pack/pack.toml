@@ -1,0 +1,13 @@
+name = "Ancient's Industria"
+author = "Egassy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "66ceb2bd71390e6d7c9c1eaa20b61902eadc6e40f0461f8318e0f5fbb2d9a1f7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.133"
