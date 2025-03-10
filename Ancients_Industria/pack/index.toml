@@ -473,6 +473,11 @@ file = "global_packs/required_resources/Industryassets/pack.mcmeta"
 hash = "f8a6c3f2004eeffe2eeabe8df35aedca74156456d3cb888a382b0fc7771a384d"
 
 [[files]]
+file = "global_packs/required_resources/fontolith.pw.toml"
+hash = "78fdd8920df33725d2a3fe3c0806aa45dafd2f42127cea0e8d326d290a288219"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/unsanded.pw.toml"
 hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
 metafile = true
@@ -581,10 +586,6 @@ metafile = true
 file = "mods/ears.pw.toml"
 hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml.bak"
-hash = "95fa97a402a1dec86ca05d27f9cb519249bef970ab3d5edbf3654d5717d08afe"
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
@@ -724,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "3765c344283e1e686689844be1551802886fddeea311789d7cc7c2dce006feb4"
 metafile = true
 
 [[files]]
@@ -867,10 +873,6 @@ hash = "74537d95785dd2a5b401d8322ec48d54398d267be6cd5199dd43e52435623828"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml.bak"
-hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "a811471f504e5d90dd2310e96e9b16f1f3449e67c0331f3bbf7d2e08f53cf0e0"
 metafile = true
@@ -886,15 +888,6 @@ hash = "76b07f47147fb18bb31d8719f9c7beb6622b55f59ae14411c7cf022b4d99d910"
 metafile = true
 
 [[files]]
-file = "mods/yeetusexperimentus.pw.toml.bak"
-hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
-
-[[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "79a971b248eafd4d3d167f69450bb575c36bbda2773f11ab7e6b2cd08c93ed3b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fontolith.pw.toml"
-hash = "78fdd8920df33725d2a3fe3c0806aa45dafd2f42127cea0e8d326d290a288219"
 metafile = true
