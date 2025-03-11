@@ -385,6 +385,14 @@ file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_r
 hash = "f601349e64b735f8c0f7be4592a774f25eaf92c8d4caafe0dd5baa05a850052b"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/datanessence/worldgen/placed_feature/sanctuary/calcite_spire.json"
+hash = "72e0ba799f2657c29930624081a855a37220b3865f9402b4ce93f11634405949"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/eternal_starlight/worldgen/biome/crystallized_desert.json"
+hash = "1b8a75469c2141b206241129c48b397d4df3edc39e15aeb4e1008e9e8b009bc9"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
 hash = "fcd15d863f85bcef12594fbbdd2f5a2c0cd68c3f677d77217442c93e18597bb9"
 
@@ -423,6 +431,10 @@ hash = "7cd95751b0481c1f06e0a13c6ce374a0455bbd699472763f6f9075e82fe48ef2"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/tethered_link_effect.json"
 hash = "2e5f81acead7dd50f6bae646e44273476cf578429471d84cda49f7aa942f0910"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/particle/echo_shard.json"
+hash = "afb792a0c51b79011fa4bd238c000098a8e1537bce4a310df3666b5b3c126311"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/worldgen/configured_feature/resource_node_common.json"
