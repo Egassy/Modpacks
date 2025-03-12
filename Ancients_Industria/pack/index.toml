@@ -535,6 +535,11 @@ hash = "431f7c97b30f25d7ce399651153c3049c5f0300714e3ab933448bf4dccf2dc9e"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft-legacy.pw.toml"
+hash = "b5e98ce8f86ba5f209e408de781d6926bb079dd48f4303ebb3f0d16848eaed66"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "d8fee9f2beb89a580488afd0fadb4f86273d621c2e1bf84e1d90be31bf6c3eb6"
 metafile = true
@@ -722,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "ba02e961978ec74a41219c7180890c3c9e11d39f556677846ec59b42145c3d67"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
 
 [[files]]
