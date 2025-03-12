@@ -394,7 +394,7 @@ hash = "1b8a75469c2141b206241129c48b397d4df3edc39e15aeb4e1008e9e8b009bc9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessence/computer_types/bunker.json"
-hash = "a4e8937571ca16ca67fdfd5c22a894a51cf6fcb36a63955160a8808c2ecfb03e"
+hash = "d717251cfc2f1ef6d93d1b18b8f76c83fdc1726a415f5f3ea8e4e3ec546d69b2"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
@@ -435,6 +435,10 @@ hash = "e51e9545c791daa30e9a84e94047dfcce211eedc114f730a1eec545e18bb4b60"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/pulverizer/amethyst.json"
 hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
+hash = "bd94bb9dcaff7b4ae1409defe6a79119ba61402a9412bd365b70e636accd2e36"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
@@ -479,14 +483,6 @@ hash = "92516ddd77faba7c1b7702819326b7fb8f4abf74113f72d9886ed70d87221dd0"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/thaumon/recipe/polished_ancient_stone.json"
 hash = "d469edb837190e7b9d885f7be3cc7e4af83b053fefa06414e7dfe2f71458e199"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/tropicraft/recipe/bamboo_bowl.json"
-hash = "a12d3e300050e527c4c58d3c349e85b46a82875dd6b11910873887fece602a2d"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/tropicraft/recipe/bamboo_flower_pot.json"
-hash = "774868135712f5597ea482138c9a1ee9b968e8b6a91c2f62a07b2091a626ad99"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/pack.mcmeta"
