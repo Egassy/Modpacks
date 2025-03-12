@@ -393,12 +393,40 @@ file = "global_packs/required_data/industrytweaks/data/eternal_starlight/worldge
 hash = "1b8a75469c2141b206241129c48b397d4df3edc39e15aeb4e1008e9e8b009bc9"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessence/computer_types/bunker.json"
+hash = "a4e8937571ca16ca67fdfd5c22a894a51cf6fcb36a63955160a8808c2ecfb03e"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
 hash = "fcd15d863f85bcef12594fbbdd2f5a2c0cd68c3f677d77217442c93e18597bb9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
 hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_basic.json"
+hash = "723204d66d9db09c4431688be4a234df7da0df482e5bbf3a16b64fe18f067702"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_exotic.json"
+hash = "fe9d36fa5b78518d8be2f99b7890d212ba229ed91fe3261d8124bd84cb232285"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_lunar.json"
+hash = "69e4b06a4c71093ac0bf15c53955f4219ab9efe096c809aafa3a4523459e32fe"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_natural.json"
+hash = "c967bf53ec4d1bf2b0731527a7480c9e7752f12d75d17e3f83c9a13baf720c17"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_strange_l.json"
+hash = "4e4bcb09e7998e0c522609e7b6200f8528abe9c35936077d7ce44da27e65c6c9"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_strange_r.json"
+hash = "4ea34c11c81af8702e3d41d930a6323bbe25078fbecc05f185bc779881e7ed1e"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/grinder/amethyst.json"
@@ -470,7 +498,7 @@ hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "487b53a074f2d01029cc8619199ae29021c76a3de0bb8c906e37729d0727dbc9"
+hash = "b793d90f0bdf601d32a8c67956b60d56f0731c92c0ed16bbab4e9952dd1ecf19"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"
