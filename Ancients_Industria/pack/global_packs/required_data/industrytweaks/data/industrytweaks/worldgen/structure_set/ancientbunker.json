@@ -1,0 +1,20 @@
+{
+  "structures": [
+    {
+      "structure": "industrytweaks:ancientbunker",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 48,
+    "separation": 32,
+    "spread_type": "triangular",
+    "salt": 1516546146,
+    "frequency": 0.5,
+    "exclusion_zone": {
+      "other_set": "minecraft:ancient_cities",
+      "chunk_count": 6
+    }
+  }
+}

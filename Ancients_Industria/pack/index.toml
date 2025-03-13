@@ -394,6 +394,10 @@ hash = "1b8a75469c2141b206241129c48b397d4df3edc39e15aeb4e1008e9e8b009bc9"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessence/computer_types/bunker.json"
+hash = "36be8a81068aa7fe1872b91e70b968423205507929aa3e6971ffb500073c398e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessence/computer_types/bunker.json.orig"
 hash = "d717251cfc2f1ef6d93d1b18b8f76c83fdc1726a415f5f3ea8e4e3ec546d69b2"
 
 [[files]]
@@ -438,11 +442,23 @@ hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
-hash = "bd94bb9dcaff7b4ae1409defe6a79119ba61402a9412bd365b70e636accd2e36"
+hash = "c77a2cd4867bb6602e91644742020a96bf885124981ac8e393f4fd0743ac7b15"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
 hash = "690c2cfb720b0dcbc18dd2400b02a441aa67e42fe6d0ee7b75aa4aa7d2e65d2a"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/structure/ancientbunker.json"
+hash = "07964d03fe1a32afec5b5431bb75c32c54f7dd4c8001489930ea0b2f2a74e2f2"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/structure_set/ancientbunker.json"
+hash = "c4a5183918de126876fe360c6f0be470366b2c9ac25006f4b51d8b6bc2be45b0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/template_pool/ancientbunker.json"
+hash = "13c1dd40ddb077b6f343e2bb1011c331b76339189c7f10b99640a1a000133882"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
@@ -494,7 +510,7 @@ hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "b793d90f0bdf601d32a8c67956b60d56f0731c92c0ed16bbab4e9952dd1ecf19"
+hash = "47302d4ffb74ac33a83fa8b9358418ed125a9ac88bb36cd026b8233835e3bb14"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"
