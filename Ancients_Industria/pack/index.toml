@@ -645,6 +645,11 @@ hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
 metafile = true
@@ -687,11 +692,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bfddd7e75bf4e8d5ef4aa32930969c2fcc44b847df3dc13ca9d9b9288dccfa42"
-metafile = true
-
-[[files]]
-file = "mods/hexerei.pw.toml"
-hash = "520ca4502db9298e248779101d04cc78d5038c3049d46ea2060714e0d46d206b"
 metafile = true
 
 [[files]]
@@ -777,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
@@ -958,3 +963,7 @@ metafile = true
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "79a971b248eafd4d3d167f69450bb575c36bbda2773f11ab7e6b2cd08c93ed3b"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "3bb09a877b9dfc1a3d880c18e79015d2c9868ef441edcacbd6dce2bcf502f6b7"
