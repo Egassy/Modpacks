@@ -531,16 +531,6 @@ hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
 metafile = true
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "179e249897d4dde4375ee394749a05d300da913f368f2a4110b8f9996e6125ed"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "7ec47d5f1dea5d1f2164a7d45d39e436a0767ea5f6569942986fd4f93a1cd503"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "0d2c4b8cda4d14deb8c4076f01cac447fddf4eb09057baf9d1926b290f05b9f8"
 metafile = true
@@ -558,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/athena.pw.toml"
 hash = "994adcafd5a982add4c02d9c636d93bd07501349a79829ec9bdf2d5bb931da90"
-metafile = true
-
-[[files]]
-file = "mods/backpacked.pw.toml"
-hash = "603061cc99ed16b51e7a4e1691182fc1226c59f81043a8223ef73cda91b3967f"
 metafile = true
 
 [[files]]
@@ -678,11 +663,6 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "cdc534008a10d6a07e9f049de2b0afcbc42fb404be24374c92c053ebcdb862eb"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
 metafile = true
 
 [[files]]
