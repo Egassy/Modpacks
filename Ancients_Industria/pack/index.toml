@@ -29,10 +29,6 @@ file = "config/balm-common.toml"
 hash = "9bc57add9cde46b46ac4d8c1f9006280721750e5df6cca2439b9b750e83c9e46"
 
 [[files]]
-file = "config/cataclysm.toml"
-hash = "d3c9c661cdcb88112657136930440ac9cb712a8571a95663c6d668ac06fd215f"
-
-[[files]]
 file = "config/cclayer.json5"
 hash = "b39dcf81204100cb3ba000f9ba9db3dc2c70b9e75664a343e1bae3f6e4467b8f"
 
