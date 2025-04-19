@@ -1,13 +1,13 @@
 name = "Natural Philosophy"
-filename = "naturalphilosophy-2.1.0.jar"
+filename = "naturalphilosophy-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U9cMcvjn/versions/LvvurOtB/naturalphilosophy-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/U9cMcvjn/versions/31H2tcTm/naturalphilosophy-2.2.0.jar"
 hash-format = "sha512"
-hash = "35f6fe3314221bb0e4f919f8b856ea74c466efc04a1b172d1db56cf2119c7f096caf2513ec7206e4d245f221ac681f0c8b09280743de4b216bcc7a040ad8a726"
+hash = "4a565fde8bb3cf2365f886c840e11850cc902e300ee991b016306440ef9d0463164318173d82e33e70f9afd42ce6b22e34fd2dabadc899ae0f382788c496b486"
 
 [update]
 [update.modrinth]
 mod-id = "U9cMcvjn"
-version = "LvvurOtB"
+version = "31H2tcTm"
