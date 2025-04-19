@@ -691,6 +691,11 @@ hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
 
 [[files]]
+file = "mods/hexerei.pw.toml"
+hash = "0ec6dad41e0e0619a06158ebc08109caa64812673e918ae8999a8946500588c1"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "83d9c92911774b39840819c047fb816b69a2b82479f0633927d3e4f607765a3b"
 metafile = true
