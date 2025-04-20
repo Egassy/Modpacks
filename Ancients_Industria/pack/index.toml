@@ -567,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "772b966b75800751166ec4925b05d28642514d24fe45b414fd36205b3b0d838e"
+hash = "cd47207f262c70ce9b54f86d1ec3e01e7406cf284b65722d593ee3d275f4e5db"
 metafile = true
 
 [[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
-hash = "0f8589578bd424e28e51225b7b877cba44a3ff6de6d40df4394005af67e379b2"
+hash = "cfbc48107422587abf5d5ab8d28830140f40ec1dc881a252b25dcd0b04cdee4d"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "077568d7117b323170d7ec9729100c8883ff20ad15d3efe453b3372ead29639b"
+hash = "f5bb0a0018b46a39dda44becbdf7c90123cf3cecd8f21d6177bc20db0c4ea291"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "042a1ae1794a8c3fcd1ec7a776801bc49fe843351bea1f87f55492b1e9051eb2"
+hash = "8d33436e1755d5ba540203007dd5c71b70df1122ce987cc055cf54928d25cab9"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/linkingbooks.pw.toml"
-hash = "060765c5fa24138e016f0916847a66583fdd0d771acc593f7f774c6f241c3822"
+hash = "ed081056bbba1d6aafa5aee51ec25ec4a8a34f400a2467e5cedfbfee96b74f60"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "df4a7928e1d1c7cacb5a185d145532df82ceaa681351f7cd89cb8ddfbc154a2b"
+hash = "abdd87b1cefc75bd17d077667f41b48153c0b2e3638e8ece37b1a7f707aed98e"
 metafile = true
 
 [[files]]
@@ -957,4 +957,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "3bb09a877b9dfc1a3d880c18e79015d2c9868ef441edcacbd6dce2bcf502f6b7"
+hash = "1abf37dce367c9c6f3155f345dc6dc0d896b8c5b1ec8d101fdd675cc51820bd7"

@@ -1,13 +1,13 @@
 name = "Data & Essence"
-filename = "datanessence-1.0.0-alpha-earlygame10-all.jar"
+filename = "datanessence-1.0.0-alpha-earlygame11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/XMVlhLJb/datanessence-1.0.0-alpha-earlygame10-all.jar"
+url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/QRCVaXnF/datanessence-1.0.0-alpha-earlygame11.jar"
 hash-format = "sha512"
-hash = "a2f5d6f94484e8007085b61d61a41a860b9b6a67d21f8dcbef8145a7bb1f1477165979ec8a5a87d3444905e87f1ec9ce383f2a6b1bd6d6845144fcc73b5dc6aa"
+hash = "97d44ce2a32f7627849bca4f5bb06756f97806857b4ef5ecb1cb8443d7426dab33260f2b6ee38c3bb7bd35e8daa22c31613be603856e575a90a7d6f58a3a9575"
 
 [update]
 [update.modrinth]
 mod-id = "p2r7HYfw"
-version = "XMVlhLJb"
+version = "QRCVaXnF"
