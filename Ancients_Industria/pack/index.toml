@@ -370,7 +370,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "3f289dc7f5ed536c96d05c4c448831dbb7ce6167e547246c029f2f10fdfe86fb"
+hash = "a9d2db6422752d453b327cef1d9778a4f0d4928537c190006fc41bd55bd50ace"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/hidden_from_recipe_viewers.json"

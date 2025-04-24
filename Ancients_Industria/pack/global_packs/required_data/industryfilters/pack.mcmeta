@@ -7,299 +7,299 @@
     "block": [
       {
         "namespace": "oritech",
-        "path": "iron_ingot"
+        "path": "recipe/iron_ingot"
       },
       {
         "namespace": "oritech",
-        "path": "gold_ingot"
+        "path": "recipe/gold_ingot"
       },
       {
         "namespace": "farmersdelight",
-        "path": "cake_from_milk_bottle"
+        "path": "recipe/cake_from_milk_bottle"
       },
       {
         "namespace": "supplementaries",
-        "path": "awnings/awning_dark_gray"
+        "path": "recipe/awnings/awning_dark_gray"
       },
       {
         "namespace": "integrateddynamics",
-        "path": "smelting/menril_log_coal"
+        "path": "recipe/smelting/menril_log_coal"
       },
       {
         "namespace": "integrateddynamics",
-        "path": "smelting/menril_log_filled_coal"
+        "path": "recipe/smelting/menril_log_filled_coal"
       },
       {
         "namespace": "linkingbooks",
-        "path": "relto_book_from_scratch"
+        "path": "recipe/relto_book_from_scratch"
       },
       {
         "namespace": "storagedrawers",
-        "path": "conversion_upgrade"
+        "path": "recipe/conversion_upgrade"
       },
       {
         "namespace": "storagedrawers",
-        "path": "portability_upgrade"
+        "path": "recipe/portability_upgrade"
       },
       {
         "namespace": "storagedrawers",
-        "path": "remote_upgrade"
+        "path": "recipe/remote_upgrade"
       },
       {
         "namespace": "storagedrawers",
-        "path": "remote_group_upgrade"
+        "path": "recipe/remote_group_upgrade"
       },
       {
         "namespace": "storagedrawers",
-        "path": "remote_group_upgrade_inc"
+        "path": "recipe/remote_group_upgrade_inc"
       },
       {
         "namespace": "storagedrawers",
-        "path": "compacting_drawers_2"
+        "path": "recipe/compacting_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "compacting_drawers_3"
+        "path": "recipe/compacting_drawers_3"
       },
       {
         "namespace": "storagedrawers",
-        "path": "compacting_half_drawers_2"
+        "path": "recipe/compacting_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "compacting_half_drawers_3"
+        "path": "recipe/compacting_half_drawers_3"
       },
       {
         "namespace": "storagedrawers",
-        "path": "controller"
+        "path": "recipe/controller"
       },
       {
         "namespace": "storagedrawers",
-        "path": "controller_io"
+        "path": "recipe/controller_io"
       },
       {
         "namespace": "storagedrawers",
-        "path": "oak_half_drawers_1"
+        "path": "recipe/oak_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "oak_half_drawers_2"
+        "path": "recipe/oak_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "oak_half_drawers_4"
+        "path": "recipe/oak_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "spruce_half_drawers_1"
+        "path": "recipe/spruce_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "spruce_half_drawers_2"
+        "path": "recipe/spruce_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "spruce_half_drawers_4"
+        "path": "recipe/spruce_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "birch_half_drawers_1"
+        "path": "recipe/birch_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "birch_half_drawers_2"
+        "path": "recipe/birch_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "birch_half_drawers_4"
+        "path": "recipe/birch_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "jungle_half_drawers_1"
+        "path": "recipe/jungle_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "jungle_half_drawers_2"
+        "path": "recipe/jungle_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "jungle_half_drawers_4"
+        "path": "recipe/jungle_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "acacia_half_drawers_1"
+        "path": "recipe/acacia_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "acacia_half_drawers_2"
+        "path": "recipe/acacia_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "acacia_half_drawers_4"
+        "path": "recipe/acacia_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "dark_oak_half_drawers_1"
+        "path": "recipe/dark_oak_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "dark_oak_half_drawers_2"
+        "path": "recipe/dark_oak_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "dark_oak_half_drawers_4"
+        "path": "recipe/dark_oak_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "mangrove_half_drawers_1"
+        "path": "recipe/mangrove_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "mangrove_half_drawers_2"
+        "path": "recipe/mangrove_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "mangrove_half_drawers_4"
+        "path": "recipe/mangrove_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "cherry_half_drawers_1"
+        "path": "recipe/cherry_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "cherry_half_drawers_2"
+        "path": "recipe/cherry_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "cherry_half_drawers_4"
+        "path": "recipe/cherry_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "bamboo_half_drawers_1"
+        "path": "recipe/bamboo_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "bamboo_half_drawers_2"
+        "path": "recipe/bamboo_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "bamboo_half_drawers_4"
+        "path": "recipe/bamboo_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "crimson_half_drawers_1"
+        "path": "recipe/crimson_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "crimson_half_drawers_2"
+        "path": "recipe/crimson_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "crimson_half_drawers_4"
+        "path": "recipe/crimson_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "warped_half_drawers_1"
+        "path": "recipe/warped_half_drawers_1"
       },
       {
         "namespace": "storagedrawers",
-        "path": "warped_half_drawers_2"
+        "path": "recipe/warped_half_drawers_2"
       },
       {
         "namespace": "storagedrawers",
-        "path": "warped_half_drawers_4"
+        "path": "recipe/warped_half_drawers_4"
       },
       {
         "namespace": "storagedrawers",
-        "path": "oak_trim"
+        "path": "recipe/oak_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "spruce_trim"
+        "path": "recipe/spruce_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "birch_trim"
+        "path": "recipe/birch_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "jungle_trim"
+        "path": "recipe/jungle_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "acacia_trim"
+        "path": "recipe/acacia_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "dark_oak_trim"
+        "path": "recipe/dark_oak_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "mangrove_trim"
+        "path": "recipe/mangrove_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "cherry_trim"
+        "path": "recipe/cherry_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "bamboo_trim"
+        "path": "recipe/bamboo_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "crimson_trim"
+        "path": "recipe/crimson_trim"
       },
       {
         "namespace": "storagedrawers",
-        "path": "warped_trim"
+        "path": "recipe/warped_trim"
       },
       {
         "namespace": "moderndynamics",
-        "path": "machine_extender"
+        "path": "recipe/machine_extender"
       },
       {
         "namespace": "oritech",
-        "path": "oritech:crafting/fluidpipe"
+        "path": "recipe/crafting/fluidpipe"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/unframe_fluid"
+        "path": "recipe/crafting/unframe_fluid"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/unduct_fluid"
+        "path": "recipe/crafting/unduct_fluid"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/item"
+        "path": "recipe/crafting/item"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/unframe_item"
+        "path": "recipe/crafting/unframe_item"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/unduct_item"
+        "path": "recipe/crafting/unduct_item"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/itemfilter"
+        "path": "recipe/crafting/itemfilter"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/frame_fluid"
+        "path": "recipe/crafting/frame_fluid"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/duct_fluid"
+        "path": "recipe/crafting/duct_fluid"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/frame_item"
+        "path": "recipe/crafting/frame_item"
       },
       {
         "namespace": "oritech",
-        "path": "crafting/duct_item"
+        "path": "recipe/crafting/duct_item"
       }
     ]
   }
