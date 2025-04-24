@@ -811,11 +811,6 @@ hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
-metafile = true
-
-[[files]]
 file = "mods/portable-hole.pw.toml"
 hash = "bb92c235557db21e595e118e938e5062675df721578ed2c55addeb5c6bab5efb"
 metafile = true
@@ -823,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4c34b711b80bdb1638327927a4cb47e539b3897c26c8f36a1bf5fb588dcddde9"
-metafile = true
-
-[[files]]
-file = "mods/reactive.pw.toml"
-hash = "94fc0318319f68f31626dc1349a0e0dacaf89c40b36270dd0786867e36639bb3"
 metafile = true
 
 [[files]]
