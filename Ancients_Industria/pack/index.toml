@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "29bcde7e499e97c06f6e6d6a2d97991085a006889afaad7cc4d0073e87d2329b"
+hash = "6cdc41d10a25f004acd6cb565f8876c1c1baca66d5037053d81c4ce85975d835"
 metafile = true
 
 [[files]]
@@ -567,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "cd47207f262c70ce9b54f86d1ec3e01e7406cf284b65722d593ee3d275f4e5db"
+hash = "93235e74dc3574eb48c46b029ebd3e77936f024aa10da088998ebfb352cba04b"
 metafile = true
 
 [[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
-hash = "cfbc48107422587abf5d5ab8d28830140f40ec1dc881a252b25dcd0b04cdee4d"
+hash = "72c4c3d9e892fd4da03e080b2fbb1a608c5583d942012f63cf093d78cf93cf62"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "8d33436e1755d5ba540203007dd5c71b70df1122ce987cc055cf54928d25cab9"
+hash = "c28bfaa7ce7dc684878b1d1c22c598c89778beef9c590bbbd88bde276357998f"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "abdd87b1cefc75bd17d077667f41b48153c0b2e3638e8ece37b1a7f707aed98e"
+hash = "701c269b132d828a93cbb51132502b3f7a60cf3854ac2cf40d9d0a39181b6c55"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-forge.pw.toml"
-hash = "5f1050bec0cb3e467abda10f63474c7a4064f1b8415c162d0720cd58a8dcfe03"
+hash = "f043877efca22303fc115b14054fb891a6220bce11b182a924dac94fd7856b56"
 metafile = true
 
 [[files]]
