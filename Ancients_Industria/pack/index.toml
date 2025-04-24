@@ -736,6 +736,11 @@ hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fe64d3dd484296b6a6b36a7e7c96d6f17ce21bc274cf33abd223a8b0587befb1"
+metafile = true
+
+[[files]]
 file = "mods/linkingbooks.pw.toml"
 hash = "ed081056bbba1d6aafa5aee51ec25ec4a8a34f400a2467e5cedfbfee96b74f60"
 metafile = true
@@ -831,6 +836,11 @@ hash = "cc85713db2e9b7b00184874b077ae9493fffa73c44e12d7490d290d52f128c27"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "dfb0f7f0e79f25695ba40da7367ae4ee91c8abc3547845d117a47ecd6844b3e7"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
@@ -893,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "05ce91a8a1cd7f2c9d569b9161a32905e5410ebbec1b413de382c58d4a470c50"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "dc8e1e5e4549f800d2d1260aa8b5679d4195973174e95409e943ef43ff7fdcea"
 metafile = true
 
 [[files]]
