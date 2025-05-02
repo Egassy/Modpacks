@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
-hash = "72c4c3d9e892fd4da03e080b2fbb1a608c5583d942012f63cf093d78cf93cf62"
+hash = "5fa7dc41c14a9f3441064aa783c9933f1064c7a85d942f6f752b513fe7664190"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "4c34b711b80bdb1638327927a4cb47e539b3897c26c8f36a1bf5fb588dcddde9"
+hash = "80b9737f99b26d3c58b1981c4cf8ec9345f206dc6e8e0ba9b9494e61f29d9778"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "dfb0f7f0e79f25695ba40da7367ae4ee91c8abc3547845d117a47ecd6844b3e7"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "701c269b132d828a93cbb51132502b3f7a60cf3854ac2cf40d9d0a39181b6c55"
+hash = "72436f0f2488be654445969e3c009a2fca8a72ff1c292ace26699d9c3cdbb4cf"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "05ce91a8a1cd7f2c9d569b9161a32905e5410ebbec1b413de382c58d4a470c50"
+hash = "bdb41354b79e009ac3e6c2589c6636e22b4172be55e197c5235268abf33d99bf"
 metafile = true
 
 [[files]]
