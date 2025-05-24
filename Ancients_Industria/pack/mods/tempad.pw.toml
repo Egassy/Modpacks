@@ -1,13 +1,13 @@
 name = "Tempad"
-filename = "tempad-1.21.1-3.0.1-all.jar"
+filename = "tempad-1.21.1-3.0.4-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "62da49fa9a37cf7e5d788271b7e57c5dd8f92a6f"
+hash = "7a4d6837c6f7a4c9a8f4e7054952df25c148033e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6452135
+file-id = 6517779
 project-id = 514923
