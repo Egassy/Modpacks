@@ -796,6 +796,11 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/opalescence.pw.toml"
+hash = "27c7f1f80b59cc0319dad2b5622ac57deecf1626df7f9baf241cb0b80ade4d9a"
+metafile = true
+
+[[files]]
 file = "mods/oracle-index.pw.toml"
 hash = "9fb5d40354c86b79d41c7b82430469b59d5421d1970738e00d9e7e1dfcbcd0f3"
 metafile = true
