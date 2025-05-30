@@ -1,0 +1,7 @@
+name = "ars-magicka-2.5RE"
+filename = "AM2.5-LTS-1.7.5-RE.jar"
+
+[download]
+url = "https://github.com/RubilaxXxx/ArsMagica2-5/releases/download/v.1.7.5.-RE/AM2.5-LTS-1.7.5-RE.jar"
+hash-format = "sha256"
+hash = "5874b3e638a7a99f9df0d5f2906c94e1ab8bf7e741ea568594882517daa0302d"

@@ -1,0 +1,13 @@
+name = "I'm Looking At Blood"
+filename = "ImLookingAtBlood-1.7.2-1.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a7546e04f7263634917c2b7db644f1b2992e3fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2203930
+project-id = 221138

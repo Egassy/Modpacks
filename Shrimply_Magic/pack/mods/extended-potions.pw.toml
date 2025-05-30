@@ -1,0 +1,13 @@
+name = "Extended Potions"
+filename = "ExtendedPotions-MC1.7.10-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7f2443de95e7d881e87f40ec5e3ed8b5a86e9e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2240524
+project-id = 229978

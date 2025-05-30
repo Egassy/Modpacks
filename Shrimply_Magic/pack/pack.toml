@@ -1,0 +1,13 @@
+name = "Shrimply Magic"
+author = "Egassy"
+version = "1.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "00c2049b26e7340fc1f1cfb16c8c91b2a666a421ce825968dc9d25006570035a"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

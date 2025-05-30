@@ -1,0 +1,13 @@
+name = "Thaumic Infusion"
+filename = "ThaumicInfusion-4.32.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b92f92c564d20b0b7faf1981cbe1322e52f4bac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2275434
+project-id = 220308

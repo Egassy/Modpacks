@@ -1,0 +1,13 @@
+name = "Accidentally Circumstantial Events(ACE)"
+filename = "accidentallycircumstantialevents-1.12.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5035b4128ef446e436b866c8f5f5bb246f456ffa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2370823
+project-id = 227796

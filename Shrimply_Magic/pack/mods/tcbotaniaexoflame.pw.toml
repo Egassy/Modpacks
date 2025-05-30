@@ -1,0 +1,13 @@
+name = "TCBotaniaExoflame"
+filename = "TCBotaniaExoflame-1.7.10-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bd45994e37e7ba641c8045fc5fab6fbf1c087a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2273402
+project-id = 238061

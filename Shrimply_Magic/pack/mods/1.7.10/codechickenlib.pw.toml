@@ -1,0 +1,7 @@
+name = "codechickenlib"
+filename = "CodeChickenLib-1.7.10-1.1.5.3.jar"
+
+[download]
+url = "https://github.com/GTNewHorizons/CodeChickenLib/releases/download/1.1.5.3/CodeChickenLib-1.7.10-1.1.5.3.jar"
+hash-format = "sha256"
+hash = "bc87f901a13110948e60a84b758369c08de58314b13aa188a858f98d1f95e10c"

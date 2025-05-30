@@ -1,0 +1,13 @@
+name = "DimDoors Legacy"
+filename = "DimensionalDoors-2.2.5-test9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d2cb7fc1299e5180b535658185c13f2eb132e3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4434608
+project-id = 837046

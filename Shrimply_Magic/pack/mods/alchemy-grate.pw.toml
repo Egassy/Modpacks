@@ -1,0 +1,13 @@
+name = "Alchemy Grate"
+filename = "alchgrate-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ca27482583d37989666b43ffafc19dfc9c5457f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3011853
+project-id = 397344

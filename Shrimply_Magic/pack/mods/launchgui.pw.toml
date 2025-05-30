@@ -1,0 +1,13 @@
+name = "LaunchGUI"
+filename = "LaunchGui-1.7.10-2.0-18-client.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17d9ff9c7df4d91fe6a19c5ab23c91b18d258a3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2253271
+project-id = 228810

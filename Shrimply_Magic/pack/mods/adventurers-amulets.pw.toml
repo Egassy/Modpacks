@@ -1,0 +1,13 @@
+name = "Adventurer's Amulets"
+filename = "AdventurersAmulets-1.7.10-1.6.0-pre1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ef61c0a228b3f8dde766517e59b9557e608c885"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2245006
+project-id = 222637

@@ -1,0 +1,13 @@
+name = "Satchels"
+filename = "Satchels-1.7.10-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71ea63d8332b21b611a8b592a6c97ed16494aa56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3782381
+project-id = 513747

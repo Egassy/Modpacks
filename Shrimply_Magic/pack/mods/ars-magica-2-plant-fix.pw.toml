@@ -1,0 +1,13 @@
+name = "Ars Magica 2 Plant Fix"
+filename = "AM2PlantFix-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b09b731ca4e2592e78be0b3ff278a23d4225c117"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232356
+project-id = 228990

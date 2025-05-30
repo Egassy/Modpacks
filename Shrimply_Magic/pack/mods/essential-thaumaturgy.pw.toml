@@ -1,0 +1,13 @@
+name = "Essential Thaumaturgy"
+filename = "EssentialThaumaturgy-1.1.1710.11EC(4.4.1710.37)TC(4.2.3.5).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9bf3168f11995460f86b6443bd750f61e01ac7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2236896
+project-id = 230171
