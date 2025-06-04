@@ -1,6 +1,6 @@
 name = "C418 Songs Only"
 filename = "§3§lC418 Songs Only 1.16-1.21.5.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

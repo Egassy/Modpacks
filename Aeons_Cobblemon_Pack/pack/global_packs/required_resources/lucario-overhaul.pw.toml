@@ -1,6 +1,6 @@
 name = "Lucario Overhaul [Cobblemon 1.6 Compatible]"
 filename = "Lucario_Overhaul_v1.2.2.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uWyj4p7w/versions/CxAutgZe/Lucario_Overhaul_v1.2.2.zip"

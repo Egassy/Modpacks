@@ -1,6 +1,6 @@
 name = "Eon Ticket"
 filename = "Eon Ticket.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CO6My8ym/versions/FjuwAYUt/Eon%20Ticket.zip"

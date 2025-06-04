@@ -1,6 +1,6 @@
 name = "Minior Overhaul"
 filename = "Minior_Overhaul_v1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/HDCk5T3u/versions/7EowT62k/Minior_Overhaul_v1.0.zip"

@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/cobblemon-pokemans.pw.toml"
-hash = "35c18af0bd0ddb9928a018fb71a19c94c24135085c174c075e02cf072010d788"
+hash = "02cb066c85e13e2b9c1296bfd40ef582499a92bc7a85c396d7918ad240ba6afe"
 metafile = true
 
 [[files]]
@@ -1079,12 +1079,12 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/lucario-overhaul.pw.toml"
-hash = "9c2abd76b5e71e846bc924ccbbf79af2a5ab87ecb2b4580b7c7eb7f291878df1"
+hash = "809a50efcadcf9eabc96f32b9a8df237985669fd0dfc413863c849f1e24d357f"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/minior-overhaul.pw.toml"
-hash = "1e3d3ecf0069a66c980bb316507053a4a0c4480c01126469ff322e6abedd3b64"
+hash = "4830e30660f02c486ebc24b223c697e7df860c22521d91743791337adc1a45f2"
 metafile = true
 
 [[files]]
@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/shadow-lugia-addon.pw.toml"
-hash = "c0146925650575c25fea4d6fa3ccbaf4b50e94f5734fd659973d9c9eb9d0f126"
+hash = "e4857284a01cd18a580177fe1f696bf45fc4fa8966d0fa88c73d47e2b87c16e5"
 metafile = true
 
 [[files]]
@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-tooltips-neoforge.pw.toml"
-hash = "0d392b5184eccc19a346df326170661e451a86310be908cc00ea2636481122af"
+hash = "6c7fd6d942612d2de55bb52deaf2fa115972ef6cf3048cdaf284fed98e65fcdf"
 metafile = true
 
 [[files]]
@@ -1456,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "5301100db9e2f502a0b0059645c55d6d837baba7e17ed9f2db5b8c812f246206"
+hash = "e2d61f205cbc3a95d4b92b44c5945fa1bccaf6c1325d5008fceb641654c42c0b"
 metafile = true
 
 [[files]]
@@ -1581,7 +1581,7 @@ metafile = true
 
 [[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
-hash = "fec009b32f10fbe5a5a14b9553b4cb7796c4ccb3998d773a3b82575587417570"
+hash = "178e2bcfbda34bfe761cc68911986b1b1ecde1c426ce8c2e6535ff1b94159f56"
 metafile = true
 
 [[files]]
@@ -2011,7 +2011,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-mana-bar-for-irons-spells-n-spellbooks.pw.toml"
-hash = "d32f26805f931da041ef210c626103a723dd9a60d5defad0ed57e8a707db3ced"
+hash = "f2dbae3b3a29c652952c49857d2310f7c1398cb19a222d1ee09e0fb344ad9bbe"
 metafile = true
 
 [[files]]
@@ -2021,7 +2021,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/c418-songs-only.pw.toml"
-hash = "02c6514208488d1cb510226352fa450fba1f13442aff44170145a8671f53bfc9"
+hash = "0c4f4cbbcc1ac6b639d7e901a7a27342f0f7074dd50c55880205a76a2c22977e"
 metafile = true
 
 [[files]]
@@ -2036,62 +2036,62 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-easy-villagers-textures.pw.toml"
-hash = "3393c183c780e66a3ae57a60e7e7ecad67528c1e5133d59c533f9e8ee175b8a3"
+hash = "2920b68d988a11bf438e0b959b7bff8058e75b82bae993e3c15185c224d79820"
 metafile = true
 
 [[files]]
 file = "resourcepacks/create-mgs-outfit.pw.toml"
-hash = "73878348b6e32be26a07945a1ad2231a005fd29f6d22ef15922dae5304df4baa"
+hash = "e6a644a4fb0fc715d6ebcbb09ffba9888c346256fc5c989af9e8a7f6ff39e09f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/detail-brush.pw.toml"
-hash = "f1d0fb4529169336ab5df8be8c23069ea1db3d5f56a56c4a1620a866b54bc0a1"
+hash = "fb313cb4e52a08f9849b377380d46d2306510ed08b9b6a91dd3e2ec84d822caa"
 metafile = true
 
 [[files]]
 file = "resourcepacks/eon-ticket.pw.toml"
-hash = "200a4cb3e898ac676a26d73fd38f1bd87c6172a282c42c18486ab9b965bf4e23"
+hash = "7584a0148265d9443998bd3ec9ebb6b358b6aed776f406224d118169a27ddcc3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/exposure-enhanced-camera.pw.toml"
-hash = "6102ac584de61a9c5deb6c12147a6bd4014b2a891045554c053fded7f7f7b84c"
+hash = "049f7154c4d0a906f02992b98ce199e16e3098070e3d2d98071e70673aea6217"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "383afa3518347a78e9777d46cadcbc814c1b53c385afed077bcdb4386bf50724"
+hash = "e0b7ecb374330b7a10acf53d41460d485da1c5b6d865ac3a3a71a2fdde609181"
 metafile = true
 
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
-hash = "37b6610d670c61b94200e1c9cba12c7f9b74dd00f4fac24c4abee1f2d04a4911"
+hash = "6fccba6cb22dc4589df395c5254f4af07886918c7f010710b165b0aaa8792110"
 metafile = true
 
 [[files]]
 file = "resourcepacks/no-enchant-glint.pw.toml"
-hash = "50613dd86889fb8e764e580fe3ebfce010b9675aa53a7a758da438385d8cc3ab"
+hash = "02968e219b60c3ad749eb45588f2a4ef5c44cf2b7787c998afa8f734d298e30a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/pretty-x-smart-pipez.pw.toml"
-hash = "75b811a77e333696a0b8eafc723ae206ede852c880c89cb4a0eacebb45deba86"
+hash = "4ec80e9809061b76e67010f21ab10a7a11cfb26e6d2f3775d848c076e3ddc902"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rain-revamp.pw.toml"
-hash = "6c96dac4889fa123458239257d43861e373e05909010adc6ff558556cf0c0a09"
+hash = "30c681f0e3ae644f179252b4f447aa8f58c249fd4fc039603784c6f153bfa5f0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-pen-revamped.pw.toml"
-hash = "e649258f1d08f9008566b049070f440a878ce60c051105b0877153c4c6e1fbf4"
+hash = "aeed9d632ab19d3516066e28d67881f974b80886a67d9a5f70141dca8f8ca69c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rethoughted-trident.pw.toml"
-hash = "9312ed9794406ae2f71e8b7c043649e0d9092401ba59d809e5f577a7fa34284d"
+hash = "02b683c2d896997126753feecac4b67738eb371a7c88beace37bcb22d96542d6"
 metafile = true
 
 [[files]]

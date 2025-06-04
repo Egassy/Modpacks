@@ -1,6 +1,6 @@
 name = "Exposure Enhanced Camera"
 filename = "Exposure Enhanced Camera 1.1 - 1.7.0+.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

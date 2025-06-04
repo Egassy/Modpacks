@@ -1,6 +1,6 @@
 name = "Rain Revamp - More realistic rain color! Perfect for shaders!"
 filename = "Rain Revamp [1.20].zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

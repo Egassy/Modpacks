@@ -1,6 +1,6 @@
 name = "Shadow & SoulSilver Lugia Addon"
 filename = "Shadow & SoulSilver Lugia Addon 1.5.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/QykcHNDo/versions/omsIQFfG/Shadow%20%26%20SoulSilver%20Lugia%20Addon%201.5.1.zip"
