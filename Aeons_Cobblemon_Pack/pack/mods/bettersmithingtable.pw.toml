@@ -1,6 +1,6 @@
 name = "Better Smithing Table"
 filename = "better_smithing_ui-neoforge-1.21+2.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
