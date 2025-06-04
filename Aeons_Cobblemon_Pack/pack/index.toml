@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/cobblemon-pokemans.pw.toml"
-hash = "a7cfd6c59f506a6a38c54c81a9e6d03f6359321538150d3421903757477e84ef"
+hash = "35c18af0bd0ddb9928a018fb71a19c94c24135085c174c075e02cf072010d788"
 metafile = true
 
 [[files]]

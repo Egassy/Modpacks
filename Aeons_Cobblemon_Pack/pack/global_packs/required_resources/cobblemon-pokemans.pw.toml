@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/GFYCh249/versions/ck22ylhZ/megaShowdown_pokemans_v14.3.zip"
 hash-format = "sha512"
-hash = "fa871354a5d0e2ecbcf481d9459d08b2d0980f2736895a068ecc39bb164a7f9cd22791bc055ad4066c4a30e4697746d09b17184f2ff6071f75eb9c65357fa8ce"
+hash = "611fb66e47f7e0c11f77ccbc2652435072bfd3af0c511ea63b8d3bbb9bb61d09be05b5c7ccf28c38049517f1cf56a545068d4bd83f34d220639da61aaeef2a1f"
 
 [update]
 [update.modrinth]
