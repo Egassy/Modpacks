@@ -1,0 +1,13 @@
+name = "Lucario Overhaul [Cobblemon 1.6 Compatible]"
+filename = "Lucario_Overhaul_v1.2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWyj4p7w/versions/CxAutgZe/Lucario_Overhaul_v1.2.2.zip"
+hash-format = "sha512"
+hash = "1d3309c91996ea706340275da9b5b77693f0ca267d5ef351f050a187b1460598ebe372bda4a575b42d46cef981871817328f1e3334cb360ca447c3a2960d4d9c"
+
+[update]
+[update.modrinth]
+mod-id = "uWyj4p7w"
+version = "CxAutgZe"

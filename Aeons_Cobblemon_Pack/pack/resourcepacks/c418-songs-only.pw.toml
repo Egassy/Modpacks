@@ -1,0 +1,13 @@
+name = "C418 Songs Only"
+filename = "§3§lC418 Songs Only 1.16-1.21.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ece5a36860e1c21a9b51c006dc9f78bfcff472b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6376802
+project-id = 1084319

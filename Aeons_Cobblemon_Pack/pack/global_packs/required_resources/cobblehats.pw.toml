@@ -1,0 +1,13 @@
+name = "CobbleHats - Now Craftable !"
+filename = "Cobblehats 1.3 - Bunny Update.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/frGHdTp1/versions/RWZ3yLv1/Cobblehats%201.3%20-%20Bunny%20Update.zip"
+hash-format = "sha512"
+hash = "95164850603d249ff53f7a22fda3730c425befbfce54857b5a90385a5df3e055a5c5438d6428ac2cee7393a1cc1459186a7f64ef713296f0e0cde4df74ce1152"
+
+[update]
+[update.modrinth]
+mod-id = "frGHdTp1"
+version = "RWZ3yLv1"

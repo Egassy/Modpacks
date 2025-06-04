@@ -1,0 +1,13 @@
+name = "Slime Buckets"
+filename = "SlimeBuckets-1.2-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fc735df6b632bca2c3cb411579c285ea6994814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6452051
+project-id = 997972

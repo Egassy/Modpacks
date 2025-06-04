@@ -1,0 +1,13 @@
+name = "Cobblemon Frostbite"
+filename = "Frostbite Datapack V1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4t6koMVO/versions/kS2Zan4R/Frostbite%20Datapack%20V1.zip"
+hash-format = "sha512"
+hash = "703d1b8080dc135072cb39850ce907fe01482da4577863977a235fda728e9a36ab0a524a3373db62178fc7b2126a99860116153d68ee2740652df5bddeba65ce"
+
+[update]
+[update.modrinth]
+mod-id = "4t6koMVO"
+version = "kS2Zan4R"

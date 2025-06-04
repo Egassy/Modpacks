@@ -1,0 +1,13 @@
+name = "Bushier Fragrance"
+filename = "Bushier Fragrance.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xbndDOQI/versions/nkjVmQ95/Bushier%20Fragrance.zip"
+hash-format = "sha512"
+hash = "4438b52b770dc4f60a049985677eab3f84935b1d0fd42cb58796e128519fb1928d76f9815b95c874fb28ce0f714a5950e6c6bc4749556c403a32718193d3b737"
+
+[update]
+[update.modrinth]
+mod-id = "xbndDOQI"
+version = "nkjVmQ95"

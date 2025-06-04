@@ -1,0 +1,13 @@
+name = "Better Tooltips"
+filename = "better_tooltips-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac67bc12905121dc52d6403edd2c4cc8d39a6b67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6372309
+project-id = 1099922

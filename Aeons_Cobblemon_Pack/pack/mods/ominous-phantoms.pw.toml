@@ -1,0 +1,13 @@
+name = "Ominous Phantoms"
+filename = "ominous_phantoms-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07ad54a74c9931bf7ffa5ff520dc7a9f29ab7651"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6440750
+project-id = 1244767

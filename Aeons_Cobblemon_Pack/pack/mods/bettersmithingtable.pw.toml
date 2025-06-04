@@ -1,0 +1,13 @@
+name = "Better Smithing Table"
+filename = "better_smithing_ui-neoforge-1.21+2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ead6e0c52330eac219b3856ecf68602675e7b93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5959321
+project-id = 875744

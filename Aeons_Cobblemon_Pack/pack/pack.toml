@@ -1,0 +1,14 @@
+name = "Aeon's Cobblemon Pack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3feb8e5d5b8e051ebd8140a490473ee0ba2a0d9d6f60451bf4156ed1092f633f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
+
+[options]
+datapack-folder = "global_packs/required_data"

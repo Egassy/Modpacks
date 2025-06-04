@@ -1,0 +1,13 @@
+name = "Rethoughted Trident"
+filename = "Rethoughted Trident.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85f409d4f01daf4b45dc04360efe55d2367c0359"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5424614
+project-id = 845362

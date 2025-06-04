@@ -1,0 +1,6 @@
+#A multiplier for the growth speed of ender tendrils.
+#1.0 is the default speed.
+#Higher values will increase growth speed.
+# Default: 1.0
+# Range: 0.009999999776482582 ~ 25.0
+tendrilGrowthSpeedMultiplier = 1.0

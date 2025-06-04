@@ -1,0 +1,13 @@
+name = "Pokemans Pack [Cobblemon]"
+filename = "megaShowdown_pokemans_v14.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GFYCh249/versions/ck22ylhZ/megaShowdown_pokemans_v14.3.zip"
+hash-format = "sha512"
+hash = "fa871354a5d0e2ecbcf481d9459d08b2d0980f2736895a068ecc39bb164a7f9cd22791bc055ad4066c4a30e4697746d09b17184f2ff6071f75eb9c65357fa8ce"
+
+[update]
+[update.modrinth]
+mod-id = "GFYCh249"
+version = "ck22ylhZ"

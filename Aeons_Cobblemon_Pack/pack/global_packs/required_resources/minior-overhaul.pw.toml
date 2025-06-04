@@ -1,0 +1,13 @@
+name = "Minior Overhaul"
+filename = "Minior_Overhaul_v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HDCk5T3u/versions/7EowT62k/Minior_Overhaul_v1.0.zip"
+hash-format = "sha512"
+hash = "e8dfa47877d4469ee63614a2c4faa232abd93584a5a3e504bfdac6b23a01da29c417d4c008e8ce5dd7a66a4717b138fcd1424ff048021e7e0c5bd17132171c57"
+
+[update]
+[update.modrinth]
+mod-id = "HDCk5T3u"
+version = "7EowT62k"

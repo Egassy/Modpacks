@@ -1,0 +1,13 @@
+name = "Detail Brush"
+filename = "Detail-Brush-1.6-1.20.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "206426968c18efc63829a788afeb216fc54dd267"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671589
+project-id = 434088

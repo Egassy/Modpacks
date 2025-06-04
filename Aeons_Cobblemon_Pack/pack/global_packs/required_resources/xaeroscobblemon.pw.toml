@@ -1,0 +1,13 @@
+name = "XaerosCobblemon"
+filename = "XaerosCobblemon-3.0.2_stars+1.6.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pWf32rxd/versions/WA0NMZXO/XaerosCobblemon-3.0.2_stars%2B1.6.1.zip"
+hash-format = "sha512"
+hash = "8e1a636bb306f9662f0bbda2f7cc1c283f80026519550d56a48cc97c7ddf61e56333e2d1c1ba18702d56bb3a6c3f483972d010e83f7b631807623a653e7f938b"
+
+[update]
+[update.modrinth]
+mod-id = "pWf32rxd"
+version = "WA0NMZXO"

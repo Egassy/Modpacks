@@ -1,0 +1,13 @@
+name = "Move, Samurott!"
+filename = "Move, Samurott! v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4i3kyZD/versions/sMr4DkSn/Move%2C%20Samurott%21%20v1.2.zip"
+hash-format = "sha512"
+hash = "de1811d814a338973cb06578896afdf49e6f9e6b1caa434744a077a6198500f3137afb7a6540cfc3e564d924754d9785bea47b3210bc9e6947f22a1b5ea8e895"
+
+[update]
+[update.modrinth]
+mod-id = "R4i3kyZD"
+version = "sMr4DkSn"

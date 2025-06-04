@@ -1,0 +1,13 @@
+name = "Eon Ticket"
+filename = "Eon Ticket.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CO6My8ym/versions/FjuwAYUt/Eon%20Ticket.zip"
+hash-format = "sha512"
+hash = "789c586c5a4d0eb46b920809b3136a7871667cdb5c49cc28f2fa1b1fab184c7ed79f2a96515ea224313cbf5e4ab16b7732dd905eec80a16baa9ef9a52e9d555e"
+
+[update]
+[update.modrinth]
+mod-id = "CO6My8ym"
+version = "FjuwAYUt"

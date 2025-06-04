@@ -1,0 +1,13 @@
+name = "Rain Revamp - More realistic rain color! Perfect for shaders!"
+filename = "Rain Revamp [1.20].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3e750e0c1df4023c795df6290a2c1dfb4838d14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4608740
+project-id = 522485

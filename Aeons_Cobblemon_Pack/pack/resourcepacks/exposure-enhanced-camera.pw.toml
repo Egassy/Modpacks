@@ -1,0 +1,13 @@
+name = "Exposure Enhanced Camera"
+filename = "Exposure Enhanced Camera 1.1 - 1.7.0+.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c90d4e371bd7e416cf72fda88a67189b8852be1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6430833
+project-id = 1054440

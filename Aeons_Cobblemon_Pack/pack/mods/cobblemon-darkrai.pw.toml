@@ -1,0 +1,13 @@
+name = "Overgrown's Cobblemon: Darkrai"
+filename = "cobblemon-darkrai-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ObH1JZK9/versions/P1NlogXf/cobblemon-darkrai-1.1.1.jar"
+hash-format = "sha512"
+hash = "d61a3545881ffe3e9a811d6c2eb8d7a2c2fd5f772ec31e88bf3720ed662b744b6729b6f6bf447b8be374f5791dc32d2adbf47743608717c0f81c11c40bb4f8fc"
+
+[update]
+[update.modrinth]
+mod-id = "ObH1JZK9"
+version = "P1NlogXf"

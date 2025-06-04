@@ -1,0 +1,13 @@
+name = "Compost Bag"
+filename = "CompostBag-Neo-1.21-4.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04a91e7e3b4e81d1ca88c63ce8e0d3121144ba87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5486770
+project-id = 597828

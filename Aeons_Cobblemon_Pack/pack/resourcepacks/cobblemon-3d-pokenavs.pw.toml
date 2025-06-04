@@ -1,0 +1,13 @@
+name = "Cobblemon 3D Pokenavs"
+filename = "iB - 3D Cobblenav Release-2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/APfalZZx/versions/I0gdX37d/iB%20-%203D%20Cobblenav%20Release-2.zip"
+hash-format = "sha512"
+hash = "f8cceecc2efbe79cd287dc8e67758e54f83c667d5d408fe4e8be62c0bccabb5fffa5e0215a1cc197cfa43d8322369d8cb3fc11215153ca14fd8fbc25b4a971ce"
+
+[update]
+[update.modrinth]
+mod-id = "APfalZZx"
+version = "I0gdX37d"

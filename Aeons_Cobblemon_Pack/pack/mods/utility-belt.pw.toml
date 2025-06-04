@@ -1,0 +1,13 @@
+name = "Utility Belt"
+filename = "utility-belt-neoforge-2.6.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a3c058d8ed57c9b7a9ef6f274d1089f5a86b0cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5999980
+project-id = 664053

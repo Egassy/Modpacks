@@ -1,0 +1,13 @@
+name = "Create - MGS Solid Snake's Outfit"
+filename = "mgs_outfit_for_create_mod.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3497b7724edeef1aaf74797873006a82256f3586"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6252307
+project-id = 1210922

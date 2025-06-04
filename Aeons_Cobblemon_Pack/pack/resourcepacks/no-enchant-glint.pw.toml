@@ -1,0 +1,13 @@
+name = "No Enchant Glint"
+filename = "§6No Enchant Glint 1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e26d6e8a1e5d79c6b0be06dcf07495516cbd7570"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5431782
+project-id = 366938
