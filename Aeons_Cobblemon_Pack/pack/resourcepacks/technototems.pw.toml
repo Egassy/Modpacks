@@ -1,7 +1,0 @@
-name = "technototems"
-filename = "techno-totem-e3270.zip"
-
-[download]
-url = "https://github.com/Egassy/Special-pack-files/blob/main/1.21.1/resourcepacks/techno-totem-e3270.zip"
-hash-format = "sha256"
-hash = "a7e729337913e0b32d6f28a3350c5f4d37d93b49e566718edabb8487c5b44201"

@@ -2095,11 +2095,6 @@ hash = "9312ed9794406ae2f71e8b7c043649e0d9092401ba59d809e5f577a7fa34284d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/technototems.pw.toml"
-hash = "1ec21b0a6fa46e89c8cb06852c5c8b3ce4b375aa0e054d9f9d3293e01db2c3db"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
 metafile = true
