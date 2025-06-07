@@ -173,10 +173,6 @@ file = "config/craftingtweaks-common.toml"
 hash = "6f2a0de9bf7a64540881d1d43912be340ff8281f2307d947c652782ddd52e48c"
 
 [[files]]
-file = "config/create-client-1.toml.bak"
-hash = "7e89f734d1ad14a223077d07bf56e5234214daa3ab0485619f9ff1f7513998dc"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "ecf2e7a9f76db726ae063d1e83ca7f229f516fd35dc299f2af6a53c4363bd139"
 
@@ -215,10 +211,6 @@ hash = "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c"
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "fe51eafe8ca5fa6e86f57675818fa11f2ba9f0ced35676aa567bf01a29c45b3d"
-
-[[files]]
-file = "config/create_mobile_packages-server-1.toml.bak"
-hash = "7eea1d780e91fb4963c296eebc0d3cad1cc1f2c8de54e67c438594b46aa3c200"
 
 [[files]]
 file = "config/create_mobile_packages-server.toml"
@@ -349,10 +341,6 @@ file = "config/explosiveenhancement.toml"
 hash = "2fede1a2083a3b775691cd6f6cbc4252436b8b331f7d78704d2ee6c3e7ca9a16"
 
 [[files]]
-file = "config/exposure-client-1.toml.bak"
-hash = "1a1ac10fcda0d961f5d6ec2eef6342cc3a0d1be6e4258d9cdae6a39249197aeb"
-
-[[files]]
 file = "config/exposure-client.toml"
 hash = "62c0fe258613ab2b6c9862f940dbf6c6ba7a1fd6f50d130546a36a99a1ec09ef"
 
@@ -473,16 +461,8 @@ file = "config/immersiveengineering-client.toml"
 hash = "aeb224c318fdb3543240f124cd10e7ea5aaaa7fc922aaecf876ecfbf7468b180"
 
 [[files]]
-file = "config/immersiveengineering-server-1.toml.bak"
-hash = "505a66a75f409544b22934f3bd0f59ffef4407c8c2359ded0d0013f8e8bac8d6"
-
-[[files]]
 file = "config/immersiveengineering-server.toml"
 hash = "162be7204c1c733844f28afa60d4642bef127f15b584e81b75b8018c83c4a364"
-
-[[files]]
-file = "config/immersiveengineering-startup-1.toml.bak"
-hash = "702929a76080fba562ffc0faeed56738f25d429a12e25c2c949ed916c376442d"
 
 [[files]]
 file = "config/immersiveengineering-startup.toml"
@@ -503,18 +483,6 @@ hash = "c1322190d23589bd63d45577b340904f45f73a246690b514d468e68f4b24d350"
 [[files]]
 file = "config/irons_spellbooks-client.toml"
 hash = "f8709df662df0670130301fbca88848bda8ada94fe64c07f21da1795f0986b7c"
-
-[[files]]
-file = "config/irons_spellbooks-server-1.toml.bak"
-hash = "acab13b3d77caf3193bfea9902f72df7a01eda62273c12b5a2e9c15358300656"
-
-[[files]]
-file = "config/irons_spellbooks-server-2.toml.bak"
-hash = "307a7e21a3e7e7adcb7ac4e83014a6b21a82802beea03c29e43a23217ee62ddd"
-
-[[files]]
-file = "config/irons_spellbooks-server-3.toml.bak"
-hash = "12cbc1471ce62d82fbb9e07ed9dfde156407c2e3d1ed67eabfcb8a5d2f930738"
 
 [[files]]
 file = "config/irons_spellbooks-server.toml"
@@ -609,18 +577,6 @@ file = "config/maxhealthfix.json"
 hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 
 [[files]]
-file = "config/mega_showdown-common-1.toml.bak"
-hash = "e4eefb10307fbd42aa0d3d46dfcb088c3a7ac66fb075bfb2f4a6a98a0e1e39eb"
-
-[[files]]
-file = "config/mega_showdown-common-2.toml.bak"
-hash = "cc0fa725dd56acd3e54982f68f8dc0a1dd840c1e9ec2d5d938dd6f6441373de9"
-
-[[files]]
-file = "config/mega_showdown-common-3.toml.bak"
-hash = "e600ba9b56acb82bb46785aaeec0cd445168f56fe95f7ee697db7fa309e5a259"
-
-[[files]]
 file = "config/mega_showdown-common.toml"
 hash = "1933233aa06fbc201c5ba8744f60d60af736afe5ffca5613db12e2a35db2f8bb"
 
@@ -663,10 +619,6 @@ hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 [[files]]
 file = "config/occultism-client.toml"
 hash = "864192e662572c71dc07169b1c0442a3b62724c5c72bc79ab21e413868f48383"
-
-[[files]]
-file = "config/occultism-server-1.toml.bak"
-hash = "9be4b67d4d0ce4967d7b8580964ad369e4dbf425a122b4de10667d7b94a05e7a"
 
 [[files]]
 file = "config/occultism-server.toml"
