@@ -1,6 +1,6 @@
 name = "No Enchant Glint"
 filename = "§6No Enchant Glint 1.21.zip"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

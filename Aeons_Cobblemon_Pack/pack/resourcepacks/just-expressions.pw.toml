@@ -1,6 +1,6 @@
 name = "Just Expressions"
 filename = "JustExpressions_v1.1.zip"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

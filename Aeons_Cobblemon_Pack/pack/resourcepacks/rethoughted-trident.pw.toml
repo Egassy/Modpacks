@@ -1,6 +1,6 @@
 name = "Rethoughted Trident"
 filename = "Rethoughted Trident.zip"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

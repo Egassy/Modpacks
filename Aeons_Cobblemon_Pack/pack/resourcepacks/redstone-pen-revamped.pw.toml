@@ -1,6 +1,6 @@
 name = "Create Style Redstone Pen"
 filename = "Create Style Redstone Pen v2.zip"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

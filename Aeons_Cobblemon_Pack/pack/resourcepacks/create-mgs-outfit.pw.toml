@@ -1,6 +1,6 @@
 name = "Create - MGS Solid Snake's Outfit"
 filename = "mgs_outfit_for_create_mod.zip"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
