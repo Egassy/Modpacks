@@ -361,10 +361,6 @@ file = "config/exposure_polaroid-server.toml"
 hash = "09d330b29443d9579ecc014f2be2fcb31075bfe1e9f9ac4e750f271128650fe6"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "0abd15bf2c98524969d78b929463fab587d4e85d5415dc4c935ae1cc05e57ce1"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
 
