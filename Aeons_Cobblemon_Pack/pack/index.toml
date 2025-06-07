@@ -2077,11 +2077,6 @@ hash = "985e609e06ea0fb50e006214e70948f0067f5ac6995031963d811ee0422ecb6f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-mana-bar-for-irons-spells-n-spellbooks.pw.toml"
-hash = "d32f26805f931da041ef210c626103a723dd9a60d5defad0ed57e8a707db3ced"
-metafile = true
-
-[[files]]
 file = "resourcepacks/bushier-fragrance.pw.toml"
 hash = "8da3cc968f3e995677543610987f3646f0165618aa4db43e3e55d65bdc9d195d"
 metafile = true
