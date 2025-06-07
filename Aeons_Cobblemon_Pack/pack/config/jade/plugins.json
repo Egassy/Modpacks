@@ -1,4 +1,7 @@
 {
+  "enderchests": {
+    "hud": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -74,6 +77,12 @@
     "entity": true,
     "entity_variant": true
   },
+  "endertanks": {
+    "hud.basic": true,
+    "hud": true,
+    "hud.status": true,
+    "hud.contents": true
+  },
   "cobblemonintegrations": {
     "healer": true,
     "fossil_analyzer": true,
@@ -112,10 +121,17 @@
     "lightroom": true,
     "photograph_frame": true
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
   "shetiphiancore": {
     "hud.rgb16": true,
     "hud": true,
     "hud.redstone": true
+  },
+  "toms_storage": {
+    "inventory_config": true,
+    "inventory_connector": true
   },
   "easy_villagers": {
     "villager": true,

@@ -1,4 +1,5 @@
 {
+  "enableMythsAndLegendsIntegration": false,
   "hideUnknownPokemon": false,
   "showPokemonTooltips": true,
   "hideUnknownPokemonTooltips": false,
