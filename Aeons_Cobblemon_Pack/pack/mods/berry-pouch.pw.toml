@@ -3,11 +3,11 @@ filename = "berrypouch-neoforge-1.21.1-0.4.0-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y7TzXi4L/versions/CfwKr4KL/berrypouch-neoforge-1.21.1-0.4.0-beta.jar"
-hash-format = "sha512"
-hash = "7bce26192c6116de0c7660ea04411c07f1c66256152ae9b3a35ed2689370c9331a0e2897b128243f79f9da5356d6ed2b643b7e83539fbb9375f237a5f73068cb"
+hash-format = "sha1"
+hash = "9427419c39aa6740a6f80767204b687ddf780004"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "y7TzXi4L"
-version = "CfwKr4KL"
+[update.curseforge]
+file-id = 6473801
+project-id = 1246510
