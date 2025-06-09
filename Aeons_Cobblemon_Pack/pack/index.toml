@@ -1200,6 +1200,11 @@ hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
 metafile = true
 
 [[files]]
+file = "mods/banner-tweaks.pw.toml"
+hash = "8f64a906208084638e20dc65ff4e5816a2b81fcf1db7f6e8bf177d7d098aa0f2"
+metafile = true
+
+[[files]]
 file = "mods/berry-pouch.pw.toml"
 hash = "4fa70a50281bd5daa628da820c1359d0c4d71e0511983a809a4d0d2e402012f6"
 metafile = true
