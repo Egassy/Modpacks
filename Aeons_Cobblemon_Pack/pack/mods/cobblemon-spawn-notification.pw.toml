@@ -1,13 +1,13 @@
 name = "Cobblemon Spawn Notifications"
-filename = "cobblemon-spawn-notification-1.6-neoforge-1.3.6.jar"
+filename = "cobblemon-spawn-notification-1.6-neoforge-1.3.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "01d3f70cb5a23091b90c210a328b36823d4448a7"
+hash = "6a9c0cdd012d00a1a19ea200476d6c68232e308b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6623491
+file-id = 6587228
 project-id = 890745

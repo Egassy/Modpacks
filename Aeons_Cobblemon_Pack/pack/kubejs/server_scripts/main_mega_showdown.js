@@ -603,7 +603,6 @@ ServerEvents.tags('item', event => {
   event.add('alchemancy:dormant_properties/sweet', 'supplementaries:candy')
   event.add('alchemancy:dormant_properties/edible', 'supplementaries:candy')
   event.add('alchemancy:dormant_properties/arcane', 'irons_spellbooks:dragonskin')
-  event.add('alchemancy:dormant_properties/limit_break', 'irons_spellbooks:divine_soulshard')
 
 })
 
