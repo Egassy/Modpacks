@@ -1416,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "3ac4987389899034e29cd6becb70b88f593c04a62ca3efa85bcc756d2eaecc0a"
+hash = "55d88d7571a7f798a81edd3cd0f9c3346da3663532b7b68c7075046a0469348d"
 metafile = true
 
 [[files]]
@@ -1732,6 +1732,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "3c4da499a2fd3071525f97c3f7d009325f12a229635d3d529ce9dede2242a980"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
 metafile = true
 
 [[files]]
