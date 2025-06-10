@@ -751,6 +751,16 @@ hash = "4fb1a31fed2b085e5f798c2a199fec357490f1da72451a612334776111d80d15"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "21e8ad5af6e6ea389ff3b5e940373db8f9bc41d544af67ba2045ced914a6565c"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "c275d63a99e48400500d2c315cc1d2162a1afb79757b1f870fc3bad2bfbfba71"
+metafile = true
+
+[[files]]
 file = "mods/modern-dynamics.pw.toml"
 hash = "df5b84d836c9180cc916e7675ea2bee589e0c0907300f4c0cd470d0cce2bb0ca"
 metafile = true
