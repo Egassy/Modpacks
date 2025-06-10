@@ -1480,11 +1480,6 @@ hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "14737f47940556515dfdee992838fb8e19e7145f6aadd565efe04d068d19d75e"
-metafile = true
-
-[[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "94a62a5faa7093828a6b090a6478d27cd9540873c937b3a32ebc7c18aefafa5f"
 metafile = true
@@ -2002,11 +1997,6 @@ metafile = true
 [[files]]
 file = "mods/utility-belt.pw.toml"
 hash = "7918cf2cf29c0f4be88239851e53d5394b686c6dc0a9bda2b6b6f40a86cd77e5"
-metafile = true
-
-[[files]]
-file = "mods/way-too-many-ingredients.pw.toml"
-hash = "e4e286d349e99b63d075222e6e8918be17d215a035e986b90947aef28ad57286"
 metafile = true
 
 [[files]]
