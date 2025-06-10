@@ -926,7 +926,7 @@ hash = "419a23e2c00bb42a68c4285244a50d92bd63d1d16a6e08cc61ef4531fd958579"
 
 [[files]]
 file = "config/torchmaster.toml"
-hash = "4765c6a67959c7a4c0e5366eb28b13f4188577d8e54bde7d07b0adc9f92bb3ad"
+hash = "c10a41a06b6f8c2d2bb04491b58bbd31c0298158b575acad8492302f60a03b77"
 
 [[files]]
 file = "config/treechop-client.toml"
@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "mods/berry-pouch.pw.toml"
-hash = "fbd2675c5641a53a3ff434fdc6af13623356cde824fdb83614142cace54029d5"
+hash = "522228018bf9732270fe226d62d02ab0a25398c057bf4160b789a2c3db2b1a67"
 metafile = true
 
 [[files]]
@@ -1296,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "f44ddb94e3c48397f426ae0454fb9204912fbe1a580d0a44a5af82a82d400929"
+hash = "1a927b7c13c45c160c0a1217f4e2063edff272e5e0a045912ab132969f523d66"
 metafile = true
 
 [[files]]
@@ -1332,6 +1332,11 @@ metafile = true
 [[files]]
 file = "mods/cobweb.pw.toml"
 hash = "5f20efe6d4037900a75b33a3a08cbacc4961d93d1ed60642eeb749b92e53297a"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "ebf8ec24b42b09b224ef64cf208850805004c2334994e1b322f66fc22b16391c"
 metafile = true
 
 [[files]]
@@ -1436,12 +1441,12 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "7040425a9b772712acc1289c5fd3c5b4b510a0308e1c68bb44bc413cb0913023"
+hash = "4f6148f41202bd1919ab7e477af13a5469bfb632281219f5c4cbc49896f2f493"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "c825055511f01d469401c537bd8c352148084086f746547250d3570673686c71"
+hash = "156831017d3b2ca9df0749d39ebcc7a51c83c155ee7edeaca09287bef7d117a9"
 metafile = true
 
 [[files]]
@@ -1517,6 +1522,11 @@ metafile = true
 [[files]]
 file = "mods/enchanting-infuser-forge.pw.toml"
 hash = "473d2c3c2b40a1c714b843780a24c58d49892083714e583702d7e6b1bdd1010b"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "b4085a5772cddefe655155a25d0d24d2f8f34017c61d9cd786d7a9868abf9092"
 metafile = true
 
 [[files]]
@@ -1657,6 +1667,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
 
 [[files]]
@@ -1967,6 +1982,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "a01818e59dbdb67fa1cf073418f333b94b0f8ea78039f7f46cbe039628ee6645"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster-cobblemon-compat.pw.toml"
+hash = "a6f684e071a2e53086bc9281338a5509efc452946252ffe775eb29a513c8b036"
 metafile = true
 
 [[files]]
