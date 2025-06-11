@@ -1,13 +1,13 @@
 name = "Data & Essence"
-filename = "datanessence-1.0.0-alpha-earlygame14.jar"
+filename = "datanessence-1.0.0-alpha-earlygame15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3cb309f478a0bfe801bcffce313285bd32a1c607"
+hash = "18e5c7c4b10ec4d5f2717a401c2bcfb9f0bc7e6d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6628732
+file-id = 6638050
 project-id = 1189360
