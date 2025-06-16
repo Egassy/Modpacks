@@ -1165,6 +1165,11 @@ hash = "08d5b42c63b13a05a5ad962fb2782126b6a1dbbd76ef383608da7e39009f8b06"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "0d2c4b8cda4d14deb8c4076f01cac447fddf4eb09057baf9d1926b290f05b9f8"
 metafile = true
@@ -1962,6 +1967,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
