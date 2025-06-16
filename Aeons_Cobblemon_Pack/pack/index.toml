@@ -1229,6 +1229,11 @@ hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
 metafile = true
 
 [[files]]
+file = "mods/banner-tweaks.pw.toml"
+hash = "8f64a906208084638e20dc65ff4e5816a2b81fcf1db7f6e8bf177d7d098aa0f2"
+metafile = true
+
+[[files]]
 file = "mods/berry-pouch.pw.toml"
 hash = "5da53f5bd69be4de1579b89434381adfdc2cabb00823b5e4498c767605ef8dd6"
 metafile = true
@@ -1466,6 +1471,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-paintings.pw.toml"
 hash = "0d72a2a54905a01e4c488fc30cc2ecaea3c7e94d61b51f8a4f23d5060de4474b"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "e8aa1ec4edd94e07cfae020063e4c2fea577463f385f8df6fb6284ab4bbf78dd"
 metafile = true
 
 [[files]]
