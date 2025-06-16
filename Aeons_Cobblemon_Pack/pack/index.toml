@@ -1465,6 +1465,11 @@ hash = "0d72a2a54905a01e4c488fc30cc2ecaea3c7e94d61b51f8a4f23d5060de4474b"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "e8aa1ec4edd94e07cfae020063e4c2fea577463f385f8df6fb6284ab4bbf78dd"
+metafile = true
+
+[[files]]
 file = "mods/distracting-trims.pw.toml"
 hash = "f31f943808ee46c12d32afefb55c0fc75b490ca767088c487894905da41bb235"
 metafile = true
