@@ -1220,11 +1220,6 @@ hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
 metafile = true
 
 [[files]]
-file = "mods/banner-tweaks.pw.toml"
-hash = "8f64a906208084638e20dc65ff4e5816a2b81fcf1db7f6e8bf177d7d098aa0f2"
-metafile = true
-
-[[files]]
 file = "mods/berry-pouch.pw.toml"
 hash = "5da53f5bd69be4de1579b89434381adfdc2cabb00823b5e4498c767605ef8dd6"
 metafile = true
@@ -1262,11 +1257,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "fbee29e0f3f046515c7f95bd69884feb70c7a381fa4803e0f35650db244121da"
-metafile = true
-
-[[files]]
-file = "mods/chimericlib.pw.toml"
-hash = "3f458a2ef6d81573d8d92d222422784c32b2a37e87c8c43fa95bf066c5dacce5"
 metafile = true
 
 [[files]]
@@ -2022,11 +2012,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "093f100528ac07fd2875d8d43e9db9b04eed6066df684df33bb52d9724419847"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "475adc324b5f3eb6d0714a441365570e209930d25a8a381b74b6c5c4cbcedcff"
 metafile = true
 
 [[files]]
