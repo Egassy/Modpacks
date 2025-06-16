@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "3a07b8da7987f37ff2678d84f69d6bc29d53dfe651fcc354b1743e158c69a9f6"
+
+[[files]]
 file = "config/Hexerei-client.toml"
 hash = "41e1524aa59e27c3d91d124a2f02a6f1f8f192491d0801f0813ec7759825cbdd"
 
