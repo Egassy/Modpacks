@@ -694,8 +694,7 @@
           "items": [
             {
               "item": {
-                "id": "Botania:manaTablet",
-                "damage": 1000
+                "id": "Botania:manaTablet"
               },
               "precision": "FUZZY"
             }
@@ -704,8 +703,7 @@
       ],
       "reward": [
         {
-          "id": "Botania:manaTablet",
-          "damage": 1000
+          "id": "Botania:manaTablet"
         }
       ]
     },
@@ -1018,26 +1016,27 @@
       ]
     },
     {
-      "name": "404 Corpea Quest Not Found",
-      "description": "More information on the Corpea System coming soon.",
-      "x": 227,
-      "y": 114,
+      "name": "Botania Thaumcraft Support",
+      "description": "Thanks to TCBotaniaExoflame, the Exoflame now supports the Alchemical Furnace and Alchemical Boiler and also adds comparator support for cake.",
+      "x": 189,
+      "y": 16,
       "icon": {
-        "id": "HardcoreQuesting:hqmInvalidItem"
+        "id": "Botania:specialFlower",
+        "nbt": "{type:\"exoflame\"}"
       },
       "prerequisites": [
-        "Gaia Guardian"
+        "Mana Generation"
       ],
-      "trigger": "ANTI_TRIGGER",
       "tasks": [
         {
           "type": "CONSUME",
           "items": [
             {
               "item": {
-                "id": "HardcoreQuesting:hqmInvalidItem"
+                "id": "minecraft:planks",
+                "damage": 3
               },
-              "required": 99
+              "precision": "FUZZY"
             }
           ]
         }

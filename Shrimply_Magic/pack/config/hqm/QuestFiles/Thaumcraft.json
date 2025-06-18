@@ -56,6 +56,7 @@
       "tasks": [
         {
           "type": "DETECT",
+          "longDescription": "Thaumic Inventory Scanning allows the user to scan items directly in their inventory by hovering a Thaumometer over them. Neat!",
           "items": [
             {
               "item": {
@@ -446,17 +447,20 @@
             {
               "item": {
                 "id": "ThaumicHorizons:eggIncubated"
-              }
+              },
+              "precision": "FUZZY"
             },
             {
               "item": {
                 "id": "ThaumicHorizons:syringeEmpty"
-              }
+              },
+              "precision": "FUZZY"
             },
             {
               "item": {
                 "id": "ThaumicHorizons:modMatrix"
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
@@ -934,14 +938,14 @@
       "tasks": [
         {
           "type": "DETECT",
+          "longDescription": "This is set to detect at 0 Vis of all kinds. Changing to fuzzy detection does not work, sorry!",
           "items": [
             {
               "item": {
                 "id": "Thaumcraft:WandCasting",
-                "damage": 128,
-                "nbt": "{aqua:15000,terra:15000,ignis:15000,cap:\"thaumium\",rod:\"silverwood\",ordo:15000,sceptre:1b,perditio:15000,aer:15000}"
-              },
-              "precision": "NBT_FUZZY"
+                "damage": 81,
+                "nbt": "{cap:\"thaumium\",rod:\"silverwood\",sceptre:1b}"
+              }
             }
           ]
         }
@@ -1527,6 +1531,9 @@
       "description": "Essentia Mirrors can server a unique purpose for complex base setups, however there is an alternative. By combining a mirror and a jar, it is possible to create jars that can be linked across great distances. Contents added to the jar are split amongst the amount of jars in that designated network. Neat!",
       "x": 89,
       "y": 137,
+      "icon": {
+        "id": "gadomancy:BlockRemoteJar"
+      },
       "prerequisites": [
         "Infusion Magic"
       ],

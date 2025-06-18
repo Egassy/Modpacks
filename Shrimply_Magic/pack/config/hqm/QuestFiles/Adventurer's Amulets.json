@@ -1,0 +1,748 @@
+{
+  "name": "Adventurer\u0027s Amulets",
+  "description": "This quest line attempts to document some of Adventurer\u0027s Amulets, and provide a guide for its short progression.",
+  "quests": [
+    {
+      "name": "Adventurer\u0027s Amulets",
+      "description": "The art of the elemental artificer is difficult to explain, and expensive to use. Very, very expensive.",
+      "x": 77,
+      "y": 88,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_craftingBlock"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Rune of Crafting has several recipes, and must always be north-aligned.",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_craftingBlock"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_guideBook"
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:obsidian",
+          "amount": 12
+        },
+        {
+          "id": "minecraft:gold_block"
+        }
+      ]
+    },
+    {
+      "name": "Belts",
+      "description": "The Elemental belts generally grant two passive-active abilities, oneof which can be toggled on and off. Their abilities tend to affect the world around the wearer, setting fires or freezing water.",
+      "x": 206,
+      "y": 138,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_basicBelt"
+      },
+      "prerequisites": [
+        "Blank Slate"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Pendants are made by placing a block of gold to the south, a Blank Slate to the north with wool filling in the remaining spaces.",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_basicBelt"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_cloudCloth",
+          "amount": 2
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_demonHeart",
+          "amount": 2
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_shells",
+          "amount": 2
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_pureSeeds",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Rings",
+      "description": "The Elemental Rings grant one passive ability, ranging from flight, to projectile deflection, to even becoming ethereal and walking through walls. Their abilities are usually - but not always - utility-based.",
+      "x": 202,
+      "y": 43,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_basicRing"
+      },
+      "prerequisites": [
+        "Blank Slate"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Rings are made by placing a block of gold to the south, a Blank Slate to the north and gold pressure plates to the east and west.",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_basicRing"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_chargedEnderPearl",
+          "amount": 2
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_frostbittenEssence",
+          "amount": 2
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_worm",
+          "amount": 2
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_fairySilk",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Pendants",
+      "description": "The Elemental Pendants generally grant two semi-passive abilities, one which affects the player and one which affects the world - often by placing lights.",
+      "x": 116,
+      "y": 45,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_basicPendant"
+      },
+      "prerequisites": [
+        "Blank Slate"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Pendants are made by placing a block of gold to the south, a Blank Slate to the north, then string beside the Slate and wool filling in the remaining spaces.",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_basicPendant"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_cloudCloth",
+          "amount": 3
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_demonHeart",
+          "amount": 3
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_shells",
+          "amount": 3
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_pureSeeds",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Focus Crystals",
+      "description": "Focus Crystals are batteries that store Elemental Energy, and feed it into worn baubles. They are not baubles, and are charged the same way that the baubles themselves are.",
+      "x": 115,
+      "y": 138,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_inertFocusCrystal"
+      },
+      "prerequisites": [
+        "Blank Slate"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_inertFocusCrystal"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_chargedEnderPearl"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_frozenHeart"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_largeStone"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_illuminatedPixieDust"
+        }
+      ]
+    },
+    {
+      "name": "Blank Slate",
+      "description": "The first, and simplest, Runic recipe is that of the blank slate. The Slate is used used in the creation of mundane jewelery, and thus is needed for every recipe.",
+      "x": 158,
+      "y": 88,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_blankSlate"
+      },
+      "prerequisites": [
+        "Adventurer\u0027s Amulets"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Simple place stone on the edges of the Rune, and fill in the corners with obsidian. Then activate the Rune.",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_blankSlate"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_blankSlate",
+          "amount": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_basicBelt"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_basicRing"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_basicPendant"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_inertFocusCrystal"
+        }
+      ]
+    },
+    {
+      "name": "Awakened Crafting Rune",
+      "description": "The Awakened Crafting Rune is capable of upgrading Elemental Baubles and Focus Crystals, increasing their energy storage capacity and, in some cases, granting new abilities.",
+      "x": 243,
+      "y": 88,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_craftingBlockT2"
+      },
+      "prerequisites": [
+        "Blank Slate"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Surround the Crafting Rune with obsidian, and put gold blocks on the corners. Be warned, this process is rather... energetic, and may attract some unwanted attention.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:gold_block"
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "minecraft:obsidian"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "The Awakened Crafting Rune requires a structure built around it. To do so, put 12 Pillars of Crafting horizontally around the edges of the crafting area, and 8 more vertically above that on the corners. Then cap them with Crafting Amplifiers. The structure is 4 blocks high in total, and the horizontal Pillars do not require corners.",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_craftingPillar"
+              },
+              "required": 20
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_craftingPillarTopper"
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_craftingBlockT2"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "minecraft:iron_block",
+          "amount": 8
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4
+        },
+        {
+          "id": "minecraft:gold_block",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "Upgrading",
+      "description": "Any of the Elemental baubles can be upgraded. In doing so, their storage capacity is multiplied by their tier, and some of their abilities may be enhanced.",
+      "x": 277,
+      "y": 88,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_craftingPillarTopper"
+      },
+      "prerequisites": [
+        "Awakened Crafting Rune"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To upgrade a bauble, surround an Awakened Crafting Rune (housed in the appropriate structure) with a the corrosponding upgrade block for that tier. Tier 2 uses Iron.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:iron_block"
+              },
+              "required": 8
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "Tier 3 uses gold...",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:gold_block"
+              },
+              "required": 8
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "Emerald for Tier 4, oddly enough.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:emerald_block"
+              },
+              "required": 8
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "And finally, diamond for Tier 5.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:diamond_block"
+              },
+              "required": 8
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:iron_block",
+          "amount": 8
+        },
+        {
+          "id": "minecraft:gold_block",
+          "amount": 8
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Windmakers",
+      "description": "Windermakers magic is focused around movement and flight. Its items can be charged by being above y-200, and clouds can be bottled by using a specialized Cloud Bottle above that height. Eagles spawn near jungles, plains and forests. ",
+      "x": 12,
+      "y": 37,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_eagleWing"
+      },
+      "prerequisites": [
+        "Pendants",
+        "Focus Crystals",
+        "Belts",
+        "Rings"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Eagle",
+              "mob": "entityEagle",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_cloudBottle",
+          "damage": 1
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_eagleWing",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Infernal",
+      "description": "Infernal magic is focused around fire and lava. Hell cats spawn anywhere in the Nether, and both the items and Infernal Iron are charged by being there. Charge additionally granted whilst you are on fire.",
+      "x": 34,
+      "y": 13,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_demonHeart"
+      },
+      "prerequisites": [
+        "Pendants",
+        "Rings",
+        "Belts",
+        "Focus Crystals"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Hell Cat",
+              "mob": "entityDemonCat",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_infernalIron"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_demonHeart",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Aquatic",
+      "description": "Aquatic baubles are focused around water. Use a Fishy-Smelling bag for a chance to obtain Shells or Fish Scales. Aquatic Emeralds are charged by standing in water, as are the baubles.",
+      "x": 278,
+      "y": 10,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_aquaticBag"
+      },
+      "prerequisites": [
+        "Pendants",
+        "Rings",
+        "Belts",
+        "Focus Crystals"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:fish"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_aquaticEmerald"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_fishScales",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Floral",
+      "description": "Floral magic is focused around plants, life and nature. Their items are charged by being in direct sunlight, and the Pure Daisy gains strength by being crafted with other plants.",
+      "x": 300,
+      "y": 42,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_pureDandelion"
+      },
+      "prerequisites": [
+        "Pendants",
+        "Rings",
+        "Belts",
+        "Focus Crystals"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:sapling"
+              },
+              "required": 8,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_pureDandelion"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_pureSeeds",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Transposing",
+      "description": "Transposing magic is focused around darkness, teleporting and the End. Its items may be charged by being in the End, and the Charged Ender Pearl is filled by using it there.",
+      "x": 279,
+      "y": 195,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_chargedEnderPearl"
+      },
+      "prerequisites": [
+        "Pendants",
+        "Rings",
+        "Belts",
+        "Focus Crystals"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "LOCATION",
+          "locations": [
+            {
+              "name": "The End",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "dim": 1,
+              "radius": 1,
+              "visible": "NONE"
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_chargedEnderShard"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_chargedEnderPearl",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Frostbitten",
+      "description": "Frostbitten magic is focused around snow and ice. Frozen Hearts are obtained by allowing a living being to stand on a Frostbitten Core, and Frozen Essence is obtained by surrounding it with ice as though it were a Rune of Crafting. Frostbitten items charge while in cold biomes such as the Taiga or Extreme Hills",
+      "x": 300,
+      "y": 167,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_frozenHeart"
+      },
+      "prerequisites": [
+        "Pendants",
+        "Rings",
+        "Belts",
+        "Focus Crystals"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_frostbittenCore"
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_frozenHeart"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_frostbittenEssence",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Earthbound",
+      "description": "Earthbound magic is focused around stone and mining. Wiggly Worms are obtained by hitting Zombie Pigmen with a hammer. Earthbound items charge underground.",
+      "x": 15,
+      "y": 170,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_largeStone"
+      },
+      "prerequisites": [
+        "Rings",
+        "Pendants",
+        "Focus Crystals",
+        "Belts"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_hammer"
+              }
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_largeStone"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_worm",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Fairy",
+      "description": "Fairy magic does a variety of things, with no clear focus. Its uses range from arrow deflection, to magnetism, to making a platform midair to walk on. Pixies are found in Roofed Forests, and may additionally be created with a Fairy Wand for the cost of an Illuminated Dust. Said dust is also consumed to charge Fairy items.",
+      "x": 37,
+      "y": 195,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_illuminatedPixieDust"
+      },
+      "prerequisites": [
+        "Rings",
+        "Pendants",
+        "Focus Crystals",
+        "Belts"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Pixie",
+              "mob": "entityFairyPixie",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "adventurersamulets:AdventurersAmulets_pixieDust"
+        },
+        {
+          "id": "adventurersamulets:AdventurersAmulets_illuminatedPixieDust",
+          "amount": 32
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

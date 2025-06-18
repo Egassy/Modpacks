@@ -4,7 +4,7 @@
   "quests": [
     {
       "name": "Getting Started",
-      "description": "To begin Ars Magica, you require an Arcane Compendium. To obtain one, place a book inside of an item frame in front of a pool of liquid etherium. The Compendium is set to unlock all knowledge rather than staged progression. This quest line serves to give a rough path of progression through the book. Take special care to take your magic level into consideration when attempting high level combat. ",
+      "description": "To begin Ars Magica, you require an Arcane Compendium. To obtain one, place a book inside of an item frame in front of a pool of liquid etherium. Liquid Etherium can be extracted from Witchwood logs into a bucket in your inventory, or directly into the world. The Compendium is set to unlock all knowledge rather than staged progression. This quest line serves to give a rough path of progression through the book. Take special care to take your magic level into consideration when attempting high level combat. ",
       "x": 17,
       "y": 19,
       "icon": {
@@ -17,6 +17,11 @@
             {
               "item": {
                 "id": "arsmagica2:ArcaneCompendium"
+              }
+            },
+            {
+              "item": {
+                "id": "arsmagica2:etheriumExtractor"
               }
             }
           ]
@@ -166,6 +171,7 @@
       "tasks": [
         {
           "type": "DETECT",
+          "longDescription": "Bonemeal for AM2 plants ONLY works on grass, not dirt blocks.",
           "items": [
             {
               "item": {
@@ -283,10 +289,10 @@
     {
       "name": "Special Etherium",
       "description": "While Neutral Etherium can be used in a variety of means, there are two more types of Etherium with their own special properties. In order to produce Dark and Light Etherium, you must first obtain their respective key blocks through Rituals. In order to transform your obelisks, consult the Ritual section in the Structure tab for information on layout.",
-      "x": 229,
-      "y": 20,
+      "x": 113,
+      "y": 80,
       "icon": {
-        "id": "arsmagica2:blackAurem"
+        "id": "arsmagica2:celestialPrism"
       },
       "prerequisites": [
         "Etherium"
@@ -358,7 +364,7 @@
       "name": "Mage Armor",
       "description": "You can construct armor that is specifically attuned to your demands as a mage. Wearing a full set of Mage Armor will increase your mana regen as well as increase the power of your spells. Magical Armors can be repaired with current mana reserves, and the armor is highly enchantable.",
       "x": 158,
-      "y": 136,
+      "y": 113,
       "icon": {
         "id": "arsmagica2:mageHood"
       },
@@ -404,8 +410,8 @@
     {
       "name": "Armor Imbuement",
       "description": "As you may have noticed, hovering over all types of armor and holding shift will reveal an Armor exp and level value. AM2 allows all armors to gain levels and in turn, use those levels in the Armor Imbuement Table. These special enchantments will assist you as a mage by reducing burnout, increasing exp gains, step assist, as well as many damage reductions. This allows you to create your own form of \"mage armor\" if the AM2 provided armor is not as good as another mod\u0027s armor you have choosen to wear.",
-      "x": 127,
-      "y": 157,
+      "x": 132,
+      "y": 146,
       "icon": {
         "id": "arsmagica2:armorInfuser"
       },
@@ -428,14 +434,18 @@
         {
           "id": "HardcoreQuesting:bags",
           "damage": 1
+        },
+        {
+          "id": "Automagy:phialExtra",
+          "amount": 16
         }
       ]
     },
     {
       "name": "Essence Refiner",
       "description": "Some items or spells will require various essences in order to be created. The Essence Refiner will create various types of essences when given Etherium and a Recipe. Check the section on Essence under the Items tab for more information on how to craft a specific essence.",
-      "x": 230,
-      "y": 57,
+      "x": 224,
+      "y": 21,
       "icon": {
         "id": "arsmagica2:essenceRefiner"
       },
@@ -465,7 +475,7 @@
       "name": "Battle Mage Armor",
       "description": "Battle Mage Armor provides similar benefits as the mage armor, but to a lesser degree. However, the tradeoff is that Battle Mage Armor provides many more bonuses against physical damage, useful if the mage armor wasn\u0027t enough.",
       "x": 158,
-      "y": 180,
+      "y": 141,
       "icon": {
         "id": "arsmagica2:battlemageArmor"
       },
@@ -512,9 +522,9 @@
     },
     {
       "name": "Guardians",
-      "description": "One way to test your strength as a mage is to summon various guardians. Guardians have unique abilities and attacks, and are extremely bulky. They are usually immune to phsyical damage by swords, so crafting powerful attack spells with a hefty amount of mana regen would be in your favor. Each boss will drop an Infinity Orb and has a chance to drop their respective Essence. Rarely, they can also drop a unique piece of equipment. Each boss has a unique method of summoning, consult the boss tab for more information.",
-      "x": 187,
-      "y": 155,
+      "description": "One way to test your strength as a mage is to summon various guardians. Guardians have unique abilities and attacks, and are extremely bulky. They are usually immune to phsyical damage by swords, so crafting powerful attack spells with a hefty amount of mana regen would be in your favor. Each boss will drop an Infinity Orb and has a chance to drop their respective Essence. Rarely, they can also drop a unique piece of equipment. Each boss has a unique method of summoning, consult the boss tab for more information. To note, each unique Guardian killed boosts the killers maximum Mana by 2000",
+      "x": 186,
+      "y": 143,
       "icon": {
         "id": "arsmagica2:AMSpawnEgg",
         "damage": 16
@@ -524,30 +534,23 @@
       ],
       "tasks": [
         {
-          "type": "KILL",
-          "mobs": [
+          "type": "DETECT",
+          "items": [
             {
-              "name": "Water Guardian",
-              "icon": {
-                "id": "arsmagica2:AMSpawnEgg",
-                "damage": 16
+              "item": {
+                "id": "arsmagica2:redstoneInlay"
               },
-              "mob": "arsmagica2.BossWaterGuardian",
-              "kills": 1,
-              "exact": false
+              "required": 8
             }
           ]
         }
       ],
       "reward": [
         {
-          "id": "arsmagica2:rune",
-          "damage": 17,
-          "amount": 2
+          "id": "minecraft:water_bucket"
         },
         {
-          "id": "HardcoreQuesting:bags",
-          "damage": 1
+          "id": "minecraft:boat"
         }
       ]
     },
@@ -588,13 +591,14 @@
     {
       "name": "Arcane Deconstruction",
       "description": "By feeding an Arcane Deconstructor with Dark Etherium, you can break down old spells or items into their original crafting components.",
-      "x": 111,
-      "y": 83,
+      "x": 37,
+      "y": 78,
+      "bigicon": true,
       "icon": {
         "id": "arsmagica2:arcaneDeconstructor"
       },
       "prerequisites": [
-        "Etherium"
+        "Spell Replication"
       ],
       "tasks": [
         {
@@ -611,7 +615,7 @@
       "reward": [
         {
           "id": "HardcoreQuesting:bags",
-          "damage": 1
+          "damage": 3
         }
       ]
     },
@@ -983,8 +987,9 @@
     {
       "name": "Complete the Set",
       "description": "Show you are the true Master of the Arcane by defeating all of the Elemental Guardians and obtaining their Treasures!",
-      "x": 201,
-      "y": 186,
+      "x": 224,
+      "y": 187,
+      "bigicon": true,
       "icon": {
         "id": "arsmagica2:BoundSwordNor"
       },
@@ -1077,6 +1082,689 @@
         {
           "id": "arsmagica2:manaCake",
           "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Archmage Hood",
+      "description": "The Archmage Hood grants complete immunity to any sort of flame, as well as Night Vision. It glows so red-hot that it burns attackers",
+      "x": 123,
+      "y": 193,
+      "icon": {
+        "id": "arsmagica2:ArchmageHood"
+      },
+      "prerequisites": [
+        "Archmage Armour"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "arsmagica2:ArchmageHood"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Automagy:phialExtra",
+          "amount": 32
+        }
+      ]
+    },
+    {
+      "name": "Water Guardian",
+      "description": "Kill the Water Guardian. Beware, it regenerates health while in water, and forces unwary mages to sink to the depths.",
+      "x": 296,
+      "y": 9,
+      "icon": {
+        "id": "arsmagica2:water_orbs",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Water Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 16
+              },
+              "mob": "arsmagica2.BossWaterGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 17,
+          "amount": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:water_orbs",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Earth Guardian",
+      "description": "The Earth Guardian is nigh-immune mundane weapons due to its strong shell, and has incredible physical strength. However, it moves slowly and has no way to attack at range, so a wise mage would stay back and pelt it with spells.",
+      "x": 296,
+      "y": 35,
+      "icon": {
+        "id": "arsmagica2:earth_armor",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Earth Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 15
+              },
+              "mob": "arsmagica2.BossEarthGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 17,
+          "amount": 4
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:earth_armor",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Air Guardian",
+      "description": "The Air Guardian flies and has ranged attacks with immense knockback, so a mage would be well-advised to have a way to soften their landings or stop themselves from falling",
+      "x": 296,
+      "y": 61,
+      "icon": {
+        "id": "arsmagica2:air_sled",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Air Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 18
+              },
+              "mob": "arsmagica2.BossAirGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 18,
+          "amount": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:air_sled",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Arcane Guardian",
+      "description": "The Arcane Guardian teleports around and uses its floating sigil to deflect spells, but is highly vunerable to mundane weapons - although using such may send a \"mage\" flying",
+      "x": 296,
+      "y": 87,
+      "icon": {
+        "id": "arsmagica2:arcane_spellbook",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Arcane Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 14
+              },
+              "mob": "arsmagica2.BossArcaneGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 18,
+          "amount": 2
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:arcane_spellbook",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2
+        }
+      ]
+    },
+    {
+      "name": "Life Guardian",
+      "description": "The Life Guardian gives you nausea and is immune to damage while its minions are alive - which it spawns rapidly. It also heals constantly. A mage would be advised to say \"screw it\" and ask the server admin to help them kill it in creative.",
+      "x": 296,
+      "y": 113,
+      "icon": {
+        "id": "arsmagica2:lifeWard"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Life Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 20
+              },
+              "mob": "arsmagica2.BossLifeGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 18,
+          "amount": 4
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:lifeWard"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Nature Guardian",
+      "description": "The Nature Guardian is tough and deals considerable amounts of damage with its scythe, but otherwise is quite mundane.",
+      "x": 296,
+      "y": 139,
+      "icon": {
+        "id": "arsmagica2:natureScythe",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Nature Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 13
+              },
+              "mob": "arsmagica2.BossNatureGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 19,
+          "amount": 2
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:natureScythe",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Lightning Guardian",
+      "description": "The Lightning Guardian is fast and deals high damage, and its lightning bolts can scramble the nervous system of an incautious mage",
+      "x": 296,
+      "y": 165,
+      "icon": {
+        "id": "arsmagica2:lightningCharm"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Lightning Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 21
+              },
+              "mob": "arsmagica2.BossLightningGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 19,
+          "amount": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:lightningCharm"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Winter Guardian",
+      "description": "The Winter Guardian is tough, and deals significant damage both close-up and at range, for it can detach and throw its arm to grasp the slow mage and bring them in. However, it is made of ice, and ice is quite good at melting.",
+      "x": 296,
+      "y": 191,
+      "icon": {
+        "id": "arsmagica2:winter_arm",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Winter Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 17
+              },
+              "mob": "arsmagica2.BossWinterGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 19,
+          "amount": 2
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:winter_arm",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Fire Guardian",
+      "description": "The Fire Guardian is extremely tough, and dives in and out of solid objects as though they were water, and may attack from a range. Any contact with flame or lava will near-instantly heal it, so a mage would be advised to clear out any burnables beforehand.",
+      "x": 273,
+      "y": 22,
+      "icon": {
+        "id": "arsmagica2:fire_ears",
+        "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Fire Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 19
+              },
+              "mob": "arsmagica2.BossFireGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 19,
+          "amount": 5
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:fire_ears",
+          "nbt": "{ench:[0:{lvl:1s,id:101s}]}"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Ender Guardian",
+      "description": "[REDACTED]",
+      "x": 273,
+      "y": 177,
+      "icon": {
+        "id": "arsmagica2:enderBoots"
+      },
+      "prerequisites": [
+        "Guardians"
+      ],
+      "repeat": {
+        "type": "TIME",
+        "days": 1,
+        "hours": 6
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "Ender Guardian",
+              "icon": {
+                "id": "arsmagica2:AMSpawnEgg",
+                "damage": 22
+              },
+              "mob": "arsmagica2.BossEnderGuardian",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "arsmagica2:rune",
+          "damage": 19,
+          "amount": 8
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "arsmagica2:enderBoots"
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Archmage Robes",
+      "description": "The Archmage Robes cancel knockback, and apply significant force and damage to any attacks coming from yourself, as well as granting a regenerating 38 points of Absorption",
+      "x": 145,
+      "y": 192,
+      "icon": {
+        "id": "arsmagica2:ArchmageArmor"
+      },
+      "prerequisites": [
+        "Archmage Armour"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "arsmagica2:ArchmageArmor"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Automagy:phialExtra",
+          "amount": 32
+        }
+      ]
+    },
+    {
+      "name": "Archmage Leggings",
+      "description": "The Archmage Leggings completely negate the effects of water. You can walk, breath and mine like water isn\u0027t there, although you cannot swim.",
+      "x": 170,
+      "y": 192,
+      "icon": {
+        "id": "arsmagica2:ArchmageLeggings"
+      },
+      "prerequisites": [
+        "Archmage Armour"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "arsmagica2:ArchmageLeggings"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Automagy:phialExtra",
+          "amount": 32
+        }
+      ]
+    },
+    {
+      "name": "Archmage Boots",
+      "description": "The Archmage Boots allow flight through a neverending jump. while negating both fall damage and many movement impairment effects",
+      "x": 193,
+      "y": 193,
+      "icon": {
+        "id": "arsmagica2:ArchmageBoots"
+      },
+      "prerequisites": [
+        "Archmage Armour"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "arsmagica2:ArchmageBoots"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Automagy:phialExtra",
+          "amount": 32
+        }
+      ]
+    },
+    {
+      "name": "Archmage Armour",
+      "description": "Archmage Armour provides unparalleled protection and numerous innate abilities as well as a magical boost greater than that of the Mage Robes, but requires slaying all the Guardians to obtain.",
+      "x": 158,
+      "y": 169,
+      "icon": {
+        "id": "arsmagica2:ArchmageArmor"
+      },
+      "prerequisites": [
+        "Battle Mage Armor"
+      ]
+    },
+    {
+      "name": "Spell Replication",
+      "description": "The Spell Replicator can, for a hefty cost of Light Etherium, duplicate a spell without need for additional components. Great for sharing with friends!",
+      "x": 81,
+      "y": 80,
+      "icon": {
+        "id": "arsmagica2:spellReplicator"
+      },
+      "prerequisites": [
+        "Special Etherium"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "arsmagica2:spellReplicator"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2
         }
       ]
     }

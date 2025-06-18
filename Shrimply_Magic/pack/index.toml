@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AM2/AM2.cfg"
-hash = "f52a11913f368aa421f088785f882f1741ed070e891d68a5ddcdff913aa0c896"
+hash = "cc5bd53c0492b336a2118568e73b227bf5dc99c0fd0810496c8224bf6fcf85e1"
+
+[[files]]
+file = "config/AM2/AM2.cfg.bak"
+hash = "f4a9dd1645165683d9311e27716d452d3715468bfe1cf4597c10fb98a202d8fc"
 
 [[files]]
 file = "config/AM2/SkillConf.cfg"
-hash = "4081f50b740711b05a12ab484b4b155edeac349693d46e1e696c6455e272d88e"
+hash = "d8ae0d9b66da2b2154217ba7d6ba1ac855bed629a102547d2e16ee9306a95601"
 
 [[files]]
 file = "config/AM2PlantFix.cfg"
@@ -14,7 +18,7 @@ hash = "db4ec647456970c05f3cdedc6c172490adb08219284fa520a1b7c7ae71d1bd11"
 
 [[files]]
 file = "config/AWWayofTime.cfg"
-hash = "b1c6974ffc0e3eec7bbc1f4be1602d1db93741b47c2598c19f803095ea575e9c"
+hash = "68b2da806e852805d5a575ef7d8db03bd64c9124b8580459e643041111aa0e99"
 
 [[files]]
 file = "config/AccidentallyCircumstantialEvents/GolemancersBellReplace.json"
@@ -30,7 +34,7 @@ hash = "50a394fe74c2707a89c3481f96698f532cc66e23b97550884f208cd493c70fef"
 
 [[files]]
 file = "config/AppleCore.cfg"
-hash = "9f807354a293e4483421366bd40c3eda33f86931bae5a9852dd721d1fbfa1312"
+hash = "77c4f048cee10e2c07522a72bc7357bb7448f5850eaab05dd81cd6afab2700cc"
 
 [[files]]
 file = "config/Automagy.cfg"
@@ -102,11 +106,11 @@ hash = "2a534c7cf8b3e9344da62acd8fc2664a75a682dcbfe37897f21977ef9b1aa63d"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "a9767bdc350cff6e8b153a7bfab01ed19e89255fde867519e69d0734ad321ba2"
+hash = "09ebf8239c7432f3f6319cd225d0d980d6ad603772edea8f5aff62e479c5c386"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
-hash = "5e2966f2291463b47cc84b759f2332b178923973a46c426c665d231b37622b26"
+hash = "da706551e55e3ef5f7b99d3587483a70a6e224e686b1a3ae932a5fa393a2179c"
 
 [[files]]
 file = "config/ChickenChunks.cfg"
@@ -117,12 +121,24 @@ file = "config/CodeChickenCore.cfg"
 hash = "1889b089c3d2ae796e1d691b566eb311907f54e885c3af581b31c137fa607058"
 
 [[files]]
+file = "config/DimDoors.cfg"
+hash = "5b48d664d43e2f4dd93ecc145c4e1c4acaa87321214bf85a8252bcb4a9403483"
+
+[[files]]
+file = "config/DimDoors_Custom_schematics/How_to_add_dungeons.txt"
+hash = "6afbd4004d4a5a789e0e64f4d081d13de1c44817459adbf1aa21478cab755595"
+
+[[files]]
 file = "config/DummyCore.cfg"
-hash = "beec39eb8575d48d146e661900e82c854cad3240e3cfa1bf6345d4ff96206c6e"
+hash = "6b89bcbf50be0333787082d5984dd950af9d326d068534824a4b651d863c6b0c"
 
 [[files]]
 file = "config/Essential Craft 3.cfg"
 hash = "b5311a95f6d987d5c894fc99f5ca5e4acf0ae9a654975a260b48228d54c6beeb"
+
+[[files]]
+file = "config/Essential Thaumaturgy.cfg"
+hash = "8826c5b467af40c07eb8045aec38ecbbdc3f15031cd4d9172e4c27b8cb994893"
 
 [[files]]
 file = "config/ExtendedPotions.cfg"
@@ -154,7 +170,7 @@ hash = "c4d43b8f19325469aac70dfa57db94fcf8379c240986d0e0ec809a3edf02e20a"
 
 [[files]]
 file = "config/InvTweaks.cfg"
-hash = "dd21915ade8727c83e81e85f93a2a5c2c6b4dfd88cc595aed09e7a436df79ae1"
+hash = "99f748956cbec968126013fddf30ab782e2b12781068518ce928bdc739629f87"
 
 [[files]]
 file = "config/InvTweaksRules.txt"
@@ -169,10 +185,6 @@ file = "config/IronChest.cfg"
 hash = "9656badfc321a24449f39d9fae2d6a4aedc5cc8e1c5309158a8eb161b5caf1dc"
 
 [[files]]
-file = "config/JABBA.cfg"
-hash = "3658ac9f82e66dfbf6efec75caadae317c9d64644c8e3a9965e9b38e423406ad"
-
-[[files]]
 file = "config/LaunchGui.cfg"
 hash = "80f90d5337d0d498e54748830c1f1930f889ca29bcf2302d157940c2c97167c5"
 
@@ -182,11 +194,11 @@ hash = "75f56c6e80597fbec9a422d0508ab62cd7fa4db45936bf2d4299086fd93d2abc"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "1b48cd3b763778ccbd31df23aba7e7799ad9408901a570c5b34a6c180f944e8e"
+hash = "04911c1ded65131cb6e9e8a6c13b78e9e4d45ee821ce48a5f7944ed8687713dd"
 
 [[files]]
 file = "config/NEI/client.cfg"
-hash = "2f652e1e0bd0d7bec988b63c3c484975cfd7ede6ab156fb64b4fe86b3217c6c4"
+hash = "357e2eb1524397788302de960b5042faf4eae63c7cc95c61fbc46e36df586168"
 
 [[files]]
 file = "config/NEI/collapsibleitems.cfg"
@@ -197,6 +209,10 @@ file = "config/NEI/enableautofocus.cfg"
 hash = "d0fc9b1b72706d597703c68718eee519a57db0a7676381414237b21fb1675faa"
 
 [[files]]
+file = "config/NEI/guidfilters.cfg"
+hash = "e3cae81087e2b1b13d0b9e002f7ffd4c1bed4c90b58abc22f7e8f4665ff3a1d3"
+
+[[files]]
 file = "config/NEI/handlerordering.csv"
 hash = "731f3fc488ca52a6a8a5a51adf78ffcbf0adcc499c6369642110120ba3ae5ed3"
 
@@ -205,8 +221,16 @@ file = "config/NEI/heighthackhandlers.cfg"
 hash = "2560cd0bd26aced21edf8cd2612609aefcbdc53e1a09157c326ce5a67aef70ab"
 
 [[files]]
+file = "config/NEI/hiddenhandlers.cfg"
+hash = "057f9263c3620365798f589e124e590cd82e7bd585f0ee3efa6b51ab66eecdbb"
+
+[[files]]
 file = "config/NEI/hiddenhandlers.csv"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/NEI/hiddenitems.cfg"
+hash = "b2d13e2897e1c7a3eed2299980bda49bf4108d6649449aa7dc18c10635dff37f"
 
 [[files]]
 file = "config/NEI/serialhandlers.cfg"
@@ -214,7 +238,7 @@ hash = "fdb82ae74e096148cde7eed130e9180914db698b3364be2fc760d329a2ad340b"
 
 [[files]]
 file = "config/OpenBlocks.cfg"
-hash = "bc9593bdfebf8a15ff0a70908e45d7967df519332d10be68607939641ba2f1b3"
+hash = "25fe85173481179ceb1aca13c60cf046076c89f84af2b9a24311905e66438f2d"
 
 [[files]]
 file = "config/OpenMods.cfg"
@@ -222,7 +246,7 @@ hash = "fcb18f440341353234b5cb3e7f5e1fdb3835da8790466be9218add7d748cac12"
 
 [[files]]
 file = "config/OpenModsLibCore.json"
-hash = "b8a527878e1a077071b832341830fbf8d79a61be1ed3039a23fed60811b058a1"
+hash = "88977c3843e9b36fbf454c22c2e866aeb6685b8d5123840c69c88c66044544a3"
 
 [[files]]
 file = "config/Quadrum/Quadrum.cfg"
@@ -377,12 +401,28 @@ file = "config/Quadrum/item/zombie.json"
 hash = "b881302543d4c8f97c510ac5678c3d1c518f30fca56934166cc42ed44e0890de"
 
 [[files]]
+file = "config/Reika/DragonAPI.cfg"
+hash = "13ef83e5b878b863fabf90eee8d99bb66185792ccc345d51928cecbd81d5ca86"
+
+[[files]]
+file = "config/Reika/DragonAPI_Aux_Retrogen.cfg"
+hash = "5258440460ded70f099861c1d4f9b79979837b78b78d753bd70cbd7c3d2e043f"
+
+[[files]]
+file = "config/Reika/GeoStrata.cfg"
+hash = "10fee41e25ffd5d37bdcf1d52ef703d1b37685cad1ef037387f3002a49c91158"
+
+[[files]]
+file = "config/Reika/GeoStrataOreVeinConfig.lua"
+hash = "b1594d396fd3e5ba6a9d60e934ad6abeae105286477689294a5a12394d1ab2cb"
+
+[[files]]
 file = "config/Sanguimancy.cfg"
-hash = "a92b0e26aa8bb33fd645c229115c4e639d0c768653a709c9ca4fc416e03b7113"
+hash = "e91c32d54ccb914ca918f1d45e6827e9bc40129fadacfb7cf3ec1445e9529373"
 
 [[files]]
 file = "config/StorageDrawers.cfg"
-hash = "e1ee7596a19224b3acacc68d7278be3dbe607e7982da33e26190c0819e001e27"
+hash = "b67595eb4312bbb21c7bf1caac5637e2a84385e0ab8e952b79fdf43c972ac72a"
 
 [[files]]
 file = "config/Tails.cfg"
@@ -413,6 +453,10 @@ file = "config/TravellersGear_inv.cfg"
 hash = "30c1fe88e4a26b82f2d114fd4e2e117fd04d4041de65c7e5e9ee5c134bef4d52"
 
 [[files]]
+file = "config/UpdateCheckLib.cfg"
+hash = "0d805af945a0c80885a35b755f8c11bccbbddd6c7006f86cccd6043834b0f8fb"
+
+[[files]]
 file = "config/Waila.cfg"
 hash = "4206a838121ec171399c7a8384cddec5dbf5ad94c1d0f4bcf087742df2feda80"
 
@@ -421,32 +465,20 @@ file = "config/WitchingGadgets.cfg"
 hash = "052c8bb7c9f5f59f03ad8d78d675b331fced326f77a989573d6bba63b42d5c4d"
 
 [[files]]
-file = "config/YAMPST.nbt"
-hash = "413a2459e1e60591403af78d869e933b6e7a6304b06f535c3e83540a00bbf0a5"
+file = "config/adventurersamulets.cfg"
+hash = "fb4e95ca170dd4dddd8fa88d48137242aa8f8ea7640aa38851a3c6f092dcc20c"
 
 [[files]]
 file = "config/aobd.cfg"
 hash = "1480a16c73b19af207f210ffe525c8707976b539f07380a50208bc569afaf29d"
 
 [[files]]
-file = "config/atg/atg.cfg"
-hash = "6a343bd01b063b9c645b3cefc4f81bb318cbe2a308813fe2e258ef7e923f8ce5"
-
-[[files]]
-file = "config/atg/biome_modifiers.cfg"
-hash = "5ba9e1369e2cf9378fa9e53830718e17459de07b066f574b79d5e355cb402183"
-
-[[files]]
-file = "config/atg/generator.cfg"
-hash = "2a42fda6d8e40a3ed69b7eb7c0df64ea063b2cdc45886097fd71ba0b1bd42066"
-
-[[files]]
-file = "config/aura.cfg"
-hash = "5179eeef8e84a7d6179acce3b7a59446d77ae747442f95f211c65190dc665045"
+file = "config/books/enchiridion.cfg"
+hash = "cfa77ed31cc7bafae90b5529cd1153d45102b0d105d3f249d55552b6a34c080d"
 
 [[files]]
 file = "config/chisel.cfg"
-hash = "ae1a25828ac5e3ccd708c61ee232568fb36b46d22bf7a7cf4d9c197e0add7f93"
+hash = "3e8509b8a38f7b8a746445a0799652ef0ab36bacd47733ece321f834fc0dda7e"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
@@ -454,7 +486,7 @@ hash = "a07b96a28a174b0199992110be8938e5d23c7b949b3a1e1bd664c24eb11caf0a"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "5695ae24bae88273be82987960140ed0b613cbf1d28528f741b8465bdc78e6df"
+hash = "c924c729f359b0bd3a7896642b7ecc1ba19b29551464adffa870460b4ce8bdb6"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -473,12 +505,24 @@ file = "config/dcMainMenu/help.txt"
 hash = "19ab6dd1c432f7d27e32f7c5aa7ee05babce6e3d3e3ced4e8f78d690bb558ac0"
 
 [[files]]
+file = "config/denseores.cfg"
+hash = "4c989de1bca4de99a6f20b1310e63211343fb70916bf1d67ec302fc0d235fbe9"
+
+[[files]]
 file = "config/dualhotbar.cfg"
 hash = "b4be2629292d966478abc4e75c373a7d1caee40f9c784fdd907e2c5c19fdaad0"
 
 [[files]]
+file = "config/enchiridion/enchiridion2.cfg"
+hash = "3b7a56f94e9e9b0d4d36afab084be26d7eec71c773fe1ed336fbdf0dca960ddd"
+
+[[files]]
+file = "config/enchiridion/library_books.json"
+hash = "8bbe0066924c52a0c22d0c5aac0c8cca7cd51fa3c7c7841cb31bc718a10fd26e"
+
+[[files]]
 file = "config/fastcraft.ini"
-hash = "1f4104149a4f99ad2b78676868856a9a2afd9b4f69d04ba04124436703cc329d"
+hash = "87492e6f5e07e36d3421fda7cf3b637279fb5c810d35e6b4ee2351f692860074"
 
 [[files]]
 file = "config/fastleafdecay.cfg"
@@ -490,7 +534,7 @@ hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
-hash = "b087cd110f6de99f89a3cecd6351611360bcad69f8f4995fe6faace2f70f497c"
+hash = "90e90fac91e3dfebddf08e623210741afd0e036691b41f36568ad1399036097b"
 
 [[files]]
 file = "config/foxlib.cfg"
@@ -501,24 +545,24 @@ file = "config/gadomancy.cfg"
 hash = "4159879d1f1c1c138418704c6fb0ba9ccc59e1305722843a4b1abd21ef9b7824"
 
 [[files]]
-file = "config/hqm/QuestFiles/Ars Magica.json"
-hash = "5fc114b7f4b5b9d067d88800a5e31fff9645e4fb1bbc4ff4796caa593a90fe6c"
+file = "config/hqm/QuestFiles/Adventurer's Amulets.json"
+hash = "be8e00a51a5e64812ea874f42c5fdb95a4391a33c7b4cda52872186c1f59021c"
 
 [[files]]
-file = "config/hqm/QuestFiles/Aura Cascade.json"
-hash = "763d50cc9388366b8e4164d6e28849e7b5776dce0aef47093e508c3796fc18e5"
+file = "config/hqm/QuestFiles/Ars Magica.json"
+hash = "55edd0cb08f6d0f63c5743b43030a830e82f6c1876db437071b6c0af3a66d1ae"
 
 [[files]]
 file = "config/hqm/QuestFiles/Blood Magic.json"
-hash = "e8589b2eab082feeed4d327893593e0ed14593501df09cc4b8c407204db6ddd3"
+hash = "4f1f6571d34496b9e2e1d1e310d329ddea22a944d45f1146044137c1796b5aec"
 
 [[files]]
 file = "config/hqm/QuestFiles/Botania.json"
-hash = "482a98a5af3a2b56dbeb7d46043e6cb6aed15570c0156650888deacf4f9f51ef"
+hash = "c449461da33cf5d7e64de4e81f5839f46e292a431459e493bf303c9b7fa8abf5"
 
 [[files]]
 file = "config/hqm/QuestFiles/Information & Challenges.json"
-hash = "a5aa3f3e19e42ae8de46f16bbe654c398b27f6820c43bf3fd9ddf86fd33a9266"
+hash = "324cd9442ab980b2fe9a409f6e572ef148fce988a2f533c268e9bea86843358b"
 
 [[files]]
 file = "config/hqm/QuestFiles/Mystcraft.json"
@@ -526,11 +570,11 @@ hash = "f9fb89252edf48f9b2bea6553d449f88bbbe82808d1c3496df99dbe572974c8c"
 
 [[files]]
 file = "config/hqm/QuestFiles/Thaumcraft.json"
-hash = "a753408223cbbc7d1d9d72f223d6cfe1ab0e193a62dbaf987fdca02d2849fb2c"
+hash = "2c14c1cd5bf020b4036a116be4a9d50924fe697cec30491ff173bd8d714fa40d"
 
 [[files]]
 file = "config/hqm/QuestFiles/Witchery.json"
-hash = "b08fe620f8e64223c6915a6261d87b549027ef838dc20503492eecffc6cfbac1"
+hash = "a748020df2fdae063d704fc73a8dd23dfbcddf8b446463b37435721a8c50944e"
 
 [[files]]
 file = "config/hqm/QuestFiles/reputations.json"
@@ -539,6 +583,10 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 [[files]]
 file = "config/hqm/editmode.cfg"
 hash = "b81d767a56f770ddf3dc1d4da42ae959226a008ee399744295a26e0b01749114"
+
+[[files]]
+file = "config/hqm/editmode.cfg.bak"
+hash = "777ff5b1018e023b38267a5f7978d7e1fcc7c46947dfcce5c582c349e9a0b18d"
 
 [[files]]
 file = "config/hqm/front.png"
@@ -550,11 +598,11 @@ hash = "6aef330419916329bec2363bc1b239183c4307318aeb92c7262c5a443de2f0da"
 
 [[files]]
 file = "config/hqm/quests.hqm"
-hash = "f636de2922cf418f691c397830c0b2662852a27aa83728899ff9c0bae63d889e"
+hash = "ee6f8fd9fec1ff214e4848329923eae02d2a2ded4c4895cad5f711505f0a43fb"
 
 [[files]]
 file = "config/hqm/quests.hqm-backup"
-hash = "12133fc0f5127047dd32713682716a85a51fd645f53da8eabd790c72f4fb47c3"
+hash = "7b161ea0b15d6588bfc14e45bf85b9f9afad0cc376c87d3450a4d2bb5957d72f"
 
 [[files]]
 file = "config/iChunUtil.cfg"
@@ -581,22 +629,6 @@ file = "config/mixingasm/transformer_inclusion_list_default.txt"
 hash = "afab0a0de67fb02ffdaa0c7815119284a48a88bf510d1c4a1397fde36da6c28e"
 
 [[files]]
-file = "config/mystcraft/balance.cfg"
-hash = "56848527b95f35ae64b86664e8b6c35f84da3f64258060802c90fe8539a66828"
-
-[[files]]
-file = "config/mystcraft/core.cfg"
-hash = "aa923570d19e0c887cfb41b047c68a7e73d048c8da3e06894f8060ca6f23ddc2"
-
-[[files]]
-file = "config/mystcraft/instabilities.cfg"
-hash = "076d5da0399d0b3cf5c4a2f0f1c15e1257aa5517a71572796f6929e11ac86c8d"
-
-[[files]]
-file = "config/mystcraft/symbols.cfg"
-hash = "b6fa96dc10a906f4afab065a677f4ed34c38693e74328e8ab9a762209a3a87c6"
-
-[[files]]
 file = "config/naturescompass.cfg"
 hash = "85ed40ac83408b1e0bf96a53488ff101192c602fb9102f77a397f227e438c229"
 
@@ -605,16 +637,24 @@ file = "config/roguelike_dungeons/roguelike.cfg"
 hash = "e1de18ae4b61be9bd335abc9d6e1e0dc5cf9de7699cc00eee291813956145565"
 
 [[files]]
-file = "config/server.properties"
-hash = "8a04f859a004241a0607a756ee155c7ccd3db9a1e898bcd3ad1527c2e21dd2b3"
+file = "config/satchels.cfg"
+hash = "55014e178571ce208ba1069ae7190573b68e9b7858d71d640813033655c97022"
 
 [[files]]
 file = "config/skinport.cfg"
 hash = "e1974f681b2d753add31371f6d30d7ce7e221eda0539dbe36c68c5bce292d794"
 
 [[files]]
+file = "config/sloppydeploader.cfg"
+hash = "8d8cc9378c312860ed8028427cb4dea4b68ad43d5e2b4e1ffd4e06e3f4609077"
+
+[[files]]
 file = "config/splash.properties"
 hash = "cc578b923c5ef8fb8748008eebb65956d587aa3c88a3b7c250ba7e1502eeeddc"
+
+[[files]]
+file = "config/tc4tweak.cfg"
+hash = "241d15de52aafe803916a5a9c7318583448e63148616e913d50f9bfff3747516"
 
 [[files]]
 file = "config/tcnodetracker.cfg"
@@ -642,7 +682,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "9741b368a2609b682494a47e81132918a4a453463f6e77e0a08db758b96d9ad2"
+hash = "cd1a25627865e3d7885a3abc605f67c327b1cc956aaf0e86bddbf86d512f58ca"
+
+[[files]]
+file = "config/xaerominimap.txt.bak"
+hash = "2f8af2f15a75af213afe60337074a66b9a2340addbadaab8d20d7e59d0cf8221"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2035,7 +2079,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "2d8979b5daa642fbc61126aa3dd68387e6e8cbaef875a8aa9d9a470b7f8fe698"
+hash = "324ddde2478e75da52c6f0b90a3af263351152768fded099ff6f62dd0c12114d"
 metafile = true
 
 [[files]]
@@ -2215,7 +2259,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "f63f1841a71c4bd850d526c208a4ea0909ee20c65a1a9d3c2bf928a7f6ca9022"
+hash = "95141fceb18686db85f3b7e1160cb681f383667ee2ea7b3ba922e7a036dd9ef3"
 metafile = true
 
 [[files]]
@@ -2250,7 +2294,7 @@ metafile = true
 
 [[files]]
 file = "mods/tails.pw.toml"
-hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
+hash = "d5167bb3deeb22443d9273da8131dc149be07bfbf8d1d63f23728326f2c1470a"
 metafile = true
 
 [[files]]
@@ -2353,10 +2397,6 @@ file = "scripts/ArsOrbs.zs"
 hash = "5251e65bfe33738d3a5376aacbbff3ae211d1b8dac7aa4ebe52764fdb3a11ee9"
 
 [[files]]
-file = "scripts/Aura Cascade OreDict.zs"
-hash = "de25ffeb5afa0a1f68f721e54d5421f2155193aab93b7e79c2c52b2493b65f0f"
-
-[[files]]
 file = "scripts/Blood magic.zs"
 hash = "82e74058ca629cd75450d1b104853546b4e302e8efeeafad4e2b8b21c82542d1"
 
@@ -2381,9 +2421,13 @@ file = "scripts/Thaumcraft Ore Dict.zs"
 hash = "04eb963d99c62467490784e974544ea603d027027357d5d1029295692f86fa39"
 
 [[files]]
-file = "scripts/witchery ore dict.zs"
-hash = "d5e6d57fc63cc742692ff070c4093eed051654e5a314d5058316bd58eae1e614"
+file = "scripts/dimdoors.zs"
+hash = "c31976b5546f0f420dd56ad1fe00937315df583e90c965428139e40601fede42"
 
 [[files]]
-file = "servers.dat"
-hash = "60a729ce261283326358da12efd69c69d13215d472e001fc83f7677f1ba64f3c"
+file = "scripts/storagedrawers.zs"
+hash = "f6c99a87aa3ba81c9d04760c7ec7bf027d8a807120ecc59e47f0cb44311a1d18"
+
+[[files]]
+file = "scripts/witchery ore dict.zs"
+hash = "d5e6d57fc63cc742692ff070c4093eed051654e5a314d5058316bd58eae1e614"

@@ -27,7 +27,7 @@
     },
     {
       "name": "Feedback",
-      "description": "Find an incorrect quest? Want to see more information on a modded item or mechanic? Did we not clarify enough? Provide feedback through the FTB forums or feel free to message DrasticDemise and Brizzle on the FTB forums, Total_Meltdown on the FTB Subreddit or through the Simply-Magic github repository. ",
+      "description": "Find an incorrect quest? Want to see more information on a modded item or mechanic? Did we not clarify enough? Provide feedback through Discord or through Egassy\u0027s Modpacks repository.",
       "x": 18,
       "y": 63,
       "icon": {
@@ -74,7 +74,7 @@
     },
     {
       "name": "Credits",
-      "description": "This pack was co-developed by DrasticDemise and Brizzle. This was created with inspiration to fill the niche that Mage Quest no longer fills. This pack will be supported until the end of 1.7.10 and will then be ported over to 1.8.x when available. All credit goes to you, the person reading this quest book. You rock! Happy Crafting!",
+      "description": "The original Simply Magic pack was co-developed by DrasticDemise and Brizzle, and all credit goes to them for the original pack. The remainder of Shrimply Magic was made soley by Egassy.",
       "x": 19,
       "y": 140,
       "icon": {
@@ -84,7 +84,7 @@
       "tasks": [
         {
           "type": "CONSUME",
-          "longDescription": "Thanks for your input, Zieg777! Thanks for your Aura Cascade line, Fortanono!",
+          "longDescription": "Thanks for your input, Zieg777! Thanks for your mod and script additions TDarkShadow!",
           "items": [
             {
               "item": {
@@ -528,8 +528,8 @@
     {
       "name": "Many Potions",
       "description": "Many crafting tables. Suggested by Zieg777",
-      "x": 263,
-      "y": 155,
+      "x": 253,
+      "y": 174,
       "icon": {
         "id": "arsmagica2:manaPotionBundle",
         "damage": 1027
@@ -584,39 +584,10 @@
       ]
     },
     {
-      "name": "Bright Gems",
-      "description": "Arcane and all!",
-      "x": 252,
-      "y": 175,
-      "icon": {
-        "id": "aura:gemGreen"
-      },
-      "tasks": [
-        {
-          "type": "CONSUME",
-          "items": [
-            {
-              "item": {
-                "id": "aura:gemGreen"
-              },
-              "required": 500,
-              "precision": "ORE_DICTIONARY"
-            }
-          ]
-        }
-      ],
-      "reward": [
-        {
-          "id": "HardcoreQuesting:bags",
-          "damage": 4
-        }
-      ]
-    },
-    {
       "name": "Obtaining Obsidian",
       "description": "Since diamond tools only have a durability of one, you may be wondering how you are going to obtain obsidian. It just so happens that Thaumium and Manasteel pickaxes can harvest obsidian at a relatively normal rate. ",
-      "x": 56,
-      "y": 24,
+      "x": 55,
+      "y": 43,
       "icon": {
         "id": "minecraft:obsidian"
       },
@@ -631,6 +602,405 @@
               "precision": "FUZZY"
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "Mobile Storage Space",
+      "description": "Need extra inventory space? Just check Satchels!",
+      "x": 55,
+      "y": 157,
+      "icon": {
+        "id": "satchels:satchel"
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:planks"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crystal Essence",
+      "description": "That is a lot of wasted essence!",
+      "x": 230,
+      "y": 174,
+      "icon": {
+        "id": "Thaumcraft:ItemCrystalEssence"
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "Thaumcraft:ItemCrystalEssence"
+              },
+              "required": 20000,
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "More Mana Metal",
+      "description": "Wowzers.",
+      "x": 290,
+      "y": 58,
+      "icon": {
+        "id": "Botania:manaResource",
+        "damage": 7
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "Botania:manaResource",
+                "damage": 7
+              },
+              "required": 10000
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4
+        }
+      ]
+    },
+    {
+      "name": "Hungry Hungry Node?",
+      "description": "If you are unsure how to handle hungry nodes, I suggest you do a quick google.",
+      "x": 238,
+      "y": 108,
+      "icon": {
+        "id": "minecraft:wooden_sword"
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:wooden_sword"
+              },
+              "required": 5000
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "Thaumcraft:BlockJarNodeItem",
+          "nbt": "{nodetype:4,Aspects:[0:{amount:1,key:\"terra\"},1:{amount:1,key:\"aer\"},2:{amount:1,key:\"aqua\"},3:{amount:1,key:\"ignis\"},4:{amount:1,key:\"ordo\"},5:{amount:1,key:\"perditio\"}],nodemod:0,nodeid:\"0:-312:64:54\"}"
+        }
+      ]
+    },
+    {
+      "name": "Rings of Power",
+      "description": "Obtain all 8 Elemental Rings, and upgrade them to Tier 5",
+      "x": 279,
+      "y": 107,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_basicRing"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This doesn\u0027t actually require you to get them to Tier 5, because HQM doesn\u0027t seem to allow that. Honour system?",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_windmakersRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_infernalRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_aquaticRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_floralRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_transposingRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_frostbittenRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_earthboundRing",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_fairyRing",
+                "nbt": "{tier:1}"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:diamond_block",
+          "amount": 8
+        },
+        {
+          "id": "minecraft:emerald_block",
+          "amount": 8
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Belts of Deltora",
+      "description": "Obtain all 8 Elemental Belts, and upgrade them to Tier 5",
+      "x": 290,
+      "y": 127,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_basicBelt"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This doesn\u0027t actually require you to get them to Tier 5, because HQM doesn\u0027t seem to allow that. Honour system?",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_windmakersBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_infernalBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_aquaticBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_floralBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_transposingBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_frostbittenBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_earthboundBelt",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_fairyBelt",
+                "nbt": "{tier:5}"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:diamond_block",
+          "amount": 8
+        },
+        {
+          "id": "minecraft:emerald_block",
+          "amount": 8
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Adventurer\u0027s Amulets",
+      "description": "Obtain all 8 Elemental Pendants, and upgrade them to Tier 5",
+      "x": 267,
+      "y": 127,
+      "icon": {
+        "id": "adventurersamulets:AdventurersAmulets_basicPendant"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This doesn\u0027t actually require you to get them to Tier 5, because HQM doesn\u0027t seem to allow that. Honour system?",
+          "items": [
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_windmakersPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_infernalPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_aquaticPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_floralPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_transposingPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_frostbittenPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_earthboundPendant",
+                "nbt": "{tier:5}"
+              }
+            },
+            {
+              "item": {
+                "id": "adventurersamulets:AdventurersAmulets_fairyPendant",
+                "nbt": "{tier:5}"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 4
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "minecraft:diamond_block",
+          "amount": 8
+        },
+        {
+          "id": "minecraft:emerald_block",
+          "amount": 8
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Chunkloading",
+      "description": "To load a chunk, you can use a Spot Loader. They are hidden from NEI because ??? Minetweaker is uncooperative.",
+      "x": 57,
+      "y": 104,
+      "icon": {
+        "id": "ChickenChunks:chickenChunkLoader",
+        "damage": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME",
+          "description": "Have one on the house",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:planks",
+                "damage": 2
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "ChickenChunks:chickenChunkLoader",
+          "damage": 1
         }
       ]
     }

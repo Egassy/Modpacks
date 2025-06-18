@@ -35,7 +35,6 @@ enchantments {
 general {
     # Disable this to prevent spell effects on creative players
     B:Allow_Creative_Targets=true
-
     # Arcane Compendium creation requires Witchwood Trees instead of Ethereum Lakes
     B:AlternativeStart=false
 

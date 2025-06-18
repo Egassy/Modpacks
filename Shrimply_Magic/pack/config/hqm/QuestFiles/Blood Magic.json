@@ -19,7 +19,8 @@
             {
               "item": {
                 "id": "AWWayofTime:Altar"
-              }
+              },
+              "precision": "FUZZY"
             },
             {
               "item": {
@@ -568,7 +569,7 @@
     },
     {
       "name": "Documentation",
-      "description": "Blood magic has its own form of documentation! You can craft the following books if you wish to follow along with the quest line.",
+      "description": "Blood magic has its own form of documentation! You can craft the following books if you wish to follow along with the quest line. Some players may notice that text is spewing off the page. This is a mod-side bug. Sorry!",
       "x": 21,
       "y": 183,
       "icon": {
@@ -583,14 +584,16 @@
               "item": {
                 "id": "guideapi:ItemGuideBook",
                 "nbt": "{CreativeBook:0b,G-API_Category_Page:0,G-API_Category:0,G-API_Entry_Page:0}"
-              }
+              },
+              "precision": "FUZZY"
             },
             {
               "item": {
                 "id": "guideapi:ItemGuideBook",
                 "damage": 1,
                 "nbt": "{CreativeBook:0b}"
-              }
+              },
+              "precision": "FUZZY"
             }
           ]
         }
