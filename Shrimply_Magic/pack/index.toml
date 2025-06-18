@@ -186,7 +186,7 @@ hash = "9656badfc321a24449f39d9fae2d6a4aedc5cc8e1c5309158a8eb161b5caf1dc"
 
 [[files]]
 file = "config/LaunchGui.cfg"
-hash = "80f90d5337d0d498e54748830c1f1930f889ca29bcf2302d157940c2c97167c5"
+hash = "cc4a392c15798cfa856a5673ab05d27dae73cf3a2e349eae921ae542c628df0a"
 
 [[files]]
 file = "config/Morpheus.cfg"
@@ -631,6 +631,10 @@ hash = "afab0a0de67fb02ffdaa0c7815119284a48a88bf510d1c4a1397fde36da6c28e"
 [[files]]
 file = "config/naturescompass.cfg"
 hash = "85ed40ac83408b1e0bf96a53488ff101192c602fb9102f77a397f227e438c229"
+
+[[files]]
+file = "config/qCraft.cfg"
+hash = "d483c8e7671b0ff44600e0dea266f82675c139fe2606c4b31a1fdd5dd7683789"
 
 [[files]]
 file = "config/roguelike_dungeons/roguelike.cfg"
@@ -2250,6 +2254,11 @@ metafile = true
 [[files]]
 file = "mods/openmodslib.pw.toml"
 hash = "88228e57a4fa45d05005fc05df0902ae603f70b348557deb2a2bea9e3549b74d"
+metafile = true
+
+[[files]]
+file = "mods/qcraft.pw.toml"
+hash = "80a0d07d911ceb7d8df77ba82f17f669a58e6a3d6716e4e10cf3c47c031829f5"
 metafile = true
 
 [[files]]
