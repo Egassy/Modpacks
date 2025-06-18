@@ -1,13 +1,13 @@
 name = "Guide-API"
-filename = "Guide-API-1.7.10-1.0.1-29.jar"
+filename = "Guide-API-1.7.10-1.0.1-20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "88f963214f81ec528cead48dcc11144f22f165ab"
+hash = "fc2145c7d40cca8cfb4fb5376303a72a524fbfeb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2287184
+file-id = 2241379
 project-id = 228832

@@ -1936,7 +1936,7 @@ metafile = true
 
 [[files]]
 file = "mods/adventurers-amulets.pw.toml"
-hash = "d4ae7167a551d3a48bb1dd906dc037f6c607ed731b0361c85700fbd654a6d000"
+hash = "d3fd9c1e2478692b292e20a5aacc20f95fb9b0f5f9e759084d140d1e3bb4c4a0"
 metafile = true
 
 [[files]]
@@ -2059,6 +2059,16 @@ hash = "5312b6c468b4fb99b5cbe9b51be5ec92d40b899fdbafe4b7c75e33db65217765"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "13e8feb4d3bf800aab46521a443e50e05d353a2b34ad4cf381fadbdac526d280"
+metafile = true
+
+[[files]]
+file = "mods/enchiridion.pw.toml"
+hash = "8799069b3d62d6c0f7707d430f7b4c6848a6d8b1c3b26eee69ef39d3a7d5fded"
+metafile = true
+
+[[files]]
 file = "mods/essential-thaumaturgy.pw.toml"
 hash = "20bf2d3e5eedc285a50c4789e467bf4a86c749020dabeadd15d9f9c054df3d43"
 metafile = true
@@ -2110,7 +2120,7 @@ metafile = true
 
 [[files]]
 file = "mods/guide-api.pw.toml"
-hash = "c9079e9e6bddea635fad892ec891e2f08ce56d65e797a82e0432a096a1a885a7"
+hash = "a04f87018e8805bb30cfcd0d9e21f986d1fa26f9d02d949e89584d192a1843f7"
 metafile = true
 
 [[files]]
@@ -2159,11 +2169,6 @@ hash = "7b3e9491bb7ab4c04e000ba5d3699bcee664426b88caecd6b9ff89f38425c433"
 metafile = true
 
 [[files]]
-file = "mods/lookingglass.pw.toml"
-hash = "8f8d9cc9a83c06f28622ea9d238674afbd8b92b1d6ed11d6c2701d88ba8dff96"
-metafile = true
-
-[[files]]
 file = "mods/minetweaker3.pw.toml"
 hash = "2cae8c5eefd42c3a845794a5252252ddc3e48dee6b4cbba6927c2a4008239770"
 metafile = true
@@ -2181,11 +2186,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
-metafile = true
-
-[[files]]
-file = "mods/mystcraft.pw.toml"
-hash = "264df95aaebb4fe21395493224d9d8388199b8bda46f911bf8110be770140fe7"
 metafile = true
 
 [[files]]
