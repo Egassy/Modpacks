@@ -1,0 +1,592 @@
+{
+  "name": "qCraft",
+  "description": "qCraft is about quantum \"technology\", and using it for... things. But frankly, we all know it is magic of the highest order. ",
+  "quests": [
+    {
+      "name": "Quantum Dust",
+      "description": "Quantum Dust can be found underground as an ore, dropping at roughly the same rate as redstone dust. It is has no use by itself, but is a component in every qCraft recipe.",
+      "x": 158,
+      "y": 95,
+      "icon": {
+        "id": "qCraft:dust"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:dust"
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:essence",
+          "amount": 4
+        },
+        {
+          "id": "qCraft:essence",
+          "damage": 1,
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Observer-Dependent Blocks",
+      "description": "Observer-Dependent blocks change their state depending on what direction they are first seen from, resetting after a few seconds unobserved. They can become any \"standard\" block, and assume it\u0027s properties, including hardness, drops, light emission, transparency, redstone emission and gravity.",
+      "x": 101,
+      "y": 95,
+      "icon": {
+        "id": "qCraft:essence",
+        "damage": 1
+      },
+      "prerequisites": [
+        "Quantum Dust"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To make an OBD, place an Essence of Observation in the center of the crafting grid, and put blocks around it. At least one block is required, other empty spaces will become air.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:essence",
+                "damage": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "The blocks which dictate what the ODB becomes are defined as follows: Top Left \u003d Up, Top \u003d North, Left \u003d West, Right \u003d East, Bottom Left \u003d Down and Bottom \u003d South.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:4,s4:22,s5:33,s0:0,s1:0,s2:0}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:dust",
+          "amount": 8
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2
+        }
+      ]
+    },
+    {
+      "name": "Quantum Blocks",
+      "description": "Quantum Blocks change their state depending on what direction they are first seen from, resetting after a few seconds unobserved. However, this depends on axis, rather than side. The up-down, north-south and east-west sides are linked, and when observed from one of those sides the Quantum Block can become either of the two blocks those sides were set to. They can become any \"standard\" block, and assume it\u0027s properties, including hardness, drops, light emission, transparency, redstone emission and gravity.",
+      "x": 212,
+      "y": 95,
+      "icon": {
+        "id": "qCraft:essence"
+      },
+      "prerequisites": [
+        "Quantum Dust"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To make an QB, place an Essence of Superposition in the center of the crafting grid, and put blocks around it. At least one block is required, other empty spaces will become air.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:essence"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "The blocks which dictate what the QB becomes are defined as follows: Top/Bottom Left \u003d Up/Down, Top/Bottom \u003d North/South and Left/Right \u003d West/East",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "damage": 1,
+                "nbt": "{s3:22,s4:57,s5:34,s0:31,s1:30,s2:1}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:dust",
+          "amount": 8
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2
+        }
+      ]
+    },
+    {
+      "name": "Entangled Blocks",
+      "description": "Entangled Blocks are made from either Observer-Dependent or Quantum Blocks, linked with an Essence of Entanglement. They function exactly the same as the blocks they were made from, with the additional caveat of if *one* Entangled Block is observed, all the other Entangled Blocks in its group will transform at the same moment regardless of where they are.",
+      "x": 158,
+      "y": 35,
+      "icon": {
+        "id": "qCraft:essence",
+        "damage": 2
+      },
+      "prerequisites": [
+        "Observer-Dependent Blocks",
+        "Quantum Blocks"
+      ],
+      "trigger": "ANTI_TRIGGER",
+      "parentrequirement": 1,
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:essence",
+                "damage": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "To make an EB, just put two identical ODB or QBs on the left and right of an Essence of Entanglement. They *must* have been created with the same crafting recipe. Alternatively, to add another EB to a group, use replace one of those blocks with an EB - again, the original ODB or QB must have been made with the same recipe as the one being used to craft, and the one that makes up the EB in the crafting grid.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:28,s4:35,s5:0,e:2,s0:32,s1:33,s2:4}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:dust",
+          "amount": 16
+        },
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 2,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Quantum Goggles",
+      "description": "Quantum Goggles block observation from occuring, allowing you to see Quantum and Observer-Dependent Blocks in their \"true form\". This is helpful for building with them, as it is difficult to build with something that might become air if you look at it wrong. Others will *not* be able to observe these blocks, and they will be solid.",
+      "x": 128,
+      "y": 145,
+      "icon": {
+        "id": "qCraft:goggles"
+      },
+      "prerequisites": [
+        "Quantum Dust"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:goggles"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Anti-Observation Goggles",
+      "description": "Anti-Observation Goggles freeze observations, keeping any observed blocks in the same state that they were in when the goggles were donned, while still allowing others to observe and change blocks. Superpositioned blocks under this effect are not solid.",
+      "x": 84,
+      "y": 68,
+      "icon": {
+        "id": "qCraft:goggles",
+        "damage": 1
+      },
+      "prerequisites": [
+        "Observer-Dependent Blocks"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:goggles",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Automatic Observers",
+      "description": "Automatic Observers observe an adjecent Quantum or Observer-Dependent Block from the face they are \"looking\" at (the wide end of the cone) when given a redstone signal. This can be used for various things, such as wireless redstone or a disappearing wall.",
+      "x": 83,
+      "y": 125,
+      "icon": {
+        "id": "qCraft:quantumlogic"
+      },
+      "prerequisites": [
+        "Observer-Dependent Blocks"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:quantumlogic"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 1
+        },
+        {
+          "id": "minecraft:redstone",
+          "amount": 18
+        }
+      ]
+    },
+    {
+      "name": "Quantum Computers: Quantization",
+      "description": "Quantum Computers have several functions. The simplest of these is quantization - storing a structure of blocks in the QC to rematerialize later, potentially in a different area. ",
+      "x": 183,
+      "y": 139,
+      "bigicon": true,
+      "icon": {
+        "id": "qCraft:quantumcomputer"
+      },
+      "prerequisites": [
+        "Quantum Dust",
+        "Observer-Dependent Blocks"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "NSEW",
+          "longDescription": "To build a (De)Quantization Matrix, 4 ODBs must be made, each resolving to obsidian in every direction but one of the cardinals, where it resolves to a gold block. These are called Anchor ODBs, and must be placed so that they are all \"pointing\" (the face that resolves to gold) at a single center block. These ODBs define the X and Z edges of the Matrix.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:31,s4:21,s5:21,s0:21,s1:21,s2:21}"
+              }
+            },
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:21,s4:21,s5:21,s0:21,s1:21,s2:31}"
+              }
+            },
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:21,s4:31,s5:21,s0:21,s1:21,s2:21}"
+              }
+            },
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:21,s4:21,s5:31,s0:21,s1:21,s2:21}"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Height",
+          "longDescription": "On top of those 4 ODBs, obsidian pillars must be constructed, and capped with glass. The height of these pillars (not including the glass) defines the Y edge of the Matrix.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:obsidian"
+              },
+              "required": 20
+            },
+            {
+              "item": {
+                "id": "minecraft:glass"
+              },
+              "required": 4
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Quantization",
+          "longDescription": "Finally, at the crosspoints of all 4 pillars, at the same level as the Anchor ODBs, a quantum computer must be placed, and ice put on top of it. Them simply open it up and energize. The interior of the Matrix will be stored in the computer, which can be mined with a pickaxe and moved or stored. If the Matrix is recreated in a separate location, the contents of the computer may be dequantized elsewhere.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:quantumcomputer"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:ice"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:dust",
+          "amount": 8
+        },
+        {
+          "id": "qCraft:essence",
+          "damage": 1,
+          "amount": 2
+        },
+        {
+          "id": "qCraft:essence",
+          "damage": 2
+        }
+      ]
+    },
+    {
+      "name": "Quantum Computers: Teleporting",
+      "description": "Quantum Computers can also be used to swap two areas entirely, bringing the contents of one Matrix to another.",
+      "x": 217,
+      "y": 144,
+      "icon": {
+        "id": "qCraft:quantumcomputer"
+      },
+      "prerequisites": [
+        "Quantum Computers: Quantization",
+        "Entangled Blocks"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Similar to quantizing/dequantizing, a Matrix must be constructed out of Anchor ODBs, obsidian and glass. However, another, identical Matrix must be constructed elsewhere as well.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:31,s4:21,s5:21,s0:21,s1:21,s2:21}"
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:21,s4:21,s5:21,s0:21,s1:21,s2:31}"
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:21,s4:31,s5:21,s0:21,s1:21,s2:21}"
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:21,s4:21,s5:31,s0:21,s1:21,s2:21}"
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "minecraft:obsidian"
+              },
+              "required": 40
+            },
+            {
+              "item": {
+                "id": "minecraft:glass"
+              },
+              "required": 8
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "2 Entangled QCs are required as well. They are crafted in the same manner as other Entangled blocks, with 2 Quantum Computers on either side of a Essence of Entanglement. After the Entangled QCs are placed down in the center of their Matrices, and ice is put on top of them, energizing one will swap the contents of the Matrix with the other.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:quantumcomputer",
+                "nbt": "{e:1}"
+              },
+              "required": 2,
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "minecraft:ice"
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:dust",
+          "amount": 16
+        },
+        {
+          "id": "qCraft:essence",
+          "damage": 1,
+          "amount": 8
+        },
+        {
+          "id": "qCraft:essence",
+          "damage": 2
+        }
+      ]
+    },
+    {
+      "name": "Quantum Computers: Portals",
+      "description": "Quantum Computers can be used to make portals, which transport players through them to other portals. Although these portals must be in the same dimensional with the same alignment, they can *also* be on a separate server. Doing so even moves your items!",
+      "x": 199,
+      "y": 172,
+      "icon": {
+        "id": "qCraft:quantumcomputer"
+      },
+      "prerequisites": [
+        "Quantum Computers: Quantization"
+      ],
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "8 \"Portal Anchor\" ODBs must be made. These are similar to the regular Anchor ODBs, but resolve to gold on two opposing faces - either north/south or east/west. All other directions must resolve to obsidian. The quest requires north/south facing ODBs.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:qblock",
+                "nbt": "{s3:31,s4:21,s5:21,s0:21,s1:21,s2:31}"
+              },
+              "required": 8
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "A standard portal frame should then be constructed out of glass, with the Portal Anchor ODBs forming the corners. the direction of the portal must align with the direction the ODBs face, so whichever direction it is entered from they resolve to gold blocks.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:glass"
+              },
+              "required": 20
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "A standard QC can then be placed touching the frame, with an adjacent block of ice. The top text box is the name of that portal, and the bottom one is the name of the portal it will transport to. Beneath that is a switch to input an IP address for an inter-server portal, usable by admins only. Portals are *not* automatically two way - each end must be linked to another portal, and a frame+QC merely need to exist to be portaled to. After that, just energize the portal, and step through.",
+          "items": [
+            {
+              "item": {
+                "id": "qCraft:quantumcomputer"
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "minecraft:ice"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:bags",
+          "damage": 3
+        }
+      ],
+      "rewardchoice": [
+        {
+          "id": "qCraft:dust",
+          "amount": 16
+        },
+        {
+          "id": "qCraft:essence",
+          "damage": 1,
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "reputationBar": []
+}

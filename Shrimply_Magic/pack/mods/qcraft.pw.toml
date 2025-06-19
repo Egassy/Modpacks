@@ -1,5 +1,6 @@
 name = "qcraft"
 filename = "qCraft-1.7.10-1.2.2.jar"
+side = "both"
 
 [download]
 url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/qCraft-1.7.10-1.2.2.jar"
