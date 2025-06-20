@@ -61,7 +61,7 @@ description = "Do not install Customizable Player Models."
 [flavor_groups.hats]
 name = "Hats"
 description = "Adds hundreds of hats that can be coloured and tinted. Client only."
-side = "client"
+side = "both"
 [[flavor_groups.hats.choices]]
 id = "hats_on"
 name = "Yes"
