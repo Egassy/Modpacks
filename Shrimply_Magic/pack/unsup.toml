@@ -84,6 +84,19 @@ id = "mousetweaks_off"
 name = "No"
 description = "Do not install Mouse Tweaks."
 
+[flavor_groups.inventorytweaks]
+name = "Inventory Tweaks"
+description = "Allows sorting of inventories and - if enabled - automatic replacment of items and tools with similar items. Client with additional functionality on server, but not required on either."
+side = "both"
+[[flavor_groups.inventorytweaks.choices]]
+id = "inventorytweaks_on"
+name = "Yes"
+description = "Installs Inventory Tweaks."
+[[flavor_groups.inventorytweaks.choices]]
+id = "inventorytweaks_off"
+name = "No"
+description = "Do not install Inventory Tweaks."
+
 [flavor_groups.reauth]
 name = "ReAuth"
 description = "Allows reauthenticating without restarting the instance, fixing failed authentication bugs. Client only."
@@ -109,7 +122,9 @@ flavors = "tails_on"
 flavors = "cpm_on"
 [metafile.hats]
 flavors = "hats_on"
-[metafile.mousetweaks_gtnh]
+[metafile.mousetweaks]
 flavors = "mousetweaks_on"
+[metafile.inventory-tweaks]
+flavors = "inventorytweaks_on"
 [metafile.reauth]
 flavors = "reauth_on"
