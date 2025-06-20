@@ -102,7 +102,7 @@ hash = "2a534c7cf8b3e9344da62acd8fc2664a75a682dcbfe37897f21977ef9b1aa63d"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "f9284dd998773d2dd78f8b4c2695a22256a3d4492d621863d66b7ad27b1d6801"
+hash = "1059574dd54178e0b01959b0dd962b926f056166c9fe720ab521b62af2a891ba"
 
 [[files]]
 file = "config/CarpentersBlocks.cfg"
@@ -654,7 +654,7 @@ hash = "22c00ef3f6c6bb11b7714169b201211489072c4064844620a6f7a31cbbe2e17a"
 
 [[files]]
 file = "config/qCraft.cfg"
-hash = "1821a3becb1411d953336347a2d300f41f05a541e68c8611ec57d9280fd27339"
+hash = "97153540bd30dcb9410fcdc029f1808f7aa2af5bd3d085f541d71fe4a8ebc8d6"
 
 [[files]]
 file = "config/roguelike_dungeons/roguelike.cfg"
@@ -2410,6 +2410,11 @@ metafile = true
 [[files]]
 file = "mods/travellers-gear.pw.toml"
 hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
+metafile = true
+
+[[files]]
+file = "mods/treeclimbing.pw.toml"
+hash = "ecc2f7e425e9ccfd2ab93fa3a3a875626434960cf270a2781f654346ad7ecab0"
 metafile = true
 
 [[files]]
