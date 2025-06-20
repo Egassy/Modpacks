@@ -2197,11 +2197,6 @@ hash = "100047ae847bc5ded978517d83f86b7d90166622eecc4b9721582145cd51d218"
 metafile = true
 
 [[files]]
-file = "mods/forge-essentials.pw.toml"
-hash = "19526b082fd1d983bd938d135c91e4b3c34ad3a00079df73bdaf727f072e5acf"
-metafile = true
-
-[[files]]
 file = "mods/foxlib.pw.toml"
 hash = "6887a03bd972f2602e3215940db01af3316d23749ecf94b7a6eacc990a1a0e20"
 metafile = true
@@ -2272,11 +2267,6 @@ hash = "2cae8c5eefd42c3a845794a5252252ddc3e48dee6b4cbba6927c2a4008239770"
 metafile = true
 
 [[files]]
-file = "mods/mobiuscore.pw.toml"
-hash = "ac459f49a629806c3469d2fd8f333915fc9d30a990774ae5b434def806c2d17e"
-metafile = true
-
-[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
@@ -2314,11 +2304,6 @@ metafile = true
 [[files]]
 file = "mods/openmodslib.pw.toml"
 hash = "88228e57a4fa45d05005fc05df0902ae603f70b348557deb2a2bea9e3549b74d"
-metafile = true
-
-[[files]]
-file = "mods/opis.pw.toml"
-hash = "5c88ea7f900afd4f5fcb26a409c84a9de2380bb6120d500ebff9865acb3d53dc"
 metafile = true
 
 [[files]]
