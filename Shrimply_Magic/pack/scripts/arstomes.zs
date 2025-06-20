@@ -1,0 +1,21 @@
+recipes.remove(<arsmagica2:bookAffinity:1>);
+recipes.remove(<arsmagica2:bookAffinity:2>);
+recipes.remove(<arsmagica2:bookAffinity:3>);
+recipes.remove(<arsmagica2:bookAffinity:4>);
+recipes.remove(<arsmagica2:bookAffinity:5>);
+recipes.remove(<arsmagica2:bookAffinity:6>);
+recipes.remove(<arsmagica2:bookAffinity:7>);
+recipes.remove(<arsmagica2:bookAffinity:8>);
+recipes.remove(<arsmagica2:bookAffinity:9>);
+recipes.remove(<arsmagica2:bookAffinity:10>);
+
+recipes.addShaped(<arsmagica2:bookAffinity:1>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:2>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:4>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:4>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:3>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:3>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:3>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:4>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:1>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:1>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:5>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:2>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:2>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:6>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:7>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:7>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:7>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:6>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:6>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:8>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:5>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:5>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:9>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:8>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:8>, <arsmagica2:itemOre:3>]]);
+recipes.addShaped(<arsmagica2:bookAffinity:10>, [[<arsmagica2:itemOre:3>, <arsmagica2:essence:9>, <arsmagica2:itemOre:3>], [<arsmagica2:rune:18>, <minecraft:book:*>, <arsmagica2:rune:18>], [<arsmagica2:itemOre:3>, <arsmagica2:essence:9>, <arsmagica2:itemOre:3>]]);
