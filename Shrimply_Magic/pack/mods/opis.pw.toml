@@ -1,0 +1,13 @@
+name = "Opis"
+filename = "Opis-1.2.5_1.7.10.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "8ea21f9fb14f2be92e73e3be655f617fb542708e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232520
+project-id = 73832
