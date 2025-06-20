@@ -58,19 +58,6 @@ id = "cpm_off"
 name = "No"
 description = "Do not install Customizable Player Models."
 
-[flavor_groups.hats]
-name = "Hats"
-description = "Adds hundreds of hats that can be coloured and tinted. Client only."
-side = "both"
-[[flavor_groups.hats.choices]]
-id = "hats_on"
-name = "Yes"
-description = "Installs Hats."
-[[flavor_groups.hats.choices]]
-id = "hats_off"
-name = "No"
-description = "Do not install Hats."
-
 [flavor_groups.mousetweaks]
 name = "Mouse Tweaks"
 description = "Tweaks mouse click functionality for better QoL. Allows drag-stacking, shift-click-pickupping, shift-click inventory switching and scroll inventory switching. Client only."
@@ -120,8 +107,6 @@ flavors = ["skinport", "bothskin"]
 flavors = "tails_on"
 [metafile.custom-player-models]
 flavors = "cpm_on"
-[metafile.hats]
-flavors = "hats_on"
 [metafile.mousetweaks]
 flavors = "mousetweaks_on"
 [metafile.inventory-tweaks]
