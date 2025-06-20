@@ -14,7 +14,7 @@ hash = "db4ec647456970c05f3cdedc6c172490adb08219284fa520a1b7c7ae71d1bd11"
 
 [[files]]
 file = "config/AWWayofTime.cfg"
-hash = "25895fdfdfc5e32c2b221bb28f44b3c46441868804c4a14294f0626ddac98e0e"
+hash = "bd959715841b3160709ef83a702c18a9bf215fb96fabb813d30b8a59962836f5"
 
 [[files]]
 file = "config/AccidentallyCircumstantialEvents/GolemancersBellReplace.json"
@@ -413,6 +413,10 @@ file = "config/Reika/GeoStrataOreVeinConfig.lua"
 hash = "b1594d396fd3e5ba6a9d60e934ad6abeae105286477689294a5a12394d1ab2cb"
 
 [[files]]
+file = "config/Reika/TreeClimbing.cfg"
+hash = "cc98937b58d338832e451103e28d2632073d01c0066ccdc5686c161009f14be8"
+
+[[files]]
 file = "config/Sanguimancy.cfg"
 hash = "e91c32d54ccb914ca918f1d45e6827e9bc40129fadacfb7cf3ec1445e9529373"
 
@@ -450,7 +454,7 @@ hash = "30c1fe88e4a26b82f2d114fd4e2e117fd04d4041de65c7e5e9ee5c134bef4d52"
 
 [[files]]
 file = "config/UpdateCheckLib.cfg"
-hash = "83a696da9cc74728eea573d314062ef870386897d9ebe5d0de9ede4a52066ace"
+hash = "25976176cc4d53567ec8579bba58a3c413ea18678964b3d0b6616a7e032e04ad"
 
 [[files]]
 file = "config/Waila.cfg"
