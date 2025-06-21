@@ -1,4 +1,4 @@
-game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomonomonomonomonomonomonomonomonomonomonomonomonomonomonomonomonomonomonomonomicon");
+game.setLocalization("en_US", "item.ItemThaumonomicon.name", "Thaumonomonomonomonomonomonomicon");
 
 game.setLocalization("en_US", "botaniamisc.noLexicon", "You need a Lexica Bosnia in-hand to read this.");
 game.setLocalization("en_US", "botaniamisc.cantOpen", "It doesn't seem like your Lexica Bosnia has this page. Perhaps it comes from an foreign source...?");
