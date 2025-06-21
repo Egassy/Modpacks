@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "bc28e8fdd92fb65006f08d7d1f93920d3a32c0f2b0c52b2367cba66088cc2e96"
+hash = "13d3aefe348ea82a341e64aaa5934fe70be5687093684090baf96a489d471edb"
 metafile = true
 
 [[files]]
@@ -622,17 +622,17 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "31f7affae34741e8de06b9cb1a839b988d343c8c81f8af03253f66b76b86e08d"
+hash = "55fc40a3afdc6af1930abde379f6238e930233967bb5e0a2996f32f65f587a7d"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "3ccbb487f9d1a3bc3470c5a85bd68b4976c4d2a8228bbb602243019cc23772cc"
+hash = "556db75903074830b35053c3cae98cccff82a3a1629158de2ae2829169236c89"
 metafile = true
 
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
-hash = "893a55301ee260f82cd081e982b490157690d87bf4bfbbd8f714d6cf93b6a544"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "dbd5dc20cf1da1a9e92e6a907b54322b48e1b362db04c7345e4422435a1333e9"
+hash = "7929a345c4e948c3b1afb2c6dfbab06f667a216e04cdef8fbed0a48009424b21"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d6b17baf1a20bd28b08cf0e3fd647fe5ba55484049e59f4579965a3c900af7a3"
+hash = "61a46abc7e25ba0fed85c175d31c0022146c86ad458a7633bf9c843ce69f7967"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
+hash = "033965cc4d3b58e2765c3a712ca8a226663ffae25eee8d3b81f72ed84cc5e484"
 metafile = true
 
 [[files]]
@@ -697,22 +697,22 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "5eecf79dd0acaf27a387604fea9c87977fe39a80982b38c241adc5df56050b53"
+hash = "a06e5e06e66e3e7e157ee3b10089d9da0c7c44600096b7b8abb224c5e3cb0674"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "91122f4f6fdbfeeb20a2ec1752ff11177b979bc82cc6789df5f18394f23a9e69"
+hash = "ef1a697dc51e4094880b01d9edb41eb4da786404a6dff4c5c9904b812b37cce5"
 metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "1f58dfc8a42deac82538f7ef44063b3ae8cb2387ec021573d29194d90d1baa8a"
+hash = "248c1dcf63340a76a617459530649c60d4206bd1082a838cc81df38ecb019a72"
 metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "2d00aafa45147d55d10dbb9ad637fd193cec732ce29be2fe4770a818058465dd"
+hash = "641fc941dae87ac71c9c79017b559f0e193003a16c1ba9492a47cbceedc75f9f"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
+hash = "63777b41574a0a991a58257a9d90194f605d2a6b74cbc19e81e4006e51985cb5"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "c275d63a99e48400500d2c315cc1d2162a1afb79757b1f870fc3bad2bfbfba71"
+hash = "8e856852abeefc7dfb7b3af0c81ca1f878cd9bec0cfe3a47218a4e8d1f1bff0d"
 metafile = true
 
 [[files]]
@@ -768,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "04277a03c92ff31e87564bbf3bd2c1200f57f91d20747befc73fdc5c5839cced"
+metafile = true
+
+[[files]]
+file = "mods/modopedia.pw.toml"
+hash = "1990ecc17e33363e8c736e66c6dc5b5a9814e1f7ef157872f2fa9de70458a239"
 metafile = true
 
 [[files]]
@@ -807,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/opalescence.pw.toml"
-hash = "27c7f1f80b59cc0319dad2b5622ac57deecf1626df7f9baf241cb0b80ade4d9a"
+hash = "cedb7e64a64862fc0e1a316a9c4a9920bfebfd153c5b75436fe6c78059dbf969"
 metafile = true
 
 [[files]]
@@ -817,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "04c85df7e115fa7c93ac11a45c0537cd707546bc65dd51c7013dd2c69ea3b755"
+hash = "294165a912ba6d3c190d44903b0b308d84815beb9a0fc70c268ec9126e2ebdf9"
 metafile = true
 
 [[files]]
@@ -862,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "cf9dceaed5f690532338beccede0e9c769f037067c14111f259d1e781196e83c"
+hash = "f7168b534606895117fb786cf914d62844d62815cb0eb5313d05bd49e736c300"
 metafile = true
 
 [[files]]
@@ -932,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "e0f806b8d7cff661e0b2be40b0c93f2f08e99c3db9faa9df560bbd68d99c9f31"
+hash = "3218209a1d9cc94f08184d51b36782f45917a12800184a3bd3c3c32a6cba8d41"
 metafile = true
 
 [[files]]
@@ -972,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "985e609e06ea0fb50e006214e70948f0067f5ac6995031963d811ee0422ecb6f"
+hash = "7859be42df5f72bf69200d56b65e0a7c2324f1d7ea06b8e870cb38420e9f874a"
 metafile = true
 
 [[files]]
