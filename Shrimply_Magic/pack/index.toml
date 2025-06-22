@@ -2018,11 +2018,6 @@ hash = "1edf752e47a1f57428d222bb9d461a89dd1adfb397d769cd605a67698282e534"
 metafile = true
 
 [[files]]
-file = "mods/another-one-bites-the-dust.pw.toml"
-hash = "7baeacf5a17c255e1798117ca2e02f050bd6173a0bfd80b66305c1042c15bb75"
-metafile = true
-
-[[files]]
 file = "mods/applecore.pw.toml"
 hash = "a5836f08783eccabdf1f9fb42b5270b2cdd23dd8c1effba2ad6748da2b706f2d"
 metafile = true
@@ -2252,6 +2247,11 @@ hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
 metafile = true
 
 [[files]]
+file = "mods/jaopca.pw.toml"
+hash = "65ea6384fd47988b4350d4b93c3d56ef73de9260a2886e36037d8e56d33ad481"
+metafile = true
+
+[[files]]
 file = "mods/launchgui.pw.toml"
 hash = "7b3e9491bb7ab4c04e000ba5d3699bcee664426b88caecd6b9ff89f38425c433"
 metafile = true
@@ -2284,6 +2284,11 @@ metafile = true
 [[files]]
 file = "mods/netherores.pw.toml"
 hash = "ea3b5d1f3ff8278a4fd00965956bbccba6b50ddfc5f33e8129130c070f9df68c"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "8d3060a92228264b9fda7216ece3965f1e2faa63ee3c33e9a26cbe2ce42adf81"
 metafile = true
 
 [[files]]
