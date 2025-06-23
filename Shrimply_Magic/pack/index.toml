@@ -182,11 +182,11 @@ hash = "9656badfc321a24449f39d9fae2d6a4aedc5cc8e1c5309158a8eb161b5caf1dc"
 
 [[files]]
 file = "config/LaunchGui.cfg"
-hash = "cc4a392c15798cfa856a5673ab05d27dae73cf3a2e349eae921ae542c628df0a"
+hash = "1afb0f267398270573bccf5304f1c5f9a75ead8c7952c124e36bde31c0ce13f8"
 
 [[files]]
 file = "config/Morpheus.cfg"
-hash = "75f56c6e80597fbec9a422d0508ab62cd7fa4db45936bf2d4299086fd93d2abc"
+hash = "72e5d885da134d44a0605aa1b9af71565d620f324e27f56128aa5c12cf3b4f73"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -2219,11 +2219,6 @@ metafile = true
 [[files]]
 file = "mods/hats.pw.toml"
 hash = "d9f0ffbbc7e489a1729ea1db007cf589dc28495210a8640175dc415f26e2b65e"
-metafile = true
-
-[[files]]
-file = "mods/highlands.pw.toml"
-hash = "27a724ff3a8670d350a60b0d1018530ceb0cdf8c9b8ee35e7dcdc4b927dacac9"
 metafile = true
 
 [[files]]
