@@ -2472,7 +2472,7 @@ hash = "5251e65bfe33738d3a5376aacbbff3ae211d1b8dac7aa4ebe52764fdb3a11ee9"
 
 [[files]]
 file = "scripts/Blood magic.zs"
-hash = "82e74058ca629cd75450d1b104853546b4e302e8efeeafad4e2b8b21c82542d1"
+hash = "a674ba0fdd10b4122519617d9129a00069643b2d99928b1a181e29886e7fb6bf"
 
 [[files]]
 file = "scripts/Botania ore dictionary.zs"
@@ -2500,7 +2500,7 @@ hash = "379c1e337ce2ee621ffe68bba244f004cb21d9d8eb0b37710cdb49029234afb2"
 
 [[files]]
 file = "scripts/dimdoors.zs"
-hash = "c31976b5546f0f420dd56ad1fe00937315df583e90c965428139e40601fede42"
+hash = "205743d33f4e33b1240d881a93466396f44f1c89bca9363c44f95cf5768f07a7"
 
 [[files]]
 file = "scripts/essentialcraftbooster.zs"

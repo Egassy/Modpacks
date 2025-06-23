@@ -52,3 +52,11 @@ elemental.add(<AWWayofTime:aquasalus>);
 elemental.add(<AWWayofTime:tennebrae>);
 elemental.add(<AWWayofTime:sanctus>);
 elemental.add(<AWWayofTime:terrae>);
+
+recipes.remove(<AWWayofTime:bloodMagicIncenseItem:1>);
+
+mods.bloodmagic.BloodOrb.addShapeless(<AWWayofTime:bloodMagicIncenseItem:1>, [<AWWayofTime:bloodMagicIncenseItem>, <ore:dyeRed>, <ore:dyeRed>, <ore:dustRedstone>, <ore:treeLeaves>, <ore:treeLeaves>, <AWWayofTime:apprenticeBloodOrb>]);
+
+recipes.remove(<AWWayofTime:bloodMagicIncenseItem>);
+
+recipes.addShaped(<AWWayofTime:bloodMagicIncenseItem>, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <minecraft:coal:1>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
