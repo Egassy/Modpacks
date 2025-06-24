@@ -182,7 +182,7 @@ hash = "9656badfc321a24449f39d9fae2d6a4aedc5cc8e1c5309158a8eb161b5caf1dc"
 
 [[files]]
 file = "config/LaunchGui.cfg"
-hash = "1afb0f267398270573bccf5304f1c5f9a75ead8c7952c124e36bde31c0ce13f8"
+hash = "18384469e7df6857fd12c6771e32c675a3f875433686f2605efbad94a7d7cc80"
 
 [[files]]
 file = "config/Morpheus.cfg"
@@ -2053,11 +2053,6 @@ hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
-file = "mods/bibliocraft-bibliowoods-highlands-edition.pw.toml"
-hash = "bd3e85aa2b90fba2c043d53ee109adfc29c6afdd57ecd0254989c6cc8299bda1"
-metafile = true
-
-[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
@@ -2364,6 +2359,11 @@ metafile = true
 [[files]]
 file = "mods/tcbotaniaexoflame.pw.toml"
 hash = "ed048482743414f06ec6f8fc6dfa034a9084b46a68bc7a5c2a77957e1023c67f"
+metafile = true
+
+[[files]]
+file = "mods/tcneiadditions.pw.toml"
+hash = "817cc09158d7b92241fc83a3210b9c36f6476846c65db02f444b8471b911ce63"
 metafile = true
 
 [[files]]
