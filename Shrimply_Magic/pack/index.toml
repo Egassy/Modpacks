@@ -2502,6 +2502,10 @@ file = "scripts/essentialcraftbooster.zs"
 hash = "441268b03b69258cccada78cd4ffc51b1e7b7019991d512f7231f70d3b9c8d67"
 
 [[files]]
+file = "scripts/geochisel.zs"
+hash = "13387efe08eeeed3de78e917e1e683e0689c4d87c3f49970d6658c775320947d"
+
+[[files]]
 file = "scripts/locfixes.zs"
 hash = "27757d290788284c8664ea8bc5b2bc9cf7a36a478c2412020e743dc0d2db3fbb"
 
