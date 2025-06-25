@@ -1,13 +1,13 @@
 name = "NauTec"
-filename = "nautec-0.2.9.jar"
+filename = "nautec-1.21.1-NeoForge-0.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc37457e8af1f387b82a3a28559b513c7a803184"
+hash = "f13fa704e4f584be192fe6f7c559fea751c8a85d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6544236
+file-id = 6684425
 project-id = 1107394
