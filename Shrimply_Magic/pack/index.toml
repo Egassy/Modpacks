@@ -2495,7 +2495,7 @@ hash = "379c1e337ce2ee621ffe68bba244f004cb21d9d8eb0b37710cdb49029234afb2"
 
 [[files]]
 file = "scripts/dimdoors.zs"
-hash = "205743d33f4e33b1240d881a93466396f44f1c89bca9363c44f95cf5768f07a7"
+hash = "5581118b006ca68e74cb6bc554cccef019f138ef4758b2d79c3181e56514bc16"
 
 [[files]]
 file = "scripts/essentialcraftbooster.zs"
