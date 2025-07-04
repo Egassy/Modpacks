@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/opalescence.pw.toml"
-hash = "cedb7e64a64862fc0e1a316a9c4a9920bfebfd153c5b75436fe6c78059dbf969"
+hash = "67b76deb80498598e9f5f4d400d24e654a7b386ecb7aaa8df3d1730bbd304c6f"
 metafile = true
 
 [[files]]
