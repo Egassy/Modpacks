@@ -378,7 +378,7 @@ hash = "35fe6e72dca9103c98052056456f75d0d51676be11e1705d972b1e9b269aa9b8"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "3771dcd3b415fa1c41b2415f18d56eb5f1e918be28d2e9a108cf9de3a0a6074b"
+hash = "6b97250a89a36ef6aca5c89c6eb975d7a5cd01faa8187a2bad47ae00b0de89bf"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/datanessence/worldgen/placed_feature/sanctuary/calcite_spire.json"
@@ -386,7 +386,7 @@ hash = "72e0ba799f2657c29930624081a855a37220b3865f9402b4ce93f11634405949"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/eternal_starlight/tags/item/scythes.json"
-hash = "d8a239e69cbe8c8b512c934fb085eee50c8b74807d5059b92bac010447178602"
+hash = "0836728124427ccd0de575ee2ee049cef0c45f1876d49c00540475ecf66e6c3b"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/eternal_starlight/worldgen/biome/crystallized_desert.json"
