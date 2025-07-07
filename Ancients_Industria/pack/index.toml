@@ -373,10 +373,6 @@ file = "global_packs/required_data/industryfilters/pack.mcmeta"
 hash = "a9d2db6422752d453b327cef1d9778a4f0d4928537c190006fc41bd55bd50ace"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/c/tags/hidden_from_recipe_viewers.json"
-hash = "35fe6e72dca9103c98052056456f75d0d51676be11e1705d972b1e9b269aa9b8"
-
-[[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "6b97250a89a36ef6aca5c89c6eb975d7a5cd01faa8187a2bad47ae00b0de89bf"
 
@@ -539,16 +535,6 @@ hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
 metafile = true
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "c923f6539fabaadf6234b8346111069baa53fcc95d2445a7eebc50cb3751c25d"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "08d5b42c63b13a05a5ad962fb2782126b6a1dbbd76ef383608da7e39009f8b06"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "0d2c4b8cda4d14deb8c4076f01cac447fddf4eb09057baf9d1926b290f05b9f8"
 metafile = true
@@ -621,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "b141e95266d7dff5ed6fd4f4afc526364baf23af6bde6658cd68b2f47ec150bd"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -710,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "4723ab6d503ed854c7e8381e27d5f27d53011b2b7722ab1eb0819ac12662a1ec"
+hash = "b4b306a08003df2830b7ea379ef3ba5d6af7cc76ec930d59e1f11ce025510d30"
 metafile = true
 
 [[files]]
@@ -740,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "63777b41574a0a991a58257a9d90194f605d2a6b74cbc19e81e4006e51985cb5"
+hash = "609ef5b1508d581a70d521234571c160c987354dfbb0d7e9cb3be7e18e5494b8"
 metafile = true
 
 [[files]]
@@ -780,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/modopedia.pw.toml"
-hash = "1990ecc17e33363e8c736e66c6dc5b5a9814e1f7ef157872f2fa9de70458a239"
+hash = "e66c3d749854408550ffcdb0a37cc22611d6f8f3d6521abd1343ea736f6f6b2e"
 metafile = true
 
 [[files]]
@@ -835,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
+hash = "74c69f8c8f04009f6af96905022321b7ea07cf760d6e31bc9b8de42f1c298e2f"
 metafile = true
 
 [[files]]
