@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/cryonicconfig.pw.toml"
-hash = "b141e95266d7dff5ed6fd4f4afc526364baf23af6bde6658cd68b2f47ec150bd"
+hash = "a7116c6a3a6343e164e68a507e7bc8d7e4c30eb7e1521e7a81558e121dcf9e9f"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "2cc8c6cc5ed8b1673fce0341736017e026e5f877bf18e05d0d874675fe23dd06"
+hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
 metafile = true
 
 [[files]]
@@ -766,12 +766,12 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "0e40c7b5d95bc34df266d8de5a721408da91cb44cc890eba718ebf6fc2907a14"
+hash = "ff425c1d98378fe506e53fc88979898ba1da8a53e3997f4e3823ad98b7c61b27"
 metafile = true
 
 [[files]]
 file = "mods/modopedia.pw.toml"
-hash = "e66c3d749854408550ffcdb0a37cc22611d6f8f3d6521abd1343ea736f6f6b2e"
+hash = "f9c2d7aa5e7e32a8afcba504dd4a5abc1f1d24e599cfecd6a9d364a66a01aec9"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5f1eede80592f94908a686b99d3d8774c81521c58a13579c272cc21f6d83f3f7"
+hash = "185ce02b9155c93c6071673a1d92b5032bb1b5f9b94f795d2719eba83278780b"
 metafile = true
 
 [[files]]
@@ -931,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/theurgy.pw.toml"
-hash = "041640205a386d5f0b1b996ff29d2a5417eec34a9d05d83a4a93027686be01ad"
+hash = "7c51d530f4e5b5b272c052d9b37bc3be51bbc0364881c8deb9d76e9d6db0adf6"
 metafile = true
 
 [[files]]
