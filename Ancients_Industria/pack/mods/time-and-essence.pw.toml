@@ -1,0 +1,13 @@
+name = "Time and Essence"
+filename = "timeandessence-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1ccbd9abebf3c6cf08e3f4a0adf0e99f7c03b74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6764436
+project-id = 1303661
