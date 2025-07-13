@@ -621,12 +621,12 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "6ecf871625715b73dfc965d7a6c9e21f23abbe3c4857aaad2eebbe0ce1be28d3"
+hash = "bb1c56e27e86b0b6b8681331065d8933cabece0362c58e3dea049358262edfe1"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "684c17049cc8a76c6d29cfa6c0cbfb825b10603680afbbff3d7c7c4027ee8b3c"
+hash = "aa47a6d20842032178cb5dd49b14f7c84a4ada25e4e72712902ad097e18e3a75"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "7929a345c4e948c3b1afb2c6dfbab06f667a216e04cdef8fbed0a48009424b21"
+hash = "76bb852d3b0e0f1414d2a54d03fb60c7d85061b41e4937e44a4911ba7e5b063c"
 metafile = true
 
 [[files]]
@@ -672,11 +672,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "61a46abc7e25ba0fed85c175d31c0022146c86ad458a7633bf9c843ce69f7967"
 metafile = true
 
 [[files]]
@@ -711,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "37ed0e7de3be9be4b1289d755af23a8f98ab2a45199ea41656b825d93976ace8"
+hash = "a0ddd6351810e06cfb8cc5d0e1538281f919a9b3dc93da0310e9401abd788a53"
 metafile = true
 
 [[files]]
@@ -771,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/modopedia.pw.toml"
-hash = "f9c2d7aa5e7e32a8afcba504dd4a5abc1f1d24e599cfecd6a9d364a66a01aec9"
+hash = "2b9650ab456ddfa747932f2e81dc86a965eae22c939340c0501a3b82b61f3266"
 metafile = true
 
 [[files]]
@@ -797,11 +792,6 @@ metafile = true
 [[files]]
 file = "mods/natural-philosophy.pw.toml"
 hash = "81e8d86bbfe48ef7d6ba10eeb3c41bac3997940e5d7cdb25390fd4a437857026"
-metafile = true
-
-[[files]]
-file = "mods/nautec.pw.toml"
-hash = "8d4167dcf6987b2ecd7502e6584a2a6f58faa4aa6a333d5b52ec510f2c1b764e"
 metafile = true
 
 [[files]]
@@ -866,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "f7168b534606895117fb786cf914d62844d62815cb0eb5313d05bd49e736c300"
+hash = "0992ace22d4c13360785e8a5212535e2db88f43dab477f1d32b6222590a956d5"
 metafile = true
 
 [[files]]
@@ -911,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "185ce02b9155c93c6071673a1d92b5032bb1b5f9b94f795d2719eba83278780b"
+hash = "c66556917c084e7f2b4d98f81114dbbb0f3dd71121484368d3d70fd150e1be7e"
 metafile = true
 
 [[files]]

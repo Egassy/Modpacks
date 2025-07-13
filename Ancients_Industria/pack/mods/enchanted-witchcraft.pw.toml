@@ -1,13 +1,13 @@
 name = "Enchanted: Witchcraft"
-filename = "enchanted-neoforge-1.21.1-4.1.6-beta.jar"
+filename = "enchanted-neoforge-1.21.1-4.1.7-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8940ba1a131424f9599467200b95d418266b7178"
+hash = "e0525a2da93e5aca4500653a666956a072f24db0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6676228
+file-id = 6762605
 project-id = 560363
