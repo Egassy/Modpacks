@@ -290,7 +290,7 @@ hash = "1041f5c5e6fbc09af5b0c288cf06ee4dca3ad266fb6db687bcb10d6227e68aa9"
 
 [[files]]
 file = "config/the_bumblezone/client.toml"
-hash = "9be1a0e30145883551cd9622d9fdb0f9d9052c96c8a8282937a4e71494217745"
+hash = "9af84b9a1d3a973aa3e4bd880dce8952a10c2984d58eac68720ebd71a785e77c"
 
 [[files]]
 file = "config/the_bumblezone/dimension.toml"
@@ -298,11 +298,11 @@ hash = "bf651b4809d3d3f23221be4d2c0f05a3011e8aab83ab726e07a9867da13ac1f8"
 
 [[files]]
 file = "config/the_bumblezone/general.toml"
-hash = "980cddaec0dbe212c641fd987d65a8907ca5cd608c8f934dd5741681503ebad3"
+hash = "a5e8a07ac82ecc26f573aaafef51533532dfd9fe1a7e45fdeda1420a12198357"
 
 [[files]]
 file = "config/the_bumblezone/mod_compatibility.toml"
-hash = "1f019a42fae6b246ff65f86b4ea99926ff946c928e4724e1c0363337b7138d93"
+hash = "bac4475cb5ea25767f3050817d59b063faf7ca60d4b0e60e4fda7404aad0bd7d"
 
 [[files]]
 file = "config/the_bumblezone/worldgen.toml"
@@ -521,6 +521,22 @@ file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/
 hash = "7b0db9478517b1a675a162170c20f1ae95f8a28b2d5a81fc51d1bd15f262f41d"
 
 [[files]]
+file = "global_packs/required_resources/Industryassets/assets/the_bumblezone/textures/entity/bee_variants/reika_kalsekbee/bee.png"
+hash = "0defb9a67ecb3bd5d0b673893e320fa18a5ee22c4e372944806ef787083019bd"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/the_bumblezone/textures/entity/bee_variants/reika_kalsekbee/bee_angry.png"
+hash = "471c2d5c58340450959792f9d63057b409b08f014cab40ac5dd2abadef2c365e"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/the_bumblezone/textures/entity/bee_variants/reika_kalsekbee/bee_angry_nectar.png"
+hash = "00fe725272eeefe9abbd8a627fa54d82037bc50a94a1a6d437f4c9cc61483330"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/the_bumblezone/textures/entity/bee_variants/reika_kalsekbee/bee_nectar.png"
+hash = "660567245517d50bee5c790e10c79943aa8720bdec0e85ade54d5980d2f258a8"
+
+[[files]]
 file = "global_packs/required_resources/Industryassets/pack.mcmeta"
 hash = "f8a6c3f2004eeffe2eeabe8df35aedca74156456d3cb888a382b0fc7771a384d"
 
@@ -561,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
+hash = "eaa4da560492263fe595b9dae8cad84f06384e31ca9c260c5b803fe0015d7a9d"
 metafile = true
 
 [[files]]
@@ -621,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "7881ca87289ce42a7350ede75826baa351cab51281ff3512fe8a144ebf56de58"
+hash = "405175b91cc8ad2bb57d62510af54542ddb59573a7720c5f927051e858836868"
 metafile = true
 
 [[files]]
@@ -711,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "69a36327ba1adab87891fe28173daf114eee534c810c770d5fbff6b6968209d0"
+hash = "2fb146e5003c3245af94a704cccb0f8deefc3005efb8a0c23e2730e2f5061c5c"
 metafile = true
 
 [[files]]
@@ -811,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "6b337b3d34464705a814e9b6a96ce364c18fc931981116fd5ab426205e5c2979"
+hash = "0404c578b03a2022a8c7c73ba1bc5bb005e4912572cbadbe1dad5437f5e7071d"
 metafile = true
 
 [[files]]
@@ -956,12 +972,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e44afd0d32a58141cb548cf615decc4f5952507d6e8c77c7e46670df12aa8b9f"
+hash = "3c9d3c4a6cf4016aebd324fd4cdf6332da89c7f41912e41f56f08c6947d66e2d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "093f100528ac07fd2875d8d43e9db9b04eed6066df684df33bb52d9724419847"
+hash = "feb67f4e3a254fafda303ccdb989354524aaa29bd26f1cc0013764b9f93040d9"
 metafile = true
 
 [[files]]
