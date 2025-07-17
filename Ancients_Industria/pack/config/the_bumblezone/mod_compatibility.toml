@@ -42,7 +42,7 @@
 	#
 	# Default: 0.025
 	# Range: 0.0 ~ 1.0
-	spawnrateOfTropicraftBeesMobs = 0.050
+	spawnrateOfTropicraftBeesMobs = 0.05
 	#----------------------------
 	#
 	# Allow Honeycomb Brood blocks fed by Dispenser to be able to have chance of spawning Tropicraft's Tropibee.
@@ -232,3 +232,10 @@
 	# Allow loot Cocoons to have compat with Lootr
 	#
 	allowLootrCompat = true
+
+["Create Compat"]
+	#----------------------------
+	#
+	# Allow Honey and Royal Jelly fluids to spawn Create's Limestone when they touch Lava.
+	#
+	allowCreateLimestoneForHoneyLavaCompat = true
