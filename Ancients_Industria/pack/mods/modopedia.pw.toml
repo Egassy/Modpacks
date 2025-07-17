@@ -1,13 +1,13 @@
 name = "Modopedia"
-filename = "modopedia-neoforge-1.21.1-1.1.4.jar"
+filename = "modopedia-neoforge-1.21.1-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SYrakyVL/versions/6R1kQfXl/modopedia-neoforge-1.21.1-1.1.4.jar"
+url = "https://cdn.modrinth.com/data/SYrakyVL/versions/T05W5zUI/modopedia-neoforge-1.21.1-1.1.5.jar"
 hash-format = "sha512"
-hash = "88f9cc175a9fa4447b479522d2e7373435555685c570597077ba0ba3457300817c413ae97183c4302cb787d2cd725662fcefc4de68bc439e3844145cc6bebb78"
+hash = "be99962dc7c45bfc25415b9c0b99a28e63e428c33c4fa57c3368e803b0eb34263eaab12c56fcdc58ad06c502e204382afc46b2b27c8aff467a396a3731427cae"
 
 [update]
 [update.modrinth]
 mod-id = "SYrakyVL"
-version = "6R1kQfXl"
+version = "T05W5zUI"

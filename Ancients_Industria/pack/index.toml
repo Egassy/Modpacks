@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "bb1c56e27e86b0b6b8681331065d8933cabece0362c58e3dea049358262edfe1"
+hash = "7881ca87289ce42a7350ede75826baa351cab51281ff3512fe8a144ebf56de58"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
-hash = "76bb852d3b0e0f1414d2a54d03fb60c7d85061b41e4937e44a4911ba7e5b063c"
+hash = "ab6591dad5adc07a79cc8ae5f0b0adc46315379cceba7186af5d8fb168f9d4fb"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/modopedia.pw.toml"
-hash = "2b9650ab456ddfa747932f2e81dc86a965eae22c939340c0501a3b82b61f3266"
+hash = "056fba59f2db4796987f2f2a5a5823db03ecccf58f6720d57014211050ac5090"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "294165a912ba6d3c190d44903b0b308d84815beb9a0fc70c268ec9126e2ebdf9"
+hash = "6b337b3d34464705a814e9b6a96ce364c18fc931981116fd5ab426205e5c2979"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/time-and-essence.pw.toml"
-hash = "e640ad299c8fabf0bac75b85832c7aa3f73d5d23f7246f70e52c93c9615b58b7"
+hash = "9b49f86a2d84537d363d0f5b4c5c274f18bb2817939896a5aa80d7725753e245"
 metafile = true
 
 [[files]]
