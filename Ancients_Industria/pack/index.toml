@@ -826,6 +826,11 @@ hash = "67b76deb80498598e9f5f4d400d24e654a7b386ecb7aaa8df3d1730bbd304c6f"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "d728d7cb790bf8a9fbbe4a0f0929092aa84e25975e4fdc0e9402a72e3d955a08"
+metafile = true
+
+[[files]]
 file = "mods/oracle-index.pw.toml"
 hash = "9fb5d40354c86b79d41c7b82430469b59d5421d1970738e00d9e7e1dfcbcd0f3"
 metafile = true
