@@ -1,0 +1,13 @@
+name = "Chronoception"
+filename = "chronoception-neoforge-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xlEusAGq/versions/ZoFSm0aN/chronoception-neoforge-1.2.2.jar"
+hash-format = "sha512"
+hash = "c580dbcd541c600f274061bbb29b840ba0edfe44269f11af030a27c2884c15cb041bcd4f19827fced8836c45bca816390c6ee550692512565ef54f5106c4ceb6"
+
+[update]
+[update.modrinth]
+mod-id = "xlEusAGq"
+version = "ZoFSm0aN"

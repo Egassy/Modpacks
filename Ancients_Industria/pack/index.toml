@@ -596,6 +596,11 @@ hash = "53585ee2041174626662b53c08795a14d038874359079add62df022b64e6b9bd"
 metafile = true
 
 [[files]]
+file = "mods/chronoception.pw.toml"
+hash = "62dfc8fc2cdca1ecda0ba5d81ebfe8d070c370a169422a7a361af8e34a1cc38a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -957,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "1075a48f002ad7dcd35dbafdea0898502256efcca8c677918b02e0e309b43959"
+hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
 metafile = true
 
 [[files]]
