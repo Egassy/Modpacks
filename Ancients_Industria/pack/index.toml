@@ -972,6 +972,11 @@ hash = "81e8d86bbfe48ef7d6ba10eeb3c41bac3997940e5d7cdb25390fd4a437857026"
 metafile = true
 
 [[files]]
+file = "mods/neoauth.pw.toml"
+hash = "5b93921f8504f8c28a470fa306019018c6ba726d428692eecf7d8e98fd3a4038"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
