@@ -2,13 +2,13 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "item": "oritech:energite_ingot"
       }
     },
     {
-      "count": 64,
+      "count": 12,
       "ingredient": {
         "tag": "c:storage_blocks/redstone"
       }
@@ -26,25 +26,25 @@
   ],
   "researchCost": [
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "item": "oritech:energite_ingot"
       }
     },
     {
-      "count": 48,
+      "count": 12,
       "ingredient": {
         "item": "oritech:flux_gate"
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "item": "oritech:duratium_ingot"
       }
     }
   ],
-  "rfCost": 450000000,
+  "rfCost": 2250000,
   "time": 2400,
   "toggleable": true,
   "uiX": 80,

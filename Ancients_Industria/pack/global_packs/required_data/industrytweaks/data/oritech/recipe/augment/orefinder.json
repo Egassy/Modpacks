@@ -2,15 +2,14 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "item": "oritech:enderic_lens"
       }
     },
     {
-      "count": 64,
       "ingredient": {
-        "item": "minecraft:redstone_torch"
+        "item": "datanessence:mineral_finding_rod"
       }
     }
   ],
@@ -24,14 +23,15 @@
   ],
   "researchCost": [
     {
-      "count": 32,
+      "count": 8,
       "ingredient": {
         "item": "oritech:enderic_lens"
       }
     },
     {
+	  "count": 4
       "ingredient": {
-        "item": "minecraft:spyglass"
+        "item": "datanessence:lensing_crystal"
       }
     },
     {
@@ -40,18 +40,12 @@
       }
     },
     {
-      "count": 2,
-      "ingredient": {
-        "item": "oritech:prometheum_ingot"
-      }
-    },
-    {
       "ingredient": {
         "item": "minecraft:sculk_sensor"
       }
     }
   ],
-  "rfCost": 200000000,
+  "rfCost": 1000000,
   "time": 3200,
   "toggleable": true,
   "uiX": 130,

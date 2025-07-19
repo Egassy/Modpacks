@@ -2,13 +2,13 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 16,
+      "count": 8,
       "ingredient": {
         "item": "oritech:motor"
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "tag": "c:ingots/iron"
       }
@@ -25,25 +25,19 @@
   ],
   "researchCost": [
     {
-      "count": 32,
+      "count": 4,
       "ingredient": {
         "item": "oritech:motor"
       }
     },
     {
-      "count": 64,
+      "count": 8,
       "ingredient": {
-        "tag": "c:ingots/steel"
-      }
-    },
-    {
-      "count": 16,
-      "ingredient": {
-        "tag": "c:storage_blocks/iron"
+        "tag": "c:ingots/iron"
       }
     }
   ],
-  "rfCost": 75000000,
+  "rfCost": 375000,
   "time": 800,
   "toggleable": true,
   "uiX": 80,

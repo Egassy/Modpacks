@@ -2,13 +2,13 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "item": "oritech:enderic_lens"
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "tag": "c:obsidians/normal"
       }
@@ -25,25 +25,25 @@
   ],
   "researchCost": [
     {
-      "count": 64,
+      "count": 8,
       "ingredient": {
         "item": "oritech:enderic_lens"
       }
     },
     {
-      "count": 16,
+      "count": 8,
       "ingredient": {
         "tag": "c:ender_pearls"
       }
     },
     {
-      "count": 16,
+      "count": 48,
       "ingredient": {
-        "tag": "c:storage_blocks/diamond"
+        "tag": "c:gems/diamond"
       }
     }
   ],
-  "rfCost": 200000000,
+  "rfCost": 1000000,
   "time": 800,
   "toggleable": true,
   "uiX": 140,

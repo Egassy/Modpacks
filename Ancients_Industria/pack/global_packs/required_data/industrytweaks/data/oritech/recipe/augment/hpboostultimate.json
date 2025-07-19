@@ -8,12 +8,7 @@
       }
     },
     {
-      "ingredient": {
-        "item": "oritech:overcharged_crystal"
-      }
-    },
-    {
-      "count": 64,
+      "count": 32,
       "ingredient": {
         "item": "oritech:fluxite"
       }
@@ -31,31 +26,30 @@
   ],
   "researchCost": [
     {
-      "count": 64,
+      "count": 32,
       "ingredient": {
         "item": "oritech:adamant_ingot"
       }
     },
     {
-      "count": 8,
       "ingredient": {
         "item": "minecraft:nether_star"
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "item": "oritech:uranium_pellet"
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
-        "item": "oritech:fluxite_block"
+        "item": "oritech:fluxite"
       }
     }
   ],
-  "rfCost": 500000000,
+  "rfCost": 2500000,
   "time": 2400,
   "toggleable": false,
   "uiX": 205,

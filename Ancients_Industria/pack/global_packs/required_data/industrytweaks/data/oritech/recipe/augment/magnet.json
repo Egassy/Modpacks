@@ -2,13 +2,13 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 32,
+      "count": 36,
       "ingredient": {
         "item": "oritech:magnetic_coil"
       }
     },
     {
-      "count": 64,
+      "count": 32,
       "ingredient": {
         "tag": "c:ingots/copper"
       }
@@ -23,25 +23,25 @@
   ],
   "researchCost": [
     {
-      "count": 64,
+      "count": 14,
       "ingredient": {
         "item": "oritech:magnetic_coil"
       }
     },
     {
-      "count": 48,
+      "count": 8,
       "ingredient": {
         "item": "oritech:energite_ingot"
       }
     },
     {
-      "count": 2,
+      "count": 1,
       "ingredient": {
         "item": "minecraft:lodestone"
       }
     }
   ],
-  "rfCost": 400000000,
+  "rfCost": 2000000,
   "time": 2400,
   "toggleable": true,
   "uiX": 105,

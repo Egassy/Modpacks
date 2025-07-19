@@ -8,7 +8,7 @@
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "item": "minecraft:glowstone"
       }
@@ -24,7 +24,7 @@
   ],
   "researchCost": [
     {
-      "count": 32,
+      "count": 12,
       "ingredient": {
         "item": "minecraft:ender_eye"
       }
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "rfCost": 100000000,
+  "rfCost": 500000,
   "time": 3200,
   "toggleable": true,
   "uiX": 155,

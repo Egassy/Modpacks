@@ -23,12 +23,6 @@
   "requirements": [],
   "researchCost": [
     {
-      "count": 64,
-      "ingredient": {
-        "tag": "oritech:plating"
-      }
-    },
-    {
       "count": 32,
       "ingredient": {
         "tag": "c:dusts/coal"
@@ -41,7 +35,7 @@
       }
     }
   ],
-  "rfCost": 10000000,
+  "rfCost": 50000,
   "time": 400,
   "toggleable": false,
   "uiX": 5,

@@ -2,13 +2,13 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 32,
+      "count": 36,
       "ingredient": {
         "item": "oritech:magnetic_coil"
       }
     },
     {
-      "count": 16,
+      "count": 4,
       "ingredient": {
         "tag": "c:storage_blocks/iron"
       }
@@ -25,25 +25,25 @@
   ],
   "researchCost": [
     {
-      "count": 64,
+      "count": 42,
       "ingredient": {
         "item": "oritech:magnetic_coil"
       }
     },
     {
-      "count": 48,
+      "count": 32,
       "ingredient": {
         "item": "oritech:fluxite"
       }
     },
     {
-      "count": 8,
+      "count": 2,
       "ingredient": {
         "item": "minecraft:phantom_membrane"
       }
     }
   ],
-  "rfCost": 400000000,
+  "rfCost": 2000000,
   "time": 2200,
   "toggleable": true,
   "uiX": 180,

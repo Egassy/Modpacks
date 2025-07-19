@@ -8,7 +8,7 @@
       }
     },
     {
-      "count": 32,
+      "count": 8,
       "ingredient": {
         "tag": "c:storage_blocks/gold"
       }
@@ -32,19 +32,19 @@
       }
     },
     {
-      "count": 64,
+      "count": 16,
       "ingredient": {
         "item": "oritech:fluxite"
       }
     },
     {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "tag": "c:rods/blaze"
       }
     }
   ],
-  "rfCost": 500000000,
+  "rfCost": 2500000,
   "time": 2800,
   "toggleable": false,
   "uiX": 180,

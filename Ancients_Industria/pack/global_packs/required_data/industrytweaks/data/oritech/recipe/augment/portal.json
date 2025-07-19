@@ -2,7 +2,7 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 8,
+      "count": 16,
       "ingredient": {
         "tag": "c:ender_pearls"
       }
@@ -10,7 +10,12 @@
     {
       "count": 32,
       "ingredient": {
-        "tag": "c:obsidians/crying"
+        "tag": "c:obsidians/normal"
+      }
+    },
+	{
+      "ingredient": {
+        "item": "oritech:unholy_intelligence"
       }
     }
   ],
@@ -27,24 +32,19 @@
       }
     },
     {
-      "count": 48,
+      "count": 24,
       "ingredient": {
         "tag": "c:obsidians/normal"
       }
     },
     {
-      "ingredient": {
-        "item": "oritech:unholy_intelligence"
-      }
-    },
-    {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "item": "oritech:adamant_ingot"
       }
     }
   ],
-  "rfCost": 250000000,
+  "rfCost": 1250000,
   "time": 3000,
   "toggleable": true,
   "uiX": 130,

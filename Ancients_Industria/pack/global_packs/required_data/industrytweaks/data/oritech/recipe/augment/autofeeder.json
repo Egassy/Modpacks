@@ -2,15 +2,14 @@
   "type": "oritech:augment_data",
   "applyCost": [
     {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "tag": "oritech:biomatter"
       }
     },
     {
-      "count": 64,
       "ingredient": {
-        "item": "oritech:item_pipe"
+        "item": "datanessence:item_filter"
       }
     },
     {
@@ -30,25 +29,25 @@
   ],
   "researchCost": [
     {
-      "count": 64,
+      "count": 12,
       "ingredient": {
         "item": "oritech:processing_unit"
       }
     },
     {
-      "count": 48,
+      "count": 24,
       "ingredient": {
         "tag": "oritech:biomatter"
       }
     },
     {
-      "count": 64,
+      "count": 6,
       "ingredient": {
         "item": "minecraft:golden_carrot"
       }
     }
   ],
-  "rfCost": 30000000,
+  "rfCost": 150000,
   "time": 500,
   "toggleable": true,
   "uiX": 90,
