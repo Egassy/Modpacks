@@ -2,7 +2,8 @@
   "items": [
     { "id": "enchanted:waystone", "count": 1 },
 	{ "id": "enchanted:ender_dew", "count": 1 },
-    { "id": "linkingbooks:blank_linking_book", "count": 1 }
+    { "id": "linkingbooks:linking_panel", "count": 1 },
+	{ "id": "minecraft:book", "count": 1 }
   ],
   "shapes": {
     "enchanted:large_circle": "enchanted:otherwhere_chalk"

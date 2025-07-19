@@ -67,8 +67,13 @@
 		"oritech:fluid_pipe_duct_block",
 		"oritech:item_pipe",
 		"oritech:framed_item_pipe",
+		"oritech:transparent_item_pipe",
 		"oritech:item_pipe_duct_block",
 		"oritech:item_filter_block",
-		"eternal_starlight:wip"
+		"oritech:pipe_booster_block",
+		"oritech:copper_nugget",
+		"malum:coal_fragment",
+		"malum:copper_nugget",
+		"#eternal_starlight:wip"
   ]
 }

@@ -370,11 +370,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "a9d2db6422752d453b327cef1d9778a4f0d4928537c190006fc41bd55bd50ace"
+hash = "4a1cf832192bc75f265a446db437ded0d287a0cde6e40e7958a77fdc28a344b0"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "6b97250a89a36ef6aca5c89c6eb975d7a5cd01faa8187a2bad47ae00b0de89bf"
+hash = "c7a64fc5001ea19f3eca0024a5ee67641ebc01e2e1da371c3632d5bcb58b16be"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/datanessence/worldgen/placed_feature/sanctuary/calcite_spire.json"
@@ -383,6 +383,10 @@ hash = "72e0ba799f2657c29930624081a855a37220b3865f9402b4ce93f11634405949"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/eternal_starlight/tags/item/scythes.json"
 hash = "0836728124427ccd0de575ee2ee049cef0c45f1876d49c00540475ecf66e6c3b"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/eternal_starlight/tags/item/untrimmable_armor.json"
+hash = "19697430c4a3627dbde71596b4d0e9c64340499b83725de98538c94633163daa"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/eternal_starlight/worldgen/biome/crystallized_desert.json"
@@ -398,7 +402,7 @@ hash = "d717251cfc2f1ef6d93d1b18b8f76c83fdc1726a415f5f3ea8e4e3ec546d69b2"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
-hash = "fcd15d863f85bcef12594fbbdd2f5a2c0cd68c3f677d77217442c93e18597bb9"
+hash = "76cbb4964f11d17102ae6785224d5591fce06dc4be9f74ac471a1cf4d03cf1f5"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
@@ -475,6 +479,30 @@ hash = "7cd95751b0481c1f06e0a13c6ce374a0455bbd699472763f6f9075e82fe48ef2"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/tethered_link_effect.json"
 hash = "2e5f81acead7dd50f6bae646e44273476cf578429471d84cda49f7aa942f0910"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_small_tainted_rock_bricks_wall.json"
+hash = "8ea7029fad4b9e794e865b48d68d2bfac12ec4f8fda6f24fd722d9ea80cdb725"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_small_twisted_rock_bricks_wall.json"
+hash = "5f4e8f53e7cdbf4be41549a46239ccebec2e80bdcc0de08294b0a1f731d0c1dc"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_tainted_rock_bricks_wall.json"
+hash = "94c73a10429b8913733c63a862d2beeb8c2091a2447ec4cc0787ddf134c887c6"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_tainted_rock_tiles_wall.json"
+hash = "48de03f458cc8f9daffd7f477713b94ad3c1a82724a5edfe1686cb0bea5f84a3"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_twisted_rock_bricks_wall.json"
+hash = "ca4b6850a1b11481cc8b41919079409e3b59c37b47f6b3f44e10a6b1a0f84841"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_twisted_rock_tiles_wall.json"
+hash = "9df020c071c8833d488d913c6f50000481fae6fc11d0cfc60e3e42e4cc67353c"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/malum/tags/item/scythe.json"
@@ -597,6 +625,14 @@ file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/we
 hash = "33f52345b788aa9939afaa638411e3fced4115d25d6004927346731d45f9a317"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/copper_nugget_from_blasting_small_copper_dust.json"
+hash = "3f0a8bd4507d16a3d0fbc692d9c6f0595cd7f89ee49ff3bf667f37657403c309"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/copper_nugget_from_smelting_small_copper_dust.json"
+hash = "cc22068268b85215dc7a71de4eda52fcd74d1b8f91a1b4ed452e1fcd3595712c"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/particle/echo_shard.json"
 hash = "afb792a0c51b79011fa4bd238c000098a8e1537bce4a310df3666b5b3c126311"
 
@@ -613,6 +649,10 @@ file = "global_packs/required_data/industrytweaks/data/oritech/worldgen/configur
 hash = "92516ddd77faba7c1b7702819326b7fb8f4abf74113f72d9886ed70d87221dd0"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/suppsquared/recipe/copper_plaque.json"
+hash = "c1b73e820a0037a97d5cef2da66e3182986ff83cbcf22b08c947b42228ba826d"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/thaumon/recipe/polished_ancient_stone.json"
 hash = "d469edb837190e7b9d885f7be3cc7e4af83b053fefa06414e7dfe2f71458e199"
 
@@ -626,7 +666,7 @@ hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "47302d4ffb74ac33a83fa8b9358418ed125a9ac88bb36cd026b8233835e3bb14"
+hash = "12eb503c395cf446e95b517992a09983af92e4cae8d60648fb4977412047b759"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"
