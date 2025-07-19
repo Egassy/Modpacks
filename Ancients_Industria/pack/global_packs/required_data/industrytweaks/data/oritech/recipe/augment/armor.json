@@ -4,11 +4,11 @@
     {
       "count": 4,
       "ingredient": {
-        "item": "oritech:duratium_ingot"
+        "tag": "c:gems/diamond"
       }
     },
     {
-      "count": 32,
+      "count": 16,
       "ingredient": {
         "tag": "c:ingots/iron"
       }
@@ -23,25 +23,19 @@
   "requirements": [],
   "researchCost": [
     {
-      "count": 64,
-      "ingredient": {
-        "tag": "c:ingots/steel"
-      }
-    },
-    {
-      "count": 8,
-      "ingredient": {
-        "item": "oritech:duratium_ingot"
-      }
-    },
-    {
       "count": 16,
+      "ingredient": {
+        "tag": "c:ingots/iron"
+      }
+    },
+    {
+      "count": 2,
       "ingredient": {
         "tag": "c:gems/diamond"
       }
     }
   ],
-  "rfCost": 80000000,
+  "rfCost": 400000,
   "time": 800,
   "toggleable": false,
   "uiX": 30,

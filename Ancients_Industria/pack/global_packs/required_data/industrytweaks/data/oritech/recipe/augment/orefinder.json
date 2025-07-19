@@ -7,6 +7,11 @@
         "item": "oritech:enderic_lens"
       }
     },
+	{
+      "ingredient": {
+        "item": "oritech:overcharged_crystal"
+      }
+    },
     {
       "ingredient": {
         "item": "datanessence:mineral_finding_rod"
@@ -29,14 +34,9 @@
       }
     },
     {
-	  "count": 4
+	  "count": 8,
       "ingredient": {
         "item": "datanessence:lensing_crystal"
-      }
-    },
-    {
-      "ingredient": {
-        "item": "oritech:overcharged_crystal"
       }
     },
     {
