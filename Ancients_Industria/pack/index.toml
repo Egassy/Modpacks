@@ -481,6 +481,122 @@ file = "global_packs/required_data/industrytweaks/data/malum/tags/item/scythe.js
 hash = "093e5edf2ae3555d8528a0438f0c13482ed0851d7920ad7e38e2de22d2e7786e"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/armor.json"
+hash = "7295fb7889be71c55e1215e554693a36c62e651ce6dde1b794ee8ddaabf79503"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/attackdamage.json"
+hash = "87f66b3c2b7ef221e8474ea2d8f76d22b07a01c326fbf2b016f91463ea528d37"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/autofeeder.json"
+hash = "2e92c8f9371e2fd857cfe09ebd287d046692efc0649d7f2f6837158a0650f1af"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/betterarmor.json"
+hash = "0f37b4411cd9ca34acf03152363a21b885384cb25a76feed4c9e315d2a7b6136"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/blockreach.json"
+hash = "9b7e516190396440e0697d2590aec7de75d86ea0aa0e9451206bda31999f1475"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/cloak.json"
+hash = "bb34a53dd572167af76e2bc66dac85911d1faf701a00db04fc05186f94931cd8"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/dwarf.json"
+hash = "a22ba7ce9ced14c1edf1338cb5b1e9238ba5640caabca7cef8e11fb1f65e693e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/farblockreach.json"
+hash = "af98c85fe591a935c2e74242e9358bade38fc5906677cb3d36c5dd84786e296d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/flight.json"
+hash = "5fa4af7fcd400116a998a90e104bcd1fcff1dec5ab3e5dd6a192285e0d55f10c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/giant.json"
+hash = "5f8bfc9fee719d77c9e17e9bc989eaef94e6cbabf26bdc596aa39eb4b2f0f3b1"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/gravity.json"
+hash = "47ad6678fbd0def37162baee9cc6b0ba856f41e5348739e108856331d9b4f946"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboost.json"
+hash = "19e63a6c0956a825fa37ce5f6b323b39dbeea9ae47393d51633033173940cf65"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboostmore.json"
+hash = "6b1a3929ed84298e5ed790371d5c628b4f786d29a9df90b755be77abcb940645"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboostultimate.json"
+hash = "9a67a7ba75e7e6f4857cb2a591637285370f0e6059329b404261e3be8f4aa949"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboostultra.json"
+hash = "fd0be39a935b9d1c748ae1474912319f206e1b0d7a6227ab881085aedd8b62d6"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/luck.json"
+hash = "ada39dbc9954afde16944bd9fd2eee470d9f676af996a5bed7f6d5213aa67a6d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/magnet.json"
+hash = "805aa7a1af87f8ae11e87a499efa61c7d00e93435b6c3df50e20fd95f14a9f9d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/miningspeed.json"
+hash = "e0d2ca4fad8e8607c978b3ccb10674151c2625ab9191a97f8ea3a89ad49d6fcf"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/nightvision.json"
+hash = "19b8533423cda3d277794948a11a867fb2b3c6864ffdb8ca15c72553fafd60a9"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/orefinder.json"
+hash = "acd03ec17a3c353a79ec7dfe6039d56308409f93e0f12a388de62d72aced65c4"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/portal.json"
+hash = "84739ff2cfe54e1b9a6517e3552cf982205ae522d0596c74519d270bec8f5655"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/speedboost.json"
+hash = "bd9994c270198c131c77994cfd435d5bbe3db8f4f91fa285a51173718fc9114e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/stepassist.json"
+hash = "dfa1086891779c3565395c619d62f0937babe639a061cfaf93f1e555a1edb36c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/superattackdamage.json"
+hash = "b0857bf7a67f526d9c6bd34b371f8611f959b1e2100732b82f39ac58e36e8e40"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/superminingspeed.json"
+hash = "a1be30383a4d87ae8fb1458658762bf4874657215679956f3564f36dff309277"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/superspeedboost.json"
+hash = "99ff3798d846684f4c2327247708b02fec8864ab6a9a4d53d4f1f4d2a062b85d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/ultimatearmor.json"
+hash = "529f71236a5f577247f61f298210566c38a61949444afcc0ed9e0d44a962fb86"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/waterbreath.json"
+hash = "334f9dfc593e62fd144c5859d09e051d5acbfbf7cd2cb475da65c34d328fbce3"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/weaponreach.json"
+hash = "40d2eb82ae5a513c5460ab6492cd5c1118d0398a6d14b861cd6526845a438290"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/particle/echo_shard.json"
 hash = "afb792a0c51b79011fa4bd238c000098a8e1537bce4a310df3666b5b3c126311"
 
