@@ -925,6 +925,11 @@ hash = "609ef5b1508d581a70d521234571c160c987354dfbb0d7e9cb3be7e18e5494b8"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "a5e837dd0b40e4c730252cd8b571a28bb8baab22ab8c277d2293b39ab403c201"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
 metafile = true
@@ -1022,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "0260e1b1506d0ceece1d40014db6b6a36b1780fd6c8bd9f9fad23ae5fe0316f4"
 metafile = true
 
 [[files]]
