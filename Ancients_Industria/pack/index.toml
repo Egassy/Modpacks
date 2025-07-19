@@ -510,7 +510,7 @@ hash = "093e5edf2ae3555d8528a0438f0c13482ed0851d7920ad7e38e2de22d2e7786e"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/armor.json"
-hash = "7295fb7889be71c55e1215e554693a36c62e651ce6dde1b794ee8ddaabf79503"
+hash = "c29f3328d56838f3bd1d18bd72d2f95cc219f645bf86c8ce111747b98d090557"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/attackdamage.json"
@@ -558,7 +558,7 @@ hash = "79507892da1034091add28bb590d6cca5d98b7aeb3d1c886f5ec8be44f172638"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboostmore.json"
-hash = "cf6dc7d3de0ae03c8f72076a2f1ce882e2985d39880d22d244f44c59f8e69846"
+hash = "c8a2965b9be615a8d42360c5f81944a0ec490d088982317d5015ecb8de28367a"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboostultimate.json"
@@ -566,7 +566,7 @@ hash = "ff18e74b238d541519d8564fe878e6819dfeac304c7038f23fb3c6915c069c97"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/hpboostultra.json"
-hash = "440fec45694153998595964e06577f3d508c240213690b0e2ea0a58737bef6e2"
+hash = "a2aeac22363dad694ff1656917b828c404c07f47c91425899ce2af4462396d29"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/luck.json"
@@ -586,7 +586,7 @@ hash = "195088c04172ad36df7b59f4d07907ba6ba3cf83aa1c70a45bbe7f561c984130"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/orefinder.json"
-hash = "c3cf5d2ba51cde3186e1f6d24cc5c705f4a4a158e10669ffecf6d849a92f5256"
+hash = "0b3ec594097c035ce86e1d35103492bc6aba465d1945cd4073847393c80b8e8d"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/portal.json"
