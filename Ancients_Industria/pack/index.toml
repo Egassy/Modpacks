@@ -509,6 +509,10 @@ file = "global_packs/required_data/industrytweaks/data/malum/tags/item/scythe.js
 hash = "093e5edf2ae3555d8528a0438f0c13482ed0851d7920ad7e38e2de22d2e7786e"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
+hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/armor.json"
 hash = "c29f3328d56838f3bd1d18bd72d2f95cc219f645bf86c8ce111747b98d090557"
 
@@ -675,6 +679,10 @@ hash = "6df5d174a1e6cbe0444de6d0decff5d18d0618fdc3f73d189a21c63476a4d6e7"
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/schema.xsd"
 hash = "7b0db9478517b1a675a162170c20f1ae95f8a28b2d5a81fc51d1bd15f262f41d"
+
+[[files]]
+file = "global_packs/required_resources/Industryassets/assets/oritech/lang/en_us.json"
+hash = "b589b28e3001e0d09d37840c4425aec87bdb5f6855b9014c0430181f32f6b703"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/the_bumblezone/textures/entity/bee_variants/reika_kalsekbee/bee.png"
@@ -1178,4 +1186,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "1abf37dce367c9c6f3155f345dc6dc0d896b8c5b1ec8d101fdd675cc51820bd7"
+hash = "a5354f46793103f582a5ec5ad5dff5d82f539a44ee04d5d1b7d7b7a4a4ec9e78"

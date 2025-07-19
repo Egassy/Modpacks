@@ -1,6 +1,6 @@
 [flavor_groups.rendering]
 name = "Rendering Mod"
-description = "Rendering mod to use. Sodium is better and more effective, however it has some layer sorting issues that result in Wings wings having no visable feathers and looking like grotesque fleshy appendages instead of wings. Embeddium does not have this issue."
+description = "Rendering mod to use. Sodium is better and more effective, however it has some layer sorting issues that result in Wings wings having no visible feathers and looking like grotesque fleshy appendages instead of wings. Embeddium does not have this issue."
 side = "both"
 [[flavor_groups.rendering.choices]]
 id = "rendering_sodium"
@@ -14,6 +14,23 @@ description = "Installs Embeddium."
 id = "rendering_none"
 name = "No"
 description = "Do not install a rendering mod."
+
+[flavor_groups.fonts]
+name = "Fonts"
+description = "Changes vanilla font to one of the following."
+side = "client"
+[[flavor_groups.fonts.choices]]
+id = "fonts_fontolith"
+name = "Fontolith"
+description = "Installs Fontolith, a thin, blocky font \"with a slight hint of fantasy\"\nMade by our very own Idi."
+[[flavor_groups.fonts.choices]]
+id = "fonts_unsanded"
+name = "Unsanded"
+description = "Installs Unsanded, a blunt, chunky font\nMade by Unascribed."
+[[flavor_groups.fonts.choices]]
+id = "fonts_none"
+name = "Vanilla"
+description = "Use the vanilla font, no changes."
 
 [flavor_groups.ears]
 name = "Ears"
@@ -80,11 +97,41 @@ id = "invsorter_off"
 name = "No"
 description = "Do not install Inventory Sorter."
 
+[flavor_groups.neoauth]
+name = "Neoauth"
+description = "Reauthentication without closing the game. Client only."
+side = "client"
+[[flavor_groups.neoauth.choices]]
+id = "neoauth_on"
+name = "Yes"
+description = "Installs Neoauth."
+[[flavor_groups.neoauth.choices]]
+id = "neoauth_off"
+name = "No"
+description = "Do not install Neoauth."
+
+[flavor_groups.figura]
+name = "Figura"
+description = "Animation-capable player models that come directly from Blockbench, with near unlimited capabilities for customization. Client only."
+side = "client"
+[[flavor_groups.figura.choices]]
+id = "figura_on"
+name = "Yes"
+description = "Installs Figura."
+[[flavor_groups.figura.choices]]
+id = "figura_off"
+name = "No"
+description = "Do not install Figura."
+
 
 [metafile.sodium]
 flavors = "rendering_sodium"
 [metafile.embeddium]
 flavors = "rendering_embeddium"
+[metafile.fontolith]
+flavors = "fonts_fontolith"
+[metafile.unsanded]
+flavors = "fonts_unsanded"
 [metafile.ears]
 flavors = "ears_on"
 [metafile.yeetusexperimentus]
@@ -95,3 +142,7 @@ flavors = "invessentials_on"
 flavors = "mousetweaks_on"
 [metafile.inventory-sorter]
 flavors = "invsorter_on"
+[metafile.neoauth]
+flavors = "neoauth_on"
+[metafile.figura]
+flavors = "figura_on"
