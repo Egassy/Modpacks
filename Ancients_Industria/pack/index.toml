@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "42270879c65390a39b9c8c0a6690bd2f01f756ad89a09a0de7bcc57633c5400a"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -864,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "033965cc4d3b58e2765c3a712ca8a226663ffae25eee8d3b81f72ed84cc5e484"
+metafile = true
+
+[[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "91ac310d8536931e35ca489098f8f78b42ecf0ea4527a94a9abed92a2fe4ad9e"
 metafile = true
 
 [[files]]
@@ -1084,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames-unofficial-neoforge.pw.toml"
 hash = "a05fab22efac8380044afb11b3cec5f9162a41331dcf321c52c5f136aeeb2f14"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
