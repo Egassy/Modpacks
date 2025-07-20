@@ -1018,6 +1018,11 @@ hash = "21e8ad5af6e6ea389ff3b5e940373db8f9bc41d544af67ba2045ced914a6565c"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "8e856852abeefc7dfb7b3af0c81ca1f878cd9bec0cfe3a47218a4e8d1f1bff0d"
 metafile = true
