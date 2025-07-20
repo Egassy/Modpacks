@@ -901,6 +901,10 @@ file = "global_packs/required_data/industrytweaks/data/oritech/worldgen/configur
 hash = "92516ddd77faba7c1b7702819326b7fb8f4abf74113f72d9886ed70d87221dd0"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/runology/advancement/runology.json"
+hash = "e3553dbf3b28ba89691405bfc5a0756f41ff2e9c37531dec46bf1d4108ec4d1d"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/suppsquared/recipe/copper_plaque.json"
 hash = "c1b73e820a0037a97d5cef2da66e3182986ff83cbcf22b08c947b42228ba826d"
 
