@@ -1,0 +1,11 @@
+[shaders]
+	#Should the gender euphoria shader be enabled?
+	genderEuphoriaShader = true
+	#Should the signal tracker ping shader be enabled?
+	pingShader = true
+	#Should the progression shader be enabled?
+	progressionShader = true
+
+[accessibility]
+	#Should tweaks, such as bypassing certain color-dependent puzzles, be made to hopefully help if you are colorblind?
+	colorblind = false

@@ -48,11 +48,17 @@
 			"maxEnergyInsertion": 256,
 			"maxEnergyExtraction": 0,
 			"energyPerTick": 32
+		},
+		"refineryData": {
+			"energyCapacity": 50000,
+			"maxEnergyInsertion": 512,
+			"maxEnergyExtraction": 0,
+			"energyPerTick": 64
 		}
 	},
 	"generators": {
 		"animationSpeedMultiplier": 10.0,
-		"rfToSteamRation": 2.0,
+		"steamId": "oritech:still_steam",
 		"basicGeneratorData": {
 			"energyCapacity": 50000,
 			"maxEnergyInsertion": 0,
@@ -79,9 +85,11 @@
 		},
 		"steamEngineData": {
 			"energyCapacity": 100000,
-			"maxEnergyInsertion": 0,
-			"maxEnergyExtraction": 10000,
-			"energyPerTick": 1
+			"maxEnergyExtraction": 50000,
+			"rfToSteamRatio": 2.0,
+			"steamToRfRatio": 1,
+			"stopOnEnergyFull": false,
+			"stopOnWaterFull": true
 		},
 		"solarGeneratorData": {
 			"energyCapacity": 100000,
@@ -122,6 +130,16 @@
 		"moveEnergyUsage": 8,
 		"workEnergyUsage": 64
 	},
+	"addonConfig": {
+		"speedAddonSpeed": 0.5,
+		"speedAddonEfficiency": 1.2000000476837158,
+		"efficiencyAddonEfficiency": 0.800000011920929,
+		"ultimateAddonSpeed": 0.25,
+		"ultimateAddonEfficiency": 1.100000023841858,
+		"chamberAddonEfficiency": 1.5
+	},
+	"additiveAddons": true,
+	"layeredExtenders": false,
 	"smallEnergyStorage": {
 		"energyCapacity": 1000000,
 		"maxEnergyInsertion": 5000,
@@ -151,33 +169,33 @@
 	},
 	"basicJetpack": {
 		"energyCapacity": 100000,
-		"fuelCapacity": 324000,
+		"fuelCapacity": 4000,
 		"energyUsage": 128,
-		"fuelUsage": 810,
+		"fuelUsage": 10,
 		"chargeSpeed": 1024,
 		"speed": 0.4000000059604645
 	},
 	"exoJetpack": {
 		"energyCapacity": 5000000,
-		"fuelCapacity": 2592000,
+		"fuelCapacity": 32000,
 		"energyUsage": 256,
-		"fuelUsage": 1215,
+		"fuelUsage": 15,
 		"chargeSpeed": 10000,
 		"speed": 1.5
 	},
 	"elytraJetpack": {
 		"energyCapacity": 100000,
-		"fuelCapacity": 324000,
+		"fuelCapacity": 4000,
 		"energyUsage": 128,
-		"fuelUsage": 810,
+		"fuelUsage": 10,
 		"chargeSpeed": 1024,
 		"speed": 0.6000000238418579
 	},
 	"exoElytraJetpack": {
 		"energyCapacity": 5000000,
-		"fuelCapacity": 2592000,
+		"fuelCapacity": 32000,
 		"energyUsage": 256,
-		"fuelUsage": 1215,
+		"fuelUsage": 15,
 		"chargeSpeed": 10000,
 		"speed": 1.399999976158142
 	},
@@ -196,7 +214,23 @@
 		"energyUsage": 10,
 		"chargeSpeed": 512
 	},
-	"generateOres": true,
+	"electricMace": {
+		"energyCapacity": 500000,
+		"energyUsage": 2048,
+		"chargeSpeed": 50000,
+		"baseDamage": 8,
+		"lightningCostMultiplier": 8
+	},
+	"portableLaserConfig": {
+		"energyCapacity": 5000000,
+		"energyPerTick": 4096,
+		"energyPerBoom": 100000,
+		"blockBreakSpeed": 0.125,
+		"damageBase": 4,
+		"explosionStrength": 6
+	},
+	"chainsawTreeCutting": true,
+	"generateOresFabricOnly": true,
 	"easyFindFeatures": true,
 	"safeMode": false,
 	"safeModeCooldown": 2400,
@@ -208,27 +242,34 @@
 	"ventBaseRate": 4,
 	"ventRelativeRate": 100,
 	"maxHeat": 2000,
-	"maxUnstableTicks": 400,
+	"maxUnstableTicks": 600,
+	"boringNukes": false,
 	"enchanterCostMultiplier": 5,
 	"catalystBaseSouls": 50,
 	"catalystRFPerSoul": 20,
 	"catalystCostMultiplier": 2,
 	"catalystHyperMultiplier": 2,
+	"catalystHyperExpFactor": 1.149999976158142,
 	"spawnerCostMultiplier": 1,
 	"maxGateDist": 10,
-	"bendFactor": 3,
+	"bendFactor": 2.5,
 	"accelerationRFCost": 10,
+	"acceleratorMotorRFCapacity": 5000000,
 	"endPortalRequiredSpeed": 10000,
 	"netherPortalRequiredSpeed": 5000,
 	"blackHoleRequiredSpeed": 15000,
 	"collectorEnergyStorage": 1000000,
-	"tachyonCollisionEnergyFactor": 1.0,
+	"tachyonCollisionEnergyFactor": 1.2,
 	"pullTimeMultiplier": 8,
 	"pullRange": 16,
 	"idleWaitTicks": 200,
 	"blackHoleTachyonEnergy": 50000,
+	"unstableContainerBaseCapacity": 20000000,
+	"augmenterMaxEnergy": 500000000,
 	"tightMachineAddonHitboxes": true,
 	"tightMachineFrameHitboxes": false,
 	"tightCableHitboxes": true,
-	"machineVolumeMultiplier": 1.0
+	"machineVolumeMultiplier": 1.0,
+	"showMachinePreview": true,
+	"enableHelpButton": true
 }

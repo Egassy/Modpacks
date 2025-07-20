@@ -78,7 +78,7 @@
 	enableVoidUpgrade = true
 	#Balance upgrades allow same-item slots to balance out their amounts when items are
 	#added or removed from a lot.  Works across networks when acting through a controller.
-	enableBalanceUpgrade = true
+	enableBalanceUpgrade = false
 	#Allows drawers with contents to be freely carried when heavy drawers is enabled.
 	enablePortabilityUpgrade = false
 	#Allows a single drawer to connect to a controller remotely.

@@ -18,4 +18,4 @@
 		#If an anonymous mod startup analytics request may be sent to our analytics service.
 		analytics = false
 		#If the version checker should be enabled.
-		versionChecker = true
+		versionChecker = false

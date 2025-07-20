@@ -11,23 +11,23 @@ invCableConnectorMaxScanSize = 2048
 #Wireless terminal reach
 # Default: 16
 # Range: 4 ~ 64
-wirelessReach = 16
+wirelessReach = 32
 #Wireless terminal reach
 # Default: 64
 # Range: 16 ~ 512
-advWirelessRange = 64
+advWirelessRange = 128
 #Adv Wireless terminal requied beacon level for infinite range
 #Value of 0 only requires a single beacon block nearby
 #Value of -1 disables this feature entirely
 # Default: 1
 # Range: -1 ~ 4
-wirelessTermBeaconLvl = 1
+wirelessTermBeaconLvl = 2
 #Adv Wireless terminal requied beacon level for cross dimensional access
 #Value of 0 only requires a single beacon block nearby
 #Value of -1 disables this feature entirely
 # Default: 4
 # Range: -1 ~ 4
-wirelessTermBeaconLvlDim = 4
+wirelessTermBeaconLvlDim = 3
 #Inventory Cable Connector requied beacon level for inventory linking
 #Value of 0 only requires a single beacon block
 #Value of -1 disables this feature entirely

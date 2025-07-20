@@ -13,6 +13,10 @@
         "namespace": "oritech",
         "path": "recipe/gold_ingot"
       },
+	  {
+        "namespace": "oritech",
+        "path": "recipe/crafting/nukebetter"
+      },
       {
         "namespace": "farmersdelight",
         "path": "recipe/cake_from_milk_bottle"

@@ -52,10 +52,13 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "nautec": {
-    "aquatic_catalyst": true,
-    "laser_junction": true,
-    "mixer": true
+  "tempad": {
+    "chronon": true,
+    "rudimentary": true,
+    "metronome": true,
+    "anchor": true,
+    "workstation": true,
+    "timedoor": true
   },
   "jade_access": {
     "held_item": true,
@@ -85,9 +88,8 @@
     "block_properties": false,
     "mod_name": true
   },
-  "modern_industrialization": {
-    "overclock": true,
-    "pipe": true
+  "balm": {
+    "jade": true
   },
   "integrateddynamicscompat": {
     "proxy": true,

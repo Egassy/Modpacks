@@ -42,7 +42,7 @@
 	#
 	# Default: 0.025
 	# Range: 0.0 ~ 1.0
-	spawnrateOfTropicraftBeesMobs = 0.05
+	spawnrateOfTropicraftBeesMobs = 0.025
 	#----------------------------
 	#
 	# Allow Honeycomb Brood blocks fed by Dispenser to be able to have chance of spawning Tropicraft's Tropibee.

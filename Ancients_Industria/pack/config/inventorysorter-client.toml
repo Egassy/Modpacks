@@ -5,4 +5,4 @@
 	#Wheel move module
 	wheelmovemodule = false
 	#Avoid conflicts with mousetweaks wheel moves
-	dodgemousetweaks = false
+	dodgemousetweaks = true

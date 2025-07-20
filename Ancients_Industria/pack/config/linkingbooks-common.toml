@@ -5,7 +5,7 @@ alwaysAllowIntraAgeLinking = false
 # Range: > 0
 linkingCostLevels = 0
 #Whether to give the guidebook to every player when they first join.
-giveGuidebookOnFirstJoin = true
+giveGuidebookOnFirstJoin = false
 #Whether to give a Relto book to every player when they first join.
 giveReltoBookOnFirstJoin = false
 #The maximum render distance (in chunks) of a linking panel.

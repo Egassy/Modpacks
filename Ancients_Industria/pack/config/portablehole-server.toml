@@ -2,18 +2,18 @@
 #Default Value: 12
 # Default: 12
 # Range: > 1
-temporary_hole_depth = 12
+temporary_hole_depth = 16
 #For how long does a temporary hole stay open.
 #Default Value: 100
 # Default: 100
 # Range: > 0
-temporary_hole_duration = 100
+temporary_hole_duration = 200
 #Maximum block hardness a portable hole can replace.
 #Check out the Minecraft Wiki for more information: https://minecraft.fandom.com/wiki/Breaking#Blocks_by_hardness
 #Default Value: 20.0
 # Default: 20.0
 # Range: 4.9E-324 ~ 1.7976931348623157E308
-max_block_hardness = 20.0
+max_block_hardness = 9.0
 #Cooldown in ticks after using a portable hole.
 #Default Value: 40
 # Default: 40
