@@ -1397,6 +1397,11 @@ hash = "3f2d17fb2c97ce6443c0631496c49fbbd4320002adb22ea55cf2d434cec850d2"
 metafile = true
 
 [[files]]
+file = "mods/the-magic-mirror.pw.toml"
+hash = "f07cade432f857421d283ba3ed10b547dfc3abd9d683790f49f1db23ddec4b6c"
+metafile = true
+
+[[files]]
 file = "mods/theurgy.pw.toml"
 hash = "7c51d530f4e5b5b272c052d9b37bc3be51bbc0364881c8deb9d76e9d6db0adf6"
 metafile = true

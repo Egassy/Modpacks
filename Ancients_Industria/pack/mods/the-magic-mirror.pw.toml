@@ -1,0 +1,13 @@
+name = "The Magic Mirror"
+filename = "MagicMirror-1.21.1-1.0.0.1887.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I6a5IY5k/versions/Wv8hbpyj/MagicMirror-1.21.1-1.0.0.1887.jar"
+hash-format = "sha512"
+hash = "9b4f28cb7371da56cbb626ad9d71cc50859a19141726eecbdb079042d7b837c0e2a4a4af9fa9a5fa577332113d3610b985aaf4b4369073679b1a92ca56adc9d8"
+
+[update]
+[update.modrinth]
+mod-id = "I6a5IY5k"
+version = "Wv8hbpyj"
