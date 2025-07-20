@@ -433,6 +433,206 @@ file = "global_packs/required_data/industryfilters/pack.mcmeta"
 hash = "91e1a2f7240fc85fee5e350232f671328d3fb7047b2bd0e8cc733b12d588c211"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/acacia_backpack_shelf.json"
+hash = "7d30f3b5496931ebc010475b11272d3c271f4ee905f043f29bdc49a6bf2a1896"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/birch_backpack_shelf.json"
+hash = "bd3e74f96411a53ca577e9f3fc7b352c261a05357c1b23c1da40c089d912e5c6"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/cherry_backpack_shelf.json"
+hash = "f90aad4c3187e4650e3afc9489171619453851154451dfd4e5c6072c0f766be1"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/crimson_backpack_shelf.json"
+hash = "29c4ea7a1ba9ba76917b052a15e4815303276d88cc5af36be3a060b41f7c427c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/dark_oak_backpack_shelf.json"
+hash = "213f833ae6d6b167377b778f39c9d861e500533c61d980d4d89a3797950db97d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/jungle_backpack_shelf.json"
+hash = "bfcca05045d86d78ed81d3159deef5179f64f4732e4cb6213907e321fa100c43"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/oak_backpack_shelf.json"
+hash = "da833692b5578d79c1fdc615f485a66fd3fad2e0330a0afa99d20752d7192dd5"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/spruce_backpack_shelf.json"
+hash = "eb18818e0e8c3c091fa5900439f1e81b18de78d4a4e1c0f80e42c2570a4b3de9"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/warped_backpack_shelf.json"
+hash = "ab81cfd409e666613c42600502fba329eeb08898689a994c56d418a69a80d4cd"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/misc/backpack.json"
+hash = "c33e1b4c637bc0a9c5d077facb2fb1ebe84ba17a625ccc81280782f064d662d0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/bamboo_basket.json"
+hash = "58e5a0c4227ebb169e21fd25c8f3a9aebd0f01fde71e81b4a6e3d6399a86e4c7"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/cardboard_box.json"
+hash = "44ae98f0493604f43ada4194869a22153ccdae4a7dde87b527079a23ce73870c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/classic.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/cogwheel.json"
+hash = "3d94bb4164d8a58da5e4a89590dcf4c5d5a67497c3eefc3276a10275aa52e770"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/end_crystal.json"
+hash = "51fc256f8cd59e4ca2cf2126d55f104e865dd87ff92db5f166775cd5f389c56e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/honey_jar.json"
+hash = "a91b3ad23ceac80e50b867ee9aa00d7f4b83a330e4fe8ac7cb72a69813f9c48e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/mini_chest.json"
+hash = "57688e256862bb2ce883435b1c4ed6037163bc7c6f087bd6a9be22cfa5d6e5ac"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/piglin_pack.json"
+hash = "a734808fadad31cb930e6c270480a41acfbd60d98e81cdc78f9cdd5393312ac5"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/rocket.json"
+hash = "85b7db3dc8d02cf118ba99471cb19636a303001fdfbce88992e7cc12380e6ece"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/sheep_plush.json"
+hash = "8e92dd8318e12bcbb2c540a974734203761737db81a09799b7d2bcdc24fad922"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/standard.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/trash_can.json"
+hash = "ebccc13f31eab9ef6330df503c479111e816b6087cb1cd0bcaaa73b7251c128b"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/turtle_shell.json"
+hash = "c2ad44d3a49f6db1283f35ffbacc346f3fc61d15ae2b036dd6f00530538a4960"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/backpacked/wandering_bag.json"
+hash = "a8808a62ae06f43c87d906813592a2aa9d4f802d8f317a57922fbaa4967c0166"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/enchantment/funnelling.json"
+hash = "d1ee8971e85153a98df24aa89cd9bdc4554740e2f8106c10cd9f4635cb01e87c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/enchantment/imbued_hide.json"
+hash = "55d4ea1d9aa2ca4f4c1b653cbd12fe61522de6d861f28202d44019ca555492ba"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/enchantment/looted.json"
+hash = "7baea9c52ebff7725f652289c22d04042603c0e71ec02db40f32afc24d3fdc6f"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/enchantment/marksman.json"
+hash = "f487a277809abdb067ac3150e689aa9a6649f979d617cb2037793566a0f0b963"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/enchantment/repairman.json"
+hash = "dcd3bd92272163088fa08566bd70fec064258d6c291afe03473fce5f288ad447"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/acacia_backpack_shelf.json"
+hash = "97055e6c092decd5261ef694678bb2f03c38328c2f52289449224209de586590"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/birch_backpack_shelf.json"
+hash = "c58db50d1692370ab2b386fd2b1d65cda2de31765ec482ca04e842b18030703e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/cherry_backpack_shelf.json"
+hash = "bfb590cc76f0240d16c6db1d192520dca091e425ce859063a0ef4c52f4de1ca3"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/crimson_backpack_shelf.json"
+hash = "bae133e51f32244d080ed2dd353c6bc796644a61db89da389cc007781bb37050"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/dark_oak_backpack_shelf.json"
+hash = "906bf2cc626e78eaf936701f5cc3d627ff388fb0adbacfd49da2daf17daaf18d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/jungle_backpack_shelf.json"
+hash = "6da1218ca7b7e70505d6f78213a713db658f428b411f3e50edf8cfc553608b09"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/oak_backpack_shelf.json"
+hash = "359f2253fffd4970583050865f56a6e8459b86f04f7b7572d2b485773c7737f7"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/spruce_backpack_shelf.json"
+hash = "095bab5c19be0df0f5c880eeaae4822c84ccdc85a9119c6b48aae5e20edd9cad"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/loot_table/blocks/warped_backpack_shelf.json"
+hash = "00b10c49d94adf0a321c6d7884868ee3d93530156b2e8d04b084c90f7ebeb5ba"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/acacia_backpack_shelf.json"
+hash = "20ea9e79f16a5708d764526b764fe7eeea32b979e085ff6b2ba369886bf92b6b"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/backpack.json"
+hash = "94b83c8eecfab14006d9097b02075df30931847ed77c9401b55643cc0829a0f9"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/birch_backpack_shelf.json"
+hash = "54c312faa3ea9edc34871835b07374dbe450c8debe468e2396e340ef032ef8d4"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/cherry_backpack_shelf.json"
+hash = "97958e64b5da5a1b2196d6e56cd2cc572faa5b2c603c16162fb0136becd8b44e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/crimson_backpack_shelf.json"
+hash = "890120b0c380020877bcbe585d2e9ee692bd03ef075f6b8a876886cfbddbcb3c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/dark_oak_backpack_shelf.json"
+hash = "51335d9017acb05d0449a5d8b41e2bdbbed746ced8a5e9537ad513108ce3e308"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/jungle_backpack_shelf.json"
+hash = "d0a90d7b433ee6aedd1e35e830fea3920cfd249b5457f34b2159413dfe8bb311"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/oak_backpack_shelf.json"
+hash = "965962285db48d4e11856907c47c54e19d83e087b4ab9367ee28fd32d7fa8d5f"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/spruce_backpack_shelf.json"
+hash = "30fcfd20b6675f1587400d34edfb03fae5856fb3e27af6fc395f8842fb6da523"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/recipe/warped_backpack_shelf.json"
+hash = "29eb1a428d3442fea13a3eaf6f8fab772c68dc3577cf17e8121069825f8c0aa8"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/tags/block/funnelling.json"
+hash = "849d98e6054422c770e4468103b8c3e742360b3ceb02278ab76f3a47a435b34f"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/backpacked/tags/item/enchantable/backpack.json"
+hash = "f2de6ccbf81b5f5b7943d690761d22f63bcb41ec2d9e0d2671757da8bdd48bfa"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "94fc616b8ee6cfc1fc16f171abfb265664b9af600bbe48340c27d99c665da722"
 
@@ -571,6 +771,10 @@ hash = "093e5edf2ae3555d8528a0438f0c13482ed0851d7920ad7e38e2de22d2e7786e"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
 hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/minecraft/tags/enchantment/non_treasure.json"
+hash = "e1daadacad9a4c7476efa146aa3bb0edf689dea76a2165ea41665a383385e893"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/augment/armor.json"
