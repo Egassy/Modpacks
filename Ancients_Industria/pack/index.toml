@@ -341,10 +341,6 @@ file = "config/the_bumblezone/bee_aggression.toml"
 hash = "1041f5c5e6fbc09af5b0c288cf06ee4dca3ad266fb6db687bcb10d6227e68aa9"
 
 [[files]]
-file = "config/the_bumblezone/bee_aggression.toml.bak"
-hash = "8a4a1dc4ae91de0aee98878ecbcb75f04bcebd84f478e65d4c0e5039449a3acc"
-
-[[files]]
 file = "config/the_bumblezone/client.toml"
 hash = "2919d4dbe9377c2c9ded90374de735ec82cc79f67b77ed1607949d858265fa40"
 
@@ -355,10 +351,6 @@ hash = "bf651b4809d3d3f23221be4d2c0f05a3011e8aab83ab726e07a9867da13ac1f8"
 [[files]]
 file = "config/the_bumblezone/general.toml"
 hash = "304659d9b13cf8847f61473fc93aff2d9296fbd8ceb08a78acf572f8840fcf9a"
-
-[[files]]
-file = "config/the_bumblezone/general.toml.bak"
-hash = "e5f6b202a6800d8f12f86663ff82b3c3ab2df6b54cfe12a06b349e1619da327c"
 
 [[files]]
 file = "config/the_bumblezone/mod_compatibility.toml"
