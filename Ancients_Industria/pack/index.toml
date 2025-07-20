@@ -665,12 +665,16 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessen
 hash = "d717251cfc2f1ef6d93d1b18b8f76c83fdc1726a415f5f3ea8e4e3ec546d69b2"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/relto_book.json"
-hash = "76cbb4964f11d17102ae6785224d5591fce06dc4be9f74ac471a1cf4d03cf1f5"
-
-[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
 hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/summon_crow.json"
+hash = "59d5caa2bcf7d12e6088b8f67ca183dbf9b31d267cc2ebcba24d6fee4b5747ff"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/summon_owl.json"
+hash = "dad4b300e774741677cb9c561694754b673cad12ff80aaa5b00fe32df4c8048a"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_basic.json"
@@ -707,6 +711,10 @@ hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
 hash = "c77a2cd4867bb6602e91644742020a96bf885124981ac8e393f4fd0743ac7b15"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/courier_depots.json"
+hash = "78bc19566fad81b959c73821e0b110347b154799bf0d373d28de38b7e393e816"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
@@ -922,7 +930,7 @@ hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "12eb503c395cf446e95b517992a09983af92e4cae8d60648fb4977412047b759"
+hash = "715d5d24de9608f8293db8bd97eadb92d7a327f97ced98a8e2ef9cb9004bc298"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"
