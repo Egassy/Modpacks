@@ -6,7 +6,7 @@
     { "id": "minecraft:cod", "count": 1 }
   ],
   "shapes": {
-    "enchanted:large_circle": "enchanted:ritual_chalk"
+    "enchanted:large_circle": "enchanted:ritual_chalk",
 	"enchanted:small_circle": "enchanted:otherwhere_chalk"
   },
   "power": 4000,

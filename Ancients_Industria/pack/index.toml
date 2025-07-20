@@ -670,11 +670,11 @@ hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/summon_crow.json"
-hash = "59d5caa2bcf7d12e6088b8f67ca183dbf9b31d267cc2ebcba24d6fee4b5747ff"
+hash = "7a61c9892ec2a3314def2054587cc94cf5b9788e661465bb369c36c51d159ef0"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/summon_owl.json"
-hash = "5a8d75b6b4c0c1344575675506a78f0737dbe63116096855e953412045f3aec5"
+hash = "c269c0f5bcd11977c566143a09cde90c1cc5ed3588e3a7aac86de15ddcac2a24"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_basic.json"
