@@ -34,78 +34,6 @@
         "path": "recipe/smelting/menril_log_filled_coal"
       },
       {
-        "namespace": "linkingbooks",
-        "path": "recipe/relto_book_from_scratch"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/white_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/light_gray_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/gray_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/black_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/brown_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/red_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/orange_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/yellow_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/lime_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/green_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/cyan_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/light_blue_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/blue_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/purple_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/magenta_blank_linking_book"
-      },
-	  {
-        "namespace": "linkingbooks",
-        "path": "recipe/pink_blank_linking_book"
-      },
-      {
         "namespace": "storagedrawers",
         "path": "recipe/conversion_upgrade"
       },
@@ -324,10 +252,6 @@
       {
         "namespace": "storagedrawers",
         "path": "recipe/warped_trim"
-      },
-      {
-        "namespace": "moderndynamics",
-        "path": "recipe/machine_extender"
       },
       {
         "namespace": "oritech",

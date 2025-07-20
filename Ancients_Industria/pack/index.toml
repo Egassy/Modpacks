@@ -181,16 +181,20 @@ file = "config/kiwi-common.yaml"
 hash = "48bca49edf4ee6b363fe56139eec197f36399fb87e73b71443959bdb8598a955"
 
 [[files]]
-file = "config/linkingbooks-common.toml"
-hash = "afa9656f875758e0f3f4e503cff5da64babf26968b021d87f7a79f8b1a59335a"
-
-[[files]]
 file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
 file = "config/lodestone-client.toml"
 hash = "18b4016645a01ca23dd45fc02b8b92405af47c0a0bfcdc9b5eeb89b8ce9329ab"
+
+[[files]]
+file = "config/lootr-client.toml"
+hash = "889010da07e630dfee2e933dd2f904069182bc252b5b73973a25b673d0f1982b"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "1efb81e5435157f1e5a9ac54d9e1619ef7921f2fdf2db2a0f5280e910ab01586"
 
 [[files]]
 file = "config/malum-client.toml"
@@ -378,7 +382,7 @@ hash = "40537f77cf60f66de7ea5b3b9415d4c007fac5ea196bc06bd33bb7d52a6949a9"
 
 [[files]]
 file = "config/trimseffects-config2.json"
-hash = "fb9e337f694f612c93090657ead54e55da3aaf87eb3732759d8ca7b2c04eacea"
+hash = "9d809083ed06b61f169c7920a2aa4a233a0cbba3e5e2649d9e45f98fd1ddffe0"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -430,7 +434,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "91e1a2f7240fc85fee5e350232f671328d3fb7047b2bd0e8cc733b12d588c211"
+hash = "78433d3b11d6e259cafc70d7c0b3d3b872f883f108c6c99672606edbdb95e6ae"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/acacia_backpack_shelf.json"
@@ -719,26 +723,6 @@ hash = "c4a5183918de126876fe360c6f0be470366b2c9ac25006f4b51d8b6bc2be45b0"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/template_pool/ancientbunker.json"
 hash = "13c1dd40ddb077b6f343e2bb1011c331b76339189c7f10b99640a1a000133882"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/intraage_link_effect.json"
-hash = "8d9299d76331804a6e653cac1b383ef0e89750aa818f624c0c8868d672710ffe"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/linking_panel.json"
-hash = "310ea26c77a5c977a289e82a6baf108b833df3d472c9e69c089cedcb38ce4ffc"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/nara.json"
-hash = "89a56c65c3152ba9d57444f13f586cf4767fbd6744b8fcca6305ba77dfe481e0"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/poison_200_link_effect.json"
-hash = "7cd95751b0481c1f06e0a13c6ce374a0455bbd699472763f6f9075e82fe48ef2"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/linkingbooks/recipe/tethered_link_effect.json"
-hash = "2e5f81acead7dd50f6bae646e44273476cf578429471d84cda49f7aa942f0910"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_small_tainted_rock_bricks_wall.json"
@@ -1196,11 +1180,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
-metafile = true
-
-[[files]]
-file = "mods/linkingbooks.pw.toml"
-hash = "ed081056bbba1d6aafa5aee51ec25ec4a8a34f400a2467e5cedfbfee96b74f60"
 metafile = true
 
 [[files]]
