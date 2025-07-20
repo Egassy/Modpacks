@@ -1093,6 +1093,11 @@ hash = "ab6591dad5adc07a79cc8ae5f0b0adc46315379cceba7186af5d8fb168f9d4fb"
 metafile = true
 
 [[files]]
+file = "mods/eternal-starlight-vo.pw.toml"
+hash = "310e87eff6f7cafe85c9f547e12633adec130c18252b2ea8fc7c250b0ae13c7b"
+metafile = true
+
+[[files]]
 file = "mods/eternal-starlight.pw.toml"
 hash = "9b7b603ba7a85bb87eacb9ecff8c60992322393de01051c117a4716bea7de5e4"
 metafile = true
