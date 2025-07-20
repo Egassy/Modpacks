@@ -3,7 +3,6 @@
     { "id": "minecraft:rotten_flesh", "count": 1 },
     { "id": "minecraft:feather", "count": 1 },
     { "id": "enchanted:hint_of_rebirth", "count": 1 },
-    { "tag": "industrytweaks:courier_depots", "count": 1 },
     { "id": "minecraft:cod", "count": 1 }
   ],
   "shapes": {
