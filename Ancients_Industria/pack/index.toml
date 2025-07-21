@@ -665,18 +665,6 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessen
 hash = "d717251cfc2f1ef6d93d1b18b8f76c83fdc1726a415f5f3ea8e4e3ec546d69b2"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/shifting_seasons_forest_large.json"
-hash = "2b6cf5d86c6dd81f465ce79be7e97a5f0530fe5aa5c771538c24263c0c1636f0"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/summon_crow.json"
-hash = "7a61c9892ec2a3314def2054587cc94cf5b9788e661465bb369c36c51d159ef0"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/enchanted/circle_magic/rite/summon_owl.json"
-hash = "c269c0f5bcd11977c566143a09cde90c1cc5ed3588e3a7aac86de15ddcac2a24"
-
-[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_basic.json"
 hash = "723204d66d9db09c4431688be4a234df7da0df482e5bbf3a16b64fe18f067702"
 
@@ -711,10 +699,6 @@ hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
 hash = "c77a2cd4867bb6602e91644742020a96bf885124981ac8e393f4fd0743ac7b15"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/courier_depots.json"
-hash = "78bc19566fad81b959c73821e0b110347b154799bf0d373d28de38b7e393e816"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
@@ -930,7 +914,7 @@ hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "715d5d24de9608f8293db8bd97eadb92d7a327f97ced98a8e2ef9cb9004bc298"
+hash = "1bc5d6bf61d7b77662bd4980700eb9604eea2c0b547f0e21a6e52f183caf3b2b"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"
@@ -1100,11 +1084,6 @@ hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-witchcraft.pw.toml"
-hash = "ab6591dad5adc07a79cc8ae5f0b0adc46315379cceba7186af5d8fb168f9d4fb"
-metafile = true
-
-[[files]]
 file = "mods/eternal-starlight-vo.pw.toml"
 hash = "310e87eff6f7cafe85c9f547e12633adec130c18252b2ea8fc7c250b0ae13c7b"
 metafile = true
@@ -1230,18 +1209,13 @@ hash = "ff425c1d98378fe506e53fc88979898ba1da8a53e3997f4e3823ad98b7c61b27"
 metafile = true
 
 [[files]]
-file = "mods/modopedia.pw.toml"
-hash = "056fba59f2db4796987f2f2a5a5823db03ecccf58f6720d57014211050ac5090"
-metafile = true
-
-[[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "ba02e961978ec74a41219c7180890c3c9e11d39f556677846ec59b42145c3d67"
+hash = "c1913ad0d6fa6aa50eb496fd2042b3d36ffc06c6f2474eda3ee3c23b3acc6404"
 metafile = true
 
 [[files]]
@@ -1355,11 +1329,6 @@ hash = "302695f3a9a8e6aca31d1108da08172b96954f37be26040cce16716f860cd0eb"
 metafile = true
 
 [[files]]
-file = "mods/stateobserver.pw.toml"
-hash = "809f8ad37574ae3d283873d9badd8cef21511be8e000333db6f2044a12f72f34"
-metafile = true
-
-[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "f10bcee0b615f0c639bd572f5838952444646cc00529f93338419bb45bbab4cc"
 metafile = true
@@ -1466,4 +1435,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "a5354f46793103f582a5ec5ad5dff5d82f539a44ee04d5d1b7d7b7a4a4ec9e78"
+hash = "e696c834fc810c91c310458fa228830ed1bb5f58129b21a9c0854fc70cfd43ec"

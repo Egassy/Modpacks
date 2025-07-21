@@ -97,6 +97,19 @@ id = "invsorter_off"
 name = "No"
 description = "Do not install Inventory Sorter."
 
+[flavor_groups.mud]
+name = "More Overlays"
+description = "Classical light and chunk overlays toggled with F7 and F9, just like NEIs used to be. Client only."
+side = "client"
+[[flavor_groups.mud.choices]]
+id = "mud_on"
+name = "Yes"
+description = "Installs More Overlays."
+[[flavor_groups.mud.choices]]
+id = "mud_off"
+name = "No"
+description = "Do not install More Overlays."
+
 [flavor_groups.neoauth]
 name = "Neoauth"
 description = "Reauthentication without closing the game. Client only."
@@ -142,6 +155,8 @@ flavors = "invessentials_on"
 flavors = "mousetweaks_on"
 [metafile.inventory-sorter]
 flavors = "invsorter_on"
+[metafile.more-overlays-updated]
+flavors = "mud_on"
 [metafile.neoauth]
 flavors = "neoauth_on"
 [metafile.figura]
