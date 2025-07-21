@@ -85,14 +85,6 @@ file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
 [[files]]
-file = "config/enchanted-client.toml"
-hash = "1f02cbd919112dcde72be0caf31453f3953d6c2a9639886fbea370b72e55c035"
-
-[[files]]
-file = "config/enchanted-server.toml"
-hash = "4224c4f4d00b90fad89432467fbc92cd3b45b9980ea1f9112b7bfae128c2b09b"
-
-[[files]]
 file = "config/eternal_starlight.json"
 hash = "42d96a7f01c1499f2b30b1ffb4c80292957de84f82025d28ea5df4e44e7d142a"
 
