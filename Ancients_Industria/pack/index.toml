@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "8cbe0437915ec29d9d0077180ba63a23a1b9f4cda861b60b60cef932452948ee"
+hash = "2de29323be33fccb1899f52f187ded040dd219159d3726a163d370fc00cd3b5e"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternal-starlight.pw.toml"
-hash = "9b7b603ba7a85bb87eacb9ecff8c60992322393de01051c117a4716bea7de5e4"
+hash = "6bce4bae3a3e07a57b4fdbaedb80e371e559efc8d86fb18c605574f92c5c7da1"
 metafile = true
 
 [[files]]
@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "2fb146e5003c3245af94a704cccb0f8deefc3005efb8a0c23e2730e2f5061c5c"
+hash = "ec09aa580472baeadf8c109428a1a2c62062d860ddb50d1e573d94ae2d2a7939"
 metafile = true
 
 [[files]]
@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
+hash = "63ef02ab873349645b5796341f1935603e7356a9c91fa8799e158ef447ddb2bb"
 metafile = true
 
 [[files]]
