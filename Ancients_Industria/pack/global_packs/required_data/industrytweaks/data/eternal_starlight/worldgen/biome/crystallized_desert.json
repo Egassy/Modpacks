@@ -41,12 +41,14 @@
       "eternal_starlight:nightfall_dirt_ore",
       "eternal_starlight:glowing_grimstone_ore",
       "eternal_starlight:glowing_voidstone_ore",
-      "eternal_starlight:grimstone_redstone_ore",
-      "eternal_starlight:voidstone_redstone_ore",
-      "eternal_starlight:grimstone_saltpeter_ore",
-      "eternal_starlight:voidstone_saltpeter_ore",
-      "eternal_starlight:grimstone_atalphaite_ore",
-      "eternal_starlight:voidstone_atalphaite_ore"
+      "eternal_starlight:upper_starlit_diamond_ore",
+      "eternal_starlight:lower_starlit_diamond_ore",
+      "eternal_starlight:upper_redstone_ore",
+      "eternal_starlight:lower_redstone_ore",
+      "eternal_starlight:upper_saltpeter_ore",
+      "eternal_starlight:lower_saltpeter_ore",
+      "eternal_starlight:upper_atalphaite_ore",
+      "eternal_starlight:lower_atalphaite_ore"
     ],
     [
       "eternal_starlight:stellagmite",
@@ -73,11 +75,19 @@
   ],
   "has_precipitation": false,
   "spawn_costs": {
+    "eternal_starlight:gleech": {
+      "charge": 1.0,
+      "energy_budget": 0.15
+    },
     "eternal_starlight:lonestar_skeleton": {
       "charge": 1.0,
       "energy_budget": 0.15
     },
     "eternal_starlight:nightfall_spider": {
+      "charge": 1.0,
+      "energy_budget": 0.15
+    },
+    "eternal_starlight:thirst_walker": {
       "charge": 1.0,
       "energy_budget": 0.15
     }
