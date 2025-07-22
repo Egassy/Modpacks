@@ -270,7 +270,7 @@ hash = "4c667049e88b4f86b35ae53c10214c4fc03b7944492cee9be54a2429d2338b74"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
-hash = "2ec8f3337ec3f84131a920c7bbfef61ee9650cf2c09f2596082356f3af6ad774"
+hash = "c38c6a21b7c98c52db5ac0ef7dcd9ce797144461eefce55fa9f52899f13da73c"
 
 [[files]]
 file = "config/portablehole-client.toml"
