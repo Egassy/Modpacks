@@ -75,6 +75,12 @@
 		"oritech:nuke",
 		"malum:coal_fragment",
 		"malum:copper_nugget",
-		"#eternal_starlight:wip"
+		"#eternal_starlight:wip",
+		"toms_storage:basic_inventory_hopper",
+		"toms_storage:inventory_interface",
+		"toms_storage:item_filter",
+		"toms_storage:polymorphic_item_filter",
+		"toms_storage:tag_item_filter",
+		"toms_storage:open_crate"
   ]
 }

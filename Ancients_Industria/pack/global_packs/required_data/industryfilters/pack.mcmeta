@@ -320,6 +320,30 @@
 	  {
         "namespace": "malum",
         "path": "recipe/copper_nugget_from_ingot"
+      },
+	  {
+        "namespace": "toms_storage",
+        "path": "recipe/basic_inventory_hopper"
+      },
+	  {
+        "namespace": "toms_storage",
+        "path": "recipe/inventory_interface"
+      },
+	  {
+        "namespace": "toms_storage",
+        "path": "recipe/item_filter"
+      },
+	  {
+        "namespace": "toms_storage",
+        "path": "recipe/poly_item_filter"
+      },
+	  {
+        "namespace": "toms_storage",
+        "path": "recipe/tag_item_filter"
+      },
+	  {
+        "namespace": "toms_storage",
+        "path": "recipe/open_crate"
       }
     ]
   }

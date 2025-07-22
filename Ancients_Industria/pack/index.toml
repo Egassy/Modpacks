@@ -426,7 +426,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "78433d3b11d6e259cafc70d7c0b3d3b872f883f108c6c99672606edbdb95e6ae"
+hash = "9b1b0f9d11ddc5cb4988c1b229733145ac025b7e67b9de495ee718e5f9d61778"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/acacia_backpack_shelf.json"
@@ -630,7 +630,7 @@ hash = "f2de6ccbf81b5f5b7943d690761d22f63bcb41ec2d9e0d2671757da8bdd48bfa"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "94fc616b8ee6cfc1fc16f171abfb265664b9af600bbe48340c27d99c665da722"
+hash = "24840e42f88a0699b24a52e7f965ecc6a49c88bf8ce6e018f2742386f2d6fe53"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/datanessence/worldgen/placed_feature/sanctuary/calcite_spire.json"
