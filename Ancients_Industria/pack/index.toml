@@ -1171,11 +1171,6 @@ hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "63ef02ab873349645b5796341f1935603e7356a9c91fa8799e158ef447ddb2bb"
-metafile = true
-
-[[files]]
 file = "mods/lodestone.pw.toml"
 hash = "21e8ad5af6e6ea389ff3b5e940373db8f9bc41d544af67ba2045ced914a6565c"
 metafile = true
@@ -1218,11 +1213,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
-metafile = true
-
-[[files]]
-file = "mods/natural-philosophy.pw.toml"
-hash = "81e8d86bbfe48ef7d6ba10eeb3c41bac3997940e5d7cdb25390fd4a437857026"
 metafile = true
 
 [[files]]
