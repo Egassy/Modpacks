@@ -1,13 +1,13 @@
 name = "Databank"
-filename = "databank-1.1.8.jar"
+filename = "databank-1.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2Ct0NAxj/versions/SeJCfCO1/databank-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/2Ct0NAxj/versions/Ct5kvhSn/databank-1.1.9.jar"
 hash-format = "sha512"
-hash = "33992945a6ce0497edd36d746908090580ede33e93212ddb628a3cd9eb823b5ef63d3ae7c965a6134d50bb90c71fdec95146c32117ee92bc2ac78d2df704230f"
+hash = "de57bbcab8ee23013eb0a09a472bc713d6ce36fa3865c52a4010c18353751b1a09e108b00116b2bd786062f615e9ff1af14b47b479d3174fe5d91d4b998b5a29"
 
 [update]
 [update.modrinth]
 mod-id = "2Ct0NAxj"
-version = "SeJCfCO1"
+version = "Ct5kvhSn"

@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
-hash = "289b34173318fb5a8e47a7c11d3c57468f65cbaf1f46520fe94dff15e34f59cb"
+hash = "739636761fae27a95375783442258aceeb4cd1fcce9580932da3d7529521f82b"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "202393764e0645372b98c3cfbd8eb7bdf5c1e56b87c586442fe17e0fee2ca9cd"
+hash = "1d09e9556f2e7f012debe8ea0cda90c4d4383567351ee33bcf3aabf028cca1b4"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternal-starlight.pw.toml"
-hash = "6bce4bae3a3e07a57b4fdbaedb80e371e559efc8d86fb18c605574f92c5c7da1"
+hash = "d2630e5c8ee6acbaf13e7e568fbeca64f048a927a514e64dde6f0523f0af27b0"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/oracle-index.pw.toml"
-hash = "9fb5d40354c86b79d41c7b82430469b59d5421d1970738e00d9e7e1dfcbcd0f3"
+hash = "f68a278d2fac4c11fb23036ca9b4e18b4b24f8daadd8021754470a9d65109581"
 metafile = true
 
 [[files]]
