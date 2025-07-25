@@ -1,0 +1,13 @@
+name = "Advanced Backups"
+filename = "AdvancedBackups-neoforge-1.21.2-3.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7e4232fcabd0a6a96543c2cffd3a1ee91f6e9bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6148235
+project-id = 876284

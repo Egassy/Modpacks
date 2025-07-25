@@ -951,6 +951,11 @@ hash = "33adb2d6e818e335b5eb7b56ecf53365cf3f0b7edff9a5134ab14fba9b61cb6d"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "59a3f8e1f25ce5985448eca4312e000115b85511a3798db190d94f041664d278"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "0d2c4b8cda4d14deb8c4076f01cac447fddf4eb09057baf9d1926b290f05b9f8"
 metafile = true
@@ -1288,11 +1293,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "a0822a53e5d1c22e28d6074ac0f5eaf968e3bd9282a4e35799b4a0e14a7d69c1"
-metafile = true
-
-[[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "0992ace22d4c13360785e8a5212535e2db88f43dab477f1d32b6222590a956d5"
 metafile = true
 
 [[files]]
