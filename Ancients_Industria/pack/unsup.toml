@@ -113,7 +113,7 @@ description = "Do not install More Overlays."
 [flavor_groups.svc]
 name = "Simple Voice Chat"
 description = "Proximity-based voice chat routed through the server. Required on server, not required on client."
-side = "client"
+side = "both"
 [[flavor_groups.svc.choices]]
 id = "svc_on"
 name = "Yes"
