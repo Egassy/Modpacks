@@ -258,7 +258,7 @@ hash = "9438f8f286d1628c768d73250a6949af74530b84cb06c4f29f14121f03063c53"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "2fb627c7cf6a0b1733bdf43c227efe7b595810ee715e825640dd2c6ab133eaf5"
+hash = "6513695c686edc330d437dc545928ab64c207a127dd32be4825ced17ec489d1b"
 
 [[files]]
 file = "config/openpartiesandclaims-wilderness-config.toml"
@@ -901,8 +901,8 @@ file = "global_packs/required_data/industrytweaks/pack.mcmeta"
 hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
 
 [[files]]
-file = "global_packs/required_resources/Industryassets/assets/cataclysm/lang/en_us.json"
-hash = "4f89fb5b5eef2505b779ed819da0e7ea0d57f0ce49e02666a17eb5135e71e93d"
+file = "global_packs/required_resources/Industryassets/assets/datanessence/lang/en_us.json"
+hash = "e6afcd5f2219746d09073c5bfb70d87eb9c07e67a8984f03cabe3dcc3a85ea49"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
