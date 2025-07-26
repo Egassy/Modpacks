@@ -110,6 +110,19 @@ id = "mud_off"
 name = "No"
 description = "Do not install More Overlays."
 
+[flavor_groups.svc]
+name = "Simple Voice Chat"
+description = "Proximity-based voice chat routed through the server. Required on server, not required on client."
+side = "client"
+[[flavor_groups.svc.choices]]
+id = "svc_on"
+name = "Yes"
+description = "Installs Simple Voice Chat."
+[[flavor_groups.svc.choices]]
+id = "svc_off"
+name = "No"
+description = "Do not install Simple Voice Chat."
+
 [flavor_groups.neoauth]
 name = "Neoauth"
 description = "Reauthentication without closing the game. Client only."
@@ -157,6 +170,8 @@ flavors = "mousetweaks_on"
 flavors = "invsorter_on"
 [metafile.more-overlays-updated]
 flavors = "mud_on"
+[metafile.simple-voice-chat]
+flavors = "svc_on"
 [metafile.neoauth]
 flavors = "neoauth_on"
 [metafile.figura]

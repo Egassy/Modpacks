@@ -1231,6 +1231,11 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f107357d677b046035c88ba67b95bec9769e9fe8f462e7c186fbd88bceba184d"
+metafile = true
+
+[[files]]
 file = "mods/opalescence.pw.toml"
 hash = "67b76deb80498598e9f5f4d400d24e654a7b386ecb7aaa8df3d1730bbd304c6f"
 metafile = true
@@ -1293,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "a0822a53e5d1c22e28d6074ac0f5eaf968e3bd9282a4e35799b4a0e14a7d69c1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "587514cb3c29b1aa90191a399aa2aee05bee9e1e170f1f60e9490640eea0897f"
 metafile = true
 
 [[files]]
@@ -1417,4 +1427,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "e696c834fc810c91c310458fa228830ed1bb5f58129b21a9c0854fc70cfd43ec"
+hash = "84e420ee19bc3ad2e7d984060e0160ec801ce416c509e2b710b69d3093229046"
