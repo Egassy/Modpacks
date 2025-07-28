@@ -1297,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a0822a53e5d1c22e28d6074ac0f5eaf968e3bd9282a4e35799b4a0e14a7d69c1"
+hash = "4f4dc981be6939e6473b03cef8c670ff762fc5b42809babd05d3b874712f9829"
 metafile = true
 
 [[files]]
@@ -1342,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "13b532ba44289beafbed73c3494fab3c0472692c823b16a9136aa1acb723e7c0"
+hash = "34a67374dc0a953b296414bde588ebc3869bb71db56512a7963e4c7fc9ac99e9"
 metafile = true
 
 [[files]]
@@ -1427,4 +1427,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "84e420ee19bc3ad2e7d984060e0160ec801ce416c509e2b710b69d3093229046"
+hash = "d1c6723adc9f7c8d0414f033c71cdc57bbb799a9da0804779d3d214134c55800"
