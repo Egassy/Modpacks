@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "0effc5a9a5a90e1db4b9843a282669bca912a4f28b746222ff8a95b07ae63f97"
+hash = "eec26a02ae733113e66a324e471eb01c24fb8739804592cd5c65c8d6a9ee9a72"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/eternal-starlight-vo.pw.toml"
-hash = "310e87eff6f7cafe85c9f547e12633adec130c18252b2ea8fc7c250b0ae13c7b"
+hash = "bab27411327ca6900f46bae8fc326826e56c40b4e45f97363f3dd351c0df8357"
 metafile = true
 
 [[files]]
@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "5c317b966feef5ba60ec8fd950804348114dc79e172ddabe1036bc3ea25da33e"
+hash = "7122dcd56310cc8589912b1e4ae01571852ffe3d72dc8e1b3501e70a2cac72eb"
 metafile = true
 
 [[files]]
@@ -1392,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "27f23c2bc5266717f83de1376149ed67107630e0e89f21ec204aa806a448dcfe"
+hash = "b2473f8d5728d34d6845b52822925e5389ba234e94de0edcaeba85df7d22bf06"
 metafile = true
 
 [[files]]
