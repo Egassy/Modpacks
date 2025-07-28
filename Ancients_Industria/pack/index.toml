@@ -1221,6 +1221,11 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
+metafile = true
+
+[[files]]
 file = "mods/neoauth.pw.toml"
 hash = "5b93921f8504f8c28a470fa306019018c6ba726d428692eecf7d8e98fd3a4038"
 metafile = true
