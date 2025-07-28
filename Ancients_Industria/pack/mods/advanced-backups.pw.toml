@@ -1,14 +1,14 @@
 name = "Advanced Backups"
-filename = "AdvancedBackups-neoforge-1.21.2-3.7.1.jar"
+filename = "AdvancedBackups-neoforge-1.21-3.7.1.jar"
 side = "both"
 pin = true
 
 [download]
 hash-format = "sha1"
-hash = "a7e4232fcabd0a6a96543c2cffd3a1ee91f6e9bb"
+hash = "3d328e772b19d6d12f4b075cca2120bbcca2b09d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6148235
+file-id = 6148234
 project-id = 876284
