@@ -1,13 +1,14 @@
 name = "Advanced Backups"
-filename = "AdvancedBackups-spigot-1.21-3.7.1.jar"
+filename = "AdvancedBackups-neoforge-1.21.2-3.7.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
-hash = "84f202e97b31e395190e963b16d7e60765d61f2f"
+hash = "a7e4232fcabd0a6a96543c2cffd3a1ee91f6e9bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6148237
+file-id = 6148235
 project-id = 876284
