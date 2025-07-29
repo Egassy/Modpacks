@@ -1,9 +1,9 @@
 ~~Light-ish~~ not anymore 1.21.1 Neoforge pack with Eternal Starlight, Runology and DnE, as well as Oritech and some smaller mods
-- 
-- Made for Data and Essence public serverpack
-- 
-- Current list of mods is:
-- 
+
+ Made for Data and Essence public serverpack
+
+ Current list of mods is:
+
 - Advanced Backups
 - Akashic Tome
 - AppleSkin
