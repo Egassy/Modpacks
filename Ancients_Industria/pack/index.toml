@@ -1355,11 +1355,6 @@ hash = "f10bcee0b615f0c639bd572f5838952444646cc00529f93338419bb45bbab4cc"
 metafile = true
 
 [[files]]
-file = "mods/styled-chat-unofficial-neoforge.pw.toml"
-hash = "6bf9d959dc721efbc19946bbb7496ecf287d5eeb19b8db984d6d4475fa03f6ec"
-metafile = true
-
-[[files]]
 file = "mods/styled-nicknames-unofficial-neoforge.pw.toml"
 hash = "a05fab22efac8380044afb11b3cec5f9162a41331dcf321c52c5f136aeeb2f14"
 metafile = true
