@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/cmds-runology.pw.toml"
-hash = "a9de56ef3a66ee4822be9cb5b8f1c414d3da133199e372a913f329bc2b2a6815"
+hash = "bb215b2e2a5126cf5377f52b233113bf0ce4ac32a94f04c3919080c0be31aa32"
 metafile = true
 
 [[files]]
