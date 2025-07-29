@@ -1,103 +1,103 @@
 ~~Light-ish~~ not anymore 1.21.1 Neoforge pack with Eternal Starlight, Runology and DnE, as well as Oritech and some smaller mods
-
-Made for Data and Essence public serverpack
-
-Current list of mods is:
-
-Advanced Backups
-Akashic Tome
-AppleSkin
-Architectury API
-Backpacked
-Balm
-Bibliocraft Legacy
-CERBON's API [Forge | Fabric | NeoForge]
-Chisel Reborn [Forge/Fabric/NeoForge]
-Chronoception
-Cloth Config API (Fabric/Forge/NeoForge)
-Cobweb
-Common Capabilities
-Controlling
-Cryonic Config
-Curios API (Forge/NeoForge)
-Cyclops Core
-Data & Essence
-Databank
-Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
-Embeddium
-EMI
-EMI Enchanting
-Eternal Starlight
-Eternal Starlight Vanilla Ores
-Farmer's Delight
-FerriteCore ((Neo)Forge)
-Figura
-Fontolith
-Framework
-GeckoLib
-Global Packs
-GriefLogger
-Hexerei
-Integrated Crafting
-Integrated Dynamics
-Integrated Terminals
-Integrated Tunnels
-Inventory Essentials
-Inventory Sorter
-Iron Chests
-Jade 🔍
-Kiwi 🥝
-Kotlin for Forge
-Lodestone
-Lootr
-Malum
-Modern Dynamics
-Modonomicon
-Moonlight Lib
-More Dragon Eggs
-More Overlays Updated
-More Red
-Mouse Tweaks
-My Nether's Delight
-NeoAuth
-NetherPortalFix
-No Chat Reports
-Opalescence
-Open Parties and Claims
-Oracle Index
-Oritech
-oωo (owo-lib)
-Passable Foliage 🌳
-Portable Hole
-Puzzles Lib [Forge & Fabric]
-Repeatable Trial Vaults
-Resourceful Config
-Resourceful Lib
-Runology
-Searchables
-Simple Voice Chat
-Sodium
-Soul fire'd
-spark
-Stitch (formerly Athena)
-Storage Drawers
-Styled Nicknames [Unofficial NeoForge]
-SuperMartijn642's Config Lib
-Supplementaries
-Supplementaries Squared
-Tempad
-Thaumon
-The Bumblezone (NeoForge/Forge)
-The Magic Mirror
-Theurgy
-Time and Essence
-Tom's Simple Storage Mod
-TooManyRecipeViewers (TMRV)
-TrimsEffects
-Unsanded (Font)
-Wings Reborn
-WorldEdit
-Xaero's Minimap
-Xaero's World Map
-Yeetus Experimentus
-You're in Grave Danger
+- 
+- Made for Data and Essence public serverpack
+- 
+- Current list of mods is:
+- 
+- Advanced Backups
+- Akashic Tome
+- AppleSkin
+- Architectury API
+- Backpacked
+- Balm
+- Bibliocraft Legacy
+- CERBON's API [Forge | Fabric | NeoForge]
+- Chisel Reborn [Forge/Fabric/NeoForge]
+- Chronoception
+- Cloth Config API (Fabric/Forge/NeoForge)
+- Cobweb
+- Common Capabilities
+- Controlling
+- Cryonic Config
+- Curios API (Forge/NeoForge)
+- Cyclops Core
+- Data & Essence
+- Databank
+- Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+- Embeddium
+- EMI
+- EMI Enchanting
+- Eternal Starlight
+- Eternal Starlight Vanilla Ores
+- Farmer's Delight
+- FerriteCore ((Neo)Forge)
+- Figura
+- Fontolith
+- Framework
+- GeckoLib
+- Global Packs
+- GriefLogger
+- Hexerei
+- Integrated Crafting
+- Integrated Dynamics
+- Integrated Terminals
+- Integrated Tunnels
+- Inventory Essentials
+- Inventory Sorter
+- Iron Chests
+- Jade 🔍
+- Kiwi 🥝
+- Kotlin for Forge
+- Lodestone
+- Lootr
+- Malum
+- Modern Dynamics
+- Modonomicon
+- Moonlight Lib
+- More Dragon Eggs
+- More Overlays Updated
+- More Red
+- Mouse Tweaks
+- My Nether's Delight
+- NeoAuth
+- NetherPortalFix
+- No Chat Reports
+- Opalescence
+- Open Parties and Claims
+- Oracle Index
+- Oritech
+- oωo (owo-lib)
+- Passable Foliage 🌳
+- Portable Hole
+- Puzzles Lib [Forge & Fabric]
+- Repeatable Trial Vaults
+- Resourceful Config
+- Resourceful Lib
+- Runology
+- Searchables
+- Simple Voice Chat
+- Sodium
+- Soul fire'd
+- spark
+- Stitch (formerly Athena)
+- Storage Drawers
+- Styled Nicknames [Unofficial NeoForge]
+- SuperMartijn642's Config Lib
+- Supplementaries
+- Supplementaries Squared
+- Tempad
+- Thaumon
+- The Bumblezone (NeoForge/Forge)
+- The Magic Mirror
+- Theurgy
+- Time and Essence
+- Tom's Simple Storage Mod
+- TooManyRecipeViewers (TMRV)
+- TrimsEffects
+- Unsanded (Font)
+- Wings Reborn
+- WorldEdit
+- Xaero's Minimap
+- Xaero's World Map
+- Yeetus Experimentus
+- You're in Grave Danger
