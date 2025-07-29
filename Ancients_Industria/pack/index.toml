@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/cmds-runology.pw.toml"
-hash = "bb215b2e2a5126cf5377f52b233113bf0ce4ac32a94f04c3919080c0be31aa32"
+hash = "a78fffb04817e7e7343c669854ec103243024b0d5b670b259fff07ffaf4d1a5c"
 metafile = true
 
 [[files]]
@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "1d09e9556f2e7f012debe8ea0cda90c4d4383567351ee33bcf3aabf028cca1b4"
+hash = "8a4f5394d3550ee1e0163914dedc16f17a07c875bec09f0549b4ff9a8aac8b52"
 metafile = true
 
 [[files]]
