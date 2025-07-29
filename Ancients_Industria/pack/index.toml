@@ -893,6 +893,10 @@ file = "global_packs/required_data/industrytweaks/data/oritech/recipe/copper_nug
 hash = "cc22068268b85215dc7a71de4eda52fcd74d1b8f91a1b4ed452e1fcd3595712c"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/crafting/stank.json"
+hash = "03baffa97a523127520b598037d3b8bd11b9a2544a50ee5dd11bcd8c1cb30a44"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/particle/echo_shard.json"
 hash = "afb792a0c51b79011fa4bd238c000098a8e1537bce4a310df3666b5b3c126311"
 
