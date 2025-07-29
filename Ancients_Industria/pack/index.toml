@@ -693,6 +693,18 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/
 hash = "c77a2cd4867bb6602e91644742020a96bf885124981ac8e393f4fd0743ac7b15"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/crystaltrees/tree1.nbt"
+hash = "349249b6de2ff4eb6b464d109ba97b1945cc96f862ec6873b5c0216906bff800"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/crystaltrees/tree2.nbt"
+hash = "ca7d55c6e9ac1d6682c7d1d6edcc36593aac2ad9492b7c93ff8dfe907799fc79"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/crystaltrees/tree3.nbt"
+hash = "4934611f7033631ced8ab84680d75a10ca5007a0747de261a268fe7f132ff20b"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
 hash = "690c2cfb720b0dcbc18dd2400b02a441aa67e42fe6d0ee7b75aa4aa7d2e65d2a"
 
@@ -701,12 +713,24 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/s
 hash = "07964d03fe1a32afec5b5431bb75c32c54f7dd4c8001489930ea0b2f2a74e2f2"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/structure/crystaltrees.json"
+hash = "a4dd5b98718a49ceed750e488ae9a5ed5efbecf4b2c868441c22966da55e9cb1"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/structure_set/ancientbunker.json"
 hash = "c4a5183918de126876fe360c6f0be470366b2c9ac25006f4b51d8b6bc2be45b0"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/structure_set/crystaltrees.json"
+hash = "727e6b41959cdcf35abdcd9c8b72de8188a65b227bc0f0e197fd852690bfd492"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/template_pool/ancientbunker.json"
 hash = "13c1dd40ddb077b6f343e2bb1011c331b76339189c7f10b99640a1a000133882"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/template_pool/crystaltrees.json"
+hash = "0d10af875770282dd0c736bab16ea9e4a1d95cf48c1cacebdccee33d3eafc087"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_small_tainted_rock_bricks_wall.json"
