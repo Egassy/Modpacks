@@ -19,15 +19,3 @@
 	# Default: 4
 	# Range: 1 ~ 50
 	maxNodeWires = 4
-	#How many ticks should a plant with the low_essence_plant tag last in the Industrial Plant Siphon? (total Essence produced is 2.0x this value)
-	# Default: 10.0
-	# Range: 0.0 ~ 1000.0
-	lowValuePlantEssence = 10.0
-	#How many ticks should a plant with the medium_essence_plant tag last in the Industrial Plant Siphon? (total Essence produced is 4.0x this value)
-	# Default: 50.0
-	# Range: 0.0 ~ 1000.0
-	mediumValuePlantEssence = 50.0
-	#How many ticks should a plant with the high_essence_plant tag last in the Industrial Plant Siphon? (total Essence produced is 8.0x this value)
-	# Default: 100.0
-	# Range: 0.0 ~ 1000.0
-	highValuePlantEssence = 100.0

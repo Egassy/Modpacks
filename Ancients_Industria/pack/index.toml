@@ -66,7 +66,7 @@ hash = "c6ad537a0ba0948db64d681357354e5936970cb388bdaf48354ac8ae88a04735"
 
 [[files]]
 file = "config/datanessence.toml"
-hash = "c6db7c837d5aae5f0cb45d2c8a400a97f47524896e10d79023e576a3ed401fd7"
+hash = "3310b898f41d77bd821a652070b42357cf110957cef3d7edf46d536beac33fd6"
 
 [[files]]
 file = "config/embeddium-fingerprint.json"
@@ -82,11 +82,11 @@ hash = "2e45fad8b1f64480f223f2c48be441d2e6d9768581fce2f247483574335b383c"
 
 [[files]]
 file = "config/emi.css"
-hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
+hash = "d8d5ea87eacde3abbf593ac4b4391ca7f349c48a0e5c6a87427740b9b6cbc808"
 
 [[files]]
 file = "config/eternal_starlight.json"
-hash = "42d96a7f01c1499f2b30b1ffb4c80292957de84f82025d28ea5df4e44e7d142a"
+hash = "b27a5addfd20c3cdc242e9c457477652ca7574de35a27ac7a76447e3fb95c3c6"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -370,7 +370,7 @@ hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
 
 [[files]]
 file = "config/toms_storage-server.toml"
-hash = "40537f77cf60f66de7ea5b3b9415d4c007fac5ea196bc06bd33bb7d52a6949a9"
+hash = "a81dde6ec4a3afff214e3a5c65885aaf3e15b1df53f780ce0455515cd2078c27"
 
 [[files]]
 file = "config/trimseffects-config2.json"
