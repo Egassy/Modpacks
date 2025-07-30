@@ -378,7 +378,7 @@ hash = "a81dde6ec4a3afff214e3a5c65885aaf3e15b1df53f780ce0455515cd2078c27"
 
 [[files]]
 file = "config/trimseffects-config2.json"
-hash = "9d809083ed06b61f169c7920a2aa4a233a0cbba3e5e2649d9e45f98fd1ddffe0"
+hash = "cb26a11698bacabc2d6f253b41c7912f0982e48b091e53edc89a110f80d8bd1c"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -683,6 +683,10 @@ hash = "4e4bcb09e7998e0c522609e7b6200f8528abe9c35936077d7ce44da27e65c6c9"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table/chests/makutuan_strange_r.json"
 hash = "4ea34c11c81af8702e3d41d930a6323bbe25078fbecc05f185bc779881e7ed1e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/crafting/bundle_crafting.json"
+hash = "417f53279a5c37bad7667a67bf9fc40fe15c14c90a16b1ca6a59dd421a9d598c"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/grinder/amethyst.json"
@@ -1122,6 +1126,11 @@ hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
 
 [[files]]
+file = "mods/ender-pouch.pw.toml"
+hash = "7c3df6463c8876211d99287df1002cbb427f4df641d4df34d31fcdc2e94886ca"
+metafile = true
+
+[[files]]
 file = "mods/eternal-starlight-vo.pw.toml"
 hash = "bab27411327ca6900f46bae8fc326826e56c40b4e45f97363f3dd351c0df8357"
 metafile = true
@@ -1229,6 +1238,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
+file = "mods/ly-veinminer-enchantment.pw.toml"
+hash = "60974101f6becaeb2bf36c38250ed3ddcb7dc3d33aff9dc46e2689d2c441a351"
 metafile = true
 
 [[files]]
@@ -1439,11 +1453,6 @@ metafile = true
 [[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
-metafile = true
-
-[[files]]
-file = "mods/wings-3.pw.toml"
-hash = "3d65d2ff6767f998be11dab40f083d02d186653d89a5048865f28f06451d5801"
 metafile = true
 
 [[files]]

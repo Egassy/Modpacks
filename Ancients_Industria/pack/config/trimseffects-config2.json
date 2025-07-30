@@ -51,7 +51,6 @@
     "flow": ["jump_boost"],
     "bolt": ["dolphins_grace"],
 	"eternal_starlight:blooming": ["the_bumblezone:beenergized"],
-	"eternal_starlight:twining": ["wings:wings"],
 	"eternal_starlight:keeper": ["chronoception:freeze_time"],
 	"eternal_starlight:forge": ["datanessence:gender_euphoria"]
   },
