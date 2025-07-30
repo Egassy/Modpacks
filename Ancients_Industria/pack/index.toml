@@ -693,6 +693,10 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/pu
 hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/synthesis/lens_harming.json"
+hash = "264ada73ed03727efb837a9dec958a8cdf98eeda2f849d472cd289ae3de57d36"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
 hash = "c77a2cd4867bb6602e91644742020a96bf885124981ac8e393f4fd0743ac7b15"
 

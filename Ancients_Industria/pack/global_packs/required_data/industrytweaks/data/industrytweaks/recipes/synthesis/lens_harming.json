@@ -1,0 +1,11 @@
+{
+  "type": "datanessence:synthesis",
+  "essenceCost": {
+    "datanessence:essence": 50
+  },
+  "input": { "item": "minecraft:glowstone_block" },
+  "input2": { "item": "theurgy:crystallized_water" },
+  "time": 60,
+  "result": { "id": "minecraft:sea_lantern", "count": 1 },
+  "entry": "datanessence:tools/decorative_buffers"
+}
