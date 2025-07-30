@@ -430,7 +430,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/industryfilters/pack.mcmeta"
-hash = "9b1b0f9d11ddc5cb4988c1b229733145ac025b7e67b9de495ee718e5f9d61778"
+hash = "93836250be41afd5e4905510b3147b5941c325c41300b58dab84a3308621692d"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/backpacked/advancement/recipes/decorations/acacia_backpack_shelf.json"
@@ -693,7 +693,7 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/pu
 hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/synthesis/lens_harming.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/synthesis/sea_lantern.json"
 hash = "264ada73ed03727efb837a9dec958a8cdf98eeda2f849d472cd289ae3de57d36"
 
 [[files]]
