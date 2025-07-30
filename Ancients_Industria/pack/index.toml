@@ -113,6 +113,10 @@ file = "config/global_packs.toml"
 hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
 
 [[files]]
+file = "config/granularmobgriefing-common.toml"
+hash = "a6f7482768a60700e93c194d395953d183a72720ecdc3a46c4938230e4c9128a"
+
+[[files]]
 file = "config/integratedcrafting-common.toml"
 hash = "9d13bf052befc13c47a74fe52bb8043fc2ebed24d637f8ad41b92917cd8c9ea6"
 
