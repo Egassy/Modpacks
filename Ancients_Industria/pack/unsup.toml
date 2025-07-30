@@ -84,19 +84,6 @@ id = "mousetweaks_off"
 name = "No"
 description = "Do not install Mouse Tweaks."
 
-[flavor_groups.invsorter]
-name = "Inventory Sorter"
-description = "Simple inventory sorting and scroll item movement. Middle click sorts, mousewheel in and out of inventory one item at a time. Both required for functionality, but optional on client."
-side = "both"
-[[flavor_groups.invsorter.choices]]
-id = "invsorter_on"
-name = "Yes"
-description = "Installs Inventory Sorter."
-[[flavor_groups.invsorter.choices]]
-id = "invsorter_off"
-name = "No"
-description = "Do not install Inventory Sorter."
-
 [flavor_groups.mud]
 name = "More Overlays"
 description = "Classical light and chunk overlays toggled with F7 and F9, just like NEIs used to be. Client only."
@@ -166,8 +153,6 @@ flavors = "yeetus_on"
 flavors = "invessentials_on"
 [metafile.mouse-tweaks]
 flavors = "mousetweaks_on"
-[metafile.inventory-sorter]
-flavors = "invsorter_on"
 [metafile.more-overlays-updated]
 flavors = "mud_on"
 [metafile.simple-voice-chat]
