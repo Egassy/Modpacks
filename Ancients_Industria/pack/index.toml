@@ -1059,6 +1059,11 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "a7116c6a3a6343e164e68a507e7bc8d7e4c30eb7e1521e7a81558e121dcf9e9f"
 metafile = true
@@ -1141,6 +1146,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "033965cc4d3b58e2765c3a712ca8a226663ffae25eee8d3b81f72ed84cc5e484"
+metafile = true
+
+[[files]]
+file = "mods/granular-mob-griefing.pw.toml"
+hash = "01d40d2efe781865ee06644cd93b915600d0bd8598b076e6922da64e6d92a6fe"
 metafile = true
 
 [[files]]
