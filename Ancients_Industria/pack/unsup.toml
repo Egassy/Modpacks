@@ -147,7 +147,7 @@ flavors = "fonts_fontolith"
 flavors = "fonts_unsanded"
 [metafile.ears]
 flavors = "ears_on"
-[metafile.yeetusexperimentus]
+[metafile.yeetusexperimentus]fs
 flavors = "yeetus_on"
 [metafile.inventory-essentials]
 flavors = "invessentials_on"
