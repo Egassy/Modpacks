@@ -694,7 +694,7 @@ hash = "5812c96f2c6b90bda72a9a83eedc6dfeab9bb74e05d52471bf398e0bf9861969"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/nautilus_shell.json"
-hash = "3625c2a31f0aa91fe47924a4085600569f104067532d914ade00cd8e5ab31152"
+hash = "8ebc1b1940d7b642299b6e4e4b0e4173febc97123c1aba65c7d98fdc8f765e70"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/red_starlight_crystal_block.json"
