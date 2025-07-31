@@ -1,0 +1,13 @@
+name = "Display That!"
+filename = "displaythat-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ba0e1f1ad1027de50e0c1b99aa70cd63724c494"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6470787
+project-id = 1252565

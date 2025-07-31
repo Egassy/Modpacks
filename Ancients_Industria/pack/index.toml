@@ -1157,6 +1157,11 @@ hash = "8a4f5394d3550ee1e0163914dedc16f17a07c875bec09f0549b4ff9a8aac8b52"
 metafile = true
 
 [[files]]
+file = "mods/display-that.pw.toml"
+hash = "419b77887e660f3713b0943f798a1e59376eefc66724652d586df8c76fe4ed47"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
