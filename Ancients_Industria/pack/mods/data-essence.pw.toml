@@ -1,13 +1,13 @@
 name = "Data & Essence"
-filename = "datanessence-1.0.0-alpha-song_of_the_factory5.jar"
+filename = "datanessence-1.0.0-alpha-song_of_the_factory6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/tZHNnNSs/datanessence-1.0.0-alpha-song_of_the_factory5.jar"
+url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/sfmw861i/datanessence-1.0.0-alpha-song_of_the_factory6.jar"
 hash-format = "sha512"
-hash = "54334fda40db338e643f5377f88b2ee2c6a6de1ad21a1bb99a8bf36145fac8a1c730fda561999d4d1de0969c195cccc3272dc6611a23ade171e0a930c3a58093"
+hash = "72f773ec08bda27b96a9b3e5c793707dacd117135a92efc30eb1aadcd70da433b4c9c81f091c8487fadf32155389c65af8d8e8bcbdb222d9c19ae7a5761868d1"
 
 [update]
 [update.modrinth]
 mod-id = "p2r7HYfw"
-version = "tZHNnNSs"
+version = "sfmw861i"
