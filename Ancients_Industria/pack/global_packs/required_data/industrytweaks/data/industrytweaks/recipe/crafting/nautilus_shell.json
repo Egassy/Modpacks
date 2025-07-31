@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "equipment",
+  "category": "misc",
   "ingredients": [
     [
       {
@@ -33,9 +33,9 @@
       {
         "item": "minecraft:turtle_scute"
       }
-    ]
+    ],
     {
-      "tag": "c:slime_balls"
+      "tag": "c:glass_blocks"
     }
   ],
   "result": {

@@ -1,8 +1,10 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "category": "building",
   "key": {
-    "C": "hexerei:selenite_shard",
+    "C": {
+      "item": "hexerei:selenite_shard"
+    }
   },
   "pattern": [
     "CC",

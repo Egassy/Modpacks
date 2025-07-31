@@ -686,27 +686,27 @@ hash = "4ea34c11c81af8702e3d41d930a6323bbe25078fbecc05f185bc779881e7ed1e"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/blue_starlight_crystal_block.json"
-hash = "3b251c6d2a6d5054633db6acc984d71f130b33dc0d2cc1e5fef1e4d6c8e5947f"
+hash = "57a76a2f4c33738228c6236f41ac92cdce66731ef96241a068154ea3bd6a425a"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/bundle_crafting.json"
-hash = "417f53279a5c37bad7667a67bf9fc40fe15c14c90a16b1ca6a59dd421a9d598c"
+hash = "5812c96f2c6b90bda72a9a83eedc6dfeab9bb74e05d52471bf398e0bf9861969"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/nautilus_shell.json"
-hash = "41ea8b8010401aabe07fb91fa6b61838520821713f8b015a935182efe1975be9"
+hash = "3625c2a31f0aa91fe47924a4085600569f104067532d914ade00cd8e5ab31152"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/red_starlight_crystal_block.json"
-hash = "63e960260742b0aba271b07878b020657f4f1accdcc68bf1888d1418d68923d3"
+hash = "23b5b4b86294635acd8c9e1866e7a26b842bd588a4f3b1372e4fd3d626b52be2"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/sea_lantern.json"
-hash = "5fc4bc70e36599e90cef77656a4584b10dbb559029385272c261caf9da09fde7"
+hash = "b1356155793b7c89d0fcdb3f6ce223b8d9d6cd4bfd6857d67e1f80395dff3791"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/selenite_block.json"
-hash = "1807512fb26af2d958aca988316005ee062c2e1cfd76df553fd5eb38e544e70d"
+hash = "914c6f8c639c8483da7dd027a624db4c2ae76b07200251124d5807760e9cc560"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cutting/blue_starlight_crystal_block.json"
