@@ -378,7 +378,7 @@ hash = "a81dde6ec4a3afff214e3a5c65885aaf3e15b1df53f780ce0455515cd2078c27"
 
 [[files]]
 file = "config/trimseffects-config2.json"
-hash = "cb26a11698bacabc2d6f253b41c7912f0982e48b091e53edc89a110f80d8bd1c"
+hash = "786197bad13bb1eeb44f89719fcf217205d49501f83fad6353303f69874aff0e"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -653,6 +653,18 @@ file = "global_packs/required_data/industrytweaks/data/eternal_starlight/worldge
 hash = "ba308fd68e3f40028b6f17bb678b7795cbdd73cb7938e945e6a2588499bdc072"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/hexerei/loot_table/blocks/mahogany_courier_depot.json"
+hash = "84938c11a779c6acabcea7558951e926742009362b17ab6baacc7478443cadfe"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/hexerei/loot_table/blocks/willow_courier_depot.json"
+hash = "2863b41fe47d3ba6778f9b07dca74c179ac2f570e22a105834d37f50c193064c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/hexerei/loot_table/blocks/witch_hazel_courier_depot.json"
+hash = "3a4f7f90e35cb91ac29ff31ea1bad1844a54656330dba4cd2d97637175f1a78c"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/datanessence/computer_types/bunker.json"
 hash = "36be8a81068aa7fe1872b91e70b968423205507929aa3e6971ffb500073c398e"
 
@@ -818,7 +830,7 @@ hash = "093e5edf2ae3555d8528a0438f0c13482ed0851d7920ad7e38e2de22d2e7786e"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
-hash = "d1c7c6a0491522068e6bfa16367d6ccc19af69f9cea2cd32322bcb4408f62945"
+hash = "8301c215758e173af3b796944da665c59ab0e1245d745ddd78db1dc60ec051cc"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/minecraft/tags/enchantment/non_treasure.json"

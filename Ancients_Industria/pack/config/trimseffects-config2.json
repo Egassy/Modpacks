@@ -52,7 +52,8 @@
     "bolt": ["dolphins_grace"],
 	"eternal_starlight:blooming": ["the_bumblezone:beenergized"],
 	"eternal_starlight:keeper": ["chronoception:freeze_time"],
-	"eternal_starlight:forge": ["datanessence:gender_euphoria"]
+	"eternal_starlight:forge": ["datanessence:gender_euphoria"],
+	"eternal_starlight:twining": ["farmersdelight:comfort"]
   },
 
   // Controls potion effect level based on number of matching armor pieces
