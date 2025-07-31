@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:armadillo_scute"
+      },
+      {
+        "item": "minecraft:turtle_scute"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:armadillo_scute"
+      },
+      {
+        "item": "minecraft:turtle_scute"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:armadillo_scute"
+      },
+      {
+        "item": "minecraft:turtle_scute"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:armadillo_scute"
+      },
+      {
+        "item": "minecraft:turtle_scute"
+      }
+    ]
+    {
+      "tag": "c:slime_balls"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:nautilus_shell"
+  }
+}

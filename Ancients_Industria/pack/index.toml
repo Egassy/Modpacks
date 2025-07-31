@@ -693,8 +693,16 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cra
 hash = "417f53279a5c37bad7667a67bf9fc40fe15c14c90a16b1ca6a59dd421a9d598c"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/nautilus_shell.json"
+hash = "41ea8b8010401aabe07fb91fa6b61838520821713f8b015a935182efe1975be9"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/red_starlight_crystal_block.json"
 hash = "63e960260742b0aba271b07878b020657f4f1accdcc68bf1888d1418d68923d3"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/sea_lantern.json"
+hash = "5fc4bc70e36599e90cef77656a4584b10dbb559029385272c261caf9da09fde7"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/selenite_block.json"
@@ -735,10 +743,6 @@ hash = "9c2b6b1f6d98656b4e1b297c10071ca11649bd6bb4fa69afd1abe3628204d3bc"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/spirit_infusion/budding_thioquartz.json"
 hash = "1839be10b211a723e9b6655ca92a13ac50a1dd331d85df1774a49e1e13e59da8"
-
-[[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/synthesis/sea_lantern.json"
-hash = "264ada73ed03727efb837a9dec958a8cdf98eeda2f849d472cd289ae3de57d36"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
