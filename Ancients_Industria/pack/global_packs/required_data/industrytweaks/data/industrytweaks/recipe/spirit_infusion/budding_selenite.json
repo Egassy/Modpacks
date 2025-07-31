@@ -1,0 +1,32 @@
+{
+  "type": "malum:spirit_infusion",
+  "carryOverComponentData": true,
+  "extraIngredients": [
+    {
+      "count": 4,
+      "item": "hexerei:selenite_shard"
+    }
+  ],
+  "ingredient": {
+    "count": 1,
+    "item": "hexerei:selenite_block"
+  },
+  "output": {
+    "count": 1,
+    "id": "hexerei:budding_selenite"
+  },
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 8
+    },
+    {
+      "type": "sacred",
+      "count": 4
+    },
+    {
+      "type": "arcane",
+      "count": 8
+    }
+  ]
+}

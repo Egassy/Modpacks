@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "eternal_starlight:blue_starlight_crystal_shard",
+  },
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "eternal_starlight:blue_starlight_crystal_block"
+  }
+}

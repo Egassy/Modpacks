@@ -1,0 +1,32 @@
+{
+  "type": "malum:spirit_infusion",
+  "carryOverComponentData": true,
+  "extraIngredients": [
+    {
+      "count": 4,
+      "item": "eternal_starlight:thioquartz_shard"
+    }
+  ],
+  "ingredient": {
+    "count": 1,
+    "item": "eternal_starlight:thioquartz_block"
+  },
+  "output": {
+    "count": 1,
+    "id": "eternal_starlight:budding_thioquartz"
+  },
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 8
+    },
+    {
+      "type": "sacred",
+      "count": 4
+    },
+    {
+      "type": "arcane",
+      "count": 8
+    }
+  ]
+}

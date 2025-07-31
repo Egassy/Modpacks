@@ -685,19 +685,59 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/loot_table
 hash = "4ea34c11c81af8702e3d41d930a6323bbe25078fbecc05f185bc779881e7ed1e"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/crafting/bundle_crafting.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/blue_starlight_crystal_block.json"
+hash = "3b251c6d2a6d5054633db6acc984d71f130b33dc0d2cc1e5fef1e4d6c8e5947f"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/bundle_crafting.json"
 hash = "417f53279a5c37bad7667a67bf9fc40fe15c14c90a16b1ca6a59dd421a9d598c"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/grinder/amethyst.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/red_starlight_crystal_block.json"
+hash = "63e960260742b0aba271b07878b020657f4f1accdcc68bf1888d1418d68923d3"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/selenite_block.json"
+hash = "1807512fb26af2d958aca988316005ee062c2e1cfd76df553fd5eb38e544e70d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cutting/blue_starlight_crystal_block.json"
+hash = "de236cde36723bf945dad354ca5fa495a7e74952f0b19a861812277a49d70494"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cutting/red_starlight_crystal_block.json"
+hash = "fa5602a4287aff298d072d7b21bab169ffc0b3a6c4c8ac717a0622432bef20af"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cutting/selenite_block.json"
+hash = "16c0c81464d65c426c8b6a8bbfa1ea30eb78fc13d3f2cc9f0b0ab447b27a8661"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cutting/thioquartz_block.json"
+hash = "9c4f9ed8dd9dcf0d8a2e16f1c975bfc6e57c253dd46aac2d12483fdd3ed03f9e"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/grinder/amethyst.json"
 hash = "e51e9545c791daa30e9a84e94047dfcce211eedc114f730a1eec545e18bb4b60"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/pulverizer/amethyst.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/pulverizer/amethyst.json"
 hash = "86e1d99706c28a3ddbbcbf2dcdfcbb4317f47ff5655e7ddc33d9bd6f47f30cca"
 
 [[files]]
-file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipes/synthesis/sea_lantern.json"
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/spirit_infusion/budding_opal.json"
+hash = "eddaf95875857e8c7d6fe73c2b163609c9869d6f6249c46228f4c9c1187dae75"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/spirit_infusion/budding_selenite.json"
+hash = "9c2b6b1f6d98656b4e1b297c10071ca11649bd6bb4fa69afd1abe3628204d3bc"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/spirit_infusion/budding_thioquartz.json"
+hash = "1839be10b211a723e9b6655ca92a13ac50a1dd331d85df1774a49e1e13e59da8"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/synthesis/sea_lantern.json"
 hash = "264ada73ed03727efb837a9dec958a8cdf98eeda2f849d472cd289ae3de57d36"
 
 [[files]]
@@ -903,6 +943,18 @@ hash = "3f0a8bd4507d16a3d0fbc692d9c6f0595cd7f89ee49ff3bf667f37657403c309"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/copper_nugget_from_smelting_small_copper_dust.json"
 hash = "cc22068268b85215dc7a71de4eda52fcd74d1b8f91a1b4ed452e1fcd3595712c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/crafting/addon/fluid.json"
+hash = "b3e9045adc62ec402f5243599339fed5cb13db8f646c6103841bfb1a197af4e4"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/crafting/addon/steamboiler.json"
+hash = "3373f8ea61823536bb4478c7970cb23b9a62231cd402de1f5fe1a4454dcc0e6d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/oritech/recipe/crafting/addon/steamboileralt.json"
+hash = "b2a7ba9ccded2aeea7063d3ac240ed520374c9a593665e9cebcb8fc020499ded"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/oritech/recipe/crafting/stank.json"

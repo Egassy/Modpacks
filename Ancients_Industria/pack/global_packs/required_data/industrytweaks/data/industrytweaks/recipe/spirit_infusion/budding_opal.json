@@ -1,0 +1,32 @@
+{
+  "type": "malum:spirit_infusion",
+  "carryOverComponentData": true,
+  "extraIngredients": [
+    {
+      "count": 4,
+      "item": "opalescence:opal"
+    }
+  ],
+  "ingredient": {
+    "count": 1,
+    "item": "opalescence:opal"
+  },
+  "output": {
+    "count": 1,
+    "id": "opalescence:budding_opal"
+  },
+  "spirits": [
+    {
+      "type": "earthen",
+      "count": 8
+    },
+    {
+      "type": "sacred",
+      "count": 4
+    },
+    {
+      "type": "arcane",
+      "count": 8
+    }
+  ]
+}
