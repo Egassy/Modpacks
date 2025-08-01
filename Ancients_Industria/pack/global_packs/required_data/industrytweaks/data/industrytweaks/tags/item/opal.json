@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+	"opalescence:opal"
+	"opalescence:cut_opal",
+	"opalescence:opal_tiles",
+	"opalescence:opal_tiles_stairs",
+	"opalescence:small_opal_tiles",
+	"opalescence:small_opal_tiles_stairs",
+	"opalescence:opal_stairs",
+	"opalescence:opal_bricks",
+	"opalescence:opal_bricks_stairs",
+	"opalescence:small_opal_bricks",
+	"opalescence:small_opal_bricks_stairs",
+	"opalescence:polished_opal",
+	"opalescence:polished_opal_stairs",
+	"opalescence:chiseled_opal",
+	"opalescence:opal_pillar",
+	"opalescence:opal_tiling"
+	]
+}

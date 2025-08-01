@@ -705,6 +705,10 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/cra
 hash = "5812c96f2c6b90bda72a9a83eedc6dfeab9bb74e05d52471bf398e0bf9861969"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/moonlit_opal_crystal.json"
+hash = "8a3f0f74d9704e901f818d7e533d9d287be197a35f9ba0c0d827f24be149b58b"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/crafting/nautilus_shell.json"
 hash = "8ebc1b1940d7b642299b6e4e4b0e4173febc97123c1aba65c7d98fdc8f765e70"
 
@@ -757,6 +761,18 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/spi
 hash = "1839be10b211a723e9b6655ca92a13ac50a1dd331d85df1774a49e1e13e59da8"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/stonecutting/moonlit_opal_revert.json"
+hash = "e27a33ccd79af147a54ebc6d56dddb15d85088b34edd4bf70e86881337e0d8ff"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/stonecutting/opal_revert.json"
+hash = "4f15621dabb3ed3e615c6dff72ae7c87917c9732cd3ccad109fa7fc9a817876d"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/recipe/stonecutting/unpleasant_opal_revert.json"
+hash = "e3af4c719bde608b9c100fcc381010803ba104d62512416768bc6dae03c0fe49"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/structure/ancientbunker.nbt"
 hash = "c77a2cd4867bb6602e91644742020a96bf885124981ac8e393f4fd0743ac7b15"
 
@@ -775,6 +791,18 @@ hash = "4934611f7033631ced8ab84680d75a10ca5007a0747de261a268fe7f132ff20b"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/endstones.json"
 hash = "690c2cfb720b0dcbc18dd2400b02a441aa67e42fe6d0ee7b75aa4aa7d2e65d2a"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/moonlit_opal.json"
+hash = "ed4d8d47a1b3d2c283e327e91063f2280af80582ac4286f11d4027ea8dc2b19c"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/opal.json"
+hash = "6ac880b193d9689d7cce003665951088e225f33d71bebce2d3546abe77c934a3"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/unpleasant_opal.json"
+hash = "124b20d1a1f212d1f82730cc50f9272db35684724ad6823a4ca1001ef71fcef3"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/structure/ancientbunker.json"
@@ -1014,7 +1042,7 @@ hash = "e6afcd5f2219746d09073c5bfb70d87eb9c07e67a8984f03cabe3dcc3a85ea49"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/industrytweaks/lang/en_us.json"
-hash = "1bc5d6bf61d7b77662bd4980700eb9604eea2c0b547f0e21a6e52f183caf3b2b"
+hash = "97715ead3b05a65854eed14fd5bfb520ae610e8edb74697d442fabac9d832acd"
 
 [[files]]
 file = "global_packs/required_resources/Industryassets/assets/linkingbooks/lang/linkingbooks/guidebook/en_us.xml"

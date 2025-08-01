@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " C ",
+    "CDC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "opalescence:opal_crystal"
+    },
+    "D": {
+      "item": "chronoception:full_moon_dust"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "opalescence:moonlit_opal_crystal_block"
+  }
+}

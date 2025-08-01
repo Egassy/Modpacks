@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+	"opalescence:moonlit_opal"
+	"opalescence:moonlit_opal_bricks",
+	"opalescence:small_moonlit_opal_tiles",
+	"opalescence:small_moonlit_opal_bricks",
+	"opalescence:polished_moonlit_opal",
+	"opalescence:chiseled_moonlit_opal",
+	"opalescence:moonlit_opal_pillar",
+	"opalescence:cut_moonlit_opal",
+	"opalescence:moonlit_opal_tiles",
+	"opalescence:polished_moonlit_opal_stairs",
+	"opalescence:moonlit_opal_bricks_stairs",
+	"opalescence:moonlit_opal_tiles_stairs",
+	"opalescence:small_moonlit_opal_bricks_stairs",
+	"opalescence:small_moonlit_opal_tiles_stairs",
+	"opalescence:moonlit_opal_stairs"
+	]
+}

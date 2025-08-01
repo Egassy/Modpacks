@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "industrytweaks:unpleasant_opal"
+  },
+  "result": {
+    "count": 1,
+    "id": "opalescence:moonlit_opal_crystal_block"
+  }
+}
