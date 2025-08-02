@@ -289,6 +289,14 @@ file = "config/resourceful-config-web.json"
 hash = "2998ca29031d24c3efcc5845ab5bf0a8a011265c0cdec65553f52b5350ca6ce6"
 
 [[files]]
+file = "config/sculkmuffler-client.toml"
+hash = "aace4ef7d2bc4a3d271dde83c3da65e2b3f1ebda07bf30aafedde328ede07c94"
+
+[[files]]
+file = "config/sculkmuffler-common.toml"
+hash = "be4f730230ad3005a8fa178d39866836a3e38ef199edcdf1a398af5b567c39c3"
+
+[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "015f5775f92894889a5515b54733de3306af2f48e6c25876b8876150218b86bb"
 
@@ -1462,6 +1470,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/sculk-muffler.pw.toml"
+hash = "896bedbbd8fd372e58be963914f490e727765fa431209d7b8f154fd26f8217a2"
 metafile = true
 
 [[files]]

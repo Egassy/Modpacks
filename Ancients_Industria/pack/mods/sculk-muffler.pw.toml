@@ -1,0 +1,13 @@
+name = "Sculk Muffler"
+filename = "sculkmuffler-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WwhlGDEO/versions/od9Eydhv/sculkmuffler-1.1.0.jar"
+hash-format = "sha512"
+hash = "ac952b8463c1d2158d65499912842f8f9e7e015f673c16c7bd04b9f3da81fabea1f82178d93d206098d70cb0c76b24cb26785794c62c9ad3a56a2ae8a2603141"
+
+[update]
+[update.modrinth]
+mod-id = "WwhlGDEO"
+version = "od9Eydhv"

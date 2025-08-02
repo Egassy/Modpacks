@@ -1,0 +1,48 @@
+#Common Configuration
+[common]
+	#Maximum range for sound muffling from a placed muffler.
+	# Default: 16
+	# Range: 1 ~ 16
+	maxRange = 16
+	#Default range for newly placed sound mufflers.
+	# Default: 3
+	# Range: 0 ~ 16
+	defaultRange = 4
+	#Minimum volume adjustment for muffled sounds. Set to zero to completely disable sounds.
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	minVolume = 0.0
+	#Vibrations will be prevented if sounds are this volume or lower. Negative values disable this feature.
+	# Default: 0.01
+	# Range: -1.0 ~ 1.0
+	vibrationVolume = 0.01
+
+#Bell
+[bell]
+	#Bells will not be heard by nearby entities if sounds are this volume or lower. Negative values disable this feature.
+	# Default: 0.01
+	# Range: -1.0 ~ 1.0
+	bellHeardVolume = 0.01
+	#Bells will not highlight nearby raiders if sounds are this volume or lower. Negative values disable this feature.
+	# Default: 0.01
+	# Range: -1.0 ~ 1.0
+	bellHighlightVolume = 0.01
+
+#Warden
+[warden]
+	#Whether or not Sculk Mufflers are capable of preventing a Warden from hearing vibrations.
+	wardenBlockVibrations = true
+	#How to affect sonic boom damage.
+	#- DISABLED: Sonic Boom damage is unchanged.
+	#- SCALED: Sonic Boom damage is reduced based on volume reduction, or nullified at a certain volume.
+	#- NULLIFIED: Sonic Boom damage is only nullified at a certain volume.
+	#Allowed Values: DISABLED, SCALED, NULLIFIED
+	sonicDamageMode = "SCALED"
+	#The minimum damage a scaled Sonic Boom should do. Only applies when the damage mode is set to SCALED.
+	# Default: 0.0
+	# Range: 0.0 ~ 10.0
+	sonicDamageMin = 1.0
+	#Sonic Damage will be nullified if sounds are this volume or lower. Negative values disable this feature.
+	# Default: 0.0
+	# Range: -1.0 ~ 1.0
+	sonicNullifyVolume = 0.0

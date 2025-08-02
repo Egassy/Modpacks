@@ -1,0 +1,7 @@
+#Client-Only Configuration
+[client]
+	#Sounds with this source will not be silenced. Does not affect vibrations.
+	immuneSources = []
+	#How the range is rendered when requested. Solid can cause issues due to translucency rendering.
+	#Allowed Values: DISABLED, SOLID, LINES
+	rangeRenderer = "LINES"
