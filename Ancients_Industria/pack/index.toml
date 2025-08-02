@@ -37,6 +37,10 @@ file = "config/balm-common.toml"
 hash = "9923b77b07293c6ae5363fde993daa3597423ded51756528d2830c01a5f716ea"
 
 [[files]]
+file = "config/betterinvisibility-common.toml"
+hash = "b3e9b8d6b3849d871a8772d902c22a36c61f37f6f6a24ecb93dab15d3f17fdf9"
+
+[[files]]
 file = "config/bibliocraft-client.toml"
 hash = "29c589aa66f0fdc858103f4f72089adf2299bb2e698880bb22aaaff0e8c4d332"
 
@@ -315,10 +319,6 @@ hash = "3f67aed5da1a6d3be942a4c1f92e501ddede7e7c0d1d745702613e6fcec3d9f5"
 [[files]]
 file = "config/storagedrawers-common.toml"
 hash = "248a3012198c5a1ac07eb6be1c78a6097982a504b83c83aa4cf44f24abe6fc05"
-
-[[files]]
-file = "config/styled-chat.json"
-hash = "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -1135,6 +1135,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "dbd47ac0167678d4487e3e284967055ca4af9db5f8bdb212d14d22868d3d6dca"
+metafile = true
+
+[[files]]
+file = "mods/better-invisibility.pw.toml"
+hash = "1407367bc5259e356b32096441da3b1c173b0290318c112caf0e9bd69859d1f8"
 metafile = true
 
 [[files]]
