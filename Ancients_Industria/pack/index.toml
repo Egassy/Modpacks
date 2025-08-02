@@ -653,6 +653,10 @@ file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_r
 hash = "24840e42f88a0699b24a52e7f965ecc6a49c88bf8ce6e018f2742386f2d6fe53"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/curios/tags/item/charm.json"
+hash = "9989ca61bbfe46259e32d04577f6e6805c06a6943ccc58269fe3de55d62db2d1"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/datanessence/worldgen/placed_feature/sanctuary/calcite_spire.json"
 hash = "72e0ba799f2657c29930624081a855a37220b3865f9402b4ce93f11634405949"
 
