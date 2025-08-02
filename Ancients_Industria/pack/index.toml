@@ -381,6 +381,14 @@ file = "config/trimseffects-config2.json"
 hash = "786197bad13bb1eeb44f89719fcf217205d49501f83fad6353303f69874aff0e"
 
 [[files]]
+file = "config/veinmining-client.toml"
+hash = "50b993fef626c336c8b8b7f320da0c2df68c09d247d30939904ce13bd80ab6ed"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "30c5f97857cebecf93687e8ba5df4f76ebfcf6670fc406f297841f271dfb01c5"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
@@ -1342,11 +1350,6 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
-file = "mods/ly-veinminer-enchantment.pw.toml"
-hash = "60974101f6becaeb2bf36c38250ed3ddcb7dc3d33aff9dc46e2689d2c441a351"
-metafile = true
-
-[[files]]
 file = "mods/malum.pw.toml"
 hash = "8e856852abeefc7dfb7b3af0c81ca1f878cd9bec0cfe3a47218a4e8d1f1bff0d"
 metafile = true
@@ -1554,6 +1557,11 @@ metafile = true
 [[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "94a372a1cbe38680df0bdabe3d6e962397a95687c8816890d179ea30d5245747"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "813e9e0eafc379e546d68dd12bfcee29eee4ab4eefbbde3b8648e3401aaa23d4"
 metafile = true
 
 [[files]]
