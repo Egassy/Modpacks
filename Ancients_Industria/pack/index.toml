@@ -794,11 +794,11 @@ hash = "690c2cfb720b0dcbc18dd2400b02a441aa67e42fe6d0ee7b75aa4aa7d2e65d2a"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/moonlit_opal.json"
-hash = "ed4d8d47a1b3d2c283e327e91063f2280af80582ac4286f11d4027ea8dc2b19c"
+hash = "a5315e6f879262415a5419beb60efe3347bb8f5828724d1a185f1bc48cf50875"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/opal.json"
-hash = "6ac880b193d9689d7cce003665951088e225f33d71bebce2d3546abe77c934a3"
+hash = "aef7509f3fcfb4bea247b8a0accb3b2c16b19068898dfd1ff490fcfb1806b493"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/tags/item/unpleasant_opal.json"

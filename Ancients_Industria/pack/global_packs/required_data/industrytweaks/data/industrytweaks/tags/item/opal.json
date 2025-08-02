@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-	"opalescence:opal"
+	"opalescence:opal",
 	"opalescence:cut_opal",
 	"opalescence:opal_tiles",
 	"opalescence:opal_tiles_stairs",
