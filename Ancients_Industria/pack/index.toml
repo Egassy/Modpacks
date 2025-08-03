@@ -358,7 +358,7 @@ hash = "bf651b4809d3d3f23221be4d2c0f05a3011e8aab83ab726e07a9867da13ac1f8"
 
 [[files]]
 file = "config/the_bumblezone/general.toml"
-hash = "304659d9b13cf8847f61473fc93aff2d9296fbd8ceb08a78acf572f8840fcf9a"
+hash = "377a73d7b737826eb538a3c37a9b15d110c554f26f590146e9efdf0fb78a40ae"
 
 [[files]]
 file = "config/the_bumblezone/mod_compatibility.toml"
