@@ -1178,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/cmds-runology.pw.toml"
-hash = "b4354c57a1b83c9bf2334bd28c973478c3ede1247c7b60216dfe7bc535d5e7dc"
+hash = "e1978c4f4f7ebef17d52dec4ca0da608d44cfa9db3574b78b97df4688b6a5598"
 metafile = true
 
 [[files]]
