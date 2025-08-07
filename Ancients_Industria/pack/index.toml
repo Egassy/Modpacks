@@ -1167,6 +1167,11 @@ hash = "62dfc8fc2cdca1ecda0ba5d81ebfe8d070c370a169422a7a361af8e34a1cc38a"
 metafile = true
 
 [[files]]
+file = "mods/climbable-logs.pw.toml"
+hash = "4736095a056675715eb7f8364cea686975c71e8537118a79c2e12ed58c6e5690"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
