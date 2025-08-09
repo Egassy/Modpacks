@@ -849,6 +849,10 @@ file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/t
 hash = "0d10af875770282dd0c736bab16ea9e4a1d95cf48c1cacebdccee33d3eafc087"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/loot_table/blocks/cthonic_gold_ore.json"
+hash = "661d3c11c8ffe13ed4fcbda1a811669e0b5142e85ea18a4241da385a14dee129"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_small_tainted_rock_bricks_wall.json"
 hash = "8ea7029fad4b9e794e865b48d68d2bfac12ec4f8fda6f24fd722d9ea80cdb725"
 
