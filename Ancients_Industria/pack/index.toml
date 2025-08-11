@@ -394,7 +394,7 @@ hash = "50b993fef626c336c8b8b7f320da0c2df68c09d247d30939904ce13bd80ab6ed"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "307aac139f6969d8876a98f6e7e825c6cf95797387ce34ade9d6f50e01a9dc9d"
+hash = "c979c9d4e64c0ff1b2c7fc59fd638072ac1f3e4bcf9ea523198d82e34b831431"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
