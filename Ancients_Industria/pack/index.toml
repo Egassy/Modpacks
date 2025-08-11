@@ -649,6 +649,10 @@ file = "global_packs/required_data/industrytweaks/data/backpacked/tags/item/ench
 hash = "f2de6ccbf81b5f5b7943d690761d22f63bcb41ec2d9e0d2671757da8bdd48bfa"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/c/tags/entity_type/teleporting_not_supported.json"
+hash = "495f5387bc1d53a9687f05d6864953331bcf0937a24dab3aa39386f297155d62"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "24840e42f88a0699b24a52e7f965ecc6a49c88bf8ce6e018f2742386f2d6fe53"
 
