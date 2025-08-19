@@ -274,7 +274,7 @@ hash = "3086e3a63d8079398a5ab18693ac7bb2daccf861c572565a24fa966a940c3107"
 
 [[files]]
 file = "config/oritech-config.json5"
-hash = "4c667049e88b4f86b35ae53c10214c4fc03b7944492cee9be54a2429d2338b74"
+hash = "a7ea1ebce642acb3b75d98a59cb19e78e009064640dd4ee0f5a1c50790e92d39"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
