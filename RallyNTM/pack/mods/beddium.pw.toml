@@ -1,0 +1,13 @@
+name = "Beddium"
+filename = "beddium-mc1.7.10-1.0.4-j21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "228ef3e52674c265ff3791e84a7d3dc9275da39a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7040654
+project-id = 1065808

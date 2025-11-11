@@ -1,0 +1,7 @@
+name = "coretweaks"
+filename = "CoreTweaks-1.7.10-0.3.3.2.jar"
+
+[download]
+url = "https://github.com/makamys/CoreTweaks/releases/download/0.3.3.2/CoreTweaks-1.7.10-0.3.3.2.jar"
+hash-format = "sha256"
+hash = "60262b29626bbe588b2670a7cbe8ffee8569ff84d1343f27fe7dd7cdd91ff664"

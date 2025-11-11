@@ -1,0 +1,13 @@
+name = "Antiquities: Furniture"
+filename = "antiquities-0.2.50.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2756cc4891f20dba6e16d3ee9985b8d5ad28c99f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7201406
+project-id = 1371763

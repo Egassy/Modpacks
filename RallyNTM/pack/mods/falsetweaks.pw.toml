@@ -1,0 +1,13 @@
+name = "FalseTweaks"
+filename = "falsetweaks-mc1.7.10-4.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0c95ec036af923d420dc9916b1e441bf94a70fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7165004
+project-id = 665744

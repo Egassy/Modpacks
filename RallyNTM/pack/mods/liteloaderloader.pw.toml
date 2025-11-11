@@ -1,0 +1,7 @@
+name = "liteloaderloader"
+filename = "liteloaderloader-v0.1.1.jar"
+
+[download]
+url = "https://github.com/Midnight145/LiteloaderLoader/releases/download/v0.1.1/liteloaderloader-v0.1.1.jar"
+hash-format = "sha256"
+hash = "31640fc33e210143f545428ff1db4c78a999d9046f79d5ff70353c4efc2bf639"

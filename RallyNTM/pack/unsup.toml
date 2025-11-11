@@ -1,0 +1,105 @@
+[flavor_groups.map]
+    name = "Map Mod"
+    description = "Choose your ~~fighter~~ map mod!"
+    side = "client"
+    [[flavor_groups.map.choices]]
+    id = "xaeros"
+    name = "Xaero's Map"
+    description = "Installs Xaero's Minimap and World Map."
+    [[flavor_groups.map.choices]]
+    id = "journey"
+    name = "JourneyMap"
+    description = "Installs JourneyMap."
+    [[flavor_groups.map.choices]]
+    id = "voxel"
+    name = "VoxelMap"
+    description = "Installs VoxelMap, LiteLoader, and LiteLoaderLoader."
+
+[flavor_groups.beddium]
+    name = "Beddium + FalseTweaks"
+    description = "Beddium is an open-source terrain renderer using the Celeritas Core API.\n\nFalseTweaks is multithreaded rendering plus a large collection of improvements, fixes, optimizations and additions to 1.7.10 clients."
+    side = "client"
+    [[flavor_groups.beddium.choices]]
+    id = "beddium_on"
+    name = "Yes"
+    description = "Installs Beddium and FalseTweaks."
+    [[flavor_groups.beddium.choices]]
+    id = "beddium_off"
+    name = "No"
+    description = "Does not install Beddium and FalseTweaks."
+
+[flavor_groups.dualhotbar]
+    name = "Dual Hotbar"
+    description = "Double your hotbar space."
+    side = "both"
+    [[flavor_groups.dualhotbar.choices]]
+    id = "dualhotbar_on"
+    name = "Yes"
+    description = "Installs Dual Hotbar."
+    [[flavor_groups.dualhotbar.choices]]
+    id = "dualhotbar_off"
+    name = "No"
+    description = "Does not install Dual Hotbar."
+
+[flavor_groups.pregeneration]
+    name = "World Pregeneration"
+    description = "Mods for pregeneration; enable only if you intend to pregenerate your world/server."
+    side = "both"
+    [[flavor_groups.pregeneration.choices]]
+    id = "pregeneration_on"
+    name = "Yes"
+    description = "Installs CarbonConfig and Chunk-Pregenerator."
+    [[flavor_groups.pregeneration.choices]]
+    id = "pregeneration_off"
+    name = "No"
+    description = "Does not install CarbonConfig nor Chunk-Pregenerator."
+
+[flavor_groups.swansong]
+    name = "SwanSong"
+    description = "A shaders mod for 1.7.10 designed for maximum compatibility with other mods and modpacks."
+    side = "client"
+    [[flavor_groups.swansong.choices]]
+    id = "swansong_on"
+    name = "Yes"
+    description = "Installs SwanSong."
+    [[flavor_groups.swansong.choices]]
+    id = "swansong_off"
+    name = "No"
+    description = "Does not install SwanSong."
+
+
+[metafile.beddium]
+flavors = "beddium_on"
+
+[metafile.carbon-config]
+flavors = "pregeneration_on"
+
+[metafile.chunkpregenerator]
+flavors = "pregeneration_on"
+
+[metafile.dual-hotbar]
+flavors = "dualhotbar_on"
+
+[metafile.falsetweaks]
+flavors = "beddium_on"
+
+[metafile.liteloader]
+flavors = "voxel"
+
+[metafile.liteloaderloader]
+flavors = "voxel"
+
+[metafile.journeymap]
+flavors = "journey"
+
+[metafile.swansong]
+flavors = "swansong_on"
+
+[metafile.voxelmap]
+flavors = "voxel"
+
+[metafile.xaeros-minimap]
+flavors = "xaeros"
+
+[metafile.xaeros-world-map]
+flavors = "xaeros"

@@ -1,0 +1,13 @@
+name = "Right Proper MCPatcher"
+filename = "mcpatcher-mc1.7.10-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69e1c286fcb191ed3e6e2f488ba53d22940b8a21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7032456
+project-id = 1344779

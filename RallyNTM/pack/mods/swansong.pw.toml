@@ -1,0 +1,7 @@
+name = "swansong"
+filename = "swansong-mc1.7.10-1.2.5-4-gfc1563b.jar"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.7.10/jars/swansong-mc1.7.10-1.2.5-4-gfc1563b.jar"
+hash-format = "sha256"
+hash = "605c22b8bcb0061b6c39526d6befb902c02f9ba4e474d526dffca8282278863e"

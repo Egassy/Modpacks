@@ -1,0 +1,13 @@
+name = "BugTorch"
+filename = "bugtorch-1.2.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6su8A6OH/versions/lKTW0So5/bugtorch-1.2.14.jar"
+hash-format = "sha1"
+hash = "af7335bf296b80ec018080078e1c050f56db1013"
+
+[update]
+[update.modrinth]
+mod-id = "6su8A6OH"
+version = "lKTW0So5"

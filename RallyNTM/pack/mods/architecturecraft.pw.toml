@@ -1,0 +1,13 @@
+name = "ArchitectureCraft"
+filename = "ArchitectureCraft-1.7.2-mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64983af4a9142bd9578fa077069486af641b7a86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2352554
+project-id = 242001

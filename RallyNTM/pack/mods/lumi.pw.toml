@@ -1,0 +1,13 @@
+name = "Lumi Lighting Engine Optimizer"
+filename = "lumi-mc1.7.10-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "335a7670360cd825b23fb08678f72a184aca9360"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6543345
+project-id = 1050470
