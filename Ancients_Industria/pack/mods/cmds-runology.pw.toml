@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ajdB6MtT/versions/n7rLNiVs/runology-2.0.0-alpha-14.jar"
-hash-format = "sha1"
-hash = "aa7633ac1b6616189dc2068d42b273219e63d1be"
+hash-format = "sha512"
+hash = "0327edadec6b3ecfdbde99ac09a113b5a8050a64e2fb02535ffb2226f2590294398f52a7d9fb90a1fd86a639d058336a647ac9dca2fb22ad9cbb0bd78c075c2c"
 
 [update]
 [update.modrinth]

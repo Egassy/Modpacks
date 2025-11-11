@@ -237,7 +237,7 @@
 	"maxSize": 64,
 	"reactorMaxEnergyStored": 50000000,
 	"reactorMaxEnergyOutput": 25000,
-	"rfPerPulse": 64,
+	"rfPerPulse": 256,
 	"absorberRate": 16,
 	"ventBaseRate": 4,
 	"ventRelativeRate": 100,

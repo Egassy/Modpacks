@@ -274,7 +274,7 @@ hash = "3086e3a63d8079398a5ab18693ac7bb2daccf861c572565a24fa966a940c3107"
 
 [[files]]
 file = "config/oritech-config.json5"
-hash = "4c667049e88b4f86b35ae53c10214c4fc03b7944492cee9be54a2429d2338b74"
+hash = "a7ea1ebce642acb3b75d98a59cb19e78e009064640dd4ee0f5a1c50790e92d39"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
@@ -358,7 +358,7 @@ hash = "bf651b4809d3d3f23221be4d2c0f05a3011e8aab83ab726e07a9867da13ac1f8"
 
 [[files]]
 file = "config/the_bumblezone/general.toml"
-hash = "304659d9b13cf8847f61473fc93aff2d9296fbd8ceb08a78acf572f8840fcf9a"
+hash = "377a73d7b737826eb538a3c37a9b15d110c554f26f590146e9efdf0fb78a40ae"
 
 [[files]]
 file = "config/the_bumblezone/mod_compatibility.toml"
@@ -394,7 +394,7 @@ hash = "50b993fef626c336c8b8b7f320da0c2df68c09d247d30939904ce13bd80ab6ed"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "30c5f97857cebecf93687e8ba5df4f76ebfcf6670fc406f297841f271dfb01c5"
+hash = "c979c9d4e64c0ff1b2c7fc59fd638072ac1f3e4bcf9ea523198d82e34b831431"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -649,6 +649,10 @@ file = "global_packs/required_data/industrytweaks/data/backpacked/tags/item/ench
 hash = "f2de6ccbf81b5f5b7943d690761d22f63bcb41ec2d9e0d2671757da8bdd48bfa"
 
 [[files]]
+file = "global_packs/required_data/industrytweaks/data/c/tags/entity_type/teleporting_not_supported.json"
+hash = "495f5387bc1d53a9687f05d6864953331bcf0937a24dab3aa39386f297155d62"
+
+[[files]]
 file = "global_packs/required_data/industrytweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "24840e42f88a0699b24a52e7f965ecc6a49c88bf8ce6e018f2742386f2d6fe53"
 
@@ -847,6 +851,10 @@ hash = "13c1dd40ddb077b6f343e2bb1011c331b76339189c7f10b99640a1a000133882"
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/industrytweaks/worldgen/template_pool/crystaltrees.json"
 hash = "0d10af875770282dd0c736bab16ea9e4a1d95cf48c1cacebdccee33d3eafc087"
+
+[[files]]
+file = "global_packs/required_data/industrytweaks/data/malum/loot_table/blocks/cthonic_gold_ore.json"
+hash = "661d3c11c8ffe13ed4fcbda1a811669e0b5142e85ea18a4241da385a14dee129"
 
 [[files]]
 file = "global_packs/required_data/industrytweaks/data/malum/recipe/runic_small_tainted_rock_bricks_wall.json"
@@ -1167,6 +1175,11 @@ hash = "62dfc8fc2cdca1ecda0ba5d81ebfe8d070c370a169422a7a361af8e34a1cc38a"
 metafile = true
 
 [[files]]
+file = "mods/climbable-logs.pw.toml"
+hash = "4736095a056675715eb7f8364cea686975c71e8537118a79c2e12ed58c6e5690"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -1178,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cmds-runology.pw.toml"
-hash = "e1978c4f4f7ebef17d52dec4ca0da608d44cfa9db3574b78b97df4688b6a5598"
+hash = "293782415403565590277b1afaa206b450158bbe71d788b97eda2a4408dca0d4"
 metafile = true
 
 [[files]]

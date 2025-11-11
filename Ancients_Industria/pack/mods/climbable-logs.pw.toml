@@ -1,0 +1,13 @@
+name = "Climbable Logs"
+filename = "treeclimbing-1.0.0+1.21+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbcaf673337b78b71f3f08524fd113121df912a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6850797
+project-id = 1321308
