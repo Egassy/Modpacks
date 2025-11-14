@@ -1,0 +1,13 @@
+name = "Nilcord"
+filename = "nilcord-2.4.2.1+1.7.10+forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W4HQBVeF/versions/rpG5CRro/nilcord-2.4.2.1%2B1.7.10%2Bforge.jar"
+hash-format = "sha512"
+hash = "675c0ee1ea7851553bfd4fc04299029587d55c0aa43a034e59582b13b853f929d34f23063f383e984d9fa39b4810f17a97b601f9af1ed8c99490344ae60ac3cd"
+
+[update]
+[update.modrinth]
+mod-id = "W4HQBVeF"
+version = "rpG5CRro"

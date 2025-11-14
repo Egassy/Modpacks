@@ -1312,6 +1312,11 @@ hash = "6390acc5855654484b688eef1c355e2a9b84234d755d6f0f706a9637c09d91c7"
 metafile = true
 
 [[files]]
+file = "mods/nilcord.pw.toml"
+hash = "145e6d1e9e095f5e324add45c65db940fc69368b185217d0120872dc3548053c"
+metafile = true
+
+[[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "4f444c9190d4c497cd91dcc2b6559c85eb7e8a91c1cd5a8d2480e8570baedcec"
 metafile = true
