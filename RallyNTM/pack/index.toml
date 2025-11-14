@@ -1112,11 +1112,6 @@ hash = "d6fded6d037b9093f0ecb0783516a8e782457a2de89267b4a089d138d33f5f36"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "ad0d8412898c36d5dea25e42733516a1800c97100b70c6a7c638e5246a6e118a"
-metafile = true
-
-[[files]]
 file = "mods/bugtorch.pw.toml"
 hash = "48187845fbbea86a0114c44ee58cd2a406c4fc4d24e00e63889efb07ff717412"
 metafile = true
