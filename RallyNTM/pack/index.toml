@@ -1327,11 +1327,6 @@ hash = "9398ccd0550d5d3d56e8d24178fdc71c8189ae381a9ccfb5ef3d694cafb40068"
 metafile = true
 
 [[files]]
-file = "mods/realistic-terrain-generation.pw.toml"
-hash = "3bc1898ff1ab9e79bb4df48c7e2d2d702bc58499931beb2b9c4d68f8b6b153f3"
-metafile = true
-
-[[files]]
 file = "mods/serverutilities.pw.toml"
 hash = "28d1b0722ce63345d01dd78aebbb660cc9f46502f3b6d56c0db23416ee318713"
 metafile = true
