@@ -1142,11 +1142,6 @@ hash = "cce16701c186c342f4ce0b20a41cafc4ae7af1a00e0bf85b6a26d89ee1ba99e7"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore.pw.toml"
-hash = "877e37dd1a4313b52e1d40d74fe9abc89658f8cf172263b0f33d0feb15db89b6"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2d8979b5daa642fbc61126aa3dd68387e6e8cbaef875a8aa9d9a470b7f8fe698"
 metafile = true
