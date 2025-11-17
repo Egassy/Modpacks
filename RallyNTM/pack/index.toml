@@ -1102,11 +1102,6 @@ hash = "61b80c14d93aca18fd8062a9b095479e8010019c1bfc5054d6caf169b03346db"
 metafile = true
 
 [[files]]
-file = "mods/backhand.pw.toml"
-hash = "31e9bfd867eae66d6412089acd0f54d6f8a4025690d9e2d1cb6150f44155c5ea"
-metafile = true
-
-[[files]]
 file = "mods/beddium.pw.toml"
 hash = "d6fded6d037b9093f0ecb0783516a8e782457a2de89267b4a089d138d33f5f36"
 metafile = true
