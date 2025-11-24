@@ -1318,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntm.pw.toml"
-hash = "9398ccd0550d5d3d56e8d24178fdc71c8189ae381a9ccfb5ef3d694cafb40068"
+hash = "b8fae1832e3402bd029d72c11d28d6b4234823f40f612127744695de9337a1ab"
 metafile = true
 
 [[files]]
