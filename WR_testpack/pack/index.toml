@@ -36,6 +36,16 @@ hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
+metafile = true
+
+[[files]]
+file = "mods/natural-philosophy.pw.toml"
+hash = "e7ec4f2d19874a0910c8ceea5af7d1b31e8addcba218630c1efc168e7b575485"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "9a2c112447329f1daea6cda77d68d3cdf7f292ae9e72f69adbfc18cb18ab1eeb"
 metafile = true

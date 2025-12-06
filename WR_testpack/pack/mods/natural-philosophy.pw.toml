@@ -1,0 +1,13 @@
+name = "Natural Philosophy"
+filename = "naturalphilosophy-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U9cMcvjn/versions/fNNCQDo1/naturalphilosophy-2.2.1.jar"
+hash-format = "sha512"
+hash = "8a0018759730272f88b09ecb01aaf6e6113c7ea317f991eab05f8d50c270bd1e39237d256be6c9ebc7130f21a2760314cb41132fcc856b166a0d38405c157bf4"
+
+[update]
+[update.modrinth]
+mod-id = "U9cMcvjn"
+version = "fNNCQDo1"
