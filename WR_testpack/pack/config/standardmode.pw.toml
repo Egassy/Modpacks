@@ -1,0 +1,7 @@
+name = "standardmode"
+filename = "emi.css"
+
+[download]
+url = "https://github.com/Egassy/Modpacks/raw/refs/heads/main/WR_testpack/emioptions/standard/emi.css"
+hash-format = "sha256"
+hash = "b525b308365b4a3d22cfe172f889a33dab10af72f2b93c217f41bb3fe8875a81"

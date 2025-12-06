@@ -104,6 +104,10 @@ flavors = ["viewer_emi", "viewer_emi_configed"]
 flavors = ["viewer_emi", "viewer_emi_configed"]
 [metafile.jei]
 flavors = "viewer_jei"
+[metafile.jeimode]
+flavors = "viewer_emi_configed"
+[metafile.standardmode]
+flavors = "viewer_emi"
 [metafile.sodium]
 flavors = "rendering_sodium"
 [metafile.embeddium]

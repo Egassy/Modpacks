@@ -1,0 +1,7 @@
+name = "jeimode"
+filename = "emi.css"
+
+[download]
+url = "https://github.com/Egassy/Modpacks/raw/refs/heads/main/WR_testpack/emioptions/jeimode/emi.css"
+hash-format = "sha256"
+hash = "ea31a05ede8935c61e7a49419e698f9e03ba5c76e4a0d40f5da0f8f1e9bc6f82"

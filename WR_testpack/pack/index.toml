@@ -49,10 +49,6 @@ file = "config/embeddium-options.json"
 hash = "2e45fad8b1f64480f223f2c48be441d2e6d9768581fce2f247483574335b383c"
 
 [[files]]
-file = "config/emi.css"
-hash = "b525b308365b4a3d22cfe172f889a33dab10af72f2b93c217f41bb3fe8875a81"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "0aef81f57e2afd3906cf175407fa0725c3186eae76f0708a87454eaa57c9d72c"
 
@@ -105,6 +101,11 @@ file = "config/jade/sort-order.json"
 hash = "588e23cba070bf54132635f162e8283e7d926b57ab168435da4ccd4bc743c0c6"
 
 [[files]]
+file = "config/jeimode.pw.toml"
+hash = "43e2c27d77414fb75a56ff3c6185846017e9a9b060621d5f97a5e243ee321372"
+metafile = true
+
+[[files]]
 file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
@@ -155,6 +156,11 @@ hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 [[files]]
 file = "config/ponder-client.toml"
 hash = "f7892742494899f3d7169cbefd1969c7030f1555bfc277e0a0a8fc6b9160b053"
+
+[[files]]
+file = "config/standardmode.pw.toml"
+hash = "bf53d7614e82ee557571a82a63969d524579b7aed9ad1800d663d28794fe96b1"
+metafile = true
 
 [[files]]
 file = "config/theurgy-client.toml"
@@ -350,4 +356,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "c882f44c7eb84d17cb1058056ded8bb809ebbd2801f3cac37731e1a74483437f"
+hash = "9a6f129f3163bbb8e0d0031bde72b3a231cbcce6fccdce9ae57a68953d1a2f88"
