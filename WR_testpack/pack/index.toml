@@ -26,16 +26,6 @@ hash = "e6e87243dc5df3696ef2859d2c0c0891909e63544ac4eaaa3a1c8effa68ade56"
 metafile = true
 
 [[files]]
-file = "mods/ears.pw.toml"
-hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -124,3 +114,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "8934c0ceac7f6f9226d8d602d74f9e6cedfe8def00bf728dbf2c95cd9b7882ac"
