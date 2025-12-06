@@ -1,0 +1,13 @@
+name = "WR_Testpack"
+author = "Egassy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "561c91cea7d876fb69c7e26dc3a3640322c188c96afb4b8cfadfac44ef8508f5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"
