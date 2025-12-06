@@ -16,6 +16,11 @@ hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/data-essence.pw.toml"
 hash = "5b97fcdce5721b4bd5d60be3562eeeca8e8d7d84ec67e2ca635fafc807eb745e"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
 
 [[files]]
