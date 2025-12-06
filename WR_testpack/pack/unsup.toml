@@ -1,7 +1,24 @@
+[flavor_groups.viewer]
+name = "Recipe Viewer"
+description = "Recipe viewer mod to use. EMI (with the TMRV compat layer) is more performant, more customizable and has more features, and allows faster load times by loading data on world load. JEI has more commonly used direct compatability instead of requiring a universal compat layer mod."
+side = "both"
+[[flavor_groups.viewer.choices]]
+id = "viewer_emi"
+name = "EMI+TMRV"
+description = "Installs EMI and TMRV."
+[[flavor_groups.viewer.choices]]
+id = "viewer_jei"
+name = "JEI"
+description = "Installs JEI."
+[[flavor_groups.viewer.choices]]
+id = "viewer_emi_configed"
+name = "EMI+TMRV - JEI edition"
+description = "Installs EMI and TMRV with customized configs to make it look like JEI."
+
 [flavor_groups.rendering]
 name = "Rendering Mod"
-description = "Rendering mod to use. Sodium is better and more effective, however it has some layer sorting issues that result in Wings wings having no visible feathers and looking like grotesque fleshy appendages instead of wings. Embeddium does not have this issue."
-side = "both"
+description = "Rendering mod to use. Sodium is better and more effective, however it has occasional layer sorting issues. Embeddium does not."
+side = "client"
 [[flavor_groups.rendering.choices]]
 id = "rendering_sodium"
 name = "Sodium"
@@ -14,23 +31,6 @@ description = "Installs Embeddium."
 id = "rendering_none"
 name = "No"
 description = "Do not install a rendering mod."
-
-[flavor_groups.fonts]
-name = "Fonts"
-description = "Changes vanilla font to one of the following."
-side = "client"
-[[flavor_groups.fonts.choices]]
-id = "fonts_fontolith"
-name = "Fontolith"
-description = "Installs Fontolith, a thin, blocky font \"with a slight hint of fantasy\"\nMade by our very own Idi."
-[[flavor_groups.fonts.choices]]
-id = "fonts_unsanded"
-name = "Unsanded"
-description = "Installs Unsanded, a blunt, chunky font\nMade by Unascribed."
-[[flavor_groups.fonts.choices]]
-id = "fonts_none"
-name = "Vanilla"
-description = "Use the vanilla font, no changes."
 
 [flavor_groups.ears]
 name = "Ears"
@@ -45,31 +45,18 @@ id = "ears_off"
 name = "No"
 description = "Do not install Ears."
 
-[flavor_groups.yeetus]
-name = "Yeetus Experimentus"
-description = "Removes the experimental settings warning on creating a new world. Client only."
+[flavor_groups.figura]
+name = "Figura"
+description = "Animation-capable player models that come directly from Blockbench, with near unlimited capabilities for customization. Client only."
 side = "client"
-[[flavor_groups.yeetus.choices]]
-id = "yeetus_on"
+[[flavor_groups.figura.choices]]
+id = "figura_on"
 name = "Yes"
-description = "Installs Yeetus Experimentus."
-[[flavor_groups.yeetus.choices]]
-id = "yeetus_off"
+description = "Installs Figura."
+[[flavor_groups.figura.choices]]
+id = "figura_off"
 name = "No"
-description = "Do not install Yeetus Experimentus."
-
-[flavor_groups.invessentials]
-name = "Inventory Essentials"
-description = "Adds minimal, consistent inventory features. Ctrl-click stack to move single item, shift-ctrl-click item to move all stacks of that item, shift-drag to move items. Client with additional server functionality."
-side = "both"
-[[flavor_groups.invessentials.choices]]
-id = "invessentials_on"
-name = "Yes"
-description = "Installs Inventory Essentials."
-[[flavor_groups.invessentials.choices]]
-id = "invessentials_off"
-name = "No"
-description = "Do not install Inventory Essentials."
+description = "Do not install Figura."
 
 [flavor_groups.mousetweaks]
 name = "Mouse Tweaks"
@@ -97,19 +84,6 @@ id = "mud_off"
 name = "No"
 description = "Do not install More Overlays."
 
-[flavor_groups.svc]
-name = "Simple Voice Chat"
-description = "Proximity-based voice chat routed through the server. Required on server, not required on client."
-side = "both"
-[[flavor_groups.svc.choices]]
-id = "svc_on"
-name = "Yes"
-description = "Installs Simple Voice Chat."
-[[flavor_groups.svc.choices]]
-id = "svc_off"
-name = "No"
-description = "Do not install Simple Voice Chat."
-
 [flavor_groups.neoauth]
 name = "Neoauth"
 description = "Reauthentication without closing the game. Client only."
@@ -123,41 +97,24 @@ id = "neoauth_off"
 name = "No"
 description = "Do not install Neoauth."
 
-[flavor_groups.figura]
-name = "Figura"
-description = "Animation-capable player models that come directly from Blockbench, with near unlimited capabilities for customization. Client only."
-side = "client"
-[[flavor_groups.figura.choices]]
-id = "figura_on"
-name = "Yes"
-description = "Installs Figura."
-[[flavor_groups.figura.choices]]
-id = "figura_off"
-name = "No"
-description = "Do not install Figura."
 
-
+[metafile.emi]
+flavors = ["viewer_emi", "viewer_emi_configed"]
+[metafile.tmrv]
+flavors = ["viewer_emi", "viewer_emi_configed"]
+[metafile.jei]
+flavors = "viewer_jei"
 [metafile.sodium]
 flavors = "rendering_sodium"
 [metafile.embeddium]
 flavors = "rendering_embeddium"
-[metafile.fontolith]
-flavors = "fonts_fontolith"
-[metafile.unsanded]
-flavors = "fonts_unsanded"
 [metafile.ears]
 flavors = "ears_on"
-[metafile.yeetusexperimentus]
-flavors = "yeetus_on"
-[metafile.inventory-essentials]
-flavors = "invessentials_on"
+[metafile.figura]
+flavors = "figura_on"
 [metafile.mouse-tweaks]
 flavors = "mousetweaks_on"
 [metafile.more-overlays-updated]
 flavors = "mud_on"
-[metafile.simple-voice-chat]
-flavors = "svc_on"
 [metafile.neoauth]
 flavors = "neoauth_on"
-[metafile.figura]
-flavors = "figura_on"
