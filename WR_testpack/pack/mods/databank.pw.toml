@@ -1,0 +1,13 @@
+name = "Databank"
+filename = "databank-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Ct0NAxj/versions/hfcOs39b/databank-1.2.2.jar"
+hash-format = "sha512"
+hash = "7fce8188c4fca2148eaae71d4a1e497d247fadc59b690507ac7c3b722f0c33d59d191196c2958ce0e7600182fb8693de7a5a6574b5c96588bcfec16836e63a3a"
+
+[update]
+[update.modrinth]
+mod-id = "2Ct0NAxj"
+version = "hfcOs39b"

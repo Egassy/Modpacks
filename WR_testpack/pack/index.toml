@@ -6,6 +6,16 @@ hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
+file = "mods/data-essence.pw.toml"
+hash = "5b97fcdce5721b4bd5d60be3562eeeca8e8d7d84ec67e2ca635fafc807eb745e"
+metafile = true
+
+[[files]]
+file = "mods/databank.pw.toml"
+hash = "e6e87243dc5df3696ef2859d2c0c0891909e63544ac4eaaa3a1c8effa68ade56"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
