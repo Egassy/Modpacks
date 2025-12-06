@@ -86,6 +86,11 @@ hash = "98e2cc1f476858e0e1549cd13e7069a6a379da2588d71f5fc151d3f2d4a20485"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/natural-philosophy.pw.toml"
 hash = "e7ec4f2d19874a0910c8ceea5af7d1b31e8addcba218630c1efc168e7b575485"
 metafile = true
