@@ -36,6 +36,11 @@ hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
 metafile = true
@@ -51,6 +56,11 @@ hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "98e2cc1f476858e0e1549cd13e7069a6a379da2588d71f5fc151d3f2d4a20485"
+metafile = true
+
+[[files]]
 file = "mods/natural-philosophy.pw.toml"
 hash = "e7ec4f2d19874a0910c8ceea5af7d1b31e8addcba218630c1efc168e7b575485"
 metafile = true
@@ -63,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "7075deaae99440ae282f460b6f2975abe2fe6f4595a38139bf385dce622d5661"
 metafile = true
 
 [[files]]
