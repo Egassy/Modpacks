@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alchemancy.pw.toml"
+hash = "f74de1fc4cd66c078e99405ca3fb69a43635d4318e0c3b5e4c8fbe36b0304417"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "095d580949dee2ea02c874d7fb73231786e25f7aacbc5a90ae597498ef26f74c"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Alchemancy"
+filename = "alchemancy-2.0.3-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oBDFFKkX/versions/sMSScWbP/alchemancy-2.0.3-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "cd34373fdc0addb23de1ba29bafa5ee4d7ca6570d0e2ede38ef30ad079fc16fd5454038f874c16b27a3c64b7800d053a2ac79e9fb0dc831666c11ba68033d6cc"
+
+[update]
+[update.modrinth]
+mod-id = "oBDFFKkX"
+version = "sMSScWbP"
