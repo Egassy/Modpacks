@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/natural-philosophy.pw.toml"
 hash = "e7ec4f2d19874a0910c8ceea5af7d1b31e8addcba218630c1efc168e7b575485"
+metafile = true
+
+[[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "095d580949dee2ea02c874d7fb73231786e25f7aacbc5a90ae597498ef26f74c"
 metafile = true
 
 [[files]]
