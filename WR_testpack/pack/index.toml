@@ -195,6 +195,26 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "global_packs/required_resources/philosophyoverrides/assets/minecraft/textures/block/grass_block_side.png"
+hash = "76a677640eb91d6a9aed844bc66e329b1894f89e241a0071333b6678c0854580"
+
+[[files]]
+file = "global_packs/required_resources/philosophyoverrides/assets/minecraft/textures/block/grass_block_side_overlay.png"
+hash = "872056682c3b059c04aba88f8b4e706f2526b907e1acef12626a9f912f573a85"
+
+[[files]]
+file = "global_packs/required_resources/philosophyoverrides/assets/minecraft/textures/block/mycelium_side.png"
+hash = "74b0c4fa6c6b8d32bf42f8cbaa97eb6ec8fabc1f4f049bc8b22023c3b49032c7"
+
+[[files]]
+file = "global_packs/required_resources/philosophyoverrides/assets/minecraft/textures/block/podzol_side.png"
+hash = "dacef78790b567396241e3d1453cdc5cd63eb79484f77fe8bd9311281805e283"
+
+[[files]]
+file = "global_packs/required_resources/philosophyoverrides/pack.mcmeta"
+hash = "62ddc7d11b89cc6528c376968f164bd981d0a002c95bcc003a5cbed1e18b14ff"
+
+[[files]]
 file = "mods/alchemancy.pw.toml"
 hash = "f74de1fc4cd66c078e99405ca3fb69a43635d4318e0c3b5e4c8fbe36b0304417"
 metafile = true
