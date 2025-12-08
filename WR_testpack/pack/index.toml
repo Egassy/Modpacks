@@ -146,8 +146,24 @@ file = "config/nomansland-startup.toml"
 hash = "4f9cc6ff573131acf9e92638b8686d2cfcaafbececd4289d4b5b431a4e9cc697"
 
 [[files]]
+file = "config/openpartiesandclaims-default-player-config.toml"
+hash = "5196cf43759fc094a96f35c08ddee2b13c0a47a4c6d25311cb80249a0eeb0825"
+
+[[files]]
+file = "config/openpartiesandclaims-expired-claim-config.toml"
+hash = "9438f8f286d1628c768d73250a6949af74530b84cb06c4f29f14121f03063c53"
+
+[[files]]
+file = "config/openpartiesandclaims-server-claim-config.toml"
+hash = "9438f8f286d1628c768d73250a6949af74530b84cb06c4f29f14121f03063c53"
+
+[[files]]
 file = "config/openpartiesandclaims-server.toml"
 hash = "6aa19617c6bbec9c5a93a7dc442add066897003835683c9c0be5ec8c910ab2e3"
+
+[[files]]
+file = "config/openpartiesandclaims-wilderness-config.toml"
+hash = "b63d1b39f83223fdaadd42a007f2b7c365320f8649f17e6640781b8a1ea16d13"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -193,6 +209,26 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "defaultconfigs/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "5196cf43759fc094a96f35c08ddee2b13c0a47a4c6d25311cb80249a0eeb0825"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "9438f8f286d1628c768d73250a6949af74530b84cb06c4f29f14121f03063c53"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "9438f8f286d1628c768d73250a6949af74530b84cb06c4f29f14121f03063c53"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "b63d1b39f83223fdaadd42a007f2b7c365320f8649f17e6640781b8a1ea16d13"
 
 [[files]]
 file = "global_packs/required_resources/philosophyoverrides/assets/minecraft/textures/block/grass_block_side.png"
