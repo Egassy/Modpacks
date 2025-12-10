@@ -252,7 +252,7 @@ hash = "62ddc7d11b89cc6528c376968f164bd981d0a002c95bcc003a5cbed1e18b14ff"
 
 [[files]]
 file = "mods/alchemancy.pw.toml"
-hash = "f74de1fc4cd66c078e99405ca3fb69a43635d4318e0c3b5e4c8fbe36b0304417"
+hash = "9988a9744b98f09f318767f775ea5f96ea5fa35c18c3e02e777b331ab013b1f1"
 metafile = true
 
 [[files]]
@@ -277,12 +277,12 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "5b97fcdce5721b4bd5d60be3562eeeca8e8d7d84ec67e2ca635fafc807eb745e"
+hash = "0905350ba71b27108e131c85288676cb77fc421c5f95171f4d2242d50e7a0577"
 metafile = true
 
 [[files]]
 file = "mods/databank.pw.toml"
-hash = "e6e87243dc5df3696ef2859d2c0c0891909e63544ac4eaaa3a1c8effa68ade56"
+hash = "beb789c1820089778351534cc926b5b0144a638b2ead5817faaf47ca131bfd6d"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
+hash = "fea864246115d3a3be0b0b38f116e882a417fc12b1045d433afde516bd421413"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
+hash = "1bcfc5725a3640a049a81793be5a0efbda2aa0c42a9699144ca8e72e68716bd8"
 metafile = true
 
 [[files]]
