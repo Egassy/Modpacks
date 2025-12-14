@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "datanessence:copper_nugget"
+    ],
+	"remove": [
+        "create:copper_nugget"
+    ]
+}

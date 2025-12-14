@@ -231,6 +231,54 @@ file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
 hash = "b63d1b39f83223fdaadd42a007f2b7c365320f8649f17e6640781b8a1ea16d13"
 
 [[files]]
+file = "global_packs/required_data/wrfilters/data/required.document"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/wrfilters/pack.mcmeta"
+hash = "8394c7be14d79189adb91609e5db3c0037fb358ecff5e1c21b35ebc062027362"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "21474238772b472d1c3755cf7f613aaad5864bbf7cdf648deb7da3e889424471"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/c/tags/item/nuggets/copper.json"
+hash = "8d93a8a87be823db9a1fc86fe1806d1a27f4e93e3f7fcbe127d202035d9fd465"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/create/recipe/crushing/tuff.json"
+hash = "7871389a80e87d46aabe38591515d494e8eacf30bc795bc05425aab169a2f488"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/create/recipe/crushing/tuff_recycling.json"
+hash = "ad4c7f2abf92c3677c7e72b722c1ac342e306475b84c3496c305da84efb8800a"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/create/recipe/crushing/veridium.json"
+hash = "491a94c6fae43c9c2687aebcb513d36091b604e7cd541318826252810cc9be0f"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/create/recipe/crushing/veridium_recycling.json"
+hash = "3389d3ff25e1e18556fe598b3f08302c81ae0482c7797078c665c1244ef253cb"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/create/recipe/splashing/crushed_raw_copper.json"
+hash = "53bee3c7a430c0de595baa8249f331ba9966e79a5e9353e3dc2320ab98ba6241"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/datanessence/data_maps/item/plant_siphon_essence.json"
+hash = "433b8b0420c6f50ae76aa38d85023cf9ef900da0ba3d7fa5cd24e4308fea0fc6"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/datanessence/data_maps/item/plant_siphon_essence.json.orig"
+hash = "e4c14c4818980bf36fc9e807ac91daa1c13dc490ac9ced6752ecbae030436d2e"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/pack.mcmeta"
+hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
+
+[[files]]
 file = "global_packs/required_resources/philosophyoverrides/assets/minecraft/textures/block/grass_block_side.png"
 hash = "76a677640eb91d6a9aed844bc66e329b1894f89e241a0071333b6678c0854580"
 
