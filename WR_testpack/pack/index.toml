@@ -300,7 +300,7 @@ hash = "62ddc7d11b89cc6528c376968f164bd981d0a002c95bcc003a5cbed1e18b14ff"
 
 [[files]]
 file = "mods/alchemancy.pw.toml"
-hash = "9988a9744b98f09f318767f775ea5f96ea5fa35c18c3e02e777b331ab013b1f1"
+hash = "a6cc925d3431b3eda6032b47ad63c76309c46c4a80cc082e4485a3adce805ce8"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+hash = "4c0943468e816c02ad58398d600e6c5c413d3a3e0495d3245cd77c4066a14e77"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+hash = "bf8fe95846cd7a26b1e90c703abaa3963a122a938b5ed1710df1929a792054c9"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "095d580949dee2ea02c874d7fb73231786e25f7aacbc5a90ae597498ef26f74c"
+hash = "2d51fa52a16d97c242e860e649cd4c5ed8ab00190c428974793425745c0d92c7"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+hash = "b62e1a32d2d6a18ea848f58d629f9caf5565a90495de33cdfbebd041c735c07b"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "9a2c112447329f1daea6cda77d68d3cdf7f292ae9e72f69adbfc18cb18ab1eeb"
+hash = "580ff15d2452bbff01f6493f566516d87e1a896cb715c4f47ecb5817eb720467"
 metafile = true
 
 [[files]]

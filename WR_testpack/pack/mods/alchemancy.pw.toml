@@ -1,13 +1,13 @@
 name = "Alchemancy"
-filename = "alchemancy-2.1.0-NeoForge-1.21.1.jar"
+filename = "alchemancy-2.1.1-NeoForge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oBDFFKkX/versions/GxjUgBVy/alchemancy-2.1.0-NeoForge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/oBDFFKkX/versions/4XfbFy4L/alchemancy-2.1.1-NeoForge-1.21.1.jar"
 hash-format = "sha512"
-hash = "4dcac99f61e5f16b7bbe5eb607d49b34ef7982f485cfd99e8688c26255405495cfdc4825711aaa3fade00a952608441ac069c4d55ee7df8532f93d265ad6fddb"
+hash = "f878ee36e6618e11d3a8dd8d344475be6574493a007ba0ffea3cfd5cda47edcd457fd31e6ab08b616d1cc2820af821343b44019de9a97e27d9f3b9bc31f4c522"
 
 [update]
 [update.modrinth]
 mod-id = "oBDFFKkX"
-version = "GxjUgBVy"
+version = "4XfbFy4L"
