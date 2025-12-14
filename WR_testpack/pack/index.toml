@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
+hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "1bcfc5725a3640a049a81793be5a0efbda2aa0c42a9699144ca8e72e68716bd8"
+hash = "4d27596894102cbf06785a37e659fcd19175537966224801a0b0d98aa78d9546"
 metafile = true
 
 [[files]]
