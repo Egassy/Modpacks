@@ -1,0 +1,7 @@
+name = "witchery-resurrected"
+filename = "witchery-resurrected-base-0.6.0+beta-6.jar"
+
+[download]
+url = "https://drive.google.com/uc?export=download&id=1pTh-8_t89wiSbheMbDix7sY2ySCPGUex"
+hash-format = "sha256"
+hash = "96655e2018feee435380ba5149b57b3bd6831ef833771b13ef5d151c1eadc2f3"

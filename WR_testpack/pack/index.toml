@@ -469,6 +469,11 @@ hash = "580ff15d2452bbff01f6493f566516d87e1a896cb715c4f47ecb5817eb720467"
 metafile = true
 
 [[files]]
+file = "mods/witchery-resurrected.pw.toml"
+hash = "01c48e65afaab798e98ac8a156c19dc31529975f11f08272d782bc925baaf6f5"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
