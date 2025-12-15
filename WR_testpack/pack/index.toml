@@ -308,6 +308,11 @@ hash = "a6cc925d3431b3eda6032b47ad63c76309c46c4a80cc082e4485a3adce805ce8"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
