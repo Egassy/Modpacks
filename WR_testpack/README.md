@@ -4,6 +4,8 @@ Modlist is as follows:
 
 Alchemancy
 
+Appleskin
+
 Biolith
 
 Controlling
@@ -77,5 +79,6 @@ TooManyRecipeViewers
 witchery-resurrected
 
 Xaero's Minimap
+
 
 Xaero's World Map
