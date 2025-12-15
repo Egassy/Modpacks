@@ -275,6 +275,10 @@ file = "global_packs/required_data/wrtweaks/data/datanessence/data_maps/item/pla
 hash = "e4c14c4818980bf36fc9e807ac91daa1c13dc490ac9ced6752ecbae030436d2e"
 
 [[files]]
+file = "global_packs/required_data/wrtweaks/data/wrtweaks/recipe/saddle.json"
+hash = "8bbf5d8c03ee20311c63ea2f0643ed0fd31a9d554e45676eb89395a833b97886"
+
+[[files]]
 file = "global_packs/required_data/wrtweaks/pack.mcmeta"
 hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
 
