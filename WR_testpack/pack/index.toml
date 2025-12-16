@@ -275,6 +275,30 @@ file = "global_packs/required_data/wrtweaks/data/datanessence/data_maps/item/pla
 hash = "e4c14c4818980bf36fc9e807ac91daa1c13dc490ac9ced6752ecbae030436d2e"
 
 [[files]]
+file = "global_packs/required_data/wrtweaks/data/minecraft/loot_table/blocks/fern.json"
+hash = "b65f53475a85fed601d8ef3be8481b3936e8c53f5e9a96446ae0b54f825faf5c"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/minecraft/loot_table/blocks/large_fern.json"
+hash = "8ad3dfcd38476197a73ddfae407bb1bfd8200b4f362e37dd91af5a61a015abfa"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/minecraft/loot_table/blocks/oak_leaves.json"
+hash = "4f0cf4479222e71d1bec0e310698fdc5672b9cef1f9f83a0eb0321648082f18c"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/minecraft/loot_table/blocks/pink_petals.json"
+hash = "c7e40eb5ad013f379b1a96b4c98554e25fa8f4365a2297b05390e87f6ed7290c"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/minecraft/loot_table/blocks/short_grass.json"
+hash = "42fb3dc22af8f27da0465428ea966a2b2a385e98247b08e955ad0f56f2cb3ec4"
+
+[[files]]
+file = "global_packs/required_data/wrtweaks/data/minecraft/loot_table/blocks/tall_grass.json"
+hash = "dbbab7231ac03a16d1c4642c33a29d3e6733852ebebf7123f3a4825f521a6871"
+
+[[files]]
 file = "global_packs/required_data/wrtweaks/data/wrtweaks/recipe/saddle.json"
 hash = "8bbf5d8c03ee20311c63ea2f0643ed0fd31a9d554e45676eb89395a833b97886"
 
