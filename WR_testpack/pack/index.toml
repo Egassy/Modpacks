@@ -462,6 +462,11 @@ hash = "8a36f6a5dcd8149c36ac7ad1c4dce76a997b814075033d406cbbacfe197de54f"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "3306e7d489b110cc591731c6739475f85ccd776a0fcab673c6e06417df1f0e5d"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "2d51fa52a16d97c242e860e649cd4c5ed8ab00190c428974793425745c0d92c7"
 metafile = true
