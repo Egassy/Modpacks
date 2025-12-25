@@ -512,6 +512,11 @@ hash = "a892f5cf85ce6643f471139bb7505de3c1d2faa1932b16d9634d061f7bdb3a72"
 metafile = true
 
 [[files]]
+file = "mods/witchery-resurrected-infusions.pw.toml"
+hash = "adcdacb832946848d3b5f12599c89124a5f8c65a87850836b0c3bae58ed6b0e7"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
