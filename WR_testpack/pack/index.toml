@@ -507,8 +507,8 @@ hash = "580ff15d2452bbff01f6493f566516d87e1a896cb715c4f47ecb5817eb720467"
 metafile = true
 
 [[files]]
-file = "mods/witchery-resurrected.pw.toml"
-hash = "ce8ee3498dccfd34230aaaba5ce2da426282366f6d02e0c3ef8077d83285ea70"
+file = "mods/witchery-resurrected-base.pw.toml"
+hash = "a892f5cf85ce6643f471139bb7505de3c1d2faa1932b16d9634d061f7bdb3a72"
 metafile = true
 
 [[files]]

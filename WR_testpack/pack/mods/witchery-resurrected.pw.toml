@@ -1,7 +1,0 @@
-name = "witchery-resurrected"
-filename = "witchery-resurrected-base-0.6.0beta-9.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/1436936058691649568/1452565168083964004/witchery-resurrected-base-0.6.0beta-9.jar?ex=694a463b&is=6948f4bb&hm=cbf8d7ddef3e77e0863217f3ff89e7fe3f7d092e8e12b31c81abdc0a9da22429&"
-hash-format = "sha256"
-hash = "2542f90ce162af75a0aa0c8584d4fb2d86c66fe608b67f617af10c587a2b23c1"
