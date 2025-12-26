@@ -1,7 +1,7 @@
 name = "witchery-resurrected-infusions"
-filename = "witchery-resurrected-infusions-0.6.0beta-2.jar"
+filename = "witchery-resurrected-infusions-0.6.0beta-3.jar"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/664958415566798869/1453856363469078610/witchery-resurrected-infusions-0.6.0beta-2.jar?ex=694ef8c0&is=694da740&hm=795b218671dfe659917f67499fb9dd3e021c009bdb4de80ba88633a26beac7c1&"
+url = "https://cdn.discordapp.com/attachments/1436936058691649568/1453960015227519017/witchery-resurrected-infusions-0.6.0beta-3.jar?ex=694f5948&is=694e07c8&hm=714bc5e13d01b3dd48b6698fdfd681416402517c87eaaa724e9a032e7ab865fe&"
 hash-format = "sha256"
-hash = "4fad344184954a1012eb3633d56bdd07739d24ab15c20c6ff57d1d6fab8bd2ab"
+hash = "56eef0defe11381c81db3f8a47f0d0049f33f33fd6de13d6223cd6ea754e531b"
