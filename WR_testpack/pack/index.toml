@@ -508,12 +508,12 @@ metafile = true
 
 [[files]]
 file = "mods/witchery-resurrected-base.pw.toml"
-hash = "8769baa533ff0d1cd7abd54ada6131cff277944a449bc2716eaa67c2a61a8894"
+hash = "47fbfd0bf80a9f1b42aa9d34cb169fa13baef7db9d4327018d8009405ecee4c1"
 metafile = true
 
 [[files]]
 file = "mods/witchery-resurrected-infusions.pw.toml"
-hash = "8b1e3b9172a5236127de5d146b6d038c59a518ef93ec9fda315be004d39033fc"
+hash = "482139a5aca4353fc41704061629532f351bc80e2ce9473e085e3cfc1a29a513"
 metafile = true
 
 [[files]]
