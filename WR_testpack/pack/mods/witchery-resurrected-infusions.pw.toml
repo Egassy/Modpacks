@@ -1,5 +1,6 @@
 name = "witchery-resurrected-infusions"
-filename = "uc"
+filename = "witchery-resurrected-infusions-0.6.0+beta-3"
+side = "both"
 
 [download]
 url = "https://drive.google.com/uc?export=download&id=1thX1UXf4WeveORPc7hyTu2_5vOquH5sW"

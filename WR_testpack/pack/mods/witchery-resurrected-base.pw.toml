@@ -1,5 +1,6 @@
 name = "witchery-resurrected-base"
-filename = "uc"
+filename = "witchery-resurrected-base-0.6.0+beta14.jar"
+side = "both"
 
 [download]
 url = "https://drive.google.com/uc?export=download&id=17Qkd83ogSURkd3mz01LvfHkc3085qxM7"
