@@ -1,7 +1,7 @@
 name = "ntm"
-filename = "HBM-NTM-.1.0.27_X5523_H261.jar"
+filename = "HBM-NTM-.1.0.27_X5546_H261.jar"
 
 [download]
-url = "https://github.com/JameH2/Hbm-s-Nuclear-Tech-GIT/releases/download/xspace53b/HBM-NTM-.1.0.27_X5523_H261.jar"
+url = "https://github.com/JameH2/Hbm-s-Nuclear-Tech-GIT/releases/download/X5546/HBM-NTM-.1.0.27_X5546_H261.jar"
 hash-format = "sha256"
-hash = "4bd5704b1a7411f8b62557da84b807c99a450def41367b2d6fca3f51b9088417"
+hash = "f5f311de45e39e36424ba6c16a5e97d6c6791e1868182db4ba7c7f6e77e8e1f8"
