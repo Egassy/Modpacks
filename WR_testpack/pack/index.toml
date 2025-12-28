@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/witchery-resurrected-infusions.pw.toml"
-hash = "58818e218b14f388152d964a10b5cdba68f4235b85d4a6851832f22dfc083adc"
+hash = "762e99ddfef814f4c116b9344706ddfd62bb919e8bb0b9d070f8cf65ed5dc06d"
 metafile = true
 
 [[files]]
