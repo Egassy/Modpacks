@@ -328,7 +328,7 @@ hash = "62ddc7d11b89cc6528c376968f164bd981d0a002c95bcc003a5cbed1e18b14ff"
 
 [[files]]
 file = "mods/alchemancy.pw.toml"
-hash = "a6cc925d3431b3eda6032b47ad63c76309c46c4a80cc082e4485a3adce805ce8"
+hash = "566c7b2e667fd51fd76df3f164ca7324fc5aa3f459a7d4ba835a092ae2c6bcb5"
 metafile = true
 
 [[files]]
