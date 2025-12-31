@@ -303,6 +303,10 @@ file = "global_packs/required_data/wrtweaks/data/wrtweaks/recipe/saddle.json"
 hash = "8bbf5d8c03ee20311c63ea2f0643ed0fd31a9d554e45676eb89395a833b97886"
 
 [[files]]
+file = "global_packs/required_data/wrtweaks/data/wrtweaks/witchery/rite/property_visor.json"
+hash = "9740acf5bc7bee0aeb0d82cc37278ee4c8234dd08c5578fee58361a0c3f9da55"
+
+[[files]]
 file = "global_packs/required_data/wrtweaks/pack.mcmeta"
 hash = "f027fb672d43618a44b555327ec38dabad4d89582b9709bc54bd965a38512a2f"
 
@@ -325,6 +329,14 @@ hash = "dacef78790b567396241e3d1453cdc5cd63eb79484f77fe8bd9311281805e283"
 [[files]]
 file = "global_packs/required_resources/philosophyoverrides/pack.mcmeta"
 hash = "62ddc7d11b89cc6528c376968f164bd981d0a002c95bcc003a5cbed1e18b14ff"
+
+[[files]]
+file = "global_packs/required_resources/wrassets/assets/wrassets/lang/en_us.json"
+hash = "cfe2db194bad587121589388620c23eb63925f5b3c16e395000607bfddb50fdd"
+
+[[files]]
+file = "global_packs/required_resources/wrassets/pack.mcmeta"
+hash = "ef3eda0d152a70be5456606c94cd4f2caf15043e2c6bb850bccea463f5de0ea2"
 
 [[files]]
 file = "mods/alchemancy.pw.toml"

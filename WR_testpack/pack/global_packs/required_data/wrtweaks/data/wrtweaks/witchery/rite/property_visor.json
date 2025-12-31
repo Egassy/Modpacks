@@ -1,0 +1,49 @@
+{
+  "sacrifices": {
+    "items": [
+      {
+        "ingredient": {
+          "item": "alchemancy:dreamsteel_ingot"
+        }
+      },
+      {
+        "ingredient": {
+          "item": "alchemancy:revealing_pearl"
+        }
+      },
+      {
+        "ingredient": {
+          "tag": "alchemancy:dormant_properties/wise"
+        }
+      },
+      {
+        "ingredient": {
+          "tag": "minecraft:head_armor"
+        }
+      },
+      {
+        "ingredient": {
+          "item": "minecraft:spyglass"
+        }
+      }
+    ],
+    "power": 2000
+  },
+  "circles": [
+    {
+      "glyph": "witchery:ritual_circle_glyph",
+      "size": 2
+    }
+  ],
+  "sorting_hints": {
+    "previous": "witchery:sky_broom_infusion",
+    "next": "witchery:blight_curse"
+  },
+  "result": {
+    "type": "witchery:item_summoning",
+    "stack": {
+      "id": "alchemancy:property_visor"
+    }
+  },
+  "group": "witchery:infusion"
+}
