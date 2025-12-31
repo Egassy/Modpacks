@@ -1,8 +1,8 @@
 name = "witchery-resurrected-base"
-filename = "witchery-resurrected-base-0.6.0+beta14.jar"
+filename = "witchery-resurrected-base-0.6.0+beta-16.jar"
 side = "both"
 
 [download]
-url = "https://drive.google.com/uc?export=download&id=17Qkd83ogSURkd3mz01LvfHkc3085qxM7"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/witchery-resurrected-base-0.6.0+beta-16.jar"
 hash-format = "sha256"
-hash = "a07558dc7aed5fa29dc18ba862e387494d33e144ab8057a99837ccfa22a1440c"
+hash = "a59bb15992728c5f329d18053b7ed2cad051889bd859d9a51b3c087d4e1abd44"

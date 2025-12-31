@@ -1,8 +1,8 @@
 name = "witchery-resurrected-infusions"
-filename = "witchery-resurrected-infusions-0.6.0+beta-3.jar"
+filename = "witchery-resurrected-infusions-0.6.0+beta-4.jar"
 side = "both"
 
 [download]
-url = "https://drive.google.com/uc?export=download&id=1thX1UXf4WeveORPc7hyTu2_5vOquH5sW"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/witchery-resurrected-infusions-0.6.0+beta-4.jar"
 hash-format = "sha256"
-hash = "56eef0defe11381c81db3f8a47f0d0049f33f33fd6de13d6223cd6ea754e531b"
+hash = "e3539392d40c7f3fa1b551052d24ce9c33f3f263e76180e7f644246eb763dea6"
