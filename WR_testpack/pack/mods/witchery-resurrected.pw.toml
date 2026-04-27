@@ -1,0 +1,8 @@
+name = "witchery-resurrected"
+filename = "witchery-resurrected-0.6.0-beta-9.jar"
+side = "both"
+
+[download]
+url = "https://beta-server-jars.msrandom.net/witchery-resurrected-0.6.0-beta-9.jar"
+hash-format = "sha256"
+hash = "84d95d8f65e40339e4b3cccee56601a50b139408eb0c9415484796fe646d36b6"
