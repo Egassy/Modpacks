@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-mc1.8.9-2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e19b1aee4e322ee9629bb982f709a0983cd1d09b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2279401
+project-id = 241160

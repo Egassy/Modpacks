@@ -1,0 +1,13 @@
+name = "JEIAddons"
+filename = "JEIAddons_1.8.9-0.12.0.57.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f7f7db11de9f23925a43e52645659e6d7eb97c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2282430
+project-id = 238660

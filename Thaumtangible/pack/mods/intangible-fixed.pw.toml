@@ -1,0 +1,8 @@
+name = "intangible-fixed"
+filename = "intangible-1.8.9-0.0.25-FIXED.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.8.9/jars/intangible-1.8.9-0.0.25-FIXED.jar"
+hash-format = "sha256"
+hash = "71d652822c58e44fc87c06cde92a24614e721f79bddb3b5fda7f1fbefbc08a30"

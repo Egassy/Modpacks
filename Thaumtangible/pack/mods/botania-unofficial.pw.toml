@@ -1,0 +1,13 @@
+name = "Botania Unofficial"
+filename = "Botania-unofficial.r1.8-299.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3baf40d593f091597b591a00d1522bfb19f0700"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2286651
+project-id = 241973

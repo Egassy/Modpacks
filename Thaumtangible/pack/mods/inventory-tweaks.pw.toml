@@ -1,0 +1,13 @@
+name = "Inventory Tweaks [1.12 only] "
+filename = "InventoryTweaks-1.60-40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac2d2ef05cbb00a53b7d0ec5ffc897241ee62e2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2287489
+project-id = 223094

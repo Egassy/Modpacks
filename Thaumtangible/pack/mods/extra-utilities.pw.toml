@@ -1,0 +1,13 @@
+name = "Extra Utilities"
+filename = "extrautils2-1.8.9-alpha-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5db52782b4ab2dbf323be4a178b4aa8e911b9887"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2289470
+project-id = 225561

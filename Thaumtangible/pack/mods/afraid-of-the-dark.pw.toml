@@ -1,0 +1,13 @@
+name = "Afraid of the Dark"
+filename = "AfraidOfTheDark-1.8.9-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc43f7736578f58cd0bd309accc0fb5a9fe2da8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2306280
+project-id = 234834

@@ -1,0 +1,13 @@
+name = "Automagy"
+filename = "Automagy-1.8.9-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "084a9cecd9057e116e6f2abb74272c9dbe74716e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2304977
+project-id = 222153

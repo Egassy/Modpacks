@@ -1,0 +1,13 @@
+name = "Bagginses"
+filename = "Bagginses-1.8.9-2.1.5b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f7264e25a373fb44ee1a665ce81bf902588bf99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2278837
+project-id = 223005

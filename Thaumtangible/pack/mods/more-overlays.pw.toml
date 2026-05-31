@@ -1,0 +1,13 @@
+name = "More Overlays"
+filename = "moreoverlays-1.3-mc1.8.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c27b4d913105292d955214a5992cbe660000cfa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2298028
+project-id = 243478

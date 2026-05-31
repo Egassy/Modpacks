@@ -1,0 +1,13 @@
+name = "Schools of Magic"
+filename = "SchoolsMagic-1.8.9-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f1cdd45c1edfadb1e7fd3731cbca64dfae56f4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2313505
+project-id = 247041

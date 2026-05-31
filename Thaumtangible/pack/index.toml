@@ -1,0 +1,221 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/afraid-of-the-dark.pw.toml"
+hash = "353f46c6cd15f6b081dee2c09b14a2494e5ee072fe629779909d4c3a78f32615"
+metafile = true
+
+[[files]]
+file = "mods/applecore.pw.toml"
+hash = "7fa55719c315cea726f8b22cac21e23136547aca8d23bb55c3b5ebedafc31629"
+metafile = true
+
+[[files]]
+file = "mods/architecturecraft.pw.toml"
+hash = "992d5ecb99ba44c9a17537b0fb43dba851fb2bb01cc3323ce4ce5bda62e59012"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "f7f1ab4fd31464ecd5746d41f90399c2fa9f908dbf5b3972cd647fee9708c7cb"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.pw.toml"
+hash = "4d9db7e6d98fca5e5d2d8ccef33115dc990a46deaa083497184b995f9aa7fea8"
+metafile = true
+
+[[files]]
+file = "mods/automagy.pw.toml"
+hash = "a680d387302218e446cf8cd89a368e4c3f0d8808d37ca4ea99cfe687f8bac723"
+metafile = true
+
+[[files]]
+file = "mods/bagginses.pw.toml"
+hash = "3aac9f7b5e4fe5e273b9d243e169d0c6df8421112eac8711e572bc7a25e0e449"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "6cfa345348f71b26e7b49c58ce806c2b6f2e6b2d738860903a590effb394b41d"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "c9934f3b18dd0c8f5e96d144cade69c502fdbe37324290849a24a96728c39cc9"
+metafile = true
+
+[[files]]
+file = "mods/botania-unofficial.pw.toml"
+hash = "7110e301a81795b44331eb241d35fda6976984ab56f851e889e2e065e2abfad6"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "03be3430d7537cd54507d86fc1af9d8082f7386b03f025f34371e637b58de882"
+metafile = true
+
+[[files]]
+file = "mods/cleanview.pw.toml"
+hash = "364159862f1e5c92ff8c51d5fb3ac312893dd747228a5026b37326182851d173"
+metafile = true
+
+[[files]]
+file = "mods/correlated.pw.toml"
+hash = "de12282fe358dfd320c7347dbae78ad0659084351337aef72771d81941658e7e"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "f0a122dffc2c4c91731ad3c120e30dabfe10cbd9e42616a9d9d817e4d53c29ca"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "cfb4c5126c65442d76109be3853e1a018477a058cdc2b4fd60815fe9cdd1ae5b"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "3653fa5ba488f1919753a00694e48162525ea92d1f3be20c75b98c0cf6a67f2d"
+metafile = true
+
+[[files]]
+file = "mods/dummycore.pw.toml"
+hash = "00b23a55d6b02371b16b6d8bb7686149afd6b6e52ca021a55bee15706180a5cf"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "7d3a29e19d8abe5580a813e42024f2ad0ca9f0b4e6f7ad96c4ce42dbb1e6fc2b"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "9a3f6152e7c18fc234bad52eb269bc719a080b0ef1027ab6441e4405a6248086"
+metafile = true
+
+[[files]]
+file = "mods/extra-utilities.pw.toml"
+hash = "efff037f8d20b10ad82bfff41999cc5f08e7d4a4651693fe7ecd84c1f78589db"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "5565aba48370bcfab0398ec3736ff292d15558a113a407d43e3b36b0b865eda2"
+metafile = true
+
+[[files]]
+file = "mods/intangible-fixed.pw.toml"
+hash = "2b4b91b0cbc3392c8d4f227a3c50c666e73af28cd2b260cb01aa250a3f35d7ef"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "1698f7fd9543b02bf3a781be376d995fe675a21c23ef3bb272efa9516f88265d"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "796c67e43f3a132acb1f307141e432a64e9d1021eee50d76d45840614f112e6e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1be5739c8050bc943ecfa211a384661acb115fd387151220ccaf4a8b8aa98498"
+metafile = true
+
+[[files]]
+file = "mods/jeiaddons.pw.toml"
+hash = "8b7f5e787284814ab1cc95d8e7cb3c66754565e685ccddd2418ec39b86e1d22a"
+metafile = true
+
+[[files]]
+file = "mods/modtweaker.pw.toml"
+hash = "f5826996de73e5f197025f3d519db765357db4a580c850f2d4f88d5c4f4b264a"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays.pw.toml"
+hash = "271b5f9e7cef3d888e65ec81af0a7a3952c50c6ea5e0297132f9b7fba3f14884"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "dcc19d90bb182c1a56c6b3988e02a4393350917b8aa048c9ee90558b07482830"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "a04ddaac2c096ba7ad4adcc00c311d31adc44bd7e688b4d8ff101331cde92749"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "fa2e09a47c4f8a7ad708a62b0125bbef707c88e219c232acfa82e2113a1e387f"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "c02495d10a1c2984ad27bb329d6154cae76c1dc58378dbe6e46dae18fa0852aa"
+metafile = true
+
+[[files]]
+file = "mods/reauth.pw.toml"
+hash = "74c3dfe3a8b94244e2ae8ed03c12d983fba8043ada651af54c99d2cc5224fda1"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "4aa5b1a3f2e9e3454db7603764032707bcf9454a77384525a65a7f574bbde805"
+metafile = true
+
+[[files]]
+file = "mods/schools-of-magic.pw.toml"
+hash = "5ae0e331d237454c149c37ee8575c9d759fa652d5fc955260ec5bb69a37369b7"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "5260a911bfec6a5ba88ebdabba4b71af84ccaa9f92823608eff932deaa454537"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "18c25506df81b27176ff6bb37a1780e844e0af56333898c2c1d10bc910db0522"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-bases.pw.toml"
+hash = "b08423c08d40da3d53217100a21c9b98ff6c36c8e1086c95241935d5e88811a2"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-tinkerer.pw.toml"
+hash = "2a62cc39abd35d7f578f92dbf5e54186010970405e4103533ce551e54d761de0"
+metafile = true
+
+[[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "4db07c80b5d0ec0a63397c976dfbac9957f6ce9083ead7b89d5371e93fa52e05"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "ba4f316f99a5abc27471453fcebdf8dbcd128dbeaeb6ff95f616b3d851461d65"
+metafile = true
+
+[[files]]
+file = "mods/wawla.pw.toml"
+hash = "b375b14d80e755bb9656a1c6b21ceadfb7deac48de6beb6d5185cc76321f17c9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "2e239310324d712d29a349ec935b95f738d0509175116b79cbe53032d403062c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "46fd012edbe45e558a0db5044bd71a205491ec24eb9bab4d6aa29a0fc284b96e"
+metafile = true

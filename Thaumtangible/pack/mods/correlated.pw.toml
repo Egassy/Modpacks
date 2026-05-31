@@ -1,0 +1,13 @@
+name = "Correlated"
+filename = "CorrelatedPotentialistics-0.2.3_01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30ccf48a31cb6c36337bd5f682d79ca46fd592a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2306296
+project-id = 243182

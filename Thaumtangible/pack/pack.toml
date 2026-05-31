@@ -1,0 +1,13 @@
+name = "ThaumtangibleV2"
+author = "Egassy & Esét"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "da8b33808533ef732512ca97bdd706be5b283894c2dfaab8648a653453a741d2"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"
