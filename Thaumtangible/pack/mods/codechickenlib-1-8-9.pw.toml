@@ -1,0 +1,13 @@
+name = "CodeChickenLib Eight"
+filename = "CodeChickenLib-1.8.9-2.0.2.1-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4049e32cffb3d42f26a134045c021b0a07f3d592"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5757845
+project-id = 1109537

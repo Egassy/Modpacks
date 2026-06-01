@@ -61,6 +61,11 @@ hash = "364159862f1e5c92ff8c51d5fb3ac312893dd747228a5026b37326182851d173"
 metafile = true
 
 [[files]]
+file = "mods/codechickenlib-1-8-9.pw.toml"
+hash = "35abf80326b2f6d30f6387b7be5303c5abb5b840bb11c91cc8541766d31f5a8e"
+metafile = true
+
+[[files]]
 file = "mods/correlated.pw.toml"
 hash = "de12282fe358dfd320c7347dbae78ad0659084351337aef72771d81941658e7e"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "cfb4c5126c65442d76109be3853e1a018477a058cdc2b4fd60815fe9cdd1ae5b"
+hash = "a5f336e86733c3f98da3ebf1b3d99e32e6aa3d40758ed23e4ee7be82e21d88d9"
 metafile = true
 
 [[files]]
