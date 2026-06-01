@@ -1,0 +1,10 @@
+recipes.addShaped(<extrautils2:DecorativeSolid:7>*8, [[<minecraft:quartz_block>, <minecraft:quartz_block>, <minecraft:quartz_block>], [<minecraft:quartz_block>, <minecraft:dye:4>, <minecraft:quartz_block>], [<minecraft:quartz_block>, <minecraft:quartz_block>, <minecraft:quartz_block>]]);
+recipes.addShaped(<extrautils2:ItemCreativeDestructionWand>, [[null, null, <xreliquary:destruction_catalyst>], [null, <minecraft:nether_star>, null], [<extrautils2:ItemDestructionWand>, null, null]]);
+recipes.addShaped(<extrautils2:ItemCreativeBuildersWand>, [[null, null, <thaumcraft:focus_builder>], [null, <minecraft:nether_star>, null], [<extrautils2:ItemBuildersWand>, null, null]]);
+recipes.addShaped(<extrautils2:CursedEarth>*5, [[<xreliquary:mob_ingredient:1>, <minecraft:dirt>, <xreliquary:mob_ingredient:1>], [<minecraft:dirt>, <minecraft:dirt>, <minecraft:dirt>], [<xreliquary:mob_ingredient:1>, <minecraft:dirt>, <xreliquary:mob_ingredient:1>]]);
+recipes.addShaped(<extrautils2:CursedEarth>*5, [[<minecraft:dirt>, <xreliquary:mob_ingredient:1>, <minecraft:dirt>], [<xreliquary:mob_ingredient:1>, <minecraft:dirt>, <xreliquary:mob_ingredient:1>], [<minecraft:dirt>, <xreliquary:mob_ingredient:1>, <minecraft:dirt>]]);
+recipes.addShapeless(<xreliquary:mob_ingredient:1>*3, [<minecraft:skull:1>]);
+recipes.addShaped(<extrautils2:DecorativeSolid:2>*4, [[<extrautils2:DecorativeSolid>, <extrautils2:DecorativeSolid>], [<extrautils2:DecorativeSolid>, <extrautils2:DecorativeSolid>]]);
+recipes.remove(<extrautils2:DecorativeSolid:1>);
+furnace.addRecipe(<extrautils2:DecorativeSolid:1>, <minecraft:end_stone>);
+recipes.addShaped(<extrautils2:DecorativeSolid:8>*4, [[<extrautils2:DecorativeSolid:1>, <extrautils2:DecorativeSolid:1>], [<extrautils2:DecorativeSolid:1>, <extrautils2:DecorativeSolid:1>]]);

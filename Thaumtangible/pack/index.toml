@@ -421,3 +421,31 @@ metafile = true
 [[files]]
 file = "resourcepacks/aotd16x.zip"
 hash = "899fd2307a75e395293130cb29e9f661973db6fe6b183782b7e4df49b9deb94a"
+
+[[files]]
+file = "scripts/JEI.zs"
+hash = "565581198f0d3a928697faacfab162e4a2ae9e7c4a33423041176fa594f9b26e"
+
+[[files]]
+file = "scripts/debased.zs"
+hash = "db892c6137e1e6ace22928a0628d624845ef4da1c2afd532ff2f66af9809bee7"
+
+[[files]]
+file = "scripts/exu2.zs"
+hash = "4ce32969122d924fe0d0bd1d0e17f468b5f2db4227734e79e94e32f6d884aaf1"
+
+[[files]]
+file = "scripts/locfixes.zs"
+hash = "dca4f60e8055b21331ebe3302dd8f38439beef098ea5b9f46cdea5634c13171c"
+
+[[files]]
+file = "scripts/miscfixes.zs"
+hash = "8728363cff982e3d45186f5d28c5db322d183bedff4a78f74c22863c7ffd2457"
+
+[[files]]
+file = "scripts/thaumcraft_lang.zs"
+hash = "c0e71332d2cb6671aa57d9bf5a1875081e5b429f52466e8e323968f56ab12f15"
+
+[[files]]
+file = "scripts/wool.zs"
+hash = "e6c58bb6d017741b9368a261c6c41b3f9be37da5a007fa2527b0cfa117871701"

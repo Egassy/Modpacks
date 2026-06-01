@@ -1,0 +1,43 @@
+import mods.jei.JEI;
+
+print("jei reliquary");
+JEI.hide(<xreliquary:twilight_cloak>);
+JEI.hide(<xreliquary:mob_ingredient:15>);
+print("jei reliquary done");
+
+print("jei bosnia");
+JEI.hide(<botania:pump>);
+print("jei bosnia done");
+
+print("jei exu2");
+JEI.hide(<extrautils2:PowerOverload>);
+print("jei exu2 done");
+print("jei tbases");
+JEI.hide(<thaumicbases:spawnerCompass>);
+JEI.hide(<thaumicbases:voidSeed>);
+JEI.hide(<thaumicbases:voidPlant>);
+JEI.hide(<thaumicbases:voidAnvil>);
+JEI.hide(<thaumicbases:voidAnvil:1>);
+JEI.hide(<thaumicbases:voidAnvil:2>);
+JEI.hide(<thaumicbases:ukulele>);
+JEI.hide(<thaumicbases:ukulele>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:1>);
+JEI.hide(<thaumicbases:ukulele:1>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:2>);
+JEI.hide(<thaumicbases:ukulele:2>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:3>);
+JEI.hide(<thaumicbases:ukulele:3>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:4>);
+JEI.hide(<thaumicbases:ukulele:4>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:5>);
+JEI.hide(<thaumicbases:ukulele:5>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:6>);
+JEI.hide(<thaumicbases:ukulele:6>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:7>);
+JEI.hide(<thaumicbases:ukulele:7>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:ukulele:8>);
+JEI.hide(<thaumicbases:ukulele:8>.withTag({aqua: 30000, ignis: 30000, terra: 30000, ordo: 30000, perditio: 30000, aer: 30000}));
+JEI.hide(<thaumicbases:goldenOakSapling:1>);
+JEI.hide(<thaumicbases:goldenOakSapling:2>);
+JEI.hide(<thaumicbases:goldenOakSapling:3>);
+print("jei tbases done");
