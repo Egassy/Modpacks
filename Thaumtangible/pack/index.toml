@@ -66,6 +66,11 @@ hash = "35abf80326b2f6d30f6387b7be5303c5abb5b840bb11c91cc8541766d31f5a8e"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "b3bd491abf860e64982e0e14884a0126be21458b2ce5fa0f4147b04a60ca8fc3"
+metafile = true
+
+[[files]]
 file = "mods/correlated.pw.toml"
 hash = "de12282fe358dfd320c7347dbae78ad0659084351337aef72771d81941658e7e"
 metafile = true
@@ -224,3 +229,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "46fd012edbe45e558a0db5044bd71a205491ec24eb9bab4d6aa29a0fc284b96e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/aotd16x.zip"
+hash = "899fd2307a75e395293130cb29e9f661973db6fe6b183782b7e4df49b9deb94a"
