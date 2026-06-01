@@ -1,6 +1,194 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AfraidOfTheDark.cfg"
+hash = "fbfec4e1346a4344ccfe55bfde80941373d6c7f481416e3127453c4600cc4c81"
+
+[[files]]
+file = "config/AppleCore.cfg"
+hash = "f50047096199b693d8d39bfa81562db93d109c56b595b311377f993d3406eb60"
+
+[[files]]
+file = "config/ArchitectureCraft.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/Automagy.cfg"
+hash = "d548b20e307572ff53ea040a4efda8bdc6f95898c09bf5197105c47a3edebd16"
+
+[[files]]
+file = "config/Baubles.cfg"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
+
+[[files]]
+file = "config/BiblioCraft.cfg"
+hash = "e86301ee10ac9a788fcc518d0fde7d245a4fa1ce954be90e40a73e2e63a72038"
+
+[[files]]
+file = "config/Botania.cfg"
+hash = "097be230f3c794c00501892bec49964d31cf37c131775cc028e0885e8deb1671"
+
+[[files]]
+file = "config/Ding.cfg"
+hash = "bd3cc437d8a338ca7ba36e7e084b62d3c74d42a9068b50fee2c2337878ea3f21"
+
+[[files]]
+file = "config/DummyCore.cfg"
+hash = "b583bb42bf8c7423af5cd7cd2090e3a78754b70d70d1a496992ee84a54a93260"
+
+[[files]]
+file = "config/EnderTanks.cfg"
+hash = "53ab222e3ba78ff9a80745682cfc7fdf15c090bd554aa8f17bd2a03a2d16d530"
+
+[[files]]
+file = "config/ExtraUtils2.cfg"
+hash = "32dca18a3cebaab6474d1d604017cfc2e832d0fd4a7b5922be083f7566668d77"
+
+[[files]]
+file = "config/ImmersiveEngineering.cfg"
+hash = "f18f7c47694130ad021470202205c119786fba54ea8adefb96dc0fdff27bfce2"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "7a90cc9cf4602509a1f732c9016df1b24613ee41bb1fc4225365b468f240e142"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "b402e9c4e269289f74a69fc9624a5d9189d1bf9fbcfeb3cd5fd6c5e4c329e5c5"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "1fb57415893b217c82e9133a928ef37eb3b93fb1c4a5b05fccfc9be1dade773c"
+
+[[files]]
+file = "config/JEI/itemBlacklist.cfg"
+hash = "acae9c08cbff207a20d9b93dccb8a208f139c7a672da1cb0f4e2aaef0e98b402"
+
+[[files]]
+file = "config/JEI/jei.cfg"
+hash = "20fff70a752dd1bcdd46ef12ec8c6341835b2bd790c4b72b1057c2dcf0e8dbff"
+
+[[files]]
+file = "config/JEI/searchColors.cfg"
+hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+
+[[files]]
+file = "config/JEI/worldSettings.cfg"
+hash = "1a1d30a8745dcebb853c4c813205ff33de8daff1f721bc70cf40be957d223e6d"
+
+[[files]]
+file = "config/MoreOverlays.cfg"
+hash = "c001c14f001800f6ffa21510f1e51cb0ac6eefec9860a5f0420e1e9577f67812"
+
+[[files]]
+file = "config/Morpheus.cfg"
+hash = "6e1b7b64c6ea761245d6783a9e11fc0ee5ba39c416e6c0a9be363361a7fcc490"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "26154b88fe5525e4cf11f99a33fdebec8491de8cb5a79d8f52dc96ac632c3a2e"
+
+[[files]]
+file = "config/Neat.cfg"
+hash = "a5e7cace2654cdd13b59de2c87faa45b34c1235f0902038dbaeeb499350007b9"
+
+[[files]]
+file = "config/SchoolsMagic.cfg"
+hash = "3f531fcd6c976b81883f14c7273150ac342bf3d2f0c2c2e1bf999fcb93533860"
+
+[[files]]
+file = "config/Thaumcraft.cfg"
+hash = "d384dd53f396979c5e4ceebb96b72d1cce0a11c067ae7e3d77e000f55ebce4bd"
+
+[[files]]
+file = "config/Thaumic Bases.cfg"
+hash = "f02352b5985919f8ac4d364703f0bf4da35d7a3f61c57ed90dadf0d27cb803b3"
+
+[[files]]
+file = "config/Waila.cfg"
+hash = "6cb8a0bcf0f32c2972305361947f1d376b70f0cce3d052b930d6e58a105a2771"
+
+[[files]]
+file = "config/WailaHarvestability.cfg"
+hash = "0cad3d4e5933b5be85e887d6c6600997081e0b8126dd163e9a55b6246eb7809b"
+
+[[files]]
+file = "config/aroma1997/Aroma1997Core.cfg"
+hash = "4ed9da531e82a321bd716c3467ae45e3fd792558d412ab190003f1254513d7d5"
+
+[[files]]
+file = "config/aroma1997/AromaBackup.cfg"
+hash = "c13c584bbcfc99eaf411e02cf81656bd0e66915a56cc2fb47c83c97bd51f429f"
+
+[[files]]
+file = "config/aroma1997/AromaBackupRecovery.cfg"
+hash = "9f6d3c1dd724cd25540b171b665be028b492e53b1ca96fd600ef8fb068cc08af"
+
+[[files]]
+file = "config/bagginses/bagginses.cfg"
+hash = "6c2c3205af4b57ee2e4b3f1d7d2436af8a7a99f8f1eeafa242c0552af36c8e6f"
+
+[[files]]
+file = "config/buildcraft/detailed.properties"
+hash = "85c7f60ff6f5b4f55c1c2eb85838e2a0423375a795909b6efe25b0c193ea3630"
+
+[[files]]
+file = "config/buildcraft/main.cfg"
+hash = "7ef742516f75515ff1e436329ad380da007374cd58d99bd48a6663fc9107b554"
+
+[[files]]
+file = "config/buildcraft/objects.cfg"
+hash = "44752b5c4a90c95fba5b72f8f438f6ace93668973f781eeb4b5848b2a8b32ead"
+
+[[files]]
+file = "config/correlatedpotentialistics.cfg"
+hash = "a8ac4e3ab11ee33d59e1a1db59ad49735ef4f38e355dcc566599da8f97e89ca2"
+
+[[files]]
+file = "config/dcMainMenu/help.txt"
+hash = "19ab6dd1c432f7d27e32f7c5aa7ee05babce6e3d3e3ced4e8f78d690bb558ac0"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "40ecf2c5a713310bf62b3eec285a1fd8033615dc9c43a58651781f0fe8d39208"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
+
+[[files]]
+file = "config/intangible.cfg"
+hash = "08ca4697a27fda47ac263f0529bd4aa481b7dbc66cd19981d419c3f0650bf838"
+
+[[files]]
+file = "config/splash.properties"
+hash = "6925ead7dcecefec237df0f27951ea7fc70531cdff357a452336e5a27b64db8f"
+
+[[files]]
+file = "config/thaumictinkerer.cfg"
+hash = "823214887af86efa78da96895fba4a4aff751c964d481eadb108711ccef767d5"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "0ff404b6f999ecddfddc5122c059755e5e15a4d1135b5b845e2de63effa35593"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "3bf374a8ecd203b21ab67443c342d56310e56cceb28c89d0a1723ef13bce270f"
+
+[[files]]
+file = "config/xreliquary.cfg"
+hash = "7fb3e85ba68bf48be098b0589399c5283a595e56122f64c0aa7c8c3da12b4ff3"
+
+[[files]]
+file = "config/xreliquary.cfg_20260601_023248.errored"
+hash = "939e44cb783ea09b96264f8a204731f30d247d1cbbfa32a81c2598fc30105f6d"
+
+[[files]]
 file = "mods/afraid-of-the-dark.pw.toml"
 hash = "353f46c6cd15f6b081dee2c09b14a2494e5ee072fe629779909d4c3a78f32615"
 metafile = true
