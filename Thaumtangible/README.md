@@ -104,7 +104,7 @@ A small 1.8 pack featuring Afraid of the Dark, Thaumcraft 5 and Intangible
 
 - Wawla - What Are We Looking At
 
-- WorldEdit
+- WorldEdit (server only)
 
 - Xaero's Minimap
 
