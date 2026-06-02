@@ -109,6 +109,10 @@ file = "config/Thaumcraft.cfg"
 hash = "d384dd53f396979c5e4ceebb96b72d1cce0a11c067ae7e3d77e000f55ebce4bd"
 
 [[files]]
+file = "config/Thaumic Bases.cfg"
+hash = "f02352b5985919f8ac4d364703f0bf4da35d7a3f61c57ed90dadf0d27cb803b3"
+
+[[files]]
 file = "config/Waila.cfg"
 hash = "6cb8a0bcf0f32c2972305361947f1d376b70f0cce3d052b930d6e58a105a2771"
 
@@ -179,11 +183,6 @@ hash = "08ca4697a27fda47ac263f0529bd4aa481b7dbc66cd19981d419c3f0650bf838"
 [[files]]
 file = "config/splash.properties"
 hash = "6925ead7dcecefec237df0f27951ea7fc70531cdff357a452336e5a27b64db8f"
-
-[[files]]
-file = "config/tbasesconfig.pw.toml"
-hash = "0e81a214bf0cc2421371ba408664858015bd75429a6514fa58f1f47a74db2fa4"
-metafile = true
 
 [[files]]
 file = "config/thaumictinkerer.cfg"
