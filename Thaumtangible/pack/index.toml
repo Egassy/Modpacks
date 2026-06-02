@@ -304,8 +304,13 @@ hash = "00b23a55d6b02371b16b6d8bb7686149afd6b6e52ca021a55bee15706180a5cf"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "6192ef8e588154229d98b66307425059219743c4b40ea73ede9d0743d21a2b96"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
-hash = "7d3a29e19d8abe5580a813e42024f2ad0ca9f0b4e6f7ad96c4ce42dbb1e6fc2b"
+hash = "40d8ca0fa19c54bcd289f4308fdcd9b492b3cfbc87e8f605ce975e3e0de857b2"
 metafile = true
 
 [[files]]
@@ -365,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "a04ddaac2c096ba7ad4adcc00c311d31adc44bd7e688b4d8ff101331cde92749"
+hash = "7542d645e20c9c3f03d741bdb4b277ce72305ae31eab291201a5241eb2f09b5f"
 metafile = true
 
 [[files]]
@@ -380,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "74c3dfe3a8b94244e2ae8ed03c12d983fba8043ada651af54c99d2cc5224fda1"
+hash = "371cc8074c81495956d6ca20a5a125efffe351c335c29abdba1e70ec6deb7b45"
 metafile = true
 
 [[files]]
@@ -469,7 +474,7 @@ hash = "8728363cff982e3d45186f5d28c5db322d183bedff4a78f74c22863c7ffd2457"
 
 [[files]]
 file = "scripts/stargate.zs"
-hash = "a4f09666c20025b9cf5ecda4b7bd3e1cf85d37af810686340da4f1148ecab2a1"
+hash = "c78068ee596b5552fad459ed0b05207866044a08a4e987c46e94bb643c619956"
 
 [[files]]
 file = "scripts/thaumcraft_lang.zs"
@@ -478,3 +483,7 @@ hash = "c0e71332d2cb6671aa57d9bf5a1875081e5b429f52466e8e323968f56ab12f15"
 [[files]]
 file = "scripts/wool.zs"
 hash = "e6c58bb6d017741b9368a261c6c41b3f9be37da5a007fa2527b0cfa117871701"
+
+[[files]]
+file = "unsup.toml"
+hash = "fc0d6ac30b8787357a88964ebe18918a6b8b9b9d70256380157fec6f218a1075"
