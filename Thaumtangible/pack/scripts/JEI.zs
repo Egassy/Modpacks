@@ -9,6 +9,13 @@ print("jei bosnia");
 JEI.hide(<botania:pump>);
 print("jei bosnia done");
 
+print("jei sgcraft");
+JEI.hide(<sgcraft:naquadahOre>);
+JEI.hide(<sgcraft:naquadah>);
+JEI.hide(<sgcraft:naquadahBlock>);
+JEI.hide(<sgcraft:naquadahIngot>);
+print("jei sgcraft done");
+
 print("jei exu2");
 JEI.hide(<extrautils2:PowerOverload>);
 print("jei exu2 done");

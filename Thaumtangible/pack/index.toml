@@ -239,6 +239,11 @@ hash = "7110e301a81795b44331eb241d35fda6976984ab56f851e889e2e065e2abfad6"
 metafile = true
 
 [[files]]
+file = "mods/buildcraft-compat.pw.toml"
+hash = "5d573b87759b4c5071453a760aad30dc90d992b2a10d1af975e19d92ed013279"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "03be3430d7537cd54507d86fc1af9d8082f7386b03f025f34371e637b58de882"
 metafile = true
@@ -254,6 +259,11 @@ hash = "35abf80326b2f6d30f6387b7be5303c5abb5b840bb11c91cc8541766d31f5a8e"
 metafile = true
 
 [[files]]
+file = "mods/computercraft.pw.toml"
+hash = "613c1ae6ac2144c4b1af2e14f76677d30c453c5891344a1e5c05faa4682ebeec"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "b3bd491abf860e64982e0e14884a0126be21458b2ce5fa0f4147b04a60ca8fc3"
 metafile = true
@@ -266,6 +276,16 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "f0a122dffc2c4c91731ad3c120e30dabfe10cbd9e42616a9d9d817e4d53c29ca"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "2e7a86baa5a67e8558432308f9fe160668641ed195e438f5099da08f09f46ce5"
+metafile = true
+
+[[files]]
+file = "mods/craftingtweaks-addons.pw.toml"
+hash = "0d161fe279813e01bf22490d065838173fc89d259d29bd398801067f7717db6a"
 metafile = true
 
 [[files]]
@@ -374,6 +394,11 @@ hash = "5ae0e331d237454c149c37ee8575c9d759fa652d5fc955260ec5bb69a37369b7"
 metafile = true
 
 [[files]]
+file = "mods/sg-craft.pw.toml"
+hash = "37fa7f4f22066ba98c4f2867c5e06ea1322042b852c2fa36cfa34eea103af0cb"
+metafile = true
+
+[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "5260a911bfec6a5ba88ebdabba4b71af84ccaa9f92823608eff932deaa454537"
 metafile = true
@@ -424,11 +449,11 @@ hash = "899fd2307a75e395293130cb29e9f661973db6fe6b183782b7e4df49b9deb94a"
 
 [[files]]
 file = "scripts/JEI.zs"
-hash = "565581198f0d3a928697faacfab162e4a2ae9e7c4a33423041176fa594f9b26e"
+hash = "e042cde7fc2e8dfe2a24899637693c52374aad90e4a2e36002d6e368f87e6f7f"
 
 [[files]]
 file = "scripts/debased.zs"
-hash = "db892c6137e1e6ace22928a0628d624845ef4da1c2afd532ff2f66af9809bee7"
+hash = "5a5ae03d134f027605c89205647f099886061a84e25aaecbef749666dd07b512"
 
 [[files]]
 file = "scripts/exu2.zs"
@@ -441,6 +466,10 @@ hash = "dca4f60e8055b21331ebe3302dd8f38439beef098ea5b9f46cdea5634c13171c"
 [[files]]
 file = "scripts/miscfixes.zs"
 hash = "8728363cff982e3d45186f5d28c5db322d183bedff4a78f74c22863c7ffd2457"
+
+[[files]]
+file = "scripts/stargate.zs"
+hash = "a4f09666c20025b9cf5ecda4b7bd3e1cf85d37af810686340da4f1148ecab2a1"
 
 [[files]]
 file = "scripts/thaumcraft_lang.zs"

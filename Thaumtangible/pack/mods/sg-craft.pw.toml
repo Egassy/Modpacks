@@ -1,0 +1,13 @@
+name = "SG Craft"
+filename = "SGCraft-1.13.2-mc1.8.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ce9d4ea6279dfa30fa40fd788671450dd36a1a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2353590
+project-id = 241583

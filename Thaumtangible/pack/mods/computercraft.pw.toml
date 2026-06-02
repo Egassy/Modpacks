@@ -1,0 +1,13 @@
+name = "ComputerCraft"
+filename = "ComputerCraft1.79.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "045e5843e95276ec19c1876de5bce851fba0233b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2291384
+project-id = 67504
