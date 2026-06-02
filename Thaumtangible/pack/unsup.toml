@@ -24,6 +24,19 @@ id = "inventorytweaks_off"
 name = "No"
 description = "Do not install Inventory Tweaks."
 
+[flavor_groups.craftingtweaks]
+name = "Crafting Tweaks"
+description = "Extra buttons for quickly clearing, rotating, balancing and splitting items in the crafting grid. Client with additional functionality on server, but not required on either."
+side = "both"
+[[flavor_groups.craftingtweaks.choices]]
+id = "craftingtweaks_on"
+name = "Yes"
+description = "Installs Crafting Tweaks."
+[[flavor_groups.craftingtweaks.choices]]
+id = "craftingtweaks_off"
+name = "No"
+description = "Do not install Crafting Tweaks."
+
 [flavor_groups.ears]
 name = "Ears"
 description = "Uses the otherwise-blank space on a modern 64x64 skin in combination with alpha layer encoding to give extra features to your player model, such as ears, wings, a custom cape, breasts, a snout and more. Backports modern skins, but breaks the texture of player head blocks. Client only. No effect (other than seeing other players Ears skins) if you do not have an Ears skin."
@@ -67,6 +80,8 @@ description = "Do not install ReAuth."
 flavors = "mousetweaks_on"
 [metafile.inventory-tweaks]
 flavors = "inventorytweaks_on"
+[metafile.crafting-tweaks]
+flavors = "craftingtweaks_on"
 [metafile.ears]
 flavors = ["ears_on"]
 [metafile.dynamic-surroundings]

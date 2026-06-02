@@ -26,7 +26,11 @@ hash = "e86301ee10ac9a788fcc518d0fde7d245a4fa1ce954be90e40a73e2e63a72038"
 
 [[files]]
 file = "config/Botania.cfg"
-hash = "097be230f3c794c00501892bec49964d31cf37c131775cc028e0885e8deb1671"
+hash = "e45713a31d8fc68ea217da61284300e63ec2efb01503ec3e642aceedcb9279a3"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "2005586a1a66b98519b13d5617dc277687cd26aff75615376b43a3bfcd3e18e4"
 
 [[files]]
 file = "config/Ding.cfg"
@@ -93,6 +97,10 @@ file = "config/Neat.cfg"
 hash = "a5e7cace2654cdd13b59de2c87faa45b34c1235f0902038dbaeeb499350007b9"
 
 [[files]]
+file = "config/SGCraft.cfg"
+hash = "d04cccb8aa4dfd8305cc95f198fc11ee9110ba140944451f26088803a5ab9c61"
+
+[[files]]
 file = "config/SchoolsMagic.cfg"
 hash = "3f531fcd6c976b81883f14c7273150ac342bf3d2f0c2c2e1bf999fcb93533860"
 
@@ -129,6 +137,10 @@ file = "config/bagginses/bagginses.cfg"
 hash = "6c2c3205af4b57ee2e4b3f1d7d2436af8a7a99f8f1eeafa242c0552af36c8e6f"
 
 [[files]]
+file = "config/buildcraft/compat.cfg"
+hash = "2df3e2b5ad9d229308189afa98ec346c4a246eca5337207fd793928f3a36d0e2"
+
+[[files]]
 file = "config/buildcraft/detailed.properties"
 hash = "85c7f60ff6f5b4f55c1c2eb85838e2a0423375a795909b6efe25b0c193ea3630"
 
@@ -145,8 +157,16 @@ file = "config/correlatedpotentialistics.cfg"
 hash = "a8ac4e3ab11ee33d59e1a1db59ad49735ef4f38e355dcc566599da8f97e89ca2"
 
 [[files]]
+file = "config/craftingtweaks.cfg"
+hash = "c70a410b6ebfa227bae42992a84b8ed20c73207db1d98c60b3089ff4b89e326d"
+
+[[files]]
 file = "config/dcMainMenu/help.txt"
 hash = "19ab6dd1c432f7d27e32f7c5aa7ee05babce6e3d3e3ced4e8f78d690bb558ac0"
+
+[[files]]
+file = "config/dsurround/dsurround.cfg"
+hash = "943c3847ec9974864f645b66f1c2e59c1dbe186f61ab3176bd9f5ba12e78fd6f"
 
 [[files]]
 file = "config/forge.cfg"
@@ -486,4 +506,4 @@ hash = "e6c58bb6d017741b9368a261c6c41b3f9be37da5a007fa2527b0cfa117871701"
 
 [[files]]
 file = "unsup.toml"
-hash = "fc0d6ac30b8787357a88964ebe18918a6b8b9b9d70256380157fec6f218a1075"
+hash = "4a2253ccb7f6afb75ae944d4bada5b53610bfd78e977739aa51de703b5c8b4e1"
