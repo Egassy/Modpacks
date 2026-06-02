@@ -1,0 +1,8 @@
+name = "tbasesconfig"
+filename = "Thaumic Bases.cfg"
+side = "both"
+
+[download]
+url = "https://github.com/Egassy/Modpacks/raw/refs/heads/main/Thaumtangible/tbasesconfig/ThaumicBases.cfg"
+hash-format = "sha256"
+hash = "f02352b5985919f8ac4d364703f0bf4da35d7a3f61c57ed90dadf0d27cb803b3"

@@ -109,10 +109,6 @@ file = "config/Thaumcraft.cfg"
 hash = "d384dd53f396979c5e4ceebb96b72d1cce0a11c067ae7e3d77e000f55ebce4bd"
 
 [[files]]
-file = "config/Thaumic Bases.cfg"
-hash = "f02352b5985919f8ac4d364703f0bf4da35d7a3f61c57ed90dadf0d27cb803b3"
-
-[[files]]
 file = "config/Waila.cfg"
 hash = "6cb8a0bcf0f32c2972305361947f1d376b70f0cce3d052b930d6e58a105a2771"
 
@@ -185,6 +181,11 @@ file = "config/splash.properties"
 hash = "6925ead7dcecefec237df0f27951ea7fc70531cdff357a452336e5a27b64db8f"
 
 [[files]]
+file = "config/tbasesconfig.pw.toml"
+hash = "0e81a214bf0cc2421371ba408664858015bd75429a6514fa58f1f47a74db2fa4"
+metafile = true
+
+[[files]]
 file = "config/thaumictinkerer.cfg"
 hash = "823214887af86efa78da96895fba4a4aff751c964d481eadb108711ccef767d5"
 
@@ -203,10 +204,6 @@ hash = "3bf374a8ecd203b21ab67443c342d56310e56cceb28c89d0a1723ef13bce270f"
 [[files]]
 file = "config/xreliquary.cfg"
 hash = "7fb3e85ba68bf48be098b0589399c5283a595e56122f64c0aa7c8c3da12b4ff3"
-
-[[files]]
-file = "config/xreliquary.cfg_20260601_023248.errored"
-hash = "939e44cb783ea09b96264f8a204731f30d247d1cbbfa32a81c2598fc30105f6d"
 
 [[files]]
 file = "mods/afraid-of-the-dark.pw.toml"
