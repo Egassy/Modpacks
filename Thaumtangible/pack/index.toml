@@ -425,6 +425,11 @@ hash = "5260a911bfec6a5ba88ebdabba4b71af84ccaa9f92823608eff932deaa454537"
 metafile = true
 
 [[files]]
+file = "mods/simpleharvest.pw.toml"
+hash = "af20c387c74ad43c9d881969524700471a44118015758d9d69c9570b93c6bf31"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "18c25506df81b27176ff6bb37a1780e844e0af56333898c2c1d10bc910db0522"
 metafile = true
