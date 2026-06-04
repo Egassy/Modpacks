@@ -50,7 +50,7 @@ hash = "32dca18a3cebaab6474d1d604017cfc2e832d0fd4a7b5922be083f7566668d77"
 
 [[files]]
 file = "config/Harvest.json"
-hash = "cb169ef5bdeb0fdcc757182a22d77c9b87c1d83fe19ec3425902661c015acaaf"
+hash = "554a001022d202a2b5c838756f3205f177256f5305c6bca17a42b45f2e3d5cf6"
 
 [[files]]
 file = "config/ImmersiveEngineering.cfg"
