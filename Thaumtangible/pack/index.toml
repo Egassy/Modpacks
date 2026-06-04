@@ -496,7 +496,7 @@ hash = "8808c9ff3a4c27c85da0e47acce3ac8b63f54e760e061ffd79da04ed98ebf099"
 
 [[files]]
 file = "scripts/miscfixes.zs"
-hash = "dc1886fc7ed9606713c217cadea6b0ccaeef983d4aa82ead649c59c73595e968"
+hash = "19907445e540be2159d81e0991c5b0bf52756cc74c7bb84edb02d47486e16183"
 
 [[files]]
 file = "scripts/stargate.zs"
