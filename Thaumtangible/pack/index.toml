@@ -492,11 +492,11 @@ hash = "4ce32969122d924fe0d0bd1d0e17f468b5f2db4227734e79e94e32f6d884aaf1"
 
 [[files]]
 file = "scripts/locfixes.zs"
-hash = "dca4f60e8055b21331ebe3302dd8f38439beef098ea5b9f46cdea5634c13171c"
+hash = "8808c9ff3a4c27c85da0e47acce3ac8b63f54e760e061ffd79da04ed98ebf099"
 
 [[files]]
 file = "scripts/miscfixes.zs"
-hash = "70a7124274819fe8a23e79e7eb3a38be29120822e4e73abfb8047eb1997300e8"
+hash = "dc1886fc7ed9606713c217cadea6b0ccaeef983d4aa82ead649c59c73595e968"
 
 [[files]]
 file = "scripts/stargate.zs"
