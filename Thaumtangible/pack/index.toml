@@ -49,6 +49,10 @@ file = "config/ExtraUtils2.cfg"
 hash = "32dca18a3cebaab6474d1d604017cfc2e832d0fd4a7b5922be083f7566668d77"
 
 [[files]]
+file = "config/Harvest.json"
+hash = "cb169ef5bdeb0fdcc757182a22d77c9b87c1d83fe19ec3425902661c015acaaf"
+
+[[files]]
 file = "config/ImmersiveEngineering.cfg"
 hash = "f18f7c47694130ad021470202205c119786fba54ea8adefb96dc0fdff27bfce2"
 
