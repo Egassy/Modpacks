@@ -488,7 +488,7 @@ hash = "e042cde7fc2e8dfe2a24899637693c52374aad90e4a2e36002d6e368f87e6f7f"
 
 [[files]]
 file = "scripts/debased.zs"
-hash = "5a5ae03d134f027605c89205647f099886061a84e25aaecbef749666dd07b512"
+hash = "370cda54dcb2aa347548ad73946c8731869748a37dd660b913c9b9ecd3fa7412"
 
 [[files]]
 file = "scripts/exu2.zs"
