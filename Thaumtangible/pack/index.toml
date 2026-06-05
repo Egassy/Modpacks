@@ -500,7 +500,7 @@ hash = "8808c9ff3a4c27c85da0e47acce3ac8b63f54e760e061ffd79da04ed98ebf099"
 
 [[files]]
 file = "scripts/miscfixes.zs"
-hash = "19907445e540be2159d81e0991c5b0bf52756cc74c7bb84edb02d47486e16183"
+hash = "be121c7004c595366bca6ade02bf3c46cf28df98db7408cc4c92ddfc0344041c"
 
 [[files]]
 file = "scripts/stargate.zs"
