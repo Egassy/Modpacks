@@ -174,7 +174,7 @@ hash = "943c3847ec9974864f645b66f1c2e59c1dbe186f61ab3176bd9f5ba12e78fd6f"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "40ecf2c5a713310bf62b3eec285a1fd8033615dc9c43a58651781f0fe8d39208"
+hash = "d4ea8f8997149e93b6bf915088ab6125d629a3f4b3e2e7a6dc9817ca07985dfd"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
